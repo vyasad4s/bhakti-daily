@@ -1,1 +1,1 @@
-# daily-bhakti
+# bhakti-daily
