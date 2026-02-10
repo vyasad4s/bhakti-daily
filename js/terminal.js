@@ -68,26 +68,49 @@ async function bootSequence() {
     bootContainer.innerHTML = '';
     
     const bootMessages = [
-        { text: '[BOOTING VEDIC KERNEL...]', delay: 400, class: 'boot' },
-        { text: '[LOADING SANKHYA.SYS...]', delay: 500, class: 'boot' },
-        { text: '[MOUNTING /CONSCIOUSNESS...]', delay: 600, class: 'boot' },
-        { text: '[STARTING VYASAD4S DAEMON...]', delay: 500, class: 'boot' },
-        { text: '[OK] BHAKTI DAILY INITIALIZED', delay: 300, class: 'success' },
-        { text: ' ', delay: 200, class: '' },
-        { text: "Type 'help' for available commands", delay: 0, class: '' },
-        { text: ' ', delay: 0, class: '' }
+        '[BOOTING VEDIC KERNEL...]',
+        '[LOADING SANKHYA.SYS...]',
+        '[MOUNTING /CONSCIOUSNESS...]',
+        '[STARTING VYASAD4S DAEMON...]',
+        '[OK] BHAKTI DAILY INITIALIZED',
+        ' ',
+        "Type 'help' for available commands",
+        ' '
     ];
     
-    for (let msg of bootMessages) {
+    // Show boot messages line by line (no typewriter)
+    for (let i = 0; i < bootMessages.length; i++) {
         const p = document.createElement('p');
-        if (msg.class) p.className = msg.class;
+        if (i === 4) p.className = 'success'; // The [OK] line
+        else if (i < 4) p.style.color = '#ff9933'; // Boot lines
+        p.textContent = bootMessages[i];
         bootContainer.appendChild(p);
-        await typeWriter(p, msg.text, 20);
-        await new Promise(resolve => setTimeout(resolve, msg.delay));
+        output.scrollTop = output.scrollHeight;
+        await new Promise(resolve => setTimeout(resolve, 150)); // Fast line-by-line
     }
     
     isAnimating = false;
     input.focus();
+}
+
+async function typeSubheader() {
+    const subtitle = document.querySelector('.subtitle');
+    const lines = [
+        'VY4S4D4S T3RM1N4L v1.0',
+        'Vedic Knowledge Compiler / Maya Exploitation Framework'
+    ];
+    
+    subtitle.innerHTML = '';
+    
+    for (let line of lines) {
+        const p = document.createElement('p');
+        subtitle.appendChild(p);
+        
+        for (let i = 0; i < line.length; i++) {
+            p.textContent += line.charAt(i);
+            await new Promise(resolve => setTimeout(resolve, 30));
+        }
+    }
 }
 
 async function executeCommand(cmd) {
@@ -184,10 +207,17 @@ async function loadVerse(date) {
     }
 }
 
-// Run boot sequence on load
+// Run on page load
 window.addEventListener('load', async () => {
+    // Type out subheader first
+    await typeSubheader();
+    await new Promise(resolve => setTimeout(resolve, 300));
+    
+    // Then boot sequence
     await bootSequence();
     await new Promise(resolve => setTimeout(resolve, 500));
+    
+    // Then load today's verse
     addOutput(`<p>&nbsp;</p>`);
     await loadVerse(getTodayDate());
 });
