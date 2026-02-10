@@ -72,7 +72,7 @@ async function bootSequence() {
         '[LOADING SANKHYA.SYS...]',
         '[MOUNTING /CONSCIOUSNESS...]',
         '[STARTING VYASAD4S DAEMON...]',
-        '[OK] BHAKTI DAILY INITIALIZED',
+        '[OK] 🏹 BHAKTI DAILY INITIALIZED',
         ' ',
         "Type 'help' for available commands",
         ' '
@@ -81,7 +81,7 @@ async function bootSequence() {
     // Show boot messages line by line (no typewriter)
     for (let i = 0; i < bootMessages.length; i++) {
         const p = document.createElement('p');
-        if (i === 4) p.className = 'success'; // The [OK] line
+        if (i === 4) p.className = 'success'; // The [OK] line with bow
         else if (i < 4) p.style.color = '#ff9933'; // Boot lines
         p.textContent = bootMessages[i];
         bootContainer.appendChild(p);
@@ -155,6 +155,10 @@ function showHelp() {
         <p><span style="color: #00ff00;">glossary</span>      - View Sanskrit glossary</p>
         <p><span style="color: #00ff00;">clear</span>         - Clear terminal</p>
         <p><span style="color: #00ff00;">about</span>         - About this terminal</p>
+        <p>&nbsp;</p>
+        <p class="verse-header">KEYBOARD SHORTCUTS:</p>
+        <p>&nbsp;</p>
+        <p><span style="color: #66d9ef;">↑/↓ arrows</span>    - Navigate command history</p>
         <p>&nbsp;</p>
     `);
 }
