@@ -165,7 +165,7 @@ async function loadVerse(date) {
     try {
         // Show loading message
         const loadingDiv = document.createElement('div');
-        loadingDiv.innerHTML = '<p style="color: #4a9eff;">[COMPILING VERSE...]</p>';
+        loadingDiv.innerHTML = '<p style="color: #ff9933;">[COMPILING VERSE...]</p>';
         output.appendChild(loadingDiv);
         
         const response = await fetch(`verses/${date}.html`);
@@ -173,12 +173,8 @@ async function loadVerse(date) {
             const html = await response.text();
             loadingDiv.remove();
             
-            // Create container for typewriter effect
-            const verseDiv = document.createElement('div');
-            output.appendChild(verseDiv);
-            
-            // Typewriter effect for the verse
-            await typeWriter(verseDiv, html, 5);
+            // Just add the HTML directly without typewriter effect on verse content
+            addOutput(html);
         } else {
             loadingDiv.remove();
             addOutput(`<p class="error">No verse found for ${date}</p><p>Vyasad4s hasn't compiled this date yet.</p>`);
