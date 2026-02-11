@@ -49,7 +49,7 @@ function addOutput(html) {
     const div = document.createElement('div');
     div.innerHTML = html;
     output.appendChild(div);
-    output.scrollTop = output.scrollHeight;
+    // output.scrollTop = output.scrollHeight;
 }
 
 async function typeWriter(element, text, speed = 30) {
