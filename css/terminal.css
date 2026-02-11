@@ -50,7 +50,7 @@ body {
     display: flex;
     flex-direction: column;
     background-color: var(--black);
-    border: 2px solid var(--saffron);
+    border: 1px solid var(--saffron);
     border-radius: 8px;
     box-shadow: 0 0 20px var(--saffron-shadow);
     overflow: hidden;
@@ -100,7 +100,7 @@ body {
     flex: 1;
     display: flex;
     flex-direction: column;
-    padding: 10px 20px;
+    padding: 10px 10px;
     overflow-y: auto;
 }
 
@@ -141,7 +141,7 @@ body {
 .verse-content {
     margin: 20px 0;
     padding: 15px;
-    border-left: 3px solid var(--saffron);
+    border-left: 2px solid var(--saffron);
     background-color: var(--saffron-bg);
     font-size: 14px;
 }
@@ -240,7 +240,7 @@ body {
    ============================================================================ */
 
 ::-webkit-scrollbar {
-    width: 8px;
+    width: 4px;
 }
 
 ::-webkit-scrollbar-track {
@@ -261,17 +261,17 @@ body {
    ============================================================================ */
 
 @media (max-width: 768px) {
+    body {
+        padding: 10px;
+    }
+    
     .terminal {
-        width: 95%;
-        height: 90vh;
+        width: 100%;
+        height: 95vh;
     }
     
     .ascii-art {
         font-size: 5px;
-    }
-    
-    .output {
-        font-size: 12px;
     }
     
     .terminal-header {
@@ -279,6 +279,6 @@ body {
     }
     
     .terminal-body {
-        padding: 15px;
+        padding: 10px 15px 15px 15px;
     }
 }
