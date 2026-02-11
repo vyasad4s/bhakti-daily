@@ -1,4 +1,77 @@
 {
-  "terms": [],
-  "lastUpdated": "2026-02-09"
+  "lastUpdated": "2026-02-11",
+  "terms": [
+    {
+      "term": "Ananyāḥ",
+      "transliteration": "ananyāḥ",
+      "type": "adjective",
+      "definition": "Without other, exclusive; undivided attention. The mind not fragmented between desires. Essential for exclusive devotion (ananya-bhakti).",
+      "roots": "from *an-* (without) + *anya* (other)",
+      "references": ["BG 9.22"],
+      "themes": ["bhakti", "concentration", "exclusive-devotion"]
+    },
+    {
+      "term": "Paryupāsate",
+      "transliteration": "paryupāsate",
+      "type": "verb",
+      "definition": "To serve with devotion, to worship completely. From *pari* (completely, around) + *upāsana* (sitting nearby, residing in). Implies complete surrounding presence in service.",
+      "roots": "from *pari* + *upāsana*",
+      "references": ["BG 9.22"],
+      "themes": ["bhakti", "service", "worship"]
+    },
+    {
+      "term": "Yoga-kṣema",
+      "transliteration": "yoga-kṣema",
+      "type": "noun",
+      "definition": "Yoga = attainment; kṣema = preservation. Combined: the complete care of the devotee's welfare. The Lord supplies what is lacking and protects what is possessed.",
+      "roots": "*yoga* (union/attainment) + *kṣema* (peace/protection)",
+      "references": ["BG 9.22"],
+      "themes": ["divine-protection", "preservation", "welfare"]
+    },
+    {
+      "term": "Vahāmi",
+      "transliteration": "vahāmi",
+      "type": "verb",
+      "definition": "I carry, I bear. The Lord acts as the personal porter of the devotee's needs. Not merely permission, but active carrying of burdens.",
+      "roots": "from *vah* (to carry, bear)",
+      "references": ["BG 9.22"],
+      "themes": ["divine-care", "service", "burden"]
+    },
+    {
+      "term": "Yatataḥ",
+      "transliteration": "yatataḥ",
+      "type": "participle",
+      "definition": "Endeavoring, struggling; one who makes effort toward self-control. Active striving practitioner. The one who attempts to command the senses.",
+      "roots": "from *yat* (to endeavor, strive)",
+      "references": ["BG 2.60"],
+      "themes": ["effort", "practice", "self-control"]
+    },
+    {
+      "term": "Vipaścitaḥ",
+      "transliteration": "vipaścitaḥ",
+      "type": "adjective",
+      "definition": "Possessed of discrimination, wise, discerning. From *vi* (distinct) + *paśya* (seeing). One who sees clearly, discriminates between self and not-self.",
+      "roots": "from *vi* + *paśya* (to see)",
+      "references": ["BG 2.60"],
+      "themes": ["discrimination", "wisdom", "clarity"]
+    },
+    {
+      "term": "Pramāthīni",
+      "transliteration": "pramāthīni",
+      "type": "adjective",
+      "definition": "Agitating, turbulent, violently active. From *pra* + *math* (to churn violently). The impetuous nature of the senses that drags the mind against its will.",
+      "roots": "from *pra* + *math* (to churn)",
+      "references": ["BG 2.60"],
+      "themes": ["senses", "turbulence", "agitation"]
+    },
+    {
+      "term": "Prasabham",
+      "transliteration": "prasabham",
+      "type": "adverb",
+      "definition": "Forcibly, violently, by force. The manner in which senses carry away the mind—against its will, despite discrimination.",
+      "roots": "from *pra* + *sah* (to overcome)",
+      "references": ["BG 2.60"],
+      "themes": ["force", "senses", "violence"]
+    }
+  ]
 }
