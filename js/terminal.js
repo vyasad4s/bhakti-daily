@@ -142,13 +142,14 @@ async function executeCommand(cmd) {
                 addOutput(`<p class="error">Command not found: ${command}</p><p>Type 'help' for available commands</p>`);
             }
     }
+    // Scroll to show command output
+output.scrollTop = output.scrollHeight;
 }
 
 function showHelp() {
     addOutput(`
         <p>&nbsp;</p>
         <p class="verse-header">AVAILABLE COMMANDS:</p>
-        <p>&nbsp;</p>
         <p><span style="color: #00ff00;">help</span>           - Show this help message</p>
         <p><span style="color: #00ff00;">today</span>          - Display today's verse</p>
         <p><span style="color: #00ff00;">YYYY-MM-DD</span>    - Display verse for specific date</p>
@@ -157,7 +158,6 @@ function showHelp() {
         <p><span style="color: #00ff00;">about</span>         - About this terminal</p>
         <p>&nbsp;</p>
         <p class="verse-header">KEYBOARD SHORTCUTS:</p>
-        <p>&nbsp;</p>
         <p><span style="color: #66d9ef;">↑/↓ arrows</span>    - Navigate command history</p>
         <p>&nbsp;</p>
     `);
