@@ -30,6 +30,7 @@
 
 body {
     background-color: var(--black);
+    overflow: hidden;
     font-family: 'Courier New', Courier, monospace;
     color: var(--white);
     display: flex;
@@ -113,7 +114,7 @@ body {
 
 .output p {
     margin: 5px 0;
-    line-height: 1.5;
+    line-height: 1.2s;
 }
 
 /* ============================================================================
@@ -138,9 +139,9 @@ body {
    ============================================================================ */
 
 .verse-content {
-    margin: 20px 0;
+    margin: 0;
     padding: 15px;
-    border-left: 2px solid var(--saffron);
+    border-left: 1px solid var(--saffron);
     background-color: var(--saffron-bg);
     font-size: 12px;
 }
@@ -162,14 +163,14 @@ body {
 .translation {
     color: var(--white);
     margin: 10px 0;
-    line-height: 1.6;
+    line-height: 1.2;
     font-size: 12px;
 }
 
 .commentary {
     color: var(--white);
     margin: 15px 0;
-    line-height: 1.6;
+    line-height: 1.2;
     font-size: 12px;
 }
 
