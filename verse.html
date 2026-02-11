@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>VYASAD4S TERMINAL :: Daily Verse</title>
+  <link rel="stylesheet" href="css/terminal.css">
+  <style>
+    .verse-viewer-header {
+      color: #ff9933;
+      margin: 1em 0;
+      padding-bottom: 0.5em;
+      border-bottom: 1px dashed #ff9933;
+    }
+    .navigation {
+      display: flex;
+      justify-content: space-between;
+      margin: 1em 0;
+      padding: 1em;
+      border: 1px solid #00ff00;
+    }
+    .navigation a {
+      color: #00ff00;
+    }
+    .navigation .date-display {
+      color: #ff9933;
+    }
+    .error-message {
+      color: #ff0000;
+      border: 1px solid #ff0000;
+      padding: 1em;
+      margin: 1em 0;
+    }
+    .loading {
+      color: #ff9933;
+    }
+    .verse-content {
+      margin: 1em 0;
+    }
+  </style>
+</head>
+<body>
+  <div class="terminal">
+    <div class="terminal-header">
+      <pre class="ascii-art">
+ ██╗ ██╗██╗ ██╗ █████╗ ███████╗ █████╗ ██████╗ █████╗ ███████╗ ████████╗███████╗██████╗ ███╗ ███╗██╗███╗ ██╗ █████╗ ██╗
+ ██║ ██║╚██╗ ██╔╝██╔══██╗██╔════╝██╔══██╗██╔══██╗██╔══██╗██╔════╝ ╚══██╔══╝██╔════╝██╔══██╗████╗ ████║██║████╗ ██║██╔══██╗██║
+ ██║ ██║ ╚████╔╝ ███████║███████╗███████║██║ ██║███████║███████╗ ██║ █████╗ ██████╔╝██╔████╔██║██║██╔██╗ ██║███████║██║
+ ╚██╗ ██╔╝ ╚██╔╝ ██╔══██║╚════██║██╔══██║██║ ██║██╔══██║╚════██║ ██║ ██╔══╝ ██╔══██╗██║╚██╔╝██║██║██║╚██╗██║██╔══██║██║
+  ╚████╔╝ ██║ ██║ ██║███████║██║ ██║██████╔╝██║ ██║███████║ ██║ ███████╗██║ ██║██║ ╚═╝ ██║██║██║ ╚████║██║ ██║███████╗
+   ╚═══╝ ╚═╝ ╚═╝ ╚═╝╚══════╝╚═╝ ╚═╝╚═════╝ ╚═╝ ╚═╝╚══════╝ ╚═╝ ╚══════╝╚═╝ ╚═╝╚═╝     ╚═╝╚═╝╚═╝  ╚═══╝╚═╝ ╚═╝╚══════╝
+      </pre>
+      <div class="separator">================================================================================</div>
+      <div class="subtitle">
+        <p>VY4S4D4S T3RM1N4L v1.0</p>
+        <p>Vedic Knowledge Compiler / Maya Exploitation Framework</p>
+      </div>
+      <div class="separator">================================================================================</div>
+    </div>
+    
+    <div class="terminal-body">
+      <div class="output" id="output">
+        <div class="verse-viewer-header">
+          <strong>>>> DAILY VERSE VIEWER <<<</strong>
+        </div>
+        
+        <div class="navigation">
+          <a href="javascript:void(0)" onclick="navigate(-1)" id="prev-link">« Previous Day</a>
+          <span class="date-display" id="date-display"></span>
+          <a href="javascript:void(0)" onclick="navigate(1)" id="next-link">Next Day »</a>
+        </div>
+        
+        <div id="verse-container">
+          <p class="loading">[COMPILING VERSE DATA...]</p>
+        </div>
+        
+        <div class="navigation" style="margin-top: 2em;">
+          <a href="index.html">↳ Return to Terminal</a>
+          <a href="cosmic.html">↳ Cosmic Archive</a>
+          <a href="glossary.html">↳ Sanskrit Glossary</a>
+        </div>
+        
+        <p style="color: #666; font-size: 0.8em; margin-top: 2em; border-top: 1px dashed #333; padding-top: 1em;">
+          [Direct verse viewer | Fragment loader active | vyasad4s@vedic-kernel:~$]
+        </p>
+      </div>
+    </div>
+  </div>
+
+  <script>
+    function getQueryParam(name) {
+      const urlParams = new URLSearchParams(window.location.search);
+      return urlParams.get(name);
+    }
+    
+    function getTodayDate() {
+      const today = new Date();
+      const year = today.getFullYear();
+      const month = String(today.getMonth() + 1).padStart(2, '0');
+      const day = String(today.getDate()).padStart(2, '0');
+      return `${year}-${month}-${day}`;
+    }
+    
+    function formatDisplayDate(dateStr) {
+      const date = new Date(dateStr);
+      return date.toLocaleDateString('en-US', { 
+        weekday: 'long', 
+        year: 'numeric', 
+        month: 'long', 
+        day: 'numeric' 
+      });
+    }
+    
+    function navigate(days) {
+      const currentDate = new Date(dateParam + 'T00:00:00');
+      currentDate.setDate(currentDate.getDate() + days);
+      const year = currentDate.getFullYear();
+      const month = String(currentDate.getMonth() + 1).padStart(2, '0');
+      const day = String(currentDate.getDate()).padStart(2, '0');
+      const newDate = `${year}-${month}-${day}`;
+      window.location.href = `verse.html?date=${newDate}`;
+    }
+    
+    const dateParam = getQueryParam('date') || getTodayDate();
+    document.getElementById('date-display').textContent = formatDisplayDate(dateParam);
+    
+    // Load verse content
+    fetch(`verses/${dateParam}.html`)
+      .then(response => {
+        if (!response.ok) {
+          throw new Error(`Verse not found for ${dateParam}`);
+        }
+        return response.text();
+      })
+      .then(html => {
+        document.getElementById('verse-container').innerHTML = html;
+      })
+      .catch(error => {
+        document.getElementById('verse-container').innerHTML = `
+          <div class="error-message">
+            <p>[ERROR] ${error.message}</p>
+            <p>Vyasad4s has not compiled this date yet.</p>
+            <p style="margin-top: 1em;"><a href="index.html" style="color: #00ff00;">Return to Terminal</a></p>
+          </div>
+        `;
+      });
+    
+    // Check navigation availability
+    const today = getTodayDate();
+    if (dateParam === today) {
+      document.getElementById('next-link').style.visibility = 'hidden';
+    }
+  </script>
+</body>
+</html>
