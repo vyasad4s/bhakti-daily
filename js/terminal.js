@@ -167,7 +167,6 @@ function showAbout() {
     addOutput(`
         <p>&nbsp;</p>
         <p class="verse-header">ABOUT VYASAD4S TERMINAL</p>
-        <p>&nbsp;</p>
         <p>Daily verses from Bhagavad Gita As It Is and Srimad Bhagavatam,</p>
         <p>with connections to Patanjali's Yoga Sutras.</p>
         <p>&nbsp;</p>
