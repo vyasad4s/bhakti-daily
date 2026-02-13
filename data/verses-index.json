@@ -1,4 +1,113 @@
 {
-  "verses": [],
-  "lastUpdated": "2026-02-09"
+  "verses": [
+    {
+      "date": "2026-02-12",
+      "source": "BG 2.61",
+      "chapter": 2,
+      "verse": 61,
+      "text": "Bhagavad Gita",
+      "tithi": "Ekādaśī",
+      "nakshatra": "Mūla",
+      "yoga": "Vajra",
+      "themes": [
+        "sense-control",
+        "established-wisdom",
+        "pratyahara",
+        "devotion",
+        "rootedness"
+      ],
+      "tags": [
+        "#ekadasi",
+        "#sensecontrol",
+        "#pratyahara",
+        "#mula",
+        "#viveka",
+        "#establishedwisdom"
+      ],
+      "yogaSutraConnection": "YS 1.2",
+      "sankhyaConcepts": [
+        "purusha-consciousness",
+        "prakriti-restraint",
+        "pratiṣṭhā-foundation"
+      ],
+      "keyTerms": [
+        "saṁyamya",
+        "yukta",
+        "mat-paraḥ",
+        "pratiṣṭhitā"
+      ]
+    },
+    {
+      "date": "2026-02-11",
+      "source": "BG 2.60",
+      "chapter": 2,
+      "verse": 60,
+      "text": "Bhagavad Gita",
+      "tithi": "Daśamī",
+      "nakshatra": "Jyeṣṭhā",
+      "yoga": "Harṣaṇa",
+      "themes": [
+        "sense-struggle",
+        "pratyahara",
+        "inner-mastery",
+        "discrimination",
+        "authority"
+      ],
+      "tags": [
+        "#sensecontrol",
+        "#pratyahara",
+        "#indriyas",
+        "#innermastery",
+        "#bhagavadgita"
+      ],
+      "yogaSutraConnection": "YS 2.54",
+      "sankhyaConcepts": [
+        "prakriti-power",
+        "sense-momentum",
+        "indriya-mastery"
+      ],
+      "keyTerms": [
+        "yatataḥ",
+        "vipaścitaḥ",
+        "pramāthīni",
+        "prasabham"
+      ]
+    },
+    {
+      "date": "2026-02-10",
+      "source": "BG 9.22",
+      "chapter": 9,
+      "verse": 22,
+      "text": "Bhagavad Gita",
+      "tithi": "Navamī",
+      "nakshatra": "Anurādhā",
+      "yoga": "Harṣaṇa",
+      "themes": [
+        "exclusive-devotion",
+        "divine-protection",
+        "single-pointed-attention",
+        "surrender",
+        "bhakti"
+      ],
+      "tags": [
+        "#ananyabhakti",
+        "#ninthchapter",
+        "#divineprotection",
+        "#singlepointed",
+        "#bhagavadgita"
+      ],
+      "yogaSutraConnection": "YS 1.23",
+      "sankhyaConcepts": [
+        "ishvara-praṇidhāna",
+        "undivided-consciousness"
+      ],
+      "keyTerms": [
+        "ananyāḥ",
+        "paryupāsate",
+        "yoga-kṣema",
+        "vahāmi"
+      ]
+    }
+  ],
+  "lastUpdated": "2026-02-12"
 }

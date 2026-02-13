@@ -29,6 +29,43 @@
     }
     .nav-links { margin-top: 2em; padding-top: 1em; border-top: 1px dashed #333; }
     .nav-links a { color: #00ff00; margin-right: 1em; }
+    .command-output { margin: 1em 0; }
+    .input-line {
+      display: flex;
+      align-items: center;
+      position: relative;
+      padding: 15px;
+      margin-top: 10px;
+      background-color: rgba(102, 217, 239, 0.05);
+      border: 1px solid rgba(255, 153, 51, 0.2);
+      border-radius: 4px;
+    }
+    .prompt {
+      color: #00ff00;
+      margin-right: 5px;
+      white-space: nowrap;
+      font-size: 14px;
+    }
+    .command-input {
+      background: transparent;
+      border: none;
+      color: #e8e8e8;
+      font-family: 'Courier New', Courier, monospace;
+      font-size: 14px;
+      outline: none;
+      flex: 1;
+      caret-color: #ff9933;
+    }
+    .cursor {
+      color: #ff9933;
+      animation: blink 1s infinite;
+      margin-left: 2px;
+      font-size: 14px;
+    }
+    @keyframes blink {
+      0%, 49% { opacity: 1; }
+      50%, 100% { opacity: 0; }
+    }
   </style>
 </head>
 <body>
@@ -41,13 +78,13 @@
 ▒  ▒▒▒▒  ▒▒  ▒▒▒▒  ▒▒  ▒▒▒▒▒▒▒▒   ▒▒   ▒▒▒▒▒  ▒▒▒▒▒  ▒▒▒▒  ▒
 ▓  ▓▓▓▓▓▓▓▓  ▓▓▓▓  ▓▓▓      ▓▓▓        ▓▓▓▓▓  ▓▓▓▓▓  ▓▓▓▓▓▓▓
 █  ████  ██  ████  ████████  ██  █  █  █████  █████  ████  █
-██      ████      ████      ███  ████  ██        ███      ██ 
+██      ████      ████      ███  ████  ██        ███      ██   
 
 ░░      ░░░       ░░░░      ░░░  ░░░░  ░░        ░░  ░░░░  ░░        ░
 ▒  ▒▒▒▒  ▒▒  ▒▒▒▒  ▒▒  ▒▒▒▒  ▒▒  ▒▒▒▒  ▒▒▒▒▒  ▒▒▒▒▒  ▒▒▒▒  ▒▒  ▒▒▒▒▒▒▒
 ▓  ▓▓▓▓  ▓▓       ▓▓▓  ▓▓▓▓▓▓▓▓        ▓▓▓▓▓  ▓▓▓▓▓▓  ▓▓  ▓▓▓      ▓▓▓
 █        ██  ███  ███  ████  ██  ████  █████  ███████    ████  ███████
-█  ████  ██  ████  ███      ███  ████  ██        █████  █████        █
+█  ████  ██  ████  ███      ███  ████  ██        █████  █████        █                                                     
           </pre>
           <div class="separator">================================================</div>
           <div class="subtitle">
@@ -58,14 +95,14 @@
         </div>
         
         <pre class="ascii-box" style="color: #ff9933;">
-╔════════════════════════════════════════════════════════════════╗
-║ COSMIC KERNEL logs/                                            ║
-║ Archive of daily astrological data & verse selection criteria  ║
-╚════════════════════════════════════════════════════════════════╝</pre>
+════════════════════════════════════════════════
+COSMIC KERNEL logs/                                           
+Archive of daily astrological data & verse selection criteria  
+════════════════════════════════════════════════</pre>
         
         <div class="today-highlight">
           <p style="color: #ff9933; margin-bottom: 0.5em;">>>> TODAY | February 13, 2026</p>
-          <p><span style="color: #00aa00;">Tithi:</span> Ekādaśī | <span style="color: #00aa00;">Nakṣatra:</span> Mūla | <span style="color: #00aa00;">Yoga:</span> Vajra</p>
+          <p><span style="color: #00aa00;">Tithi:</span> Dvādaśī | <span style="color: #00aa00;">Nakṣatra:</span> Pūrvāṣāḍhā | <span style="color: #00aa00;">Yoga:</span> Siddha</p>
           <p style="margin-top: 0.5em;">
             <a href="c0sm1c.html?date=2026-02-13" style="color: #00ff00;">[View Full Cosmic Data]</a>
             <a href="verse.html?date=2026-02-13" style="color: #ff9933;">[View Verse]</a>
@@ -75,12 +112,12 @@
         <pre class="divider" style="color: #666; margin: 1.5em 0;">
 >>> ARCHIVED ENTRIES <<<</pre>
         
-        <ul class="date-list">
+        <ul class="date-list" id="date-list">
           <li>
             <span style="color: #ff9933;">2026-02-13</span>
             <a href="c0sm1c.html?date=2026-02-13">[cosmic]</a>
             <a href="verse.html?date=2026-02-13" class="verse-link">[verse]</a>
-            <span style="color: #666;">Mūla | Ekādaśī | BG 2.62</span>
+            <span style="color: #666;">Pūrvāṣāḍhā | Dvādaśī | BG 2.62</span>
           </li>
           <li>
             <span style="color: #ff9933;">2026-02-12</span>
@@ -102,6 +139,8 @@
           </li>
         </ul>
         
+        <div id="command-output" class="command-output"></div>
+        
         <div class="nav-links">
           <p>
             <a href="index.html">↳ Return to Terminal</a>
@@ -109,11 +148,236 @@
           </p>
           <p style="color: #666; font-size: 0.8em; margin-top: 2em;">
             [This archive is not indexed in main navigation.]<br>
-            [Data source: prokerala.com panchāṅga | vyasad4s@vedic-kernel:~$ find /cosmic -name "*.html" | sort]
+            [Data source: prokerola.com panchāṅga | vyasad4s@vedic-kernel:~$ find /cosmic -name "*.html" | sort]<br>
+            <span style="color: #ff9933;">Type 'help' for meta-dimension commands...</span>
           </p>
         </div>
       </div>
+      
+      <div class="input-line">
+        <span class="prompt">vyasad4s@cosmic-archive:~$ </span>
+        <input type="text" id="command-input" class="command-input" autofocus autocomplete="off" spellcheck="false">
+        <span class="cursor">█</span>
+      </div>
     </div>
   </div>
+
+  <script>
+    const output = document.getElementById('command-output');
+    const input = document.getElementById('command-input');
+    
+    // Focus input on click anywhere
+    document.addEventListener('click', () => input.focus());
+    
+    // Get today's date
+    function getTodayDate() {
+      const today = new Date();
+      const year = today.getFullYear();
+      const month = String(today.getMonth() + 1).padStart(2, '0');
+      const day = String(today.getDate()).padStart(2, '0');
+      return `${year}-${month}-${day}`;
+    }
+    
+    // Get all dates from archive list
+    function getAllDates() {
+      const listItems = document.querySelectorAll('#date-list li');
+      const dates = [];
+      listItems.forEach(li => {
+        const dateSpan = li.querySelector('span[style*="color: #ff9933"]');
+        if (dateSpan) dates.push(dateSpan.textContent.trim());
+      });
+      return dates;
+    }
+    
+    // Add output
+    function addOutput(html) {
+      const div = document.createElement('div');
+      div.innerHTML = html;
+      output.appendChild(div);
+      output.scrollIntoView({ behavior: 'smooth', block: 'end' });
+    }
+    
+    // Handle commands
+    input.addEventListener('keydown', async (e) => {
+      if (e.key === 'Enter') {
+        const command = input.value.trim().toLowerCase();
+        if (command) {
+          addOutput(`<p><span class="prompt">vyasad4s@cosmic-archive:~$ </span>${command}</p>`);
+          await executeCommand(command);
+          input.value = '';
+        }
+      }
+    });
+    
+    async function executeCommand(cmd) {
+      const today = getTodayDate();
+      const dates = getAllDates();
+      
+      switch(cmd) {
+        case 'help':
+          addOutput(`
+            <p>&nbsp;</p>
+            <p style="color: #ff9933;">>>> META-DIMENSION COMMANDS <<<</p>
+            <p>&nbsp;</p>
+            <p><span style="color: #00ff00;">moon</span>        - Current moon phase and sign</p>
+            <p><span style="color: #00ff00;">rahu</span>        - Today's Rāhu Kāla danger zone</p>
+            <p><span style="color: #00ff00;">tithi</span>       - Current tithi</p>
+            <p><span style="color: #00ff00;">nakshatra</span>   - Current nakshatra</p>
+            <p><span style="color: #00ff00;">random</span>      - Load random verse from archive</p>
+            <p><span style="color: #00ff00;">latest</span>      - Show 3 most recent entries</p>
+            <p><span style="color: #00ff00;">whoami</span>      - Identity inquiry</p>
+            <p><span style="color: #00ff00;">sudo meditate</span> - Enter samādhi</p>
+            <p><span style="color: #00ff00;">ps aux</span>      - List running processes</p>
+            <p><span style="color: #00ff00;">chmod 777 /heart</span> - Open heart to all beings</p>
+            <p><span style="color: #00ff00;">clear</span>       - Clear output</p>
+            <p>&nbsp;</p>
+          `);
+          break;
+          
+        case 'moon':
+          addOutput(`
+            <p>&nbsp;</p>
+            <p style="color: #ff9933;">[LUNAR STATUS - ${today}]</p>
+            <p>Moon: <span style="color: #ff6600;">Vṛścika</span> (Scorpio) → Dhanu (transition)</p>
+            <p>Phase: Waning (Krishna Paksha)</p>
+            <p>Influence: Piercing insight, transformation, depth</p>
+            <p>&nbsp;</p>
+          `);
+          break;
+          
+        case 'rahu':
+          addOutput(`
+            <p>&nbsp;</p>
+            <p style="color: #ff0000;">[⚠ RĀHU KĀLA ALERT ⚠]</p>
+            <p>DANGER ZONE: 12:41 PM – 02:04 PM EST</p>
+            <p>Avoid: New initiations, major decisions, travel</p>
+            <p>Favorable: Contemplation, study, pratyāhāra practice</p>
+            <p>&nbsp;</p>
+          `);
+          break;
+          
+        case 'tithi':
+          addOutput(`
+            <p>&nbsp;</p>
+            <p style="color: #ff9933;">TITHI: Dvādaśī (12th day)</p>
+            <p>Energy: Completion, culmination before renewal</p>
+            <p>Deity: Viṣṇu</p>
+            <p>Quality: Jaya (victory) - favorable for completing tasks</p>
+            <p>&nbsp;</p>
+          `);
+          break;
+          
+        case 'nakshatra':
+        case 'nakṣatra':
+          addOutput(`
+            <p>&nbsp;</p>
+            <p style="color: #00ff00;">NAKṢATRA: Pūrvāṣāḍhā</p>
+            <p>Deity: Apas (Waters) - purification and invincibility</p>
+            <p>Symbol: Elephant tusk, fan</p>
+            <p>Quality: Invincible strength through devotion</p>
+            <p>&nbsp;</p>
+          `);
+          break;
+          
+        case 'random':
+          if (dates.length > 0) {
+            const randomDate = dates[Math.floor(Math.random() * dates.length)];
+            addOutput(`
+              <p>&nbsp;</p>
+              <p style="color: #66d9ef;">Prarabdha karma brings you to ${randomDate}...</p>
+              <p>Redirecting in 2 seconds...</p>
+              <p>&nbsp;</p>
+            `);
+            setTimeout(() => {
+              window.location.href = `verse.html?date=${randomDate}`;
+            }, 2000);
+          } else {
+            addOutput(`<p style="color: #ff0000;">Error: Archive empty</p>`);
+          }
+          break;
+          
+        case 'latest':
+          addOutput(`
+            <p>&nbsp;</p>
+            <p style="color: #ff9933;">>>> 3 MOST RECENT ENTRIES <<<</p>
+            <p>&nbsp;</p>
+            <p><span style="color: #ff9933;">2026-02-13</span> | <a href="verse.html?date=2026-02-13" style="color: #00ff00;">BG 2.62</a> | Pūrvāṣāḍhā, Dvādaśī</p>
+            <p><span style="color: #ff9933;">2026-02-12</span> | <a href="verse.html?date=2026-02-12" style="color: #00ff00;">BG 2.61</a> | Mūla, Ekādaśī</p>
+            <p><span style="color: #ff9933;">2026-02-11</span> | <a href="verse.html?date=2026-02-11" style="color: #00ff00;">BG 2.60</a> | Jyeṣṭhā, Daśamī</p>
+            <p>&nbsp;</p>
+          `);
+          break;
+          
+        case 'whoami':
+          addOutput(`
+            <p>&nbsp;</p>
+            <p style="color: #66d9ef;">You are not the body.</p>
+            <p>You are not the mind.</p>
+            <p>You are <em>puruṣa</em> — pure consciousness,</p>
+            <p>the eternal witness observing prakṛti's dance.</p>
+            <p>&nbsp;</p>
+            <p style="color: #00ff00;">tat tvam asi — thou art that</p>
+            <p>&nbsp;</p>
+          `);
+          break;
+          
+        case 'sudo meditate':
+          addOutput(`
+            <p>&nbsp;</p>
+            <p>[sudo] password for seeker: <span style="color: #666;">••••••••</span></p>
+            <p>&nbsp;</p>
+            <p style="color: #66d9ef;">Entering samādhi...</p>
+            <p>Withdrawing senses from objects...</p>
+            <p>Stabilizing in witnessing awareness...</p>
+            <p>Citta-vṛtti-nirodhaḥ active...</p>
+            <p>&nbsp;</p>
+            <p style="color: #00ff00;">🕉️  Om śānti śānti śāntiḥ  🕉️</p>
+            <p>&nbsp;</p>
+          `);
+          break;
+          
+        case 'ps aux':
+          addOutput(`
+            <p>&nbsp;</p>
+            <p style="color: #ff9933;">USER    PID   %CPU  %MEM  COMMAND</p>
+            <p>ego     101   45.2  30.1  /bin/identifying</p>
+            <p>manas   102   32.1  25.3  /usr/bin/desiring</p>
+            <p>chitta  103   18.4  20.2  /lib/remembering_past</p>
+            <p>buddhi  104   15.0  15.0  /opt/discriminating</p>
+            <p>ahamkara 105  12.3  9.4   /var/run/i-making</p>
+            <p>&nbsp;</p>
+            <p style="color: #66d9ef;">Kill which process? (Hint: all of them)</p>
+            <p>&nbsp;</p>
+          `);
+          break;
+          
+        case 'chmod 777 /heart':
+          addOutput(`
+            <p>&nbsp;</p>
+            <p style="color: #00ff00;">Permissions changed: /heart</p>
+            <p>Owner: read, write, execute</p>
+            <p>Group: read, write, execute</p>
+            <p>Others: read, write, execute</p>
+            <p>&nbsp;</p>
+            <p style="color: #ff9933;">All beings granted access.</p>
+            <p>Compassion.exe now running...</p>
+            <p>Maitri protocol active.</p>
+            <p>&nbsp;</p>
+          `);
+          break;
+          
+        case 'clear':
+          output.innerHTML = '';
+          break;
+          
+        default:
+          addOutput(`
+            <p style="color: #ff0000;">Command not found: ${cmd}</p>
+            <p>Type 'help' for available commands</p>
+            <p>&nbsp;</p>
+          `);
+      }
+    }
+  </script>
 </body>
 </html>

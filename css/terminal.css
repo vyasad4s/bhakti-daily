@@ -220,7 +220,7 @@ body {
     font-size: 12px;
     outline: none;
     flex: 1;
-    caret-color: transparent;
+    caret-color: #ff9933;
 }
 
 .cursor {
