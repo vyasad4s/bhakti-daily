@@ -1,6 +1,21 @@
 {
   "verses": [
     {
+      "date": "2026-02-15",
+      "source": "BG 2.64",
+      "chapter": 2,
+      "verse": 64,
+      "text": "Bhagavad Gita",
+      "tithi": "Caturdaśī",
+      "nakshatra": "Śravaṇa",
+      "yoga": "Variāṇa",
+      "themes": [ "freedom", "prasada", "attachment", "aversion", "liberation", "mahashivaratri" ],
+      "tags": [ "#chaturdashi", "#mahashivaratri", "#prasada", "#freedom", "#raga", "#dvesa", "#vimukta" ],
+      "yogaSutraConnection": "YS 2.1",
+      "sankhyaConcepts": [ "rāga-dveṣa-vimukta", "ātma-vaśya", "prasāda-reception" ],
+      "keyTerms": [ "rāga", "dveṣa", "vimukta", "ātma-vaśya", "prasāda" ]
+    },
+    {
       "date": "2026-02-14",
       "source": "BG 2.63",
       "chapter": 2,
@@ -76,5 +91,5 @@
       "keyTerms": [ "ananyāḥ", "paryupāsate", "yoga-kṣema", "vahāmi" ]
     }
   ],
-  "lastUpdated": "2026-02-14"
+  "lastUpdated": "2026-02-15"
 }
