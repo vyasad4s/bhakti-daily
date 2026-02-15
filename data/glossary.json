@@ -1,77 +1,381 @@
 {
-  "lastUpdated": "2026-02-11",
+  "lastUpdated": "2026-02-15",
   "terms": [
     {
-      "term": "Ananyāḥ",
-      "transliteration": "ananyāḥ",
+      "term": "Anany\u0101\u1e25",
+      "transliteration": "anany\u0101\u1e25",
       "type": "adjective",
       "definition": "Without other, exclusive; undivided attention. The mind not fragmented between desires. Essential for exclusive devotion (ananya-bhakti).",
       "roots": "from *an-* (without) + *anya* (other)",
-      "references": ["BG 9.22"],
-      "themes": ["bhakti", "concentration", "exclusive-devotion"]
+      "references": [
+        "BG 9.22"
+      ],
+      "themes": [
+        "bhakti",
+        "concentration",
+        "exclusive-devotion"
+      ]
     },
     {
-      "term": "Paryupāsate",
-      "transliteration": "paryupāsate",
+      "term": "Paryup\u0101sate",
+      "transliteration": "paryup\u0101sate",
       "type": "verb",
-      "definition": "To serve with devotion, to worship completely. From *pari* (completely, around) + *upāsana* (sitting nearby, residing in). Implies complete surrounding presence in service.",
-      "roots": "from *pari* + *upāsana*",
-      "references": ["BG 9.22"],
-      "themes": ["bhakti", "service", "worship"]
+      "definition": "To serve with devotion, to worship completely. From *pari* (completely, around) + *up\u0101sana* (sitting nearby, residing in). Implies complete surrounding presence in service.",
+      "roots": "from *pari* + *up\u0101sana*",
+      "references": [
+        "BG 9.22"
+      ],
+      "themes": [
+        "bhakti",
+        "service",
+        "worship"
+      ]
     },
     {
-      "term": "Yoga-kṣema",
-      "transliteration": "yoga-kṣema",
+      "term": "Yoga-k\u1e63ema",
+      "transliteration": "yoga-k\u1e63ema",
       "type": "noun",
-      "definition": "Yoga = attainment; kṣema = preservation. Combined: the complete care of the devotee's welfare. The Lord supplies what is lacking and protects what is possessed.",
-      "roots": "*yoga* (union/attainment) + *kṣema* (peace/protection)",
-      "references": ["BG 9.22"],
-      "themes": ["divine-protection", "preservation", "welfare"]
+      "definition": "Yoga = attainment; k\u1e63ema = preservation. Combined: the complete care of the devotee's welfare. The Lord supplies what is lacking and protects what is possessed.",
+      "roots": "*yoga* (union/attainment) + *k\u1e63ema* (peace/protection)",
+      "references": [
+        "BG 9.22"
+      ],
+      "themes": [
+        "divine-protection",
+        "preservation",
+        "welfare"
+      ]
     },
     {
-      "term": "Vahāmi",
-      "transliteration": "vahāmi",
+      "term": "Vah\u0101mi",
+      "transliteration": "vah\u0101mi",
       "type": "verb",
       "definition": "I carry, I bear. The Lord acts as the personal porter of the devotee's needs. Not merely permission, but active carrying of burdens.",
       "roots": "from *vah* (to carry, bear)",
-      "references": ["BG 9.22"],
-      "themes": ["divine-care", "service", "burden"]
+      "references": [
+        "BG 9.22"
+      ],
+      "themes": [
+        "divine-care",
+        "service",
+        "burden"
+      ]
     },
     {
-      "term": "Yatataḥ",
-      "transliteration": "yatataḥ",
+      "term": "Yatata\u1e25",
+      "transliteration": "yatata\u1e25",
       "type": "participle",
       "definition": "Endeavoring, struggling; one who makes effort toward self-control. Active striving practitioner. The one who attempts to command the senses.",
       "roots": "from *yat* (to endeavor, strive)",
-      "references": ["BG 2.60"],
-      "themes": ["effort", "practice", "self-control"]
+      "references": [
+        "BG 2.60"
+      ],
+      "themes": [
+        "effort",
+        "practice",
+        "self-control"
+      ]
     },
     {
-      "term": "Vipaścitaḥ",
-      "transliteration": "vipaścitaḥ",
+      "term": "Vipa\u015bcita\u1e25",
+      "transliteration": "vipa\u015bcita\u1e25",
       "type": "adjective",
-      "definition": "Possessed of discrimination, wise, discerning. From *vi* (distinct) + *paśya* (seeing). One who sees clearly, discriminates between self and not-self.",
-      "roots": "from *vi* + *paśya* (to see)",
-      "references": ["BG 2.60"],
-      "themes": ["discrimination", "wisdom", "clarity"]
+      "definition": "Possessed of discrimination, wise, discerning. From *vi* (distinct) + *pa\u015bya* (seeing). One who sees clearly, discriminates between self and not-self.",
+      "roots": "from *vi* + *pa\u015bya* (to see)",
+      "references": [
+        "BG 2.60"
+      ],
+      "themes": [
+        "discrimination",
+        "wisdom",
+        "clarity"
+      ]
     },
     {
-      "term": "Pramāthīni",
-      "transliteration": "pramāthīni",
+      "term": "Pram\u0101th\u012bni",
+      "transliteration": "pram\u0101th\u012bni",
       "type": "adjective",
       "definition": "Agitating, turbulent, violently active. From *pra* + *math* (to churn violently). The impetuous nature of the senses that drags the mind against its will.",
       "roots": "from *pra* + *math* (to churn)",
-      "references": ["BG 2.60"],
-      "themes": ["senses", "turbulence", "agitation"]
+      "references": [
+        "BG 2.60"
+      ],
+      "themes": [
+        "senses",
+        "turbulence",
+        "agitation"
+      ]
     },
     {
       "term": "Prasabham",
       "transliteration": "prasabham",
       "type": "adverb",
-      "definition": "Forcibly, violently, by force. The manner in which senses carry away the mind—against its will, despite discrimination.",
+      "definition": "Forcibly, violently, by force. The manner in which senses carry away the mind\u2014against its will, despite discrimination.",
       "roots": "from *pra* + *sah* (to overcome)",
-      "references": ["BG 2.60"],
-      "themes": ["force", "senses", "violence"]
+      "references": [
+        "BG 2.60"
+      ],
+      "themes": [
+        "force",
+        "senses",
+        "violence"
+      ]
+    },
+    {
+      "term": "Sa\u1e41yamya",
+      "transliteration": "sa\u1e41yamya",
+      "type": "participle",
+      "definition": "Restraining, unifying, coalescing; gathering the scattered senses into one direction. Not suppression but unified direction.",
+      "roots": "from *sam-* (together) + *yam* (to restrain)",
+      "references": [
+        "BG 2.61"
+      ],
+      "themes": [
+        "restraint",
+        "unification",
+        "sense-control"
+      ]
+    },
+    {
+      "term": "Yukta",
+      "transliteration": "yukta",
+      "type": "adjective",
+      "definition": "Yoked, united; one who has accomplished yoga; the conquered mind. The mind yoked to \u012a\u015bvara, neither scattered nor grasping.",
+      "roots": "from *yuj* (to yoke, join)",
+      "references": [
+        "BG 2.61"
+      ],
+      "themes": [
+        "yoga",
+        "union",
+        "controlled-mind"
+      ]
+    },
+    {
+      "term": "Mat-para\u1e25",
+      "transliteration": "mat-para\u1e25",
+      "type": "compound",
+      "definition": "Having Me (mat-) as the highest/ultimate (para\u1e25); single-pointed devotion. Intent on K\u1e5b\u1e63\u1e47a as the exclusive goal.",
+      "roots": "*mat* (me) + *para* (highest/ultimate)",
+      "references": [
+        "BG 2.61"
+      ],
+      "themes": [
+        "single-pointedness",
+        "devotion",
+        "exclusivity"
+      ]
+    },
+    {
+      "term": "Prati\u1e63\u1e6dhit\u0101",
+      "transliteration": "prati\u1e63\u1e6dhit\u0101",
+      "type": "adjective",
+      "definition": "Well-founded, established, rooted; wisdom becomes stable like a tree with deep roots. Not fleeting insight but founded understanding.",
+      "roots": "from *prati\u1e63\u1e6dh\u0101* (foundation, basis)",
+      "references": [
+        "BG 2.61"
+      ],
+      "themes": [
+        "stability",
+        "wisdom",
+        "foundation"
+      ]
+    },
+    {
+      "term": "Dhy\u0101yata\u1e25",
+      "transliteration": "dhy\u0101yata\u1e25",
+      "type": "participle",
+      "definition": "Contemplating, the mind's scanning function; first step in the chain of entanglement. Without redirection toward puru\u1e63a, defaults to vi\u1e63aya.",
+      "roots": "from *dhyai* (to contemplate, meditate)",
+      "references": [
+        "BG 2.62"
+      ],
+      "themes": [
+        "contemplation",
+        "entanglement",
+        "scanning"
+      ]
+    },
+    {
+      "term": "Sa\u1e45ga\u1e25",
+      "transliteration": "sa\u1e45ga\u1e25",
+      "type": "masculine noun",
+      "definition": "Attachment, binding; from sa\u1e45j 'to join'; the merge point where buddhi fuses with prak\u1e5bti instead of reflecting puru\u1e63a.",
+      "roots": "from *sa\u1e45j* (to join, adhere)",
+      "references": [
+        "BG 2.62"
+      ],
+      "themes": [
+        "attachment",
+        "binding",
+        "entanglement"
+      ]
+    },
+    {
+      "term": "K\u0101ma\u1e25",
+      "transliteration": "k\u0101ma\u1e25",
+      "type": "masculine noun",
+      "definition": "Desire, lust; from kam 'to wish'; the extension of sa\u1e45ga into active seeking\u2014the process spawning beyond control.",
+      "roots": "from *kam* (to wish, desire)",
+      "references": [
+        "BG 2.62"
+      ],
+      "themes": [
+        "desire",
+        "lust",
+        "propagation"
+      ]
+    },
+    {
+      "term": "Krodha\u1e25",
+      "transliteration": "krodha\u1e25",
+      "type": "masculine noun",
+      "definition": "Anger; from kru 'to be crooked'; the ego's defense when desire is frustrated. Arises when k\u0101ma is obstructed.",
+      "roots": "from *kru* (to be crooked, injured)",
+      "references": [
+        "BG 2.62"
+      ],
+      "themes": [
+        "anger",
+        "frustration",
+        "ego-defense"
+      ]
+    },
+    {
+      "term": "Sammoha\u1e25",
+      "transliteration": "sammoha\u1e25",
+      "type": "masculine noun",
+      "definition": "Perfect delusion, complete bewilderment; total loss of orientation in matter. The mirror shaken by tremors.",
+      "roots": "from *sam-muh* (to be completely confused)",
+      "references": [
+        "BG 2.63"
+      ],
+      "themes": [
+        "delusion",
+        "confusion",
+        "bewilderment"
+      ]
+    },
+    {
+      "term": "Sm\u1e5bti-vibhrama\u1e25",
+      "transliteration": "sm\u1e5bti-vibhrama\u1e25",
+      "type": "compound",
+      "definition": "Bewilderment of memory; the native memory of spiritual identity becomes distorted. Forgetting who you are.",
+      "roots": "*sm\u1e5bti* (memory) + *vibhrama* (wandering/confusion)",
+      "references": [
+        "BG 2.63"
+      ],
+      "themes": [
+        "memory-loss",
+        "identity",
+        "spiritual-amnesia"
+      ]
+    },
+    {
+      "term": "Buddhi-n\u0101\u015ba\u1e25",
+      "transliteration": "buddhi-n\u0101\u015ba\u1e25",
+      "type": "compound",
+      "definition": "Destruction of intelligence; the collapse of buddhi's capacity to reflect puru\u1e63a. The CPU is fried.",
+      "roots": "*buddhi* (intelligence) + *n\u0101\u015ba* (destruction)",
+      "references": [
+        "BG 2.63"
+      ],
+      "themes": [
+        "intelligence-collapse",
+        "system-failure",
+        "bondage"
+      ]
+    },
+    {
+      "term": "Pra\u1e47a\u015byati",
+      "transliteration": "pra\u1e47a\u015byati",
+      "type": "verb (passive)",
+      "definition": "Is lost, falls; the terminal state of the kle\u015ba cascade. Like gravity\u2014operates whether one is aware or not.",
+      "roots": "from *pra-na\u015b* (to be lost/destroyed)",
+      "references": [
+        "BG 2.63"
+      ],
+      "themes": [
+        "falling",
+        "destruction",
+        "kle\u015ba-termination"
+      ]
+    },
+    {
+      "term": "R\u0101ga",
+      "transliteration": "r\u0101ga",
+      "type": "masculine noun",
+      "definition": "Attachment, coloring toward; from raj 'to color'. The tendency to grasp at pleasant objects; attraction in the gu\u1e47a matrix.",
+      "roots": "from *raj* (to color)",
+      "references": [
+        "BG 2.64"
+      ],
+      "themes": [
+        "attachment",
+        "attraction",
+        "kle\u015ba"
+      ]
+    },
+    {
+      "term": "Dve\u1e63a",
+      "transliteration": "dve\u1e63a",
+      "type": "masculine noun",
+      "definition": "Aversion, repulsion; from dvi\u1e63 'to hate'. The tendency to push away unpleasant objects; rejection in the gu\u1e47a matrix.",
+      "roots": "from *dvi\u1e63* (to hate)",
+      "references": [
+        "BG 2.64"
+      ],
+      "themes": [
+        "aversion",
+        "repulsion",
+        "kle\u015ba"
+      ]
+    },
+    {
+      "term": "Vimukta",
+      "transliteration": "vimukta",
+      "type": "adjective (past participle)",
+      "definition": "Liberated, free from; vi-mukta\u2014completely released from the binding force. Not suppression but transcendence.",
+      "roots": "*vi* (completely) + *mukta* (released/from muc 'to loosen')",
+      "references": [
+        "BG 2.64"
+      ],
+      "themes": [
+        "liberation",
+        "freedom",
+        "release"
+      ]
+    },
+    {
+      "term": "\u0100tma-va\u015bya",
+      "transliteration": "\u0101tma-va\u015bya",
+      "type": "compound adjective",
+      "definition": "Under self-control; the \u0101tma as commander, not prisoner. Self-mastery through regulation, not will-power.",
+      "roots": "*\u0101tma* (self) + *va\u015bya* (under control)",
+      "references": [
+        "BG 2.64"
+      ],
+      "themes": [
+        "self-control",
+        "mastery",
+        "regulation"
+      ]
+    },
+    {
+      "term": "Pras\u0101da",
+      "transliteration": "pras\u0101da",
+      "type": "masculine noun",
+      "definition": "Grace, mercy, serene clarity; from pra-sad 'to settle down, become clear'. The settled state of citta when v\u1e5btti ceases.",
+      "roots": "from *pra-sad* (to settle down)",
+      "references": [
+        "BG 2.64"
+      ],
+      "themes": [
+        "grace",
+        "mercy",
+        "clarity",
+        "divine-blessing"
+      ]
     }
   ]
 }
