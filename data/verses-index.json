@@ -1,6 +1,21 @@
 {
   "verses": [
     {
+      "date": "2026-02-16",
+      "source": "BG 2.65",
+      "chapter": 2,
+      "verse": 65,
+      "text": "Bhagavad Gita",
+      "tithi": "Amāvāsyā",
+      "nakshatra": "Dhaniṣṭhā",
+      "yoga": "Parigha",
+      "themes": [ "prasada", "contentment", "established-wisdom", "threefold-miseries", "dissolution" ],
+      "tags": [ "#amavasya", "#dhanishta", "#prasada", "#contentment", "#establishedwisdom" ],
+      "yogaSutraConnection": "YS 2.42",
+      "sankhyaConcepts": [ "prasada-settled-state", "threefold-miseries", "buddhi-establishment" ],
+      "keyTerms": [ "prasāde", "hāniḥ", "prasanna-cetasaḥ", "buddhiḥ", "paryavatiṣṭhate" ]
+    },
+    {
       "date": "2026-02-15",
       "source": "BG 2.64",
       "chapter": 2,
@@ -91,5 +106,5 @@
       "keyTerms": [ "ananyāḥ", "paryupāsate", "yoga-kṣema", "vahāmi" ]
     }
   ],
-  "lastUpdated": "2026-02-15"
+  "lastUpdated": "2026-02-16"
 }
