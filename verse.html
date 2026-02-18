@@ -127,7 +127,7 @@
     document.getElementById('date-display').textContent = formatDisplayDate(dateParam);
     
     // Load verse content
-    fetch(`verses/${dateParam}.html`)
+    fetch(`verse/${dateParam}.html`)
       .then(response => {
         if (!response.ok) {
           throw new Error(`Verse not found for ${dateParam}`);
