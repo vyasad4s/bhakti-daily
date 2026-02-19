@@ -1,19 +1,78 @@
 {
   "verses": [
     {
+      "date": "2026-02-17",
+      "source": "BG 2.66",
+      "chapter": 2,
+      "verse": 66,
+      "text": "Bhagavad Gita",
+      "tithi": "Am\u0101v\u0101sy\u0101",
+      "nakshatra": "\u015aatabhi\u1e63\u0101",
+      "yoga": "\u015aiva",
+      "themes": [
+        "connection",
+        "disconnection",
+        "prerequisites",
+        "peace",
+        "buddhi"
+      ],
+      "tags": [
+        "#ayukta",
+        "#shanti",
+        "#prerequisites",
+        "#sukha",
+        "#buddhi"
+      ],
+      "yogaSutraConnection": "YS 2.17",
+      "sankhyaConcepts": [
+        "puru\u1e63a-prak\u1e5bti-discrimination",
+        "yukti",
+        "ayuktasya"
+      ],
+      "keyTerms": [
+        "ayuktasya",
+        "buddhi",
+        "bh\u0101van\u0101",
+        "\u015b\u0101nti",
+        "sukham"
+      ]
+    },
+    {
       "date": "2026-02-16",
       "source": "BG 2.65",
       "chapter": 2,
       "verse": 65,
       "text": "Bhagavad Gita",
-      "tithi": "Amāvāsyā",
-      "nakshatra": "Dhaniṣṭhā",
+      "tithi": "Am\u0101v\u0101sy\u0101",
+      "nakshatra": "Dhani\u1e63\u1e6dh\u0101",
       "yoga": "Parigha",
-      "themes": [ "prasada", "contentment", "established-wisdom", "threefold-miseries", "dissolution" ],
-      "tags": [ "#amavasya", "#dhanishta", "#prasada", "#contentment", "#establishedwisdom" ],
+      "themes": [
+        "prasada",
+        "contentment",
+        "established-wisdom",
+        "threefold-miseries",
+        "dissolution"
+      ],
+      "tags": [
+        "#amavasya",
+        "#dhanishta",
+        "#prasada",
+        "#contentment",
+        "#establishedwisdom"
+      ],
       "yogaSutraConnection": "YS 2.42",
-      "sankhyaConcepts": [ "prasada-settled-state", "threefold-miseries", "buddhi-establishment" ],
-      "keyTerms": [ "prasāde", "hāniḥ", "prasanna-cetasaḥ", "buddhiḥ", "paryavatiṣṭhate" ]
+      "sankhyaConcepts": [
+        "prasada-settled-state",
+        "threefold-miseries",
+        "buddhi-establishment"
+      ],
+      "keyTerms": [
+        "pras\u0101de",
+        "h\u0101ni\u1e25",
+        "prasanna-cetasa\u1e25",
+        "buddhi\u1e25",
+        "paryavati\u1e63\u1e6dhate"
+      ]
     },
     {
       "date": "2026-02-15",
@@ -21,14 +80,39 @@
       "chapter": 2,
       "verse": 64,
       "text": "Bhagavad Gita",
-      "tithi": "Caturdaśī",
-      "nakshatra": "Śravaṇa",
-      "yoga": "Variāṇa",
-      "themes": [ "freedom", "prasada", "attachment", "aversion", "liberation", "mahashivaratri" ],
-      "tags": [ "#chaturdashi", "#mahashivaratri", "#prasada", "#freedom", "#raga", "#dvesa", "#vimukta" ],
+      "tithi": "Caturda\u015b\u012b",
+      "nakshatra": "\u015arava\u1e47a",
+      "yoga": "Vari\u0101\u1e47a",
+      "themes": [
+        "freedom",
+        "prasada",
+        "attachment",
+        "aversion",
+        "liberation",
+        "mahashivaratri"
+      ],
+      "tags": [
+        "#chaturdashi",
+        "#mahashivaratri",
+        "#prasada",
+        "#freedom",
+        "#raga",
+        "#dvesa",
+        "#vimukta"
+      ],
       "yogaSutraConnection": "YS 2.1",
-      "sankhyaConcepts": [ "rāga-dveṣa-vimukta", "ātma-vaśya", "prasāda-reception" ],
-      "keyTerms": [ "rāga", "dveṣa", "vimukta", "ātma-vaśya", "prasāda" ]
+      "sankhyaConcepts": [
+        "r\u0101ga-dve\u1e63a-vimukta",
+        "\u0101tma-va\u015bya",
+        "pras\u0101da-reception"
+      ],
+      "keyTerms": [
+        "r\u0101ga",
+        "dve\u1e63a",
+        "vimukta",
+        "\u0101tma-va\u015bya",
+        "pras\u0101da"
+      ]
     },
     {
       "date": "2026-02-14",
@@ -36,14 +120,36 @@
       "chapter": 2,
       "verse": 63,
       "text": "Bhagavad Gita",
-      "tithi": "Trayodaśī",
-      "nakshatra": "Uttara Aṣāḍhā",
-      "yoga": "Vyatipāta",
-      "themes": [ "anger", "delusion", "memory-loss", "falling", "cosmic-dissolution" ],
-      "tags": [ "#trayodashi", "#vyatipata", "#falling", "#buddhi", "#memory", "#pradosha" ],
+      "tithi": "Trayoda\u015b\u012b",
+      "nakshatra": "Uttara A\u1e63\u0101\u1e0dh\u0101",
+      "yoga": "Vyatip\u0101ta",
+      "themes": [
+        "anger",
+        "delusion",
+        "memory-loss",
+        "falling",
+        "cosmic-dissolution"
+      ],
+      "tags": [
+        "#trayodashi",
+        "#vyatipata",
+        "#falling",
+        "#buddhi",
+        "#memory",
+        "#pradosha"
+      ],
       "yogaSutraConnection": "YS 2.26",
-      "sankhyaConcepts": [ "kleśa-cascade", "buddhi-collapse", "puruṣa-forgetfulness" ],
-      "keyTerms": [ "sammohaḥ", "smṛti-vibhramaḥ", "buddhi-nāśaḥ", "praṇaśyati" ]
+      "sankhyaConcepts": [
+        "kle\u015ba-cascade",
+        "buddhi-collapse",
+        "puru\u1e63a-forgetfulness"
+      ],
+      "keyTerms": [
+        "sammoha\u1e25",
+        "sm\u1e5bti-vibhrama\u1e25",
+        "buddhi-n\u0101\u015ba\u1e25",
+        "pra\u1e47a\u015byati"
+      ]
     },
     {
       "date": "2026-02-13",
@@ -51,14 +157,36 @@
       "chapter": 2,
       "verse": 62,
       "text": "Bhagavad Gita",
-      "tithi": "Dvādaśī",
-      "nakshatra": "Pūrva Aṣāḍhā",
+      "tithi": "Dv\u0101da\u015b\u012b",
+      "nakshatra": "P\u016brva A\u1e63\u0101\u1e0dh\u0101",
       "yoga": "Siddhi",
-      "themes": [ "attachment", "desire", "anger", "sense-entanglement", "completion" ],
-      "tags": [ "#dvadashi", "#attachment", "#kama", "#krodha", "#siddhi", "#purvaashadha" ],
+      "themes": [
+        "attachment",
+        "desire",
+        "anger",
+        "sense-entanglement",
+        "completion"
+      ],
+      "tags": [
+        "#dvadashi",
+        "#attachment",
+        "#kama",
+        "#krodha",
+        "#siddhi",
+        "#purvaashadha"
+      ],
       "yogaSutraConnection": "YS 2.3",
-      "sankhyaConcepts": [ "saṅga-binding", "kāma-extension", "kleśa-sequence" ],
-      "keyTerms": [ "dhyāyataḥ", "saṅgaḥ", "kāmaḥ", "krodhaḥ" ]
+      "sankhyaConcepts": [
+        "sa\u1e45ga-binding",
+        "k\u0101ma-extension",
+        "kle\u015ba-sequence"
+      ],
+      "keyTerms": [
+        "dhy\u0101yata\u1e25",
+        "sa\u1e45ga\u1e25",
+        "k\u0101ma\u1e25",
+        "krodha\u1e25"
+      ]
     },
     {
       "date": "2026-02-12",
@@ -66,14 +194,36 @@
       "chapter": 2,
       "verse": 61,
       "text": "Bhagavad Gita",
-      "tithi": "Ekādaśī",
-      "nakshatra": "Mūla",
+      "tithi": "Ek\u0101da\u015b\u012b",
+      "nakshatra": "M\u016bla",
       "yoga": "Vajra",
-      "themes": [ "sense-control", "established-wisdom", "pratyahara", "devotion", "rootedness" ],
-      "tags": [ "#ekadasi", "#sensecontrol", "#pratyahara", "#mula", "#viveka", "#establishedwisdom" ],
+      "themes": [
+        "sense-control",
+        "established-wisdom",
+        "pratyahara",
+        "devotion",
+        "rootedness"
+      ],
+      "tags": [
+        "#ekadasi",
+        "#sensecontrol",
+        "#pratyahara",
+        "#mula",
+        "#viveka",
+        "#establishedwisdom"
+      ],
       "yogaSutraConnection": "YS 1.2",
-      "sankhyaConcepts": [ "purusha-consciousness", "prakriti-restraint", "pratiṣṭhā-foundation" ],
-      "keyTerms": [ "saṁyamya", "yukta", "mat-paraḥ", "pratiṣṭhitā" ]
+      "sankhyaConcepts": [
+        "purusha-consciousness",
+        "prakriti-restraint",
+        "prati\u1e63\u1e6dh\u0101-foundation"
+      ],
+      "keyTerms": [
+        "sa\u1e41yamya",
+        "yukta",
+        "mat-para\u1e25",
+        "prati\u1e63\u1e6dhit\u0101"
+      ]
     },
     {
       "date": "2026-02-11",
@@ -81,14 +231,35 @@
       "chapter": 2,
       "verse": 60,
       "text": "Bhagavad Gita",
-      "tithi": "Daśamī",
-      "nakshatra": "Jyeṣṭhā",
-      "yoga": "Harṣaṇa",
-      "themes": [ "sense-struggle", "pratyahara", "inner-mastery", "discrimination", "authority" ],
-      "tags": [ "#sensecontrol", "#pratyahara", "#indriyas", "#innermastery", "#bhagavadgita" ],
+      "tithi": "Da\u015bam\u012b",
+      "nakshatra": "Jye\u1e63\u1e6dh\u0101",
+      "yoga": "Har\u1e63a\u1e47a",
+      "themes": [
+        "sense-struggle",
+        "pratyahara",
+        "inner-mastery",
+        "discrimination",
+        "authority"
+      ],
+      "tags": [
+        "#sensecontrol",
+        "#pratyahara",
+        "#indriyas",
+        "#innermastery",
+        "#bhagavadgita"
+      ],
       "yogaSutraConnection": "YS 2.54",
-      "sankhyaConcepts": [ "prakriti-power", "sense-momentum", "indriya-mastery" ],
-      "keyTerms": [ "yatataḥ", "vipaścitaḥ", "pramāthīni", "prasabham" ]
+      "sankhyaConcepts": [
+        "prakriti-power",
+        "sense-momentum",
+        "indriya-mastery"
+      ],
+      "keyTerms": [
+        "yatata\u1e25",
+        "vipa\u015bcita\u1e25",
+        "pram\u0101th\u012bni",
+        "prasabham"
+      ]
     },
     {
       "date": "2026-02-10",
@@ -96,15 +267,35 @@
       "chapter": 9,
       "verse": 22,
       "text": "Bhagavad Gita",
-      "tithi": "Navamī",
-      "nakshatra": "Anurādhā",
-      "yoga": "Harṣaṇa",
-      "themes": [ "exclusive-devotion", "divine-protection", "single-pointed-attention", "surrender", "bhakti" ],
-      "tags": [ "#ananyabhakti", "#ninthchapter", "#divineprotection", "#singlepointed", "#bhagavadgita" ],
+      "tithi": "Navam\u012b",
+      "nakshatra": "Anur\u0101dh\u0101",
+      "yoga": "Har\u1e63a\u1e47a",
+      "themes": [
+        "exclusive-devotion",
+        "divine-protection",
+        "single-pointed-attention",
+        "surrender",
+        "bhakti"
+      ],
+      "tags": [
+        "#ananyabhakti",
+        "#ninthchapter",
+        "#divineprotection",
+        "#singlepointed",
+        "#bhagavadgita"
+      ],
       "yogaSutraConnection": "YS 1.23",
-      "sankhyaConcepts": [ "ishvara-praṇidhāna", "undivided-consciousness" ],
-      "keyTerms": [ "ananyāḥ", "paryupāsate", "yoga-kṣema", "vahāmi" ]
+      "sankhyaConcepts": [
+        "ishvara-pra\u1e47idh\u0101na",
+        "undivided-consciousness"
+      ],
+      "keyTerms": [
+        "anany\u0101\u1e25",
+        "paryup\u0101sate",
+        "yoga-k\u1e63ema",
+        "vah\u0101mi"
+      ]
     }
   ],
-  "lastUpdated": "2026-02-16"
+  "lastUpdated": "2026-02-17"
 }
