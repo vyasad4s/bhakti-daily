@@ -194,7 +194,7 @@ async function loadVerse(date) {
         loadingDiv.innerHTML = '<p style="color: #ff9933;">[COMPILING VERSE...]</p>';
         output.appendChild(loadingDiv);
         
-        const response = await fetch(`verse/${date}.html`);
+        const response = await fetch(`verses/${date}.html`);
         if (response.ok) {
             const html = await response.text();
             loadingDiv.remove();
