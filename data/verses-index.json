@@ -1,6 +1,44 @@
 {
   "verses": [
     {
+      "date": "2026-02-18",
+      "source": "BG 2.67",
+      "chapter": 2,
+      "verse": 67,
+      "text": "Bhagavad Gita",
+      "tithi": "Dvit\u012bya",
+      "nakshatra": "P\u016brva Bh\u0101drapad\u0101",
+      "yoga": "Siddha",
+      "themes": [
+        "sense-control",
+        "mind-discipline",
+        "pratyahara",
+        "distraction",
+        "wind-boat"
+      ],
+      "tags": [
+        "#senses",
+        "#mind",
+        "#pratyahara",
+        "#distraction",
+        "#boat",
+        "#wind"
+      ],
+      "yogaSutraConnection": "YS 2.54",
+      "sankhyaConcepts": [
+        "indriya-mind-relation",
+        "prajna-destruction",
+        "pratyahara"
+      ],
+      "keyTerms": [
+        "caratam",
+        "anuvidhiyate",
+        "prajna",
+        "nava",
+        "ambhasi"
+      ]
+    },
+    {
       "date": "2026-02-17",
       "source": "BG 2.66",
       "chapter": 2,
@@ -297,5 +335,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-02-17"
+  "lastUpdated": "2026-02-18"
 }

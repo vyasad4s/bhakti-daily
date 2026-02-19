@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-15",
+  "lastUpdated": "2026-02-18",
   "terms": [
     {
       "term": "Anany\u0101\u1e25",
@@ -375,6 +375,87 @@
         "mercy",
         "clarity",
         "divine-blessing"
+      ]
+    },
+    {
+      "term": "Carat\u0101m",
+      "transliteration": "carat\u0101m",
+      "type": "participle (genitive plural)",
+      "definition": "Of those that roam/wander; from car (to move). The senses in their natural uncontrolled state\u2014not evil, just mobile. The wind that never stops blowing.",
+      "roots": "from car (to move, roam)",
+      "references": [
+        "BG 2.67"
+      ],
+      "themes": [
+        "senses",
+        "movement",
+        "uncontrolled",
+        "roving"
+      ]
+    },
+    {
+      "term": "Anuvidh\u012byate",
+      "transliteration": "anuvidh\u012byate",
+      "type": "passive verb (3rd person singular)",
+      "definition": "Is followed/obeyed. The mind's voluntary submission to sensory movement\u2014the boat choosing to drift with the current instead of anchoring. From anu-vidh (to follow rules/laws).",
+      "roots": "from anu (following) + vidh (to establish, regulate)",
+      "references": [
+        "BG 2.67"
+      ],
+      "themes": [
+        "mind",
+        "senses",
+        "following",
+        "submission",
+        "discipline-failure"
+      ]
+    },
+    {
+      "term": "Praj\u00f1\u0101",
+      "transliteration": "praj\u00f1\u0101",
+      "type": "feminine noun",
+      "definition": "Wisdom, intelligence; the capacity for discrimination. The CPU of consciousness. From pra + j\u00f1\u0101 (to know). What gets swept away when the mind follows the senses.",
+      "roots": "from pra (forth) + j\u00f1\u0101 (to know)",
+      "references": [
+        "BG 2.67"
+      ],
+      "themes": [
+        "wisdom",
+        "intelligence",
+        "discrimination",
+        "discernment"
+      ]
+    },
+    {
+      "term": "N\u0101va",
+      "transliteration": "n\u0101va",
+      "type": "feminine noun",
+      "definition": "Boat, vessel; the mind as vehicle. Requires direction or drifts. The instrument that carries intelligence across the ocean of sense-objects.",
+      "roots": "from n\u0101u (boat, vessel)",
+      "references": [
+        "BG 2.67"
+      ],
+      "themes": [
+        "mind",
+        "vehicle",
+        "discipline",
+        "direction"
+      ]
+    },
+    {
+      "term": "Ambhasi",
+      "transliteration": "ambhasi",
+      "type": "locative singular",
+      "definition": "In the water; the sense-field, the ocean of vi\u1e63aya. The environment where the mind-boat floats\u2014calm or stormy depending on sensory wind.",
+      "roots": "from ambhas (water, ocean)",
+      "references": [
+        "BG 2.67"
+      ],
+      "themes": [
+        "sense-field",
+        "ocean",
+        "environment",
+        "vi\u1e63aya"
       ]
     }
   ]
