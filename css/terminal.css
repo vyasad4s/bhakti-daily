@@ -223,6 +223,12 @@ body {
     caret-color: #ff9933;
 }
 
+.command-input::placeholder {
+    color: #666;
+    opacity: 0.8;
+}
+
+
 .cursor {
     color: var(--saffron);
     animation: blink 1s infinite;
@@ -300,4 +306,9 @@ body {
         white-space: pre-wrap;
         word-wrap: break-word;
     }
+
+    .command-input {
+    font-size: 16px;
+    }
+
 }

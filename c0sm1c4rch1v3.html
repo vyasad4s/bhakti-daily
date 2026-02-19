@@ -69,6 +69,12 @@
       0%, 49% { opacity: 1; }
       50%, 100% { opacity: 0; }
     }
+
+    @media (max-width: 768px) {
+    .command-input {
+    font-size: 16px;
+    }
+}
   </style>
 </head>
 <body>
@@ -189,7 +195,7 @@ Archive of daily astrological data & verse selection criteria
       
       <div class="input-line">
         <span class="prompt">vyasad4s@cosmic-archive:~$ </span>
-        <input type="text" id="command-input" class="command-input" autofocus autocomplete="off" spellcheck="false">
+        <input type="text" id="command-input" class="command-input" placeholder="type 'help'" autofocus autocomplete="off" spellcheck="false">
         <span class="cursor">█</span>
       </div>
     </div>
