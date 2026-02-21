@@ -1,6 +1,21 @@
 {
   "verses": [
     {
+      "date": "2026-02-21",
+      "source": "BG 2.70",
+      "chapter": 2,
+      "verse": 70,
+      "text": "Bhagavad Gita",
+      "tithi": "Ṣaṣṭhī",
+      "nakshatra": "Aśvinī",
+      "yoga": "Śubha",
+      "themes": ["contentment", "fullness", "desire", "ocean", "peace"],
+      "tags": ["#ocean", "#contentment", "#desire", "#satisfaction", "#samtosha", "#flow"],
+      "yogaSutraConnection": "YS 2.42",
+      "sankhyaConcepts": ["fullness-vs-lack", "contentment", "desire-mechanism"],
+      "keyTerms": ["āpūryamāṇam", "acala-pratiṣṭham", "kāma-kāmī", "śānti"]
+    },
+    {
       "date": "2026-02-20",
       "source": "BG 2.69",
       "chapter": 2,
@@ -134,22 +149,7 @@
       "yogaSutraConnection": "YS 2.54",
       "sankhyaConcepts": ["prakṛti-power", "sense-momentum", "indriya-mastery"],
       "keyTerms": ["yatataḥ", "vipaścitaḥ", "pramāthīni", "prasabham"]
-    },
-    {
-      "date": "2026-02-10",
-      "source": "BG 9.22",
-      "chapter": 9,
-      "verse": 22,
-      "text": "Bhagavad Gita",
-      "tithi": "Navamī",
-      "nakshatra": "Anurādhā",
-      "yoga": "Harṣaṇa",
-      "themes": ["exclusive-devotion", "divine-protection", "single-pointed-attention", "surrender", "bhakti"],
-      "tags": ["#ananyabhakti", "#ninthchapter", "#divineprotection", "#singlepointed", "#bhagavadgita"],
-      "yogaSutraConnection": "YS 1.23",
-      "sankhyaConcepts": ["īśvara-praṇidhāna", "undivided-consciousness"],
-      "keyTerms": ["ananyāḥ", "paryupāsate", "yoga-kṣema", "vahāmi"]
     }
   ],
-  "lastUpdated": "2026-02-20"
+  "lastUpdated": "2026-02-21"
 }
