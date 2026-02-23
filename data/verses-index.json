@@ -1,6 +1,21 @@
 {
   "verses": [
     {
+      "date": "2026-02-23",
+      "source": "BG 2.72",
+      "chapter": 2,
+      "verse": 72,
+      "text": "Bhagavad Gita",
+      "tithi": "Saptamī → Aṣṭamī",
+      "nakshatra": "Kṛttikā",
+      "yoga": "Indra",
+      "themes": ["brahmisthiti", "liberation", "nirvana", "completion", "transcendence", "establishment"],
+      "tags": ["#brahmisthiti", "#liberation", "#nirvana", "#completion", "#krittika", "#indra", "#saptami", "#somavara"],
+      "yogaSutraConnection": "YS 1.3",
+      "sankhyaConcepts": ["brahman-realization", "vimukti", "sthiti", "puruṣa-kaivalya"],
+      "keyTerms": ["eṣā", "brāhmī", "sthitiḥ", "vimuhyati", "anta-kāle", "nirvāṇa"]
+    },
+    {
       "date": "2026-02-22",
       "source": "BG 2.71",
       "chapter": 2,
@@ -29,22 +44,7 @@
       "yogaSutraConnection": "YS 2.42",
       "sankhyaConcepts": ["fullness-vs-lack", "contentment", "desire-mechanism"],
       "keyTerms": ["āpūryamāṇam", "acala-pratiṣṭham", "kāma-kāmī", "śānti"]
-    },
-    {
-      "date": "2026-02-20",
-      "source": "BG 2.69",
-      "chapter": 2,
-      "verse": 69,
-      "text": "Bhagavad Gita",
-      "tithi": "Pañcamī",
-      "nakshatra": "Revatī",
-      "yoga": "Siddha",
-      "themes": ["self-control", "perceptual-inversion", "discrimination", "night", "awakening"],
-      "tags": ["#pratyahara", "#selfcontrol", "#viveka", "#sage", "#materialism", "#revati", "#siddha"],
-      "yogaSutraConnection": "YS 2.54",
-      "sankhyaConcepts": ["viveka", "discrimination", "withdrawal", "pratyahara"],
-      "keyTerms": ["niśā", "saṁyamī", "jāgarti", "paśyataḥ", "muni"]
     }
   ],
-  "lastUpdated": "2026-02-22"
+  "lastUpdated": "2026-02-23"
 }
