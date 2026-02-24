@@ -1,6 +1,21 @@
 {
   "verses": [
     {
+      "date": "2026-02-24",
+      "source": "BG 3.1",
+      "chapter": 3,
+      "verse": 1,
+      "text": "Bhagavad Gita",
+      "tithi": "Aṣṭamī → Navamī",
+      "nakshatra": "Rohinī",
+      "yoga": "Vaidhṛti",
+      "themes": ["karmayoga", "action", "knowledge", "arjuna", "growth", "engagement"],
+      "tags": ["#karmayoga", "#action", "#knowledge", "#arjuna", "#rohini", "#ashtami", "#mangalavara"],
+      "yogaSutraConnection": "YS 2.1",
+      "sankhyaConcepts": ["karma-yoga", "jnana-vs-karma", "engaged-renunciation"],
+      "keyTerms": ["jyāyasī", "mata", "ghora", "niyojayasi", "keśava"]
+    },
+    {
       "date": "2026-02-23",
       "source": "BG 2.72",
       "chapter": 2,
@@ -29,22 +44,7 @@
       "yogaSutraConnection": "YS 1.15",
       "sankhyaConcepts": ["vairagya", "renunciation", "vitṛṣṇa", "devoid-of-craving"],
       "keyTerms": ["vihāya", "niḥspṛhaḥ", "nirmamaḥ", "nirahaṅkāraḥ", "adhigacchati"]
-    },
-    {
-      "date": "2026-02-21",
-      "source": "BG 2.70",
-      "chapter": 2,
-      "verse": 70,
-      "text": "Bhagavad Gita",
-      "tithi": "Ṣaṣṭhī",
-      "nakshatra": "Aśvinī",
-      "yoga": "Śubha",
-      "themes": ["contentment", "fullness", "desire", "ocean", "peace"],
-      "tags": ["#ocean", "#contentment", "#desire", "#satisfaction", "#samtosha", "#flow"],
-      "yogaSutraConnection": "YS 2.42",
-      "sankhyaConcepts": ["fullness-vs-lack", "contentment", "desire-mechanism"],
-      "keyTerms": ["āpūryamāṇam", "acala-pratiṣṭham", "kāma-kāmī", "śānti"]
     }
   ],
-  "lastUpdated": "2026-02-23"
+  "lastUpdated": "2026-02-24"
 }
