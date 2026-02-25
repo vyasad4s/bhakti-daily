@@ -1,6 +1,21 @@
 {
   "verses": [
     {
+      "date": "2026-02-25",
+      "source": "BG 3.2",
+      "chapter": 3,
+      "verse": 2,
+      "text": "Bhagavad Gita",
+      "tithi": "Navamī",
+      "nakshatra": "Mrigaśīrṣa",
+      "yoga": "Taitila",
+      "themes": ["karmayoga", "clarity", "confusion", "one-path", "seeking"],
+      "tags": ["#karmayoga", "#buddhi", "#moha", "#mrigashirsha", "#navami", "#taitila"],
+      "yogaSutraConnection": "YS 1.32",
+      "sankhyaConcepts": ["buddhi", "moha", "viveka"],
+      "keyTerms": ["vyāmiśreṇa", "buddhi", "moha", "niścitya", "eka", "śreyaḥ", "āpnuyām"]
+    },
+    {
       "date": "2026-02-24",
       "source": "BG 3.1",
       "chapter": 3,
@@ -46,5 +61,5 @@
       "keyTerms": ["vihāya", "niḥspṛhaḥ", "nirmamaḥ", "nirahaṅkāraḥ", "adhigacchati"]
     }
   ],
-  "lastUpdated": "2026-02-24"
+  "lastUpdated": "2026-02-25"
 }
