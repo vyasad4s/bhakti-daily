@@ -1,184 +1,115 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Daily Bhakti | Feb 25, 2026</title>
-  <style>
-    :root {
-      --saffron: #ff9933;
-      --cream: #fff8e7;
-      --text: #2c1810;
-      --black-red: #8B0000;
-      --cyan: #66d9ef;
-    }
-    * { margin: 0; padding: 0; box-sizing: border-box; }
-    body {
-      font-family: 'Georgia', serif;
-      background: var(--cream);
-      color: var(--text);
-      line-height: 1.7;
-      max-width: 800px;
-      margin: 0 auto;
-      padding: 2rem;
-    }
-    .terminal-header {
-      background: #1a1a2e;
-      color: #00ff00;
-      padding: 1rem;
-      border-radius: 8px;
-      font-family: 'Courier New', monospace;
-      margin-bottom: 2rem;
-    }
-    .cosmic-box {
-      display: grid;
-      grid-template-columns: repeat(2, 1fr);
-      gap: 1rem;
-      margin-bottom: 2rem;
-    }
-    .cosmic-item {
-      background: white;
-      padding: 1rem;
-      border-radius: 8px;
-      border-left: 4px solid var(--saffron);
-    }
-    .tithi { border-color: #ff9933; }
-    .nakshatra { border-color: #00ff00; }
-    .yoga { border-color: #66d9ef; }
-    .weekday { border-color: #9b59b6; }
-    .verse-box {
-      background: white;
-      padding: 2rem;
-      border-radius: 8px;
-      margin-bottom: 2rem;
-      box-shadow: 0 2px 4px rgba(0,0,0,0.1);
-    }
-    .sanskrit {
-      font-size: 1.4rem;
-      color: var(--black-red);
-      margin-bottom: 1rem;
-      font-style: italic;
-    }
-    .transliteration {
-      color: #666;
-      font-style: italic;
-      margin-bottom: 1rem;
-    }
-    .translation {
-      font-weight: bold;
-      margin-bottom: 1rem;
-    }
-    .purport {
-      text-align: justify;
-      margin-top: 1rem;
-    }
-    .term {
-      color: var(--saffron);
-      font-weight: bold;
-    }
-    .system-notes {
-      background: #1a1a2e;
-      color: #00ff00;
-      padding: 1rem;
-      border-radius: 8px;
-      font-family: 'Courier New', monospace;
-      font-size: 0.9rem;
-    }
-    h1 {
-      color: var(--black-red);
-      margin-bottom: 0.5rem;
-    }
-    .date {
-      color: #666;
-      margin-bottom: 2rem;
-    }
-    .label {
-      font-size: 0.8rem;
-      text-transform: uppercase;
-      letter-spacing: 1px;
-      margin-bottom: 0.5rem;
-      color: #666;
-    }
-  </style>
-</head>
-<body>
-  <div class="terminal-header">
-    >>> vyasad4s@bhakti-daily:~$ ./generate_daily.sh --date=2026-02-25<br>
-    >>> SYSTEM: Connecting to cosmic database...<br>
-    >>> SYSTEM: Tithian: Navamī (Nine: The number of completion. Soma's fullness begins to wane toward dissolution.)<br>
-    >>> SYSTEM: Nakṣatran: Mrigaśīrṣa (Deer's Head: The seeker of Soma—divine nectar. Running toward liberation, never satisfied.)<br>
-    >>> SYSTEM: Yogam: Taitila (The separator—cutting through doubt with the sword of discrimination.)<br>
-    >>> SYSTEM: Daily verse loaded. Rendering... 🏹
-  </div>
+<!-- VYASAD4S DAILY DRAFT | 2026-02-25 -->
+<!-- Review and split into verse/cosmic fragments when approved -->
+<div class="draft-container">
 
-  <h1>Bhagavad-gītā 3.2</h1>
-  <p class="date">February 25, 2026 | Wednesday | Karma Yoga Continues</p>
+<!-- ========== VERSE SECTION ========== -->
+<section id="verse-section">
+<h2>🏹 VERSE CONTENT</h2>
+<p><strong>Source:</strong> BG 3.2</p>
+<p><strong>Date:</strong> February 25, 2026</p>
 
-  <div class="cosmic-box">
-    <div class="cosmic-item tithi">
-      <div class="label">Tithi</div>
-      <strong>Navamī</strong><br>
-      <small>9th lunar day | Śukla Pakṣa<br>
-      Color: #ff9933 | Power of completion, fulfillment<br>
-      The fullness before waning—what you complete today echoes into dissolution</small>
-    </div>
-    <div class="cosmic-item nakshatra">
-      <div class="label">Nakṣatra</div>
-      <strong>Mrigaśīrṣa</strong> 🦌<br>
-      <small>15°36' Taurus<br>
-      Color: #00ff00 | Deity: Soma (divine nectar)<br>
-      The restless seeker—never satisfied, always running toward the infinite</small>
-    </div>
-    <div class="cosmic-item yoga">
-      <div class="label">Yoga</div>
-      <strong>Taitila</strong><br>
-      <small>Tāḍana: To beat, strike, separate<br>
-      Color: #66d9ef | The separator—cutting through confusion with precision</small>
-    </div>
-    <div class="cosmic-item weekday">
-      <div class="label">Varṇa</div>
-      <strong>Budhavāra</strong> ☿<br>
-      <small>Wednesday | Mercury's day<br>
-      Communication, intellect, clarity of speech</small>
-    </div>
-  </div>
+<h3>Sanskrit:</h3>
+<p class="sanskrit">व्यामिश्रेणेव वाक्येन बुद्धिं मोहयसीव मे ।</p>
+<p class="sanskrit">तदेकं वद निश्चित्य येन श्रेयोऽहमाप्नुयाम् ॥ ३.२ ॥</p>
 
-  <div class="verse-box">
-    <p class="sanskrit">
-      व्यामिश्रेणेव वाक्येन बुद्धिं मोहयसीव मे ।<br>
-      तदेकं वद निश्चित्य येन श्रेयोऽहमाप्नुयाम् ॥ ३.२ ॥
-    </p>
-    <p class="transliteration">
-      vyāmiśreṇeva vākyena<br>
-      buddhiṁ mohayasi iva me<br>
-      tad ekaṁ vadi niścitya<br>
-      yena śreyo 'ham āpnuyām
-    </p>
-    <p class="translation">
-      "My intelligence is confused by Your ambiguous words. Therefore please tell me decisively one path by which I may attain the highest good."
-    </p>
-    <p class="purport">
-      Arjuna here represents the sincere student who, hearing two seemingly contradictory paths—renunciation of action and performance of action with detachment—finds his <span class="term">buddhi</span> (discriminating intelligence) bewildered. He is not complaining from laziness; he is seeking <span class="term">niścitya</span> (definite, decisive) knowledge.
-    </p>
-    <p class="purport">
-      The word <span class="term">vyāmiśreṇa</span> means "mixed" or "confused"—like a potion with contradictory ingredients. Arjuna recognizes that both paths lead to liberation, but their simultaneous presentation creates intellectual <span class="term">moha</span> (bewilderment).
-    </p>
-    <p class="purport">
-      His request is profound: "Tell me <span class="term">eka</span> (ONE)"—the singular path, the essence stripped of apparent contradiction. This is not impatience; this is the yoga of <span class="term">sāṅkhya</span> demanding clarity.
-    </p>
-    <p class="purport">
-      The Kṛṣṇa will answer: there is no contradiction. <span class="term">Karma-yoga</span> with consciousness of the Supreme IS renunciation. Action becomes liberation when offered to the Divine. The deer seeks Soma—the seeker seeks the Supreme. Neither finds satisfaction in anything less. What will you seek today?
-    </p>
-  </div>
+<h3>Transliteration:</h3>
+<p>vyāmiśreṇeva vākyena<br>
+buddhiṁ mohayasi iva me<br>
+tad ekaṁ vadi niścitya<br>
+yena śreyo 'ham āpnuyām</p>
 
-  <div class="system-notes">
-    >>> SYSTEM NOTES <<<br>
-    • Verse: BG 3.2 | Chapter: Karma Yoga<br>
-    • Cosmic Energy: Navamī/Śukla (completion energy) + Mrigaśīrṣa (restless seeking)<br>
-    • The Question Seeker seeks clarity. The Answer: One path, two wings. Action + Devotion.<br>
-    • Editorial: Arjuna's demand for ONE path mirrors Gaudiya emphasis—shelter of lotus feet.<br>
-    • Dig Deeper: The term 'vyāmiśreṇa' (confused/mixed) appears here. Budhi confusion vs clarity.<br>
-    >>> END NOTES <<<
-  </div>
-</body>
-</html>
+<h3>Translation:</h3>
+<p>"My intelligence is confused by Your ambiguous words. Therefore please tell me decisively one path by which I may attain the highest good."</p>
+
+<h3>Commentary:</h3>
+<p>Arjuna here represents the sincere student who, hearing two seemingly contradictory paths—renunciation of action and performance of action with detachment—finds his <strong>buddhi</strong> (discriminating intelligence) bewildered. He is not complaining from laziness; he is seeking <strong>niścitya</strong> (definite, decisive) knowledge.</p>
+
+<p>The word <strong>vyāmiśreṇa</strong> means "mixed" or "confused"—like a potion with contradictory ingredients. Arjuna recognizes that both paths lead to liberation, but their simultaneous presentation creates intellectual <strong>moha</strong> (bewilderment).</p>
+
+<p>His request is profound: "Tell me <strong>eka</strong> (ONE)"—the singular path, the essence stripped of apparent contradiction. This is not impatience; this is the yoga of <strong>sāṅkhya</strong> demanding clarity.</p>
+
+<p>Kṛṣṇa will answer: there is no contradiction. <strong>Karma-yoga</strong> with consciousness of the Supreme IS renunciation. Action becomes liberation when offered to the Divine. The deer seeks Soma—the seeker seeks the Supreme. Neither finds satisfaction in anything less. What will you seek today?</p>
+
+<h3>Yoga Sutra Connection:</h3>
+<p>🔥 <strong>YS 1.32</strong> — <em>tat-pratiṣedhārtham eka-tattva-abhyāsaḥ</em> — "For the removal of these [obstacles], practice of one truth."</p>
+<p>The answer to Arjuna's question: One-pointed focus cuts through the confusion of multiple paths.</p>
+
+<h3>Sanskrit Terms:</h3>
+<ul>
+<li><strong>Vyāmiśreṇa</strong> (past passive participle, instrumental singular) — mixed, confused, contradictory; from vi-ā-miśr (to mix thoroughly)</li>
+<li><strong>Vākyena</strong> (neuter noun, instrumental singular) — by speech, by words; from vac (to speak)</li>
+<li><strong>Buddhiḥ</strong> (feminine noun, accusative singular) — intelligence, discernment, the faculty of discrimination</li>
+<li><strong>Moha</strong> (masculine noun) — delusion, bewilderment, loss of discrimination; from muh (to become confused)</li>
+<li><strong>Niścitya</strong> (gerundive) — to be decided, to be determined; definite, decisive; from ni-ci (to ascertain completely)</li>
+<li><strong>Śreyaḥ</strong> (noun, nominative singular) — the highest good, ultimate benefit; comparative of śreyas (better/best)</li>
+<li><strong>Āpnuyām</strong> (verb, optative first person singular) — may I attain, may I reach; from āp (to reach, obtain)</li>
+</ul>
+
+<h3>Tags:</h3>
+<p>#karmayoga #action #knowledge #arjuna #mrigashirsha #navami #confusion #clarity</p>
+</section>
+
+<!-- ========== COSMIC SECTION ========== -->
+<section id="cosmic-section">
+<h2>🔥 COSMIC CONTEXT</h2>
+<p><strong>Date:</strong> February 25, 2026</p>
+<p><strong>Pakṣa:</strong> Śukla Pakṣa (Waxing Moon)</p>
+<p><strong>Samvat:</strong> Vikram Samvat 2082, Phālguna</p>
+
+<h3>Panchāṅga Data:</h3>
+<ul>
+<li><strong>Tithi:</strong> Navamī (Feb 24 06:21 PM – Feb 25 04:11 PM)</li>
+<li><strong>Nakṣatra:</strong> Mrigaśīrṣa (Feb 25 03:08 AM onward)</li>
+<li><strong>Yoga:</strong> Taitila (benevolent)</li>
+<li><strong>Karaṇa:</strong> Śakuni → Tibet ṭha → Garaja</li>
+<li><strong>Moon:</strong> Mithuna Rāśi (Gemini) after 02:24 PM</li>
+<li><strong>Sun:</strong> Kumbha Rāśi (Aquarius)</li>
+<li><strong>Rāhu Kāla:</strong> 12:21 PM – 01:45 PM</li>
+<li><strong>Day:</strong> Budhavāra (Wednesday)</li>
+</ul>
+
+<h3>Special Observances:</h3>
+<p>Budhavāra — Mercury's day. The day of intellect, communication, and clear speech. Arjuna asks for clarity on Wednesday—the cosmic timing supports the question: "Tell me ONE path, decisively."</p>
+
+<h3>Cosmic Interpretation:</h3>
+<p><strong>Navamī</strong> — the ninth day, the number of completion and fulfillment. The fullness before the turning. What is complete must be offered; what is complete cannot be grasped. The question of ONE path arises when multiplicity has been exhausted.</p>
+
+<p><strong>Mrigaśīrṣa</strong> — the deer's head, the restless seeker of Soma (divine nectar). Never satisfied, always running toward the infinite. This is the seeker after the ONE—through forests of multiplicity, always thirsty for the essential.</p>
+
+<p><strong>Taitila Yoga</strong> — the separator, the one who cuts through. From tāḍana (to strike). This yoga supports decisions, clarity, cutting through confusion. The sword that severs the tangled knot of contradictory teachings.</p>
+
+<h3>Verse Selection Rationale:</h3>
+<p><strong>BG 3.2</strong> — <em>vyāmiśreṇeva vākyena...</em></p>
+
+<p>Arjuna's confusion on Day 2 of Chapter 3: yesterday he asked WHY act; today he asks for ONE path. The Navamī energy (fulfillment) meets the Mrigaśīrṣa energy (restless seeking). Arjuna is the deer running—he has heard enough philosophy. Taitila yoga provides the instrument: cut through the mixture. Find the ONE.</p>
+
+<h3>System Notes:</h3>
+<ul>
+<li><strong>[RĀHU KĀLA ALERT]</strong> 12:21 PM – 01:45 PM | Midday shadow window</li>
+<li><strong>[NAVAMĪ PRINCIPLE]</strong> What is complete is ready to be offered</li>
+<li><strong>[MRIGAŚĪRṢA INFO]</strong> The 5th nakṣatra, deity: Soma. The seeker never rests.</li>
+<li><strong>[TAITILA YOGA]</strong> Favorable for decisive action, legal matters, separation from confusion</li>
+</ul>
+</section>
+
+<!-- ========== METADATA ========== -->
+<section id="metadata">
+<h2>📊 METADATA (for verses-index.json)</h2>
+<ul>
+<li><strong>Date:</strong> 2026-02-25</li>
+<li><strong>Source:</strong> BG 3.2</li>
+<li><strong>Chapter:</strong> 3</li>
+<li><strong>Verse:</strong> 2</li>
+<li><strong>Text:</strong> Bhagavad Gita</li>
+<li><strong>Tithi:</strong> Navamī</li>
+<li><strong>Nakṣatra:</strong> Mrigaśīrṣa</li>
+<li><strong>Yoga:</strong> Taitila</li>
+<li><strong>Themes:</strong> ["karmayoga", "clarity", "confusion", "one-path", "seeking"]</li>
+<li><strong>Tags:</strong> ["#karmayoga", "#buddhi", "#moha", "#mrigashirsha", "#navami", "#taitila"]</li>
+<li><strong>Yoga Sutra:</strong> YS 1.32</li>
+<li><strong>Sankhya Concepts:</strong> ["buddhi", "moha", "viveka"]</li>
+<li><strong>Key Terms:</strong> ["vyāmiśreṇa", "buddhi", "moha", "niścitya", "eka", "śreyaḥ", "āpnuyām"]</li>
+</ul>
+</section>
+
+</div>
