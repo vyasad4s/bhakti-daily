@@ -2,6 +2,115 @@
   "lastUpdated": "2026-02-26",
   "terms": [
     {
+      "term": "Vyāmiśreṇa",
+      "transliteration": "vyāmiśreṇa",
+      "type": "past passive participle, instrumental singular neuter",
+      "definition": "Mixed, confused, contradictory; from vi-ā-miśr (to mix thoroughly)",
+      "roots": "vi-ā-miśr (to mix thoroughly)",
+      "references": [
+        "BG 3.2"
+      ],
+      "themes": [
+        "confusion",
+        "mixture",
+        "contradiction"
+      ]
+    },
+    {
+      "term": "Vākyena",
+      "transliteration": "vākyena",
+      "type": "neuter noun, instrumental singular",
+      "definition": "By speech, by words; from vac (to speak)",
+      "roots": "from vac (to speak)",
+      "references": [
+        "BG 3.2"
+      ],
+      "themes": [
+        "speech",
+        "words",
+        "communication"
+      ]
+    },
+    {
+      "term": "Buddhiḥ",
+      "transliteration": "buddhiḥ",
+      "type": "feminine noun, accusative singular",
+      "definition": "Intelligence, discernment, the faculty of discrimination; the interface between puruṣa and prakṛti",
+      "roots": "from budh (to wake up, be aware of)",
+      "references": [
+        "BG 3.2"
+      ],
+      "themes": [
+        "intelligence",
+        "discernment",
+        "discrimination",
+        "wisdom"
+      ]
+    },
+    {
+      "term": "Moha",
+      "transliteration": "moha",
+      "type": "masculine noun",
+      "definition": "Delusion, bewilderment, loss of discrimination; from muh (to become confused)",
+      "roots": "from muh (to become confused)",
+      "references": [
+        "BG 3.2"
+      ],
+      "themes": [
+        "delusion",
+        "bewilderment",
+        "confusion",
+        "ignorance"
+      ]
+    },
+    {
+      "term": "Niścitya",
+      "transliteration": "niścitya",
+      "type": "gerundive",
+      "definition": "To be decided, to be determined; definite, decisive; from ni-ci (to ascertain completely)",
+      "roots": "from ni-ci (to ascertain completely)",
+      "references": [
+        "BG 3.2"
+      ],
+      "themes": [
+        "decision",
+        "determination",
+        "certainty",
+        "clarity"
+      ]
+    },
+    {
+      "term": "Śreyaḥ",
+      "transliteration": "śreyaḥ",
+      "type": "noun, nominative singular neuter",
+      "definition": "The highest good, ultimate benefit; comparative of śreyas (better/best)",
+      "roots": "from śreyas (better/best, comparative)",
+      "references": [
+        "BG 3.2"
+      ],
+      "themes": [
+        "highest-good",
+        "benefit",
+        "ultimate",
+        "liberation"
+      ]
+    },
+    {
+      "term": "Āpnuyām",
+      "transliteration": "āpnuyām",
+      "type": "verb, optative first person singular",
+      "definition": "May I attain, may I reach; from āp (to reach, obtain)",
+      "roots": "from āp (to reach, obtain)",
+      "references": [
+        "BG 3.2"
+      ],
+      "themes": [
+        "attainment",
+        "reaching",
+        "aspiration"
+      ]
+    },
+    {
       "term": "Dvi-vidhā",
       "transliteration": "dvi-vidhā",
       "type": "compound, nominative singular feminine",
