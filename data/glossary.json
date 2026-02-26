@@ -1,14 +1,114 @@
 {
-  "lastUpdated": "2026-02-21",
+  "lastUpdated": "2026-02-26",
   "terms": [
+    {
+      "term": "Dvi-vidhā",
+      "transliteration": "dvi-vidhā",
+      "type": "compound, nominative singular feminine",
+      "definition": "Two-fold, of two kinds; dvi (two) + vidhā (manner/kind)",
+      "roots": "dvi (two) + vidhā (manner, kind)",
+      "references": [
+        "BG 3.3"
+      ],
+      "themes": [
+        "duality",
+        "paths",
+        "classification"
+      ]
+    },
+    {
+      "term": "Niṣṭhā",
+      "transliteration": "niṣṭhā",
+      "type": "feminine noun",
+      "definition": "Firm standing, devotion, faith, fixed concentration; from ni-sthā (to stand firmly)",
+      "roots": "from ni-sthā (to stand firmly)",
+      "references": [
+        "BG 3.3"
+      ],
+      "themes": [
+        "faith",
+        "devotion",
+        "firmness",
+        "commitment"
+      ]
+    },
+    {
+      "term": "Jñāna-yoga",
+      "transliteration": "jñāna-yoga",
+      "type": "masculine compound",
+      "definition": "The yoga of knowledge; jñāna (knowledge) + yoga (union/discipline). The path of Sāṅkhyas, analytical understanding of spirit and matter.",
+      "roots": "jñāna (knowledge) + yoga (union, discipline)",
+      "references": [
+        "BG 3.3"
+      ],
+      "themes": [
+        "knowledge",
+        "path",
+        "sankhya",
+        "realization"
+      ]
+    },
+    {
+      "term": "Sāṅkhyānām",
+      "transliteration": "sāṅkhyānām",
+      "type": "genitive plural masculine",
+      "definition": "Of the Sāṅkhyas, the empiric philosophers; followers of Sāṅkhya who analyze spirit and matter.",
+      "roots": "from Sāṅkhya (the analytical philosophical system)",
+      "references": [
+        "BG 3.3"
+      ],
+      "themes": [
+        "sankhya",
+        "philosophers",
+        "empiricists",
+        "analysis"
+      ]
+    },
+    {
+      "term": "Karma-yoga",
+      "transliteration": "karma-yoga",
+      "type": "masculine compound",
+      "definition": "The yoga of action; karma (action) + yoga (discipline). Working in Kṛṣṇa consciousness, the path of devotional service.",
+      "roots": "karma (action) + yoga (union, discipline)",
+      "references": [
+        "BG 3.3"
+      ],
+      "themes": [
+        "action",
+        "path",
+        "devotional-service",
+        "karma"
+      ]
+    },
+    {
+      "term": "Yoginām",
+      "transliteration": "yoginām",
+      "type": "genitive plural masculine",
+      "definition": "Of the yogīs, of those devoted to yoga practice; working in Kṛṣṇa consciousness.",
+      "roots": "from yogin (one who practices yoga)",
+      "references": [
+        "BG 3.3"
+      ],
+      "themes": [
+        "yogis",
+        "practitioners",
+        "devotees"
+      ]
+    },
     {
       "term": "Ananyāḥ",
       "transliteration": "ananyāḥ",
       "type": "adjective",
       "definition": "Without other, exclusive; undivided attention. The mind not fragmented between desires. Essential for exclusive devotion (ananya-bhakti).",
       "roots": "from an- (without) + anya (other)",
-      "references": ["BG 9.22"],
-      "themes": ["bhakti", "concentration", "exclusive-devotion"]
+      "references": [
+        "BG 9.22"
+      ],
+      "themes": [
+        "bhakti",
+        "concentration",
+        "exclusive-devotion"
+      ]
     },
     {
       "term": "Paryupāsate",
@@ -16,8 +116,14 @@
       "type": "verb",
       "definition": "To serve with devotion, to worship completely. From pari (completely, around) + upāsana (sitting nearby, residing in).",
       "roots": "from pari + upāsana",
-      "references": ["BG 9.22"],
-      "themes": ["bhakti", "service", "worship"]
+      "references": [
+        "BG 9.22"
+      ],
+      "themes": [
+        "bhakti",
+        "service",
+        "worship"
+      ]
     },
     {
       "term": "nigṛhītāni",
@@ -25,8 +131,15 @@
       "type": "past passive participle (nominative plural neuter)",
       "definition": "Restrained, controlled, held back. The senses directed, not suppressed. Wild horses held by reins, not blindfolded.",
       "roots": "from ni-grah (to hold down, check)",
-      "references": ["BG 2.68"],
-      "themes": ["restraint", "direction", "control", "senses"]
+      "references": [
+        "BG 2.68"
+      ],
+      "themes": [
+        "restraint",
+        "direction",
+        "control",
+        "senses"
+      ]
     },
     {
       "term": "pratiṣṭhitā",
@@ -34,8 +147,15 @@
       "type": "feminine adjective",
       "definition": "Established, founded, standing firm. Not fluctuating, aspirational, or conditional — absolutely stable.",
       "roots": "from prati-sthā (to stand firm)",
-      "references": ["BG 2.68"],
-      "themes": ["established", "stable", "founded", "firm"]
+      "references": [
+        "BG 2.68"
+      ],
+      "themes": [
+        "established",
+        "stable",
+        "founded",
+        "firm"
+      ]
     },
     {
       "term": "niśā",
@@ -43,8 +163,15 @@
       "type": "feminine noun",
       "definition": "Night, darkness, state of unknowing. For material beings: night is spiritual perception. For the sage: night is material existence.",
       "roots": "from niś (to become dark)",
-      "references": ["BG 2.69"],
-      "themes": ["night", "darkness", "unknowing", "perceptual-inversion"]
+      "references": [
+        "BG 2.69"
+      ],
+      "themes": [
+        "night",
+        "darkness",
+        "unknowing",
+        "perceptual-inversion"
+      ]
     },
     {
       "term": "saṁyamī",
@@ -52,8 +179,15 @@
       "type": "masculine noun",
       "definition": "One who practices self-control; literally 'one who holds together.' Not suppression but integration.",
       "roots": "from saṁyama (restraint, holding together)",
-      "references": ["BG 2.69"],
-      "themes": ["self-control", "restraint", "integration", "holding-together"]
+      "references": [
+        "BG 2.69"
+      ],
+      "themes": [
+        "self-control",
+        "restraint",
+        "integration",
+        "holding-together"
+      ]
     },
     {
       "term": "jāgarti",
@@ -61,8 +195,15 @@
       "type": "verb (3rd person singular)",
       "definition": "Is awake, is alert. The sage's state — not biological wakefulness but conscious presence.",
       "roots": "from jāgṛ (to wake, be vigilant)",
-      "references": ["BG 2.69"],
-      "themes": ["awakening", "vigilance", "presence", "awareness"]
+      "references": [
+        "BG 2.69"
+      ],
+      "themes": [
+        "awakening",
+        "vigilance",
+        "presence",
+        "awareness"
+      ]
     },
     {
       "term": "paśyataḥ",
@@ -70,8 +211,15 @@
       "type": "present active participle (genitive singular)",
       "definition": "Of one who sees, of the seer. The sage whose perception is purified — sees what the world misses.",
       "roots": "from paś (to see)",
-      "references": ["BG 2.69"],
-      "themes": ["seeing", "seer", "perception", "vision"]
+      "references": [
+        "BG 2.69"
+      ],
+      "themes": [
+        "seeing",
+        "seer",
+        "perception",
+        "vision"
+      ]
     },
     {
       "term": "āpūryamāṇam",
@@ -79,8 +227,15 @@
       "type": "present passive participle",
       "definition": "Always being filled, constantly replenished. Not accumulation but acceptance without agitation.",
       "roots": "from ā-pṝ (to fill completely)",
-      "references": ["BG 2.70"],
-      "themes": ["fullness", "contentment", "ocean", "receiving"]
+      "references": [
+        "BG 2.70"
+      ],
+      "themes": [
+        "fullness",
+        "contentment",
+        "ocean",
+        "receiving"
+      ]
     },
     {
       "term": "acala-pratiṣṭham",
@@ -88,8 +243,15 @@
       "type": "neuter adjective compound",
       "definition": "Steadily situated, immovably established. The ocean's stability — not rigid, but unshakeable presence.",
       "roots": "acala (unmoving) + pratiṣṭha (foundation)",
-      "references": ["BG 2.70"],
-      "themes": ["stability", "foundation", "steadiness", "unshakeable"]
+      "references": [
+        "BG 2.70"
+      ],
+      "themes": [
+        "stability",
+        "foundation",
+        "steadiness",
+        "unshakeable"
+      ]
     },
     {
       "term": "samudra",
@@ -97,8 +259,15 @@
       "type": "masculine noun",
       "definition": "Ocean, the gathering-place of waters. Not merely large volume but wholeness — nothing can be added to or taken from that which is already full.",
       "roots": "sam (together) + udra (water)",
-      "references": ["BG 2.70"],
-      "themes": ["ocean", "fullness", "completeness", "contentment"]
+      "references": [
+        "BG 2.70"
+      ],
+      "themes": [
+        "ocean",
+        "fullness",
+        "completeness",
+        "contentment"
+      ]
     },
     {
       "term": "kāma-kāmī",
@@ -106,8 +275,15 @@
       "type": "masculine noun compound",
       "definition": "One who desires to fulfill desires; the tautology reveals the futility. Desire chasing desire creates an infinite loop.",
       "roots": "kāma (desire) + kāma (desire) — recursive trap",
-      "references": ["BG 2.70"],
-      "themes": ["desire", "futility", "recursion", "trap"]
+      "references": [
+        "BG 2.70"
+      ],
+      "themes": [
+        "desire",
+        "futility",
+        "recursion",
+        "trap"
+      ]
     },
     {
       "term": "śānti",
@@ -115,8 +291,15 @@
       "type": "feminine noun",
       "definition": "Peace, tranquility. Not absence but the natural state revealed when agitation ceases.",
       "roots": "from śam (to cease, become calm)",
-      "references": ["BG 2.70"],
-      "themes": ["peace", "stillness", "cessation", "calm"]
+      "references": [
+        "BG 2.70"
+      ],
+      "themes": [
+        "peace",
+        "stillness",
+        "cessation",
+        "calm"
+      ]
     }
   ]
 }
