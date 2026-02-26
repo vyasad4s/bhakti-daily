@@ -2,6 +2,100 @@
   "lastUpdated": "2026-02-26",
   "terms": [
     {
+      "term": "Eṣā",
+      "transliteration": "eṣā",
+      "type": "pronoun, feminine nominative singular",
+      "definition": "This; referring to the previously described state",
+      "roots": "demonstrative pronoun",
+      "references": [
+        "BG 2.72"
+      ],
+      "themes": [
+        "reference",
+        "this",
+        "demonstrative"
+      ]
+    },
+    {
+      "term": "Brāhmī",
+      "transliteration": "brāhmī",
+      "type": "adjective, feminine nominative singular",
+      "definition": "Divine, pertaining to Brahman; the state of being established in ultimate reality",
+      "roots": "from Brahman (the Absolute)",
+      "references": [
+        "BG 2.72"
+      ],
+      "themes": [
+        "brahman",
+        "divine",
+        "state",
+        "reality"
+      ]
+    },
+    {
+      "term": "Sthitiḥ",
+      "transliteration": "sthitiḥ",
+      "type": "feminine noun, nominative singular",
+      "definition": "State, position, establishment; from sthā (to stand)",
+      "roots": "from sthā (to stand)",
+      "references": [
+        "BG 2.72"
+      ],
+      "themes": [
+        "state",
+        "establishment",
+        "position",
+        "standing"
+      ]
+    },
+    {
+      "term": "Vimuhyati",
+      "transliteration": "vimuhyati",
+      "type": "verb, present indicative 3rd person singular",
+      "definition": "Becomes deluded; vi-muh (to be thoroughly confused); negated—never deluded",
+      "roots": "from vi-muh (to be thoroughly confused, deluded)",
+      "references": [
+        "BG 2.72"
+      ],
+      "themes": [
+        "delusion",
+        "confusion",
+        "bewilderment"
+      ]
+    },
+    {
+      "term": "Anta-kāle",
+      "transliteration": "anta-kāle",
+      "type": "compound, masculine locative singular",
+      "definition": "At the time of death; anta (end) + kāla (time). Also: anta-kāla (end-time)",
+      "roots": "anta (end) + kāla (time)",
+      "references": [
+        "BG 2.72"
+      ],
+      "themes": [
+        "death",
+        "end-time",
+        "final-moment",
+        "transition"
+      ]
+    },
+    {
+      "term": "Nirvāṇa",
+      "transliteration": "nirvāṇa",
+      "type": "neuter noun, nominative singular",
+      "definition": "Extinction, liberation from material existence; nir + vāṇa (blowing out of conditioned existence)",
+      "roots": "nir (out, away) + vāṇa (blowing)",
+      "references": [
+        "BG 2.72"
+      ],
+      "themes": [
+        "liberation",
+        "extinction",
+        "moksha",
+        "cessation"
+      ]
+    },
+    {
       "term": "Jyāyasī",
       "transliteration": "jyāyasī",
       "type": "comparative adjective",
