@@ -1,6 +1,21 @@
 {
   "verses": [
     {
+      "date": "2026-02-26",
+      "source": "BG 3.3",
+      "chapter": 3,
+      "verse": 3,
+      "text": "Bhagavad Gita",
+      "tithi": "Saptamī → Aṣṭamī",
+      "nakshatra": "Ārdrā → Punarvasu",
+      "yoga": "Vidaal",
+      "themes": ["twopaths", "jnanayoga", "karmayoga", "sankhya", "complementarity", "storm-to-shelter"],
+      "tags": ["#twopaths", "#karmayoga", "#jnanayoga", "#sankhya", "#ardra", "#punarvasu", "#saptami", "#guruvāra"],
+      "yogaSutraConnection": "YS 1.23",
+      "sankhyaConcepts": ["jnana-yoga", "karma-yoga", "dvi-vidha", "niṣṭhā"],
+      "keyTerms": ["dvi-vidhā", "niṣṭhā", "jñāna-yoga", "sāṅkhyānām", "karma-yoga", "yoginām"]
+    },
+    {
       "date": "2026-02-25",
       "source": "BG 3.2",
       "chapter": 3,
@@ -29,37 +44,7 @@
       "yogaSutraConnection": "YS 2.1",
       "sankhyaConcepts": ["karma-yoga", "jnana-vs-karma", "engaged-renunciation"],
       "keyTerms": ["jyāyasī", "mata", "ghora", "niyojayasi", "keśava"]
-    },
-    {
-      "date": "2026-02-23",
-      "source": "BG 2.72",
-      "chapter": 2,
-      "verse": 72,
-      "text": "Bhagavad Gita",
-      "tithi": "Saptamī → Aṣṭamī",
-      "nakshatra": "Kṛttikā",
-      "yoga": "Indra",
-      "themes": ["brahmisthiti", "liberation", "nirvana", "completion", "transcendence", "establishment"],
-      "tags": ["#brahmisthiti", "#liberation", "#nirvana", "#completion", "#krittika", "#indra", "#saptami", "#somavara"],
-      "yogaSutraConnection": "YS 1.3",
-      "sankhyaConcepts": ["brahman-realization", "vimukti", "sthiti", "puruṣa-kaivalya"],
-      "keyTerms": ["eṣā", "brāhmī", "sthitiḥ", "vimuhyati", "anta-kāle", "nirvāṇa"]
-    },
-    {
-      "date": "2026-02-22",
-      "source": "BG 2.71",
-      "chapter": 2,
-      "verse": 71,
-      "text": "Bhagavad Gita",
-      "tithi": "Ṣaṣṭhī → Saptamī",
-      "nakshatra": "Bharaṇī",
-      "yoga": "Brahma",
-      "themes": ["renunciation", "vairagya", "desirelessness", "egolessness", "peace", "non-attachment"],
-      "tags": ["#vairagya", "#renunciation", "#desirelessness", "#egolessness", "#peace", "#brahmayoga", "#bharani", "#shasti"],
-      "yogaSutraConnection": "YS 1.15",
-      "sankhyaConcepts": ["vairagya", "renunciation", "vitṛṣṇa", "devoid-of-craving"],
-      "keyTerms": ["vihāya", "niḥspṛhaḥ", "nirmamaḥ", "nirahaṅkāraḥ", "adhigacchati"]
     }
   ],
-  "lastUpdated": "2026-02-25"
+  "lastUpdated": "2026-02-26"
 }
