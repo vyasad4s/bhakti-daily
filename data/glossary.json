@@ -2,6 +2,84 @@
   "lastUpdated": "2026-02-26",
   "terms": [
     {
+      "term": "Jyāyasī",
+      "transliteration": "jyāyasī",
+      "type": "comparative adjective",
+      "definition": "Better, superior; the comparative of jyāya (elder/greater)",
+      "roots": "from jyāya (elder, greater) — comparative form",
+      "references": [
+        "BG 3.1"
+      ],
+      "themes": [
+        "superiority",
+        "comparison",
+        "better"
+      ]
+    },
+    {
+      "term": "Mata",
+      "transliteration": "mata",
+      "type": "feminine noun",
+      "definition": "Thought, opinion, doctrine; from man (to think)",
+      "roots": "from man (to think)",
+      "references": [
+        "BG 3.1"
+      ],
+      "themes": [
+        "thought",
+        "opinion",
+        "doctrine"
+      ]
+    },
+    {
+      "term": "Ghora",
+      "transliteration": "ghora",
+      "type": "adjective",
+      "definition": "Terrible, dreadful, fierce; the quality of the battlefield",
+      "roots": "from ghor (to be terrible, fierce)",
+      "references": [
+        "BG 3.1"
+      ],
+      "themes": [
+        "terrible",
+        "fierce",
+        "dreadful",
+        "battle"
+      ]
+    },
+    {
+      "term": "Niyojayasi",
+      "transliteration": "niyojayasi",
+      "type": "verb, causative present active 2nd person singular",
+      "definition": "You cause to engage, you employ, you engage; from yuj (to yoke)",
+      "roots": "from ni-yuj (to engage, employ) — causative form",
+      "references": [
+        "BG 3.1"
+      ],
+      "themes": [
+        "engagement",
+        "employment",
+        "action",
+        "yoking"
+      ]
+    },
+    {
+      "term": "Keśava",
+      "transliteration": "keśava",
+      "type": "vocative masculine noun",
+      "definition": "O Kṛṣṇa; keśa (hair) + va (possessor); literally 'one with beautiful hair'",
+      "roots": "keśa (hair) + va (possessor)",
+      "references": [
+        "BG 3.1"
+      ],
+      "themes": [
+        "krishna",
+        "address",
+        "beauty",
+        "hair"
+      ]
+    },
+    {
       "term": "Vyāmiśreṇa",
       "transliteration": "vyāmiśreṇa",
       "type": "past passive participle, instrumental singular neuter",
