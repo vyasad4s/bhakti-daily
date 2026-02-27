@@ -1,6 +1,21 @@
 {
   "verses": [
     {
+      "date": "2026-02-27",
+      "source": "BG 3.4",
+      "chapter": 3,
+      "verse": 4,
+      "text": "Bhagavad Gita",
+      "tithi": "Aṣṭamī → Navamī",
+      "nakshatra": "Punarvasu → Puṣya",
+      "yoga": "Bava",
+      "themes": ["renunciation", "karma", "naishkarmya", "siddhi", "avoidance", "engagement"],
+      "tags": ["#renunciation", "#karma", "#naishkarmya", "#action", "#punarvasu", "#ashtami", "#shukravara"],
+      "yogaSutraConnection": "YS 1.12",
+      "sankhyaConcepts": ["naishkarmya", "sannyasa", "action-without-attachment"],
+      "keyTerms": ["anārambhāt", "naiṣkarmya", "puruṣaḥ", "aśnute", "sannyasanāt", "siddhiḥ", "samadhigacchati"]
+    },
+    {
       "date": "2026-02-26",
       "source": "BG 3.3",
       "chapter": 3,
@@ -29,22 +44,7 @@
       "yogaSutraConnection": "YS 1.32",
       "sankhyaConcepts": ["buddhi", "moha", "viveka"],
       "keyTerms": ["vyāmiśreṇa", "buddhi", "moha", "niścitya", "eka", "śreyaḥ", "āpnuyām"]
-    },
-    {
-      "date": "2026-02-24",
-      "source": "BG 3.1",
-      "chapter": 3,
-      "verse": 1,
-      "text": "Bhagavad Gita",
-      "tithi": "Aṣṭamī → Navamī",
-      "nakshatra": "Rohinī",
-      "yoga": "Vaidhṛti",
-      "themes": ["karmayoga", "action", "knowledge", "arjuna", "growth", "engagement"],
-      "tags": ["#karmayoga", "#action", "#knowledge", "#arjuna", "#rohini", "#ashtami", "#mangalavara"],
-      "yogaSutraConnection": "YS 2.1",
-      "sankhyaConcepts": ["karma-yoga", "jnana-vs-karma", "engaged-renunciation"],
-      "keyTerms": ["jyāyasī", "mata", "ghora", "niyojayasi", "keśava"]
     }
   ],
-  "lastUpdated": "2026-02-26"
+  "lastUpdated": "2026-02-27"
 }
