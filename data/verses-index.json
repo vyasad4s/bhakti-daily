@@ -1,6 +1,21 @@
 {
   "verses": [
     {
+      "date": "2026-02-28",
+      "source": "BG 3.5",
+      "chapter": 3,
+      "verse": 5,
+      "text": "Bhagavad Gita",
+      "tithi": "Dwadashi → Trayodashi",
+      "nakshatra": "Puṣya → Āśleṣa",
+      "yoga": "Śobhana",
+      "themes": ["action", "gunas", "prakriti", "compulsion", "pradosha"],
+      "tags": ["#action", "#gunas", "#prakriti", "#pradosha", "#pushya"],
+      "yogaSutraConnection": "YS 2.2",
+      "sankhyaConcepts": ["prakriti", "gunas", "akarma"],
+      "keyTerms": ["kṣaṇam", "akarma-kṛt", "avaśaḥ", "prakṛti-jaiḥ", "guṇaiḥ"]
+    },
+    {
       "date": "2026-02-27",
       "source": "BG 3.4",
       "chapter": 3,
@@ -29,22 +44,7 @@
       "yogaSutraConnection": "YS 1.23",
       "sankhyaConcepts": ["jnana-yoga", "karma-yoga", "dvi-vidha", "niṣṭhā"],
       "keyTerms": ["dvi-vidhā", "niṣṭhā", "jñāna-yoga", "sāṅkhyānām", "karma-yoga", "yoginām"]
-    },
-    {
-      "date": "2026-02-25",
-      "source": "BG 3.2",
-      "chapter": 3,
-      "verse": 2,
-      "text": "Bhagavad Gita",
-      "tithi": "Navamī",
-      "nakshatra": "Mrigaśīrṣa",
-      "yoga": "Taitila",
-      "themes": ["karmayoga", "clarity", "confusion", "one-path", "seeking"],
-      "tags": ["#karmayoga", "#buddhi", "#moha", "#mrigashirsha", "#navami", "#taitila"],
-      "yogaSutraConnection": "YS 1.32",
-      "sankhyaConcepts": ["buddhi", "moha", "viveka"],
-      "keyTerms": ["vyāmiśreṇa", "buddhi", "moha", "niścitya", "eka", "śreyaḥ", "āpnuyām"]
     }
   ],
-  "lastUpdated": "2026-02-27"
+  "lastUpdated": "2026-02-28"
 }
