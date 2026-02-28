@@ -2,6 +2,70 @@
   "lastUpdated": "2026-02-28",
   "terms": [
     {
+      "term": "Prasabham",
+      "transliteration": "prasabham",
+      "type": "adverb",
+      "definition": "Forcibly, violently, by force; the senses drag the mind against its will. The overwhelming power of prakṛti.",
+      "roots": "from prasabha (violence, force)",
+      "references": [
+        "BG 2.60"
+      ],
+      "themes": [
+        "compulsion",
+        "force",
+        "violence",
+        "dragging-away"
+      ]
+    },
+    {
+      "term": "Pramāthīni",
+      "transliteration": "pramāthīni",
+      "type": "adjective, nominative plural neuter",
+      "definition": "Agitating, turbulent, violently active; from pra + math, 'to churn violently'. The senses as wild forces.",
+      "roots": "pra (intensive) + math (to churn, agitate)",
+      "references": [
+        "BG 2.60"
+      ],
+      "themes": [
+        "senses",
+        "agitation",
+        "turbulence",
+        "wildness"
+      ]
+    },
+    {
+      "term": "Vipaścitaḥ",
+      "transliteration": "vipaścitaḥ",
+      "type": "adjective, genitive singular masculine",
+      "definition": "Possessed of discrimination, wise; from vi + paśya, 'seeing clearly'. The sage with discriminating wisdom.",
+      "roots": "vi (distinctly) + paśya (to see) — vipasya",
+      "references": [
+        "BG 2.60"
+      ],
+      "themes": [
+        "wisdom",
+        "discrimination",
+        "sage",
+        "clear-seeing"
+      ]
+    },
+    {
+      "term": "Yatataḥ",
+      "transliteration": "yatataḥ",
+      "type": "present participle, nominative singular masculine",
+      "definition": "Endeavoring, struggling; one who makes effort toward self-control. The striving yogi.",
+      "roots": "from yat (to strive, endeavor)",
+      "references": [
+        "BG 2.60"
+      ],
+      "themes": [
+        "effort",
+        "endeavor",
+        "striving",
+        "self-control"
+      ]
+    },
+    {
       "term": "Vahāmi",
       "transliteration": "vahāmi",
       "type": "verb, 1st person singular present",
