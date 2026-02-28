@@ -2,6 +2,54 @@
   "lastUpdated": "2026-02-28",
   "terms": [
     {
+      "term": "Mat-paraḥ",
+      "transliteration": "mat-paraḥ",
+      "type": "bahuvrīhi compound, nominative singular",
+      "definition": "Having Me (mat-) as the highest/ultimate (paraḥ); single-pointed devotion. Exclusive absorption in the Supreme.",
+      "roots": "mat (Me) + para (highest/ultimate)",
+      "references": [
+        "BG 2.61"
+      ],
+      "themes": [
+        "devotion",
+        "single-pointedness",
+        "krishna-consciousness",
+        "absorption"
+      ]
+    },
+    {
+      "term": "Yukta",
+      "transliteration": "yukta",
+      "type": "adjective, nominative singular masculine",
+      "definition": "Yoked, united; one who has accomplished yoga; the conquered mind. From yuj (to yoke, join).",
+      "roots": "from yuj (to yoke, join, unite)",
+      "references": [
+        "BG 2.61"
+      ],
+      "themes": [
+        "yoga",
+        "unity",
+        "accomplishment",
+        "mind-control"
+      ]
+    },
+    {
+      "term": "Saṁyamya",
+      "transliteration": "saṁyamya",
+      "type": "gerund, absolutive",
+      "definition": "Having restrained, having unified; gathering the scattered senses into one direction. From saṁ-yam (to hold together).",
+      "roots": "from saṁ-yam (to hold together, restrain)",
+      "references": [
+        "BG 2.61"
+      ],
+      "themes": [
+        "restraint",
+        "unification",
+        "sense-control",
+        "gathering"
+      ]
+    },
+    {
       "term": "Prasabham",
       "transliteration": "prasabham",
       "type": "adverb",
