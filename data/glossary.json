@@ -1,6 +1,37 @@
 {
-  "lastUpdated": "2026-02-26",
+  "lastUpdated": "2026-02-28",
   "terms": [
+    {
+      "term": "Vahāmi",
+      "transliteration": "vahāmi",
+      "type": "verb, 1st person singular present",
+      "definition": "I carry, I bear; the Lord as the personal porter of the devotee's needs. From vah (to carry, bear, bring).",
+      "roots": "from vah (to carry, bear)",
+      "references": [
+        "BG 9.22"
+      ],
+      "themes": [
+        "carrying",
+        "sustaining",
+        "divine-service"
+      ]
+    },
+    {
+      "term": "Yoga-kṣema",
+      "transliteration": "yoga-kṣema",
+      "type": "neuter compound noun",
+      "definition": "Yoga = attainment; kṣema = preservation; combined, the complete care of the devotee's welfare. The Lord supplies what is lacking and preserves what is had.",
+      "roots": "yoga (union/attainment) + kṣema (peace/preservation)",
+      "references": [
+        "BG 9.22"
+      ],
+      "themes": [
+        "protection",
+        "welfare",
+        "divine-care",
+        "sustenance"
+      ]
+    },
     {
       "term": "Eṣā",
       "transliteration": "eṣā",
