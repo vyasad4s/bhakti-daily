@@ -2,6 +2,87 @@
   "lastUpdated": "2026-02-28",
   "terms": [
     {
+      "term": "prasāda",
+      "transliteration": "prasāda",
+      "type": "masculine noun",
+      "definition": "Grace, mercy, serene clarity; from pra-sad 'to settle down'; the settled state of citta when vṛtti ceases. The result of proper sense control.",
+      "roots": "from pra-sad (to settle down, become calm)",
+      "references": [
+        "BG 2.64",
+        "BG 2.66"
+      ],
+      "themes": [
+        "grace",
+        "mercy",
+        "clarity",
+        "settled-state"
+      ]
+    },
+    {
+      "term": "ātma-vaśya",
+      "transliteration": "ātma-vaśya",
+      "type": "compound adjective",
+      "definition": "Under self-control; the ātma as commander, not prisoner. The inner instrument (buddhi) directed toward puruṣa.",
+      "roots": "ātma (self) + vaśya (under control)",
+      "references": [
+        "BG 2.64"
+      ],
+      "themes": [
+        "self-control",
+        "ātma",
+        "command",
+        "mastery"
+      ]
+    },
+    {
+      "term": "vimukta",
+      "transliteration": "vimukta",
+      "type": "adjective past participle",
+      "definition": "Liberated, free from; vi-mukta — completely released from the binding force. Released from rāga-dveṣa.",
+      "roots": "vi (completely) + mukta (released)",
+      "references": [
+        "BG 2.64"
+      ],
+      "themes": [
+        "liberation",
+        "freedom",
+        "release",
+        "transcendence"
+      ]
+    },
+    {
+      "term": "dveṣa",
+      "transliteration": "dveṣa",
+      "type": "masculine noun",
+      "definition": "Aversion, repulsion; from dviṣ 'to hate'; the tendency to push away unpleasant objects. One of the kleśas.",
+      "roots": "from dviṣ (to dislike, hate)",
+      "references": [
+        "BG 2.64"
+      ],
+      "themes": [
+        "aversion",
+        "kleśa",
+        "repulsion",
+        "pushing-away"
+      ]
+    },
+    {
+      "term": "rāga",
+      "transliteration": "rāga",
+      "type": "masculine noun",
+      "definition": "Attachment, coloring toward; from raj 'to color'; the tendency to grasp at pleasant objects. One of the kleśas.",
+      "roots": "from raj (to color, redden)",
+      "references": [
+        "BG 2.64"
+      ],
+      "themes": [
+        "attachment",
+        "kleśa",
+        "attraction",
+        "grasping"
+      ]
+    },
+    {
       "term": "praṇaśyati",
       "transliteration": "praṇaśyati",
       "type": "verb, 3rd person singular passive",
