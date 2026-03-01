@@ -2,6 +2,70 @@
   "lastUpdated": "2026-02-28",
   "terms": [
     {
+      "term": "praṇaśyati",
+      "transliteration": "praṇaśyati",
+      "type": "verb, 3rd person singular passive",
+      "definition": "Is lost, falls; the terminal state of the kleśa cascade. The passive voice indicates inevitability.",
+      "roots": "from pra-naś (to be lost, perish)",
+      "references": [
+        "BG 2.63"
+      ],
+      "themes": [
+        "falling",
+        "loss",
+        "destruction",
+        "cascade-end"
+      ]
+    },
+    {
+      "term": "buddhi-nāśaḥ",
+      "transliteration": "buddhi-nāśaḥ",
+      "type": "masculine compound noun",
+      "definition": "Destruction of intelligence; the collapse of buddhi's capacity to reflect puruṣa. Buddhi (intelligence) + nāśa (destruction).",
+      "roots": "buddhi (intelligence) + nāśa (destruction)",
+      "references": [
+        "BG 2.63"
+      ],
+      "themes": [
+        "destruction",
+        "intelligence",
+        "collapse",
+        "loss"
+      ]
+    },
+    {
+      "term": "smṛti-vibhramaḥ",
+      "transliteration": "smṛti-vibhramaḥ",
+      "type": "masculine compound noun",
+      "definition": "Bewilderment of memory; the native memory of spiritual identity becomes distorted. Smṛti (memory) + vibhrama (confusion/error).",
+      "roots": "smṛti (memory) + vibhrama (confusion)",
+      "references": [
+        "BG 2.63"
+      ],
+      "themes": [
+        "memory",
+        "bewilderment",
+        "distortion",
+        "identity"
+      ]
+    },
+    {
+      "term": "sammohaḥ",
+      "transliteration": "sammohaḥ",
+      "type": "masculine noun, nominative singular",
+      "definition": "Perfect delusion, complete bewilderment; total loss of orientation in matter. From sam-muh (to be thoroughly confused).",
+      "roots": "from sam-muh (to be thoroughly confused)",
+      "references": [
+        "BG 2.63"
+      ],
+      "themes": [
+        "delusion",
+        "bewilderment",
+        "confusion",
+        "loss-of-orientation"
+      ]
+    },
+    {
       "term": "krodhaḥ",
       "transliteration": "krodhaḥ",
       "type": "masculine noun, nominative singular",
