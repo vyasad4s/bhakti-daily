@@ -2,6 +2,86 @@
   "lastUpdated": "2026-03-01",
   "terms": [
     {
+      "term": "tasm\u0101t",
+      "transliteration": "tasm\u0101t",
+      "type": "indeclinable particle",
+      "definition": "Therefore, from that, hence; logical connector establishing causality. BG 2.67's destruction (boat swept away) leads to 2.68's prescription (restraint leading to establishment).",
+      "roots": "from tad (that) + suffix -sm\u0101t",
+      "references": [
+        "BG 2.68"
+      ],
+      "themes": [
+        "therefore",
+        "causality",
+        "logical-consequence",
+        "hence"
+      ]
+    },
+    {
+      "term": "nig\u1e5bh\u012bt\u0101ni",
+      "transliteration": "nig\u1e5bh\u012bt\u0101ni",
+      "type": "past passive participle, nominative plural neuter",
+      "definition": "Restrained, controlled, held down; from ni-grah (to hold down, check). Not suppression but directed holding\u2014wild horses reined, not blindfolded. Praty\u0101h\u0101ra as willed direction.",
+      "roots": "ni (down, back) + grah (to seize, grasp)",
+      "references": [
+        "BG 2.68"
+      ],
+      "themes": [
+        "restraint",
+        "holding-back",
+        "controlled",
+        "pratyahara"
+      ]
+    },
+    {
+      "term": "sarva\u015ba\u1e25",
+      "transliteration": "sarva\u015ba\u1e25",
+      "type": "indeclinable adverb",
+      "definition": "In all respects, completely, totally; sarva (all) + \u015ba\u1e25 (direction/way). Total restraint\u2014not partial, not selective. All senses directed toward puru\u1e63a.",
+      "roots": "sarva (all) + suffix -\u015ba\u1e25",
+      "references": [
+        "BG 2.68"
+      ],
+      "themes": [
+        "completely",
+        "totally",
+        "all-respects",
+        " thorough"
+      ]
+    },
+    {
+      "term": "indriy\u0101rthebhya\u1e25",
+      "transliteration": "indriy\u0101rthebhya\u1e25",
+      "type": "compound, ablative plural masculine",
+      "definition": "From the objects of the senses; indriya (sense) + artha (object, purpose) + ablative plural suffix. What is restrained is contact with vi\u1e63aya\u2014not the senses themselves but their engagement with objects.",
+      "roots": "indriya (sense) + artha (object, purpose)",
+      "references": [
+        "BG 2.68"
+      ],
+      "themes": [
+        "sense-objects",
+        "from-objects",
+        "vi\u1e63aya",
+        "withdrawal"
+      ]
+    },
+    {
+      "term": "prati\u1e63\u1e6dhit\u0101",
+      "transliteration": "prati\u1e63\u1e6dhit\u0101",
+      "type": "feminine adjective, nominative singular",
+      "definition": "Established, founded, standing firm; from prati-sth\u0101 (to stand firm). Stability achieved\u2014not stability sought but accomplished. The boat now anchored, not drifting.",
+      "roots": "prati (firmly) + sth\u0101 (to stand)",
+      "references": [
+        "BG 2.68"
+      ],
+      "themes": [
+        "established",
+        "founded",
+        "stable",
+        "anchored"
+      ]
+    },
+    {
       "term": "carat\u0101m",
       "transliteration": "carat\u0101m",
       "type": "present participle, genitive plural feminine",
