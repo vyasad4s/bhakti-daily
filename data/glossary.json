@@ -2,6 +2,88 @@
   "lastUpdated": "2026-03-01",
   "terms": [
     {
+      "term": "carat\u0101m",
+      "transliteration": "carat\u0101m",
+      "type": "present participle, genitive plural feminine",
+      "definition": "Of those that roam/wander; from car (to move). The senses in their natural uncontrolled state \u2014 not evil, just mobile. The wind that blows; the problem is only when the mind follows.",
+      "roots": "from car (to move, wander, roam)",
+      "references": [
+        "BG 2.67"
+      ],
+      "themes": [
+        "roaming",
+        "wandering",
+        "senses",
+        "mobility",
+        "wind"
+      ]
+    },
+    {
+      "term": "anuvidh\u012byate",
+      "transliteration": "anuvidh\u012byate",
+      "type": "passive verb, 3rd person singular present",
+      "definition": "Is followed, is obeyed; from anu-vidh (to follow rules). The mind's voluntary submission to sensory movement \u2014 the discipline failure. The boat that drifts with the current.",
+      "roots": "anu (following after) + vidh (to know, lay down rules)",
+      "references": [
+        "BG 2.67"
+      ],
+      "themes": [
+        "following",
+        "obedience",
+        "submission",
+        "discipline-failure"
+      ]
+    },
+    {
+      "term": "praj\u00f1\u0101",
+      "transliteration": "praj\u00f1\u0101",
+      "type": "feminine noun, accusative singular",
+      "definition": "Wisdom, intelligence, discriminative knowledge; from pra + j\u00f1\u0101 (to know). The capacity for discrimination \u2014 the CPU of consciousness. The cargo swept away when the mind-boat drifts.",
+      "roots": "pra (intensive prefix) + j\u00f1\u0101 (to know)",
+      "references": [
+        "BG 2.67"
+      ],
+      "themes": [
+        "wisdom",
+        "intelligence",
+        "discrimination",
+        "knowing"
+      ]
+    },
+    {
+      "term": "n\u0101va",
+      "transliteration": "n\u0101va",
+      "type": "feminine noun, accusative singular",
+      "definition": "Boat, vessel, ship; the mind as vehicle. Requires direction or drifts. The wind of senses can sweep it away unless anchored by praty\u0101h\u0101ra.",
+      "roots": "from nau/n\u0101 (ship, boat)",
+      "references": [
+        "BG 2.67"
+      ],
+      "themes": [
+        "boat",
+        "vessel",
+        "mind",
+        "vehicle",
+        "requires-direction"
+      ]
+    },
+    {
+      "term": "ambhasi",
+      "transliteration": "ambhasi",
+      "type": "neuter noun, locative singular",
+      "definition": "In the water; the sense-field, the ocean of vi\u1e63aya. The field upon which the mind-boat floats, vulnerable to wind.",
+      "roots": "from ambhas (water, fluid)",
+      "references": [
+        "BG 2.67"
+      ],
+      "themes": [
+        "water",
+        "sense-field",
+        "ocean",
+        "medium"
+      ]
+    },
+    {
       "term": "\u0101yuktasya",
       "transliteration": "\u0101yuktasya",
       "type": "adjective, genitive singular masculine",
