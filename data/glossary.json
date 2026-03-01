@@ -2,6 +2,73 @@
   "lastUpdated": "2026-03-01",
   "terms": [
     {
+      "term": "\u0101yuktasya",
+      "transliteration": "\u0101yuktasya",
+      "type": "adjective, genitive singular masculine",
+      "definition": "Of one who is not connected; a-yukta = without yukti (union/devotion). The disconnected node in the network. Without connection to the Supreme, neither transcendental intelligence nor steady mind is possible.",
+      "roots": "a (without) + yukta (connected, from yuj)",
+      "references": [
+        "BG 2.66"
+      ],
+      "themes": [
+        "disconnection",
+        "absence",
+        "without-union",
+        "prerequisite-missing"
+      ]
+    },
+    {
+      "term": "bh\u0101van\u0101",
+      "transliteration": "bh\u0101van\u0101",
+      "type": "feminine noun, nominative singular",
+      "definition": "Fixed mind, steadiness, cultivation; the citta stabilized in its object. The process locked in memory. Without yukti, even the capacity for steady-mindedness is absent.",
+      "roots": "from bh\u016b (to be, become)",
+      "references": [
+        "BG 2.66"
+      ],
+      "themes": [
+        "steadiness",
+        "fixed-mind",
+        "cultivation",
+        "stability"
+      ]
+    },
+    {
+      "term": "\u015b\u0101nti\u1e25",
+      "transliteration": "\u015b\u0101nti\u1e25",
+      "type": "feminine noun, nominative singular",
+      "definition": "Peace, tranquility; cessation of v\u1e5btti agitation. The system at rest. Without bh\u0101van\u0101 (steady mind), there can be no \u015b\u0101nti. The prerequisite chain: yukti \u2192 buddhi \u2192 bh\u0101van\u0101 \u2192 \u015b\u0101nti \u2192 sukha.",
+      "roots": "from \u015bam (to cease, become calm)",
+      "references": [
+        "BG 2.65",
+        "BG 2.66"
+      ],
+      "themes": [
+        "peace",
+        "tranquility",
+        "cessation",
+        "calm",
+        "rest"
+      ]
+    },
+    {
+      "term": "sukham",
+      "transliteration": "sukham",
+      "type": "neuter noun, nominative/accusative singular",
+      "definition": "Happiness, ease, comfort; the fruit that requires \u015b\u0101nti as prerequisite. The output impossible without proper input chain. Without peace, there can be no happiness \u2014 the question is rhetorical: kuta\u1e25 sukham?",
+      "roots": "from su (good) + kha (axle-hole, space for axle to turn smoothly)",
+      "references": [
+        "BG 2.66"
+      ],
+      "themes": [
+        "happiness",
+        "ease",
+        "comfort",
+        "result",
+        "fruit"
+      ]
+    },
+    {
       "term": "pras\u0101de",
       "transliteration": "pras\u0101de",
       "type": "masculine noun, locative singular",
