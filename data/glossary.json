@@ -2,6 +2,70 @@
   "lastUpdated": "2026-02-28",
   "terms": [
     {
+      "term": "krodhaḥ",
+      "transliteration": "krodhaḥ",
+      "type": "masculine noun, nominative singular",
+      "definition": "Anger; from kru 'to be crooked'; the ego's defense when desire is frustrated. The explosion that follows frustrated attachment.",
+      "roots": "from kru (to be crooked)",
+      "references": [
+        "BG 2.62"
+      ],
+      "themes": [
+        "anger",
+        "frustration",
+        "ego-defense",
+        "crookedness"
+      ]
+    },
+    {
+      "term": "kāmaḥ",
+      "transliteration": "kāmaḥ",
+      "type": "masculine noun, nominative singular",
+      "definition": "Desire, lust; from kam 'to wish'; attachment extended into active seeking. The driving force of conditioned action.",
+      "roots": "from kam (to wish, desire)",
+      "references": [
+        "BG 2.62"
+      ],
+      "themes": [
+        "desire",
+        "lust",
+        "wishing",
+        "driving-force"
+      ]
+    },
+    {
+      "term": "saṅgaḥ",
+      "transliteration": "saṅgaḥ",
+      "type": "masculine noun, nominative singular",
+      "definition": "Attachment, binding; from saṅj 'to join'; the merge point where buddhi fuses with prakṛti. The bridge between perception and entanglement.",
+      "roots": "from saṅj (to join, attach)",
+      "references": [
+        "BG 2.62"
+      ],
+      "themes": [
+        "attachment",
+        "binding",
+        "entanglement",
+        "joining"
+      ]
+    },
+    {
+      "term": "dhyāyataḥ",
+      "transliteration": "dhyāyataḥ",
+      "type": "present participle, genitive singular masculine",
+      "definition": "Contemplating, the mind's scanning function; first step in the chain of entanglement. From dhyai (to meditate, contemplate).",
+      "roots": "from dhyai (to meditate, contemplate)",
+      "references": [
+        "BG 2.62"
+      ],
+      "themes": [
+        "contemplation",
+        "entanglement",
+        "meditation",
+        "mind"
+      ]
+    },
+    {
       "term": "Mat-paraḥ",
       "transliteration": "mat-paraḥ",
       "type": "bahuvrīhi compound, nominative singular",
