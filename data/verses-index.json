@@ -1,6 +1,21 @@
 {
   "verses": [
     {
+      "date": "2026-03-01",
+      "source": "BG 3.6",
+      "chapter": 3,
+      "verse": 6,
+      "text": "Bhagavad Gita",
+      "tithi": "Trayodashi → Chaturdashi",
+      "nakshatra": "Ashlesha → Magha",
+      "yoga": "Taitila → Garaja → Vanija",
+      "themes": ["pretender", "hypocrisy", "mind-control", "renunciation", "senses", "entanglement", "sovereignty"],
+      "tags": ["#pretender", "#mithyacarah", "#ashlesha", "#magha", "#trayodashi", "#mind", "#senses", "#vairagya"],
+      "yogaSutraConnection": "YS 1.12, YS 1.15",
+      "sankhyaConcepts": ["antahkarana", "gunas", "mithya", "sankalpa", "vasana"],
+      "keyTerms": ["karmendriyani", "samyamya", "manasa", "smaran", "mithyacarah", "vimudha", "indriya-arthan"]
+    },
+    {
       "date": "2026-02-28",
       "source": "BG 3.5",
       "chapter": 3,
@@ -29,22 +44,7 @@
       "yogaSutraConnection": "YS 1.12",
       "sankhyaConcepts": ["naishkarmya", "sannyasa", "action-without-attachment"],
       "keyTerms": ["anārambhāt", "naiṣkarmya", "puruṣaḥ", "aśnute", "sannyasanāt", "siddhiḥ", "samadhigacchati"]
-    },
-    {
-      "date": "2026-02-26",
-      "source": "BG 3.3",
-      "chapter": 3,
-      "verse": 3,
-      "text": "Bhagavad Gita",
-      "tithi": "Saptamī → Aṣṭamī",
-      "nakshatra": "Ārdrā → Punarvasu",
-      "yoga": "Vidaal",
-      "themes": ["twopaths", "jnanayoga", "karmayoga", "sankhya", "complementarity", "storm-to-shelter"],
-      "tags": ["#twopaths", "#karmayoga", "#jnanayoga", "#sankhya", "#ardra", "#punarvasu", "#saptami", "#guruvāra"],
-      "yogaSutraConnection": "YS 1.23",
-      "sankhyaConcepts": ["jnana-yoga", "karma-yoga", "dvi-vidha", "niṣṭhā"],
-      "keyTerms": ["dvi-vidhā", "niṣṭhā", "jñāna-yoga", "sāṅkhyānām", "karma-yoga", "yoginām"]
     }
   ],
-  "lastUpdated": "2026-02-28"
+  "lastUpdated": "2026-03-01"
 }
