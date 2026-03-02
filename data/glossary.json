@@ -2,6 +2,72 @@
   "lastUpdated": "2026-03-01",
   "terms": [
     {
+      "term": "\u0101p\u016bryam\u0101\u1e47am",
+      "transliteration": "\u0101p\u016bryam\u0101\u1e47am",
+      "type": "present passive participle, accusative singular neuter",
+      "definition": "Always being filled, constantly replenished; from \u0101-p\u1e5d (to fill completely). The ocean's quality of receiving incessantly without agitation. Rivers flow in; the ocean remains still.",
+      "roots": "\u0101 (completely) + p\u1e5d (to fill, from p\u1e5d to be full)",
+      "references": [
+        "BG 2.70"
+      ],
+      "themes": [
+        "filling",
+        "replenishment",
+        "completion",
+        "receiving"
+      ]
+    },
+    {
+      "term": "acala-prati\u1e63\u1e6dham",
+      "transliteration": "acala-prati\u1e63\u1e6dham",
+      "type": "neuter adjective compound, accusative singular",
+      "definition": "Steadily situated, immovably established; acala (unmoving) + prati\u1e63\u1e6dha (foundation). The ocean's stability\u2014not rigid, but unshakeable presence. Foundation on all sides.",
+      "roots": "acala (unmoving) + prati\u1e63\u1e6dha (foundation, basis)",
+      "references": [
+        "BG 2.70"
+      ],
+      "themes": [
+        "stability",
+        "foundation",
+        "unshakeable",
+        "steadiness"
+      ]
+    },
+    {
+      "term": "samudra",
+      "transliteration": "samudra",
+      "type": "masculine noun, accusative singular",
+      "definition": "Ocean, the gathering-place of waters; sam (together) + udra (water). Not merely large volume but wholeness. Nothing can be added to or taken from that which is already full.",
+      "roots": "sam (together) + udra (water)",
+      "references": [
+        "BG 2.70"
+      ],
+      "themes": [
+        "ocean",
+        "wholeness",
+        "fullness",
+        "completion",
+        "gathering"
+      ]
+    },
+    {
+      "term": "k\u0101ma-k\u0101m\u012b",
+      "transliteration": "k\u0101ma-k\u0101m\u012b",
+      "type": "masculine noun compound, nominative singular",
+      "definition": "One who desires to fulfill desires; the tautology reveals the futility. Desire chasing desire creates an infinite loop, presuming lack where the ocean finds completion.",
+      "roots": "k\u0101ma (desire) + k\u0101ma (desire) \u2014 recursive trap",
+      "references": [
+        "BG 2.70"
+      ],
+      "themes": [
+        "desire",
+        "futility",
+        "recursion",
+        "trap",
+        "chasing"
+      ]
+    },
+    {
       "term": "ni\u015b\u0101",
       "transliteration": "ni\u015b\u0101",
       "type": "feminine noun, nominative singular",
