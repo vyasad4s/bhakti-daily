@@ -2,6 +2,118 @@
   "lastUpdated": "2026-03-02",
   "terms": [
     {
+      "term": "karmendriyani-samyamya",
+      "transliteration": "karmendriyāṇi saṁyamya",
+      "type": "neuter plural accusative + gerund absolutive",
+      "definition": "The five organs of action (hands, legs, speech, genitals, anus) having been controlled/restrained. The external show of physical restraint that defines the pretender.",
+      "roots": "karma (action) + indriya (organ) + sam-yam (to hold together)",
+      "references": [
+        "BG 3.6"
+      ],
+      "themes": [
+        "action-organs",
+        "restraint",
+        "pretender",
+        "external-show"
+      ]
+    },
+    {
+      "term": "aste",
+      "transliteration": "āste",
+      "type": "verb, present middle voice 3rd person singular",
+      "definition": "Sits, remains, dwells. From ās (to sit). The pretender's posture of meditation—body still while mind wanders. The middle voice emphasizes self-benefit that never arrives.",
+      "roots": "from ās (to sit, be present)",
+      "references": [
+        "BG 3.6"
+      ],
+      "themes": [
+        "sitting",
+        "remaining",
+        "posture",
+        "pretender-stillness"
+      ]
+    },
+    {
+      "term": "smaran",
+      "transliteration": "smaran",
+      "type": "present participle, nominative singular masculine",
+      "definition": "Thinking of, dwelling upon, remembering. From smṛ (to remember). The smoking gun of the pretender—the mind actively engaging with sense objects while body feigns renunciation.",
+      "roots": "from smṛ (to remember, think of)",
+      "references": [
+        "BG 3.6"
+      ],
+      "themes": [
+        "dwelling",
+        "thinking",
+        "memory",
+        "mind-wandering"
+      ]
+    },
+    {
+      "term": "indriya-arthan",
+      "transliteration": "indriyārthān",
+      "type": "compound, masculine plural accusative",
+      "definition": "Objects of the senses. Indriya (sense) + artha (object/purpose) + ān (accusative plural). The viṣaya that the pretender's mind secretly craves while body remains still.",
+      "roots": "indriya (sense) + artha (object)",
+      "references": [
+        "BG 3.6"
+      ],
+      "themes": [
+        "sense-objects",
+        "viṣaya",
+        "craving",
+        "objects"
+      ]
+    },
+    {
+      "term": "vimudhatma",
+      "transliteration": "vimūḍhātmā",
+      "type": "compound, nominative singular masculine",
+      "definition": "One whose self is deluded/bewildered. Vimūḍha (deluded) + ātmā (self). Not merely confused but thoroughly deluded—vi (intensive) + mūḍha. The pretender's true state.",
+      "roots": "vi (intensive) + muh (to be deluded) + ātmā (self)",
+      "references": [
+        "BG 3.6"
+      ],
+      "themes": [
+        "deluded",
+        "bewildered",
+        "self-deception",
+        "confusion"
+      ]
+    },
+    {
+      "term": "mithyacarah",
+      "transliteration": "mithyācāraḥ",
+      "type": "compound, nominative singular masculine",
+      "definition": "Pretender, hypocrite. Mithyā (false) + ācāraḥ (conduct/behavior). The greatest cheater—one whose external show contradicts internal reality. Body restrained, mind wandering.",
+      "roots": "mithyā (false) + ācāra (conduct)",
+      "references": [
+        "BG 3.6"
+      ],
+      "themes": [
+        "hypocrisy",
+        "pretender",
+        "false-show",
+        "deception"
+      ]
+    },
+    {
+      "term": "ucyate",
+      "transliteration": "ucyate",
+      "type": "verb, present passive 3rd person singular",
+      "definition": "Is called, is named, is said. From vac (to speak). The passive voice emphasizes external judgment—such a person IS CALLED a pretender by the wise.",
+      "roots": "from vac (to speak)",
+      "references": [
+        "BG 3.6"
+      ],
+      "themes": [
+        "is-called",
+        "named",
+        "passive-voice",
+        "designation"
+      ]
+    },
+    {
       "term": "yas",
       "transliteration": "yaḥ",
       "type": "relative pronoun, nominative singular masculine",
