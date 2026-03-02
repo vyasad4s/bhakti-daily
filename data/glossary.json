@@ -2,6 +2,86 @@
   "lastUpdated": "2026-03-01",
   "terms": [
     {
+      "term": "vih\u0101ya",
+      "transliteration": "vih\u0101ya",
+      "type": "gerund, absolutive",
+      "definition": "Having abandoned, having given up; the active completion of renunciation. Not suppression or denial, but total release. The hands must open to receive fullness.",
+      "roots": "vi (apart, away) + h\u0101 (to abandon, leave)",
+      "references": [
+        "BG 2.71"
+      ],
+      "themes": [
+        "abandonment",
+        "renunciation",
+        "release",
+        "surrender"
+      ]
+    },
+    {
+      "term": "ni\u1e25sp\u1e5bha\u1e25",
+      "transliteration": "ni\u1e25sp\u1e5bha\u1e25",
+      "type": "adjective, nominative singular masculine",
+      "definition": "Free from desire; from nir + sp\u1e5bh (to wish). Natural state without craving. The vit\u1e5b\u1e63\u1e47a of YS 1.15 made manifest\u2014devoid of thirst for seen and heard objects.",
+      "roots": "nis/nir (without) + sp\u1e5bh (to wish, desire)",
+      "references": [
+        "BG 2.71"
+      ],
+      "themes": [
+        "desirelessness",
+        "freedom",
+        "thirstless",
+        "vairagya"
+      ]
+    },
+    {
+      "term": "nirmama\u1e25",
+      "transliteration": "nirmama\u1e25",
+      "type": "adjective, nominative singular masculine",
+      "definition": "Without sense of 'mine'; nir (without) + mama (mine). No appropriation, no sense of proprietorship. The 'me' and 'mine' that bind one to karma dissolved.",
+      "roots": "nir (without) + mama (mine)",
+      "references": [
+        "BG 2.71"
+      ],
+      "themes": [
+        "minelessness",
+        "non-appropriation",
+        "detachment",
+        "proprietorship"
+      ]
+    },
+    {
+      "term": "niraha\u1e45k\u0101ra\u1e25",
+      "transliteration": "niraha\u1e45k\u0101ra\u1e25",
+      "type": "adjective, nominative singular masculine",
+      "definition": "Devoid of false ego; nir (without) + aha\u1e45k\u0101ra (I-sense, ego). The root of bondage cut. The 'I' that appropriates experience dissolved into the witnessing puru\u1e63a.",
+      "roots": "nir (without) + aha\u1e45k\u0101ra (ego, I-sense)",
+      "references": [
+        "BG 2.71"
+      ],
+      "themes": [
+        "egolessness",
+        "false-ego",
+        "I-sense",
+        "root-of-bondage"
+      ]
+    },
+    {
+      "term": "adhigacchati",
+      "transliteration": "adhigacchati",
+      "type": "verb, 3rd person singular present",
+      "definition": "Attains, reaches; adhi-\u221agam (to go toward). The destination achieved through transformation, not travel. \u015a\u0101nti obtained via ni\u1e25sp\u1e5bha\u1e25, nirmama\u1e25, niraha\u1e45k\u0101ra\u1e25.",
+      "roots": "adhi (toward, over) + gam (to go)",
+      "references": [
+        "BG 2.71"
+      ],
+      "themes": [
+        "attainment",
+        "reaching",
+        "achievement",
+        "going-toward"
+      ]
+    },
+    {
       "term": "\u0101p\u016bryam\u0101\u1e47am",
       "transliteration": "\u0101p\u016bryam\u0101\u1e47am",
       "type": "present passive participle, accusative singular neuter",
