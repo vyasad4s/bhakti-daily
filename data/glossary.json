@@ -2,6 +2,89 @@
   "lastUpdated": "2026-03-01",
   "terms": [
     {
+      "term": "jy\u0101yas\u012b",
+      "transliteration": "jy\u0101yas\u012b",
+      "type": "comparative adjective, nominative singular feminine",
+      "definition": "Better, superior; the comparative of jy\u0101ya (elder/greater). Arjuna's question: is knowledge better than action? The eternal seeker's dilemma.",
+      "roots": "from jy\u0101ya (elder, greater) \u2014 comparative form",
+      "references": [
+        "BG 3.1"
+      ],
+      "themes": [
+        "superiority",
+        "comparison",
+        "better",
+        "knowledge-vs-action"
+      ]
+    },
+    {
+      "term": "mata",
+      "transliteration": "mata",
+      "type": "feminine noun, nominative singular",
+      "definition": "Thought, opinion, doctrine; from man (to think). Your considered view, O K\u1e5b\u1e63\u1e47a\u2014the teaching, the position taken.",
+      "roots": "from man (to think)",
+      "references": [
+        "BG 3.1"
+      ],
+      "themes": [
+        "thought",
+        "opinion",
+        "doctrine",
+        "view"
+      ]
+    },
+    {
+      "term": "ghora",
+      "transliteration": "ghora",
+      "type": "adjective, locative singular",
+      "definition": "Terrible, dreadful, fierce; the quality of the battlefield, the difficult act. Karma\u1e47i ghore\u2014in terrible, fearsome action. Not escape, but courageous engagement.",
+      "roots": "from ghor (to be terrible, fierce)",
+      "references": [
+        "BG 3.1"
+      ],
+      "themes": [
+        "terrible",
+        "fierce",
+        "dreadful",
+        "battle",
+        "fearsome"
+      ]
+    },
+    {
+      "term": "niyojayasi",
+      "transliteration": "niyojayasi",
+      "type": "verb, causative present active 2nd person singular",
+      "definition": "You cause to engage, you employ, you urge; from ni-yuj (to yoke). The question: why do you compel me? The causative implies making someone do something.",
+      "roots": "from ni-yuj (to engage, employ) \u2014 causative form",
+      "references": [
+        "BG 3.1"
+      ],
+      "themes": [
+        "engagement",
+        "employment",
+        "compulsion",
+        "action",
+        "yoking"
+      ]
+    },
+    {
+      "term": "ke\u015bava",
+      "transliteration": "ke\u015bava",
+      "type": "vocative masculine noun",
+      "definition": "O K\u1e5b\u1e63\u1e47a; ke\u015ba (hair) + va (possessor); literally 'one with beautiful hair'. Arjuna's address: the intimate, the accessible, the beautiful Lord.",
+      "roots": "ke\u015ba (hair) + va (possessor)",
+      "references": [
+        "BG 3.1"
+      ],
+      "themes": [
+        "krishna",
+        "address",
+        "beauty",
+        "hair",
+        "intimacy"
+      ]
+    },
+    {
       "term": "e\u1e63\u0101",
       "transliteration": "e\u1e63\u0101",
       "type": "pronoun, feminine nominative singular",
