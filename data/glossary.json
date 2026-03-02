@@ -2,6 +2,87 @@
   "lastUpdated": "2026-03-01",
   "terms": [
     {
+      "term": "ni\u015b\u0101",
+      "transliteration": "ni\u015b\u0101",
+      "type": "feminine noun, nominative singular",
+      "definition": "Night, darkness, state of unknowing; the condition where consciousness is obscured. For material beings: night is spiritual perception. For the sage: night is material existence. Complete perceptual inversion.",
+      "roots": "from ni\u015b (to become dark)",
+      "references": [
+        "BG 2.69"
+      ],
+      "themes": [
+        "night",
+        "darkness",
+        "unknowing",
+        "obscured-consciousness"
+      ]
+    },
+    {
+      "term": "sa\u1e41yam\u012b",
+      "transliteration": "sa\u1e41yam\u012b",
+      "type": "masculine noun, nominative singular",
+      "definition": "One who practices self-control; literally 'one who holds together'. The yogi who holds the mind from its natural tendency to fragment. From sa\u1e41yama \u2014 the integrated practice of dh\u0101ra\u1e47\u0101, dhy\u0101na, sam\u0101dhi.",
+      "roots": "from sa\u1e41yama (holding together, integration)",
+      "references": [
+        "BG 2.69"
+      ],
+      "themes": [
+        "self-control",
+        "integration",
+        "holding-together",
+        "sa\u1e41yama"
+      ]
+    },
+    {
+      "term": "j\u0101garti",
+      "transliteration": "j\u0101garti",
+      "type": "verb, 3rd person singular present",
+      "definition": "Is awake, is alert; from j\u0101g\u1e5b (to wake, be vigilant). Not biological wakefulness but conscious presence. The sa\u1e41yam\u012b is j\u0101garti in the night of material existence.",
+      "roots": "from j\u0101g\u1e5b (to wake, be vigilant)",
+      "references": [
+        "BG 2.69"
+      ],
+      "themes": [
+        "awakening",
+        "vigilance",
+        "presence",
+        "alertness"
+      ]
+    },
+    {
+      "term": "bh\u016bt\u0101ni",
+      "transliteration": "bh\u016bt\u0101ni",
+      "type": "neuter noun, nominative plural",
+      "definition": "Living entities, beings; literally 'that which has come into existence' (from bh\u016b \u2014 to be). All embodied souls, all beings who have manifested from the primordial.",
+      "roots": "from bh\u016b (to be, become, exist)",
+      "references": [
+        "BG 2.69"
+      ],
+      "themes": [
+        "beings",
+        "entities",
+        "manifested",
+        "all-living"
+      ]
+    },
+    {
+      "term": "pa\u015byata\u1e25",
+      "transliteration": "pa\u015byata\u1e25",
+      "type": "present active participle, genitive singular masculine",
+      "definition": "Of one who sees, of the seer; from pa\u015b (to see). The sage whose perception is purified \u2014 sees what the materialist misses. The witness-function of puru\u1e63a.",
+      "roots": "from pa\u015b (to see)",
+      "references": [
+        "BG 2.69"
+      ],
+      "themes": [
+        "seeing",
+        "seer",
+        "perception",
+        "witness",
+        "vision"
+      ]
+    },
+    {
       "term": "tasm\u0101t",
       "transliteration": "tasm\u0101t",
       "type": "indeclinable particle",
