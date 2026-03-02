@@ -2,6 +2,104 @@
   "lastUpdated": "2026-03-01",
   "terms": [
     {
+      "term": "k\u1e63a\u1e47am",
+      "transliteration": "k\u1e63a\u1e47am",
+      "type": "masculine noun, nominative singular",
+      "definition": "Moment, instant; from k\u1e63a\u1e47 (to wink). 'Not even for a moment' \u2014 the gu\u1e47as compel constantly. No creature can refrain from action, not even for the smallest unit of time.",
+      "roots": "from k\u1e63a\u1e47 (to wink, to flicker)",
+      "references": [
+        "BG 3.5"
+      ],
+      "themes": [
+        "moment",
+        "instant",
+        "time",
+        "compulsion",
+        "gunas"
+      ]
+    },
+    {
+      "term": "akarma-k\u1e5bt",
+      "transliteration": "akarma-k\u1e5bt",
+      "type": "compound, nominative singular masculine",
+      "definition": "One who refrains from work; a (without) + karma (action) + k\u1e5bt (doer). No such creature exists. Even the stone sits, even the corpse decays. The attempt to not act is itself action under the gu\u1e47as.",
+      "roots": "a (without) + karma (action) + k\u1e5bt (doer, from k\u1e5b)",
+      "references": [
+        "BG 3.5"
+      ],
+      "themes": [
+        "non-actor",
+        "inaction",
+        "fiction",
+        "impossibility"
+      ]
+    },
+    {
+      "term": "ava\u015ba\u1e25",
+      "transliteration": "ava\u015ba\u1e25",
+      "type": "adjective, nominative singular masculine",
+      "definition": "Helpless, under compulsion; a (not) + va\u015ba (control). Free will is NOT doing nothing \u2014 it's choosing WHOSE consciousness directs the unavoidable action compelled by prak\u1e5bti.",
+      "roots": "a (not) + va\u015ba (control, from va\u015b to wish, desire)",
+      "references": [
+        "BG 3.5"
+      ],
+      "themes": [
+        "helpless",
+        "compulsion",
+        "uncontrolled",
+        "prakriti-bound"
+      ]
+    },
+    {
+      "term": "k\u0101ryate",
+      "transliteration": "k\u0101ryate",
+      "type": "verb, passive present 3rd person singular",
+      "definition": "Is compelled, is caused to act; passive of k\u1e5b (to do). The self is k\u0101ryate by the gu\u1e47as. One acts helplessly \u2014 not freely choosing inaction, but helplessly driven by the modes.",
+      "roots": "from k\u1e5b (to do, make) + causative/passive",
+      "references": [
+        "BG 3.5"
+      ],
+      "themes": [
+        "compelled",
+        "caused",
+        "passive-action",
+        "driven"
+      ]
+    },
+    {
+      "term": "prak\u1e5bti-jai\u1e25",
+      "transliteration": "prak\u1e5bti-jai\u1e25",
+      "type": "compound, instrumental plural masculine",
+      "definition": "Born of material nature, produced by prak\u1e5bti; ja = born. The gu\u1e47as (sattva, rajas, tamas) are born of prak\u1e5bti \u2014 and by them, all are compelled to act.",
+      "roots": "prak\u1e5bti (material nature) + ja (born, from jan)",
+      "references": [
+        "BG 3.5"
+      ],
+      "themes": [
+        "born-of-nature",
+        "material-origin",
+        "prakriti",
+        "source"
+      ]
+    },
+    {
+      "term": "gu\u1e47ai\u1e25",
+      "transliteration": "gu\u1e47ai\u1e25",
+      "type": "masculine noun, instrumental plural",
+      "definition": "By the modes (sattva, rajas, tamas); gu\u1e47a = quality, strand. The three strands of prak\u1e5bti that weave all embodied action. One acts helplessly according to which gu\u1e47as dominate.",
+      "roots": "from gu\u1e47a (strand, thread, quality)",
+      "references": [
+        "BG 3.5"
+      ],
+      "themes": [
+        "modes",
+        "gunas",
+        "strands",
+        "qualities",
+        "compulsion"
+      ]
+    },
+    {
       "term": "an\u0101rambh\u0101t",
       "transliteration": "an\u0101rambh\u0101t",
       "type": "ablative singular masculine",
