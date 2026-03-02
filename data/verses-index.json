@@ -1,6 +1,21 @@
 {
   "verses": [
     {
+      "date": "2026-03-02",
+      "source": "BG 3.7",
+      "chapter": 3,
+      "verse": 7,
+      "text": "Bhagavad Gita",
+      "tithi": "Chaturdashi → Purnima",
+      "nakshatra": "Magha → Purva Phalguni",
+      "yoga": "Sukarma → Dhriti",
+      "themes": ["karma-yoga", "detachment", "superior-yogi", "sincerity", "action"],
+      "tags": ["#karma-yoga", "#asakti", "#detachment", "#superior-yogi", "#chaturdashi", "#magha", "#sukarma"],
+      "yogaSutraConnection": "YS 1.12, YS 2.2",
+      "sankhyaConcepts": ["prakriti", "gunas", "naishkarmya", "antahkarana"],
+      "keyTerms": ["yas", "tu", "indriyani", "manasa", "niyamya", "karma-yoga", "asaktah", "vishishyate"]
+    },
+    {
       "date": "2026-03-01",
       "source": "BG 3.6",
       "chapter": 3,
@@ -29,22 +44,7 @@
       "yogaSutraConnection": "YS 2.2",
       "sankhyaConcepts": ["prakriti", "gunas", "akarma"],
       "keyTerms": ["kṣaṇam", "akarma-kṛt", "avaśaḥ", "prakṛti-jaiḥ", "guṇaiḥ"]
-    },
-    {
-      "date": "2026-02-27",
-      "source": "BG 3.4",
-      "chapter": 3,
-      "verse": 4,
-      "text": "Bhagavad Gita",
-      "tithi": "Ekadashi → Dwadashi",
-      "nakshatra": "Punarvasu → Puṣya",
-      "yoga": "Saubhagya",
-      "themes": ["renunciation", "karma", "naishkarmya", "siddhi", "avoidance", "engagement"],
-      "tags": ["#renunciation", "#karma", "#naishkarmya", "#action", "#punarvasu", "#ashtami", "#shukravara"],
-      "yogaSutraConnection": "YS 1.12",
-      "sankhyaConcepts": ["naishkarmya", "sannyasa", "action-without-attachment"],
-      "keyTerms": ["anārambhāt", "naiṣkarmya", "puruṣaḥ", "aśnute", "sannyasanāt", "siddhiḥ", "samadhigacchati"]
     }
   ],
-  "lastUpdated": "2026-03-01"
+  "lastUpdated": "2026-03-02"
 }
