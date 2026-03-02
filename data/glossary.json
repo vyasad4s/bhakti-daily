@@ -2,6 +2,86 @@
   "lastUpdated": "2026-03-01",
   "terms": [
     {
+      "term": "an\u0101rambh\u0101t",
+      "transliteration": "an\u0101rambh\u0101t",
+      "type": "ablative singular masculine",
+      "definition": "From non-commencement, from not beginning; a (without) + \u0101rambha (beginning/undertaking). The escapist who refuses to act\u2014avoidance is still attachment. Not by mere inaction can one achieve nai\u1e63karmya.",
+      "roots": "a (without) + \u0101rambha (beginning, undertaking)",
+      "references": [
+        "BG 3.4"
+      ],
+      "themes": [
+        "non-commencement",
+        "avoidance",
+        "inaction",
+        "beginning"
+      ]
+    },
+    {
+      "term": "nai\u1e63karmya",
+      "transliteration": "nai\u1e63karmya",
+      "type": "neuter noun, nominative/accusative singular",
+      "definition": "Freedom from reaction, inaction in action; the state of being akarma. Not mere absence of action but action without binding consequence. Cannot be achieved by an\u0101rambh\u0101t (non-beginning).",
+      "roots": "nais (without) + karma (action)",
+      "references": [
+        "BG 3.4"
+      ],
+      "themes": [
+        "freedom",
+        "inaction-in-action",
+        "akarma",
+        "liberation"
+      ]
+    },
+    {
+      "term": "a\u015bnute",
+      "transliteration": "a\u015bnute",
+      "type": "verb, 3rd person singular present middle",
+      "definition": "Attains, reaches, obtains; from a\u015b (to reach, attain). The puru\u1e63a (soul) does not a\u015bnute (attain) nai\u1e63karmya by avoidance. Active engagement required.",
+      "roots": "from a\u015b (to reach, attain)",
+      "references": [
+        "BG 3.4"
+      ],
+      "themes": [
+        "attainment",
+        "reaching",
+        "obtaining",
+        "achieving"
+      ]
+    },
+    {
+      "term": "sannyasan\u0101t",
+      "transliteration": "sannyasan\u0101t",
+      "type": "ablative singular masculine",
+      "definition": "From renunciation; sanny\u0101sa = complete renunciation of world and works. Not by outer show alone. The monk who left the world but not the ego has gone nowhere. True renunciation is inner.",
+      "roots": "sam (together, thoroughly) + nyas (to place down) \u2014 to put down completely",
+      "references": [
+        "BG 3.4"
+      ],
+      "themes": [
+        "renunciation",
+        "sannyasa",
+        "complete-renunciation",
+        "outer-show"
+      ]
+    },
+    {
+      "term": "samadhigacchati",
+      "transliteration": "samadhigacchati",
+      "type": "verb, 3rd person singular present",
+      "definition": "One fully attains; sam (together) + adhi (over, toward) + gam (to go). The complete going-toward that results in siddhi. Not partial, not incomplete, but thorough attainment.",
+      "roots": "sam (together) + adhi (toward) + gam (to go)",
+      "references": [
+        "BG 3.4"
+      ],
+      "themes": [
+        "full-attainment",
+        "complete-reaching",
+        "success",
+        "perfection"
+      ]
+    },
+    {
       "term": "v\u0101kyena",
       "transliteration": "v\u0101kyena",
       "type": "neuter noun, instrumental singular",
