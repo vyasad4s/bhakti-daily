@@ -2,6 +2,102 @@
   "lastUpdated": "2026-03-01",
   "terms": [
     {
+      "term": "e\u1e63\u0101",
+      "transliteration": "e\u1e63\u0101",
+      "type": "pronoun, feminine nominative singular",
+      "definition": "This; referring to the previously described state. The brahm\u012b sthiti\u1e25 - the divine state just elaborated through verses 2.66-2.71.",
+      "roots": "demonstrative pronoun from e\u1e63a",
+      "references": [
+        "BG 2.72"
+      ],
+      "themes": [
+        "reference",
+        "this",
+        "demonstrative"
+      ]
+    },
+    {
+      "term": "br\u0101hm\u012b",
+      "transliteration": "br\u0101hm\u012b",
+      "type": "adjective, feminine nominative singular",
+      "definition": "Divine, pertaining to Brahman; the state of being established in ultimate reality. The transformed condition of consciousness - neither technique nor practice but being.",
+      "roots": "from Brahman (the Absolute, the Ultimate)",
+      "references": [
+        "BG 2.72"
+      ],
+      "themes": [
+        "brahman",
+        "divine",
+        "ultimate-reality",
+        "state",
+        "establishment"
+      ]
+    },
+    {
+      "term": "sthiti\u1e25",
+      "transliteration": "sthiti\u1e25",
+      "type": "feminine noun, nominative singular",
+      "definition": "State, position, establishment; from sth\u0101 (to stand). The standing firm - not achieved, not sought, but realized. The seer established in its own nature.",
+      "roots": "from sth\u0101 (to stand)",
+      "references": [
+        "BG 2.72"
+      ],
+      "themes": [
+        "state",
+        "establishment",
+        "position",
+        "standing"
+      ]
+    },
+    {
+      "term": "vimuhyati",
+      "transliteration": "vimuhyati",
+      "type": "verb, present indicative 3rd person singular",
+      "definition": "Becomes deluded; vi-muh (to be thoroughly confused). Negated with na - never deluded. The kle\u015ba cascade cannot touch one established here.",
+      "roots": "vi (thoroughly) + muh (to be confused)",
+      "references": [
+        "BG 2.72"
+      ],
+      "themes": [
+        "delusion",
+        "confusion",
+        "bewilderment"
+      ]
+    },
+    {
+      "term": "anta-k\u0101le",
+      "transliteration": "anta-k\u0101le",
+      "type": "compound, masculine locative singular",
+      "definition": "At the time of death; anta (end) + k\u0101la (time). The ultimate test - even at death, one is not deluded. The fear that drives worldly activity proves powerless.",
+      "roots": "anta (end) + k\u0101la (time)",
+      "references": [
+        "BG 2.72"
+      ],
+      "themes": [
+        "death",
+        "end-time",
+        "final-moment",
+        "transition"
+      ]
+    },
+    {
+      "term": "nirv\u0101\u1e47a",
+      "transliteration": "nirv\u0101\u1e47a",
+      "type": "neuter noun, accusative singular",
+      "definition": "Extinction, liberation from material existence; nir + v\u0101\u1e47a (blowing out). Not extinction of existence but of bondage. The culmination - parama\u1e41 (supreme).",
+      "roots": "nir (out, away) + v\u0101\u1e47a (blowing)",
+      "references": [
+        "BG 2.72"
+      ],
+      "themes": [
+        "liberation",
+        "extinction",
+        "moksha",
+        "cessation",
+        "supreme"
+      ]
+    },
+    {
       "term": "vih\u0101ya",
       "transliteration": "vih\u0101ya",
       "type": "gerund, absolutive",
