@@ -1,6 +1,21 @@
 {
   "verses": [
     {
+      "date": "2026-03-03",
+      "source": "BG 9.29",
+      "chapter": 9,
+      "verse": 29,
+      "text": "Bhagavad Gita",
+      "tithi": "Purnima",
+      "nakshatra": "Purva Phalguni → Uttara Phalguni",
+      "yoga": "Dhriti → Shula",
+      "themes": ["equality", "devotion", "bhakti", "reciprocation", "chaitanya-mahaprabhu"],
+      "tags": ["#equality", "#devotion", "#bhakti", "#reciprocation", "#chaitanya-mahaprabhu", "#holi", "#purnima"],
+      "yogaSutraConnection": "YS 1.23",
+      "sankhyaConcepts": ["sama", "bhakti", "reciprocation"],
+      "keyTerms": ["samah", "sarva-bhuteshu", "dveshyah", "bhajanti", "bhaktya"]
+    },
+    {
       "date": "2026-03-02",
       "source": "BG 3.7",
       "chapter": 3,
@@ -46,5 +61,5 @@
       "keyTerms": ["kṣaṇam", "akarma-kṛt", "avaśaḥ", "prakṛti-jaiḥ", "guṇaiḥ"]
     }
   ],
-  "lastUpdated": "2026-03-02"
+  "lastUpdated": "2026-03-03"
 }
