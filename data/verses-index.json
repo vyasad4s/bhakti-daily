@@ -1,6 +1,21 @@
 {
   "verses": [
     {
+      "date": "2026-03-04",
+      "source": "BG 3.8",
+      "chapter": 3,
+      "verse": 8,
+      "text": "Bhagavad Gita",
+      "tithi": "Krishna Dwitiya",
+      "nakshatra": "Uttara Phalguni → Hasta",
+      "yoga": "Soola → Ganda",
+      "themes": ["karma-yoga", "duty", "discipline", "kriya-yoga", "renunciation"],
+      "tags": ["#karma-yoga", "#niyata-karma", "#renunciation", "#duty", "#discipline", "#kriya-yoga", "#vairagya", "#sankhya", "#tapas", "#dwitiya", "#hasta", "#ganda"],
+      "yogaSutraConnection": "YS 2.1",
+      "sankhyaConcepts": ["niyata-karma", "prakriti", "vairagya", "tapas", "supramundane"],
+      "keyTerms": ["niyata", "karma", "jyayah", "akarma", "sharira-yatra", "prasidhyed"]
+    },
+    {
       "date": "2026-03-03",
       "source": "BG 9.29",
       "chapter": 9,
@@ -61,5 +76,5 @@
       "keyTerms": ["kṣaṇam", "akarma-kṛt", "avaśaḥ", "prakṛti-jaiḥ", "guṇaiḥ"]
     }
   ],
-  "lastUpdated": "2026-03-03"
+  "lastUpdated": "2026-03-04"
 }
