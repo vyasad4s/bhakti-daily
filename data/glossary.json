@@ -1,29 +1,24 @@
 {
+  "lastUpdated": "2026-03-05",
   "terms": [
-    {
-      "term": "niyata",
-      "definition": "prescribed, regulated, bound by cosmic/dharmic order; duty not chosen but inherited through circumstance and station"
-    },
-    {
-      "term": "karma",
-      "definition": "action, work, ritual performance; specifically niyata-karma: duty performed without attachment to result"
-    },
-    {
-      "term": "jyayah",
-      "definition": "superior, better, more excellent; comparative of jya (to overpower) — the moral hierarchy between performed duty and renunciatory evasion"
-    },
-    {
-      "term": "akarma",
-      "definition": "non-action, inaction, renunciation without qualification; the false renunciation of the immature practitioner"
-    },
-    {
-      "term": "sharira-yatra",
-      "definition": "bodily maintenance, journey of the body (sharira: that which decays + yatra: going) — the minimum requirement of prakriti that cannot be evaded"
-    },
-    {
-      "term": "prasidhyed",
-      "definition": "would be accomplished, effected, made successful; from pra-sidh (to execute/complete)"
-    }
-  ],
-  "lastUpdated": "2026-03-04"
-}
+    { "term": "vāsāṁsi", "transliteration": "vāsāṁsi", "type": "noun, plural", "definition": "garments, clothes; material bodies as temporary coverings for the eternal soul; the changing vehicles that the soul inhabits like worn garments being replaced", "roots": "from vas (to wear, clothe)", "references": ["BG 2.22"], "themes": ["reincarnation", "impermanence", "body-soul distinction"] },
+    { "term": "jīrṇāni", "transliteration": "jīrṇāni", "type": "adjective", "definition": "worn out, old, decayed; the material body after its utility is exhausted and must be relinquished; the natural state of all material forms through time", "roots": "from jṝ (to decay, waste away)", "references": ["BG 2.22"], "themes": ["impermanence", "decay", "reincarnation"] },
+    { "term": "vihāya", "transliteration": "vihāya", "type": "gerund", "definition": "having abandoned, given up; voluntary relinquishment of the old body at death; the conscious release of worn-out form without attachment or regret", "roots": "from vi-ha (to leave behind, discard)", "references": ["BG 2.22"], "themes": ["detachment", "renunciation", "viveka"] },
+    { "term": "dehī", "transliteration": "dehī", "type": "noun", "definition": "the embodied one, the soul; literally 'possessing a body'; the conscious entity distinct from the body itself; the wearer of garments versus the garments themselves", "roots": "from deha (body) + ī (possessing)", "references": ["BG 2.22"], "themes": ["soul", "reincarnation", "viveka", "sankhya"] },
+    { "term": "saṁyāti", "transliteration": "saṁyāti", "type": "verb", "definition": "verily accepts, enters into; the soul's active assumption of a new material body according to accumulated karma; the taking up of fresh garments", "roots": "from sam-yā (to go toward, attain, accept)", "references": ["BG 2.22"], "themes": ["reincarnation", "karma", "soul"] },
+    { "term": "samah", "transliteration": "samaḥ", "type": "adjective, nominative singular masculine", "definition": "Equally disposed, same, impartial, level. The Lord's equal disposition toward all beings—no differentiation or preference. Not emotional neutrality but ontological equality.", "roots": "sam (same, equal)", "references": ["BG 9.29"], "themes": ["equality", "impartiality", "same-sightedness", "level"] },
+    { "term": "sarva-bhuteshu", "transliteration": "sarva-bhūteṣu", "type": "locative plural masculine", "definition": "In all living entities. Sara (all) + bhūta (living being, entity). The comprehensive scope of the Lord's equal presence—no being is excluded from divine presence.", "roots": "sarva (all) + bhū (to become, exist)", "references": ["BG 9.29"], "themes": ["all-beings", "omnipresence", "living-entities", "universality"] },
+    { "term": "dveshyah", "transliteration": "dveṣyaḥ", "type": "adjective, nominative singular masculine", "definition": "Hateful, odious, one who is to be hated. From dviṣ (to hate). The Lord declares no one is hateful to Him—hatred finds no target in the Absolute.", "roots": "dviṣ (to hate, show hostility)", "references": ["BG 9.29"], "themes": ["hatred", "aversion", "non-aversion", "enmity"] },
+    { "term": "bhajanti", "transliteration": "bhajanti", "type": "verb, third person plural present", "definition": "They worship, serve, share in, enjoy. From bhaj (to share, serve). The verb of loving devotion—active engagement with the Divine. Not contemplation but participatory connection.", "roots": "bhaj (to share, divide, serve)", "references": ["BG 9.29"], "themes": ["worship", "service", "devotion", "bhakti", "participation"] },
+    { "term": "bhaktya", "transliteration": "bhaktyā", "type": "feminine instrumental singular", "definition": "By devotion, with devotion. The instrumental means of connection—devotion is not the goal but the tool, the method, the instrument that opens the heart to divine reciprocation.", "roots": "bhaj (to share, serve)", "references": ["BG 9.29"], "themes": ["devotion", "bhakti", "instrument", "method", "love"] },
+    { "term": "niyata", "definition": "prescribed, regulated, bound by cosmic/dharmic order; duty not chosen but inherited through circumstance and station", "references": ["BG 3.8"] },
+    { "term": "karma", "definition": "action, work, ritual performance; specifically niyata-karma: duty performed without attachment to result", "references": ["BG 3.8"] },
+    { "term": "jyayah", "definition": "superior, better, more excellent; comparative of jya (to overpower) — the moral hierarchy between performed duty and renunciatory evasion", "references": ["BG 3.8"] },
+    { "term": "akarma", "definition": "non-action, inaction, renunciation without qualification; the false renunciation of the immature practitioner", "references": ["BG 3.8"] },
+    { "term": "sharira-yatra", "definition": "bodily maintenance, journey of the body (sharira: that which decays + yatra: going) — the minimum requirement of prakriti that cannot be evaded", "references": ["BG 3.8"] },
+    { "term": "prasidhyed", "definition": "would be accomplished, effected, made successful; from pra-sidh (to execute/complete)", "references": ["BG 3.8"] },
+    { "term": "karmendriyani-samyamya", "transliteration": "karmendriyāṇi saṃyamya", "type": "neuter plural accusative + gerund absolutive", "definition": "The five organs of action (hands, legs, speech, genitals, anus) having been controlled/restrained. The external show of physical restraint that defines the pretender.", "roots": "karma (action) + indriya (organ) + sam-yam (to hold together)", "references": ["BG 3.6"], "themes": ["action-organs", "restraint", "pretender", "external-show"] },
+    { "term": "aste", "transliteration": "āste", "type": "verb, present middle voice 3rd person singular", "definition": "Sits, remains, dwells. From ās (to sit). The pretender's posture of meditation—body still while mind wanders. The middle voice emphasizes self-benefit that never arrives.", "roots": "from ās (to sit, be present)", "references": ["BG 3.6"], "themes": ["sitting", "remaining", "posture", "pretender-stillness"] },
+    { "term": "smaran", "transliteration": "smaran", "type": "present participle, nominative singular masculine", "definition": "Thinking of, dwelling upon, remembering. From smṛ (to remember). The smoking gun of the pretender—the mind actively engaging with sense objects while body feigns renunciation.", "roots": "from smṛ (to remember, think of)", "references": ["BG 3.6"], "themes": ["dwelling", "thinking", "memory", "mind-wandering"] },
+    { "term": "indriya-arthan", "transliteration": "indriyārthān", "type": "compound, masculine plural accusative", "definition": "Objects of the senses. Indriya (sense) + artha (object/purpose) + ān (accusative plural). The viṣaya that the pretender's mind secretly craves while body remains still.", "roots": "indriya (sense) + artha (object)", "references": ["BG 3.6"], "themes": ["sense-objects", "viṣaya", "craving", "objects"] },
+    { "term": "vimudhatma", "transliteration": "vimūdhātmā", "type": "compound, nominative singular masculine", "definition": "One whose self is deluded/bewildered. Vimūḍha (deluded) + ātmā (self). Not merely confused but thoroughly deluded—vi (intensive) + mūḍha. The pretender's true state.", "roots": "vi (intensive) + muh (to be deluded) + ātmā (self)", "references": ["BG 3.6"], "themes": [
