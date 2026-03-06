@@ -1,19 +1,87 @@
 {
   "verses": [
     {
+      "date": "2026-03-06",
+      "source": "BG 2.23",
+      "chapter": 2,
+      "verse": 23,
+      "text": "Bhagavad Gita",
+      "tithi": "Krishna Tritiya-Caturthi",
+      "nakshatra": "Chitra \u2192 Swati",
+      "yoga": "Vriddhi \u2192 Dhruva",
+      "themes": [
+        "soul-indestructibility",
+        "sankhya-dualism",
+        "puru\u1e63a-prak\u1e5bti",
+        "elements"
+      ],
+      "tags": [
+        "#soul-indestructibility",
+        "#sankhya",
+        "#puru\u1e63a",
+        "#elements",
+        "#sankashti-chaturthi",
+        "#chitra",
+        "#swati"
+      ],
+      "yogaSutraConnection": "YS 1.2",
+      "sankhyaConcepts": [
+        "puru\u1e63a",
+        "prak\u1e5bti",
+        "five-elements"
+      ],
+      "keyTerms": [
+        "\u015bastr\u0101\u1e47i",
+        "p\u0101vaka\u1e25",
+        "m\u0101ruta\u1e25"
+      ]
+    },
+    {
       "date": "2026-03-04",
       "source": "BG 3.8",
       "chapter": 3,
       "verse": 8,
       "text": "Bhagavad Gita",
       "tithi": "Krishna Dwitiya",
-      "nakshatra": "Uttara Phalguni → Hasta",
-      "yoga": "Soola → Ganda",
-      "themes": ["karma-yoga", "duty", "discipline", "kriya-yoga", "renunciation"],
-      "tags": ["#karma-yoga", "#niyata-karma", "#renunciation", "#duty", "#discipline", "#kriya-yoga", "#vairagya", "#sankhya", "#tapas", "#dwitiya", "#hasta", "#ganda"],
+      "nakshatra": "Uttara Phalguni \u2192 Hasta",
+      "yoga": "Soola \u2192 Ganda",
+      "themes": [
+        "karma-yoga",
+        "duty",
+        "discipline",
+        "kriya-yoga",
+        "renunciation"
+      ],
+      "tags": [
+        "#karma-yoga",
+        "#niyata-karma",
+        "#renunciation",
+        "#duty",
+        "#discipline",
+        "#kriya-yoga",
+        "#vairagya",
+        "#sankhya",
+        "#tapas",
+        "#dwitiya",
+        "#hasta",
+        "#ganda"
+      ],
       "yogaSutraConnection": "YS 2.1",
-      "sankhyaConcepts": ["niyata-karma", "prakriti", "vairagya", "tapas", "supramundane"],
-      "keyTerms": ["niyata", "karma", "jyayah", "akarma", "sharira-yatra", "prasidhyed"]
+      "sankhyaConcepts": [
+        "niyata-karma",
+        "prakriti",
+        "vairagya",
+        "tapas",
+        "supramundane"
+      ],
+      "keyTerms": [
+        "niyata",
+        "karma",
+        "jyayah",
+        "akarma",
+        "sharira-yatra",
+        "prasidhyed"
+      ]
     },
     {
       "date": "2026-03-03",
@@ -22,13 +90,37 @@
       "verse": 29,
       "text": "Bhagavad Gita",
       "tithi": "Purnima",
-      "nakshatra": "Purva Phalguni → Uttara Phalguni",
-      "yoga": "Dhriti → Shula",
-      "themes": ["equality", "devotion", "bhakti", "reciprocation", "chaitanya-mahaprabhu"],
-      "tags": ["#equality", "#devotion", "#bhakti", "#reciprocation", "#chaitanya-mahaprabhu", "#holi", "#purnima"],
+      "nakshatra": "Purva Phalguni \u2192 Uttara Phalguni",
+      "yoga": "Dhriti \u2192 Shula",
+      "themes": [
+        "equality",
+        "devotion",
+        "bhakti",
+        "reciprocation",
+        "chaitanya-mahaprabhu"
+      ],
+      "tags": [
+        "#equality",
+        "#devotion",
+        "#bhakti",
+        "#reciprocation",
+        "#chaitanya-mahaprabhu",
+        "#holi",
+        "#purnima"
+      ],
       "yogaSutraConnection": "YS 1.23",
-      "sankhyaConcepts": ["sama", "bhakti", "reciprocation"],
-      "keyTerms": ["samah", "sarva-bhuteshu", "dveshyah", "bhajanti", "bhaktya"]
+      "sankhyaConcepts": [
+        "sama",
+        "bhakti",
+        "reciprocation"
+      ],
+      "keyTerms": [
+        "samah",
+        "sarva-bhuteshu",
+        "dveshyah",
+        "bhajanti",
+        "bhaktya"
+      ]
     },
     {
       "date": "2026-03-02",
@@ -36,14 +128,42 @@
       "chapter": 3,
       "verse": 7,
       "text": "Bhagavad Gita",
-      "tithi": "Chaturdashi → Purnima",
-      "nakshatra": "Magha → Purva Phalguni",
-      "yoga": "Sukarma → Dhriti",
-      "themes": ["karma-yoga", "detachment", "superior-yogi", "sincerity", "action"],
-      "tags": ["#karma-yoga", "#asakti", "#detachment", "#superior-yogi", "#chaturdashi", "#magha", "#sukarma"],
+      "tithi": "Chaturdashi \u2192 Purnima",
+      "nakshatra": "Magha \u2192 Purva Phalguni",
+      "yoga": "Sukarma \u2192 Dhriti",
+      "themes": [
+        "karma-yoga",
+        "detachment",
+        "superior-yogi",
+        "sincerity",
+        "action"
+      ],
+      "tags": [
+        "#karma-yoga",
+        "#asakti",
+        "#detachment",
+        "#superior-yogi",
+        "#chaturdashi",
+        "#magha",
+        "#sukarma"
+      ],
       "yogaSutraConnection": "YS 1.12, YS 2.2",
-      "sankhyaConcepts": ["prakriti", "gunas", "naishkarmya", "antahkarana"],
-      "keyTerms": ["yas", "tu", "indriyani", "manasa", "niyamya", "karma-yoga", "asaktah", "vishishyate"]
+      "sankhyaConcepts": [
+        "prakriti",
+        "gunas",
+        "naishkarmya",
+        "antahkarana"
+      ],
+      "keyTerms": [
+        "yas",
+        "tu",
+        "indriyani",
+        "manasa",
+        "niyamya",
+        "karma-yoga",
+        "asaktah",
+        "vishishyate"
+      ]
     },
     {
       "date": "2026-03-01",
@@ -51,14 +171,45 @@
       "chapter": 3,
       "verse": 6,
       "text": "Bhagavad Gita",
-      "tithi": "Trayodashi → Chaturdashi",
-      "nakshatra": "Ashlesha → Magha",
-      "yoga": "Taitila → Garaja → Vanija",
-      "themes": ["pretender", "hypocrisy", "mind-control", "renunciation", "senses", "entanglement", "sovereignty"],
-      "tags": ["#pretender", "#mithyacarah", "#ashlesha", "#magha", "#trayodashi", "#mind", "#senses", "#vairagya"],
+      "tithi": "Trayodashi \u2192 Chaturdashi",
+      "nakshatra": "Ashlesha \u2192 Magha",
+      "yoga": "Taitila \u2192 Garaja \u2192 Vanija",
+      "themes": [
+        "pretender",
+        "hypocrisy",
+        "mind-control",
+        "renunciation",
+        "senses",
+        "entanglement",
+        "sovereignty"
+      ],
+      "tags": [
+        "#pretender",
+        "#mithyacarah",
+        "#ashlesha",
+        "#magha",
+        "#trayodashi",
+        "#mind",
+        "#senses",
+        "#vairagya"
+      ],
       "yogaSutraConnection": "YS 1.12, YS 1.15",
-      "sankhyaConcepts": ["antahkarana", "gunas", "mithya", "sankalpa", "vasana"],
-      "keyTerms": ["karmendriyani", "samyamya", "manasa", "smaran", "mithyacarah", "vimudha", "indriya-arthan"]
+      "sankhyaConcepts": [
+        "antahkarana",
+        "gunas",
+        "mithya",
+        "sankalpa",
+        "vasana"
+      ],
+      "keyTerms": [
+        "karmendriyani",
+        "samyamya",
+        "manasa",
+        "smaran",
+        "mithyacarah",
+        "vimudha",
+        "indriya-arthan"
+      ]
     },
     {
       "date": "2026-02-28",
@@ -66,15 +217,37 @@
       "chapter": 3,
       "verse": 5,
       "text": "Bhagavad Gita",
-      "tithi": "Dwadashi → Trayodashi",
-      "nakshatra": "Puṣya → Āśleṣa",
-      "yoga": "Śobhana",
-      "themes": ["action", "gunas", "prakriti", "compulsion", "pradosha"],
-      "tags": ["#action", "#gunas", "#prakriti", "#pradosha", "#pushya"],
+      "tithi": "Dwadashi \u2192 Trayodashi",
+      "nakshatra": "Pu\u1e63ya \u2192 \u0100\u015ble\u1e63a",
+      "yoga": "\u015aobhana",
+      "themes": [
+        "action",
+        "gunas",
+        "prakriti",
+        "compulsion",
+        "pradosha"
+      ],
+      "tags": [
+        "#action",
+        "#gunas",
+        "#prakriti",
+        "#pradosha",
+        "#pushya"
+      ],
       "yogaSutraConnection": "YS 2.2",
-      "sankhyaConcepts": ["prakriti", "gunas", "akarma"],
-      "keyTerms": ["kṣaṇam", "akarma-kṛt", "avaśaḥ", "prakṛti-jaiḥ", "guṇaiḥ"]
+      "sankhyaConcepts": [
+        "prakriti",
+        "gunas",
+        "akarma"
+      ],
+      "keyTerms": [
+        "k\u1e63a\u1e47am",
+        "akarma-k\u1e5bt",
+        "ava\u015ba\u1e25",
+        "prak\u1e5bti-jai\u1e25",
+        "gu\u1e47ai\u1e25"
+      ]
     }
   ],
-  "lastUpdated": "2026-03-04"
+  "lastUpdated": "2026-03-06"
 }

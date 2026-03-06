@@ -1,6 +1,76 @@
 {
-  "lastUpdated": "2026-03-03",
+  "lastUpdated": "2026-03-05",
   "terms": [
+    {
+      "term": "v\u0101s\u0101\u1e41si",
+      "transliteration": "v\u0101s\u0101\u1e41si",
+      "type": "noun, plural",
+      "definition": "garments, clothes; material bodies as temporary coverings for the eternal soul",
+      "roots": "from vas (to wear)",
+      "references": [
+        "BG 2.22"
+      ],
+      "themes": [
+        "reincarnation",
+        "impermanence"
+      ]
+    },
+    {
+      "term": "j\u012br\u1e47\u0101ni",
+      "transliteration": "j\u012br\u1e47\u0101ni",
+      "type": "adjective",
+      "definition": "worn out, old, decayed; material body after utility is exhausted",
+      "roots": "from j\u1e5d (to decay)",
+      "references": [
+        "BG 2.22"
+      ],
+      "themes": [
+        "impermanence",
+        "decay"
+      ]
+    },
+    {
+      "term": "vih\u0101ya",
+      "transliteration": "vih\u0101ya",
+      "type": "gerund",
+      "definition": "having abandoned; voluntary relinquishment of worn-out form",
+      "roots": "from vi-ha (to leave)",
+      "references": [
+        "BG 2.22"
+      ],
+      "themes": [
+        "detachment",
+        "renunciation"
+      ]
+    },
+    {
+      "term": "deh\u012b",
+      "transliteration": "deh\u012b",
+      "type": "noun",
+      "definition": "the embodied one, the soul; distinct from the body itself",
+      "roots": "deha (body) + \u012b (possessing)",
+      "references": [
+        "BG 2.22"
+      ],
+      "themes": [
+        "soul",
+        "reincarnation"
+      ]
+    },
+    {
+      "term": "sa\u1e41y\u0101ti",
+      "transliteration": "sa\u1e41y\u0101ti",
+      "type": "verb",
+      "definition": "accepts, enters into; soul's assumption of new embodiment per karma",
+      "roots": "from sam-y\u0101 (to go toward)",
+      "references": [
+        "BG 2.22"
+      ],
+      "themes": [
+        "reincarnation",
+        "karma"
+      ]
+    },
     {
       "term": "samah",
       "transliteration": "sama\u1e25",
