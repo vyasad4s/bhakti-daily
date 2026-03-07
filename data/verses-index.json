@@ -1,6 +1,45 @@
 {
   "verses": [
     {
+      "date": "2026-03-07",
+      "source": "BG 2.24",
+      "chapter": 2,
+      "verse": 24,
+      "text": "Bhagavad Gita",
+      "tithi": "Krishna Chaturthi-Panchami",
+      "nakshatra": "Svati",
+      "yoga": "Dhruva",
+      "themes": [
+        "soul-indestructibility",
+        "sankhya-dualism",
+        "puru\u1e63a-khy\u0101ti",
+        "sarva-gata"
+      ],
+      "tags": [
+        "#soul-indestructibility",
+        "#sankhya",
+        "#puru\u1e63a",
+        "#sarva-gata",
+        "#svati-nakshatra",
+        "#eternal-soul",
+        "#sanatana"
+      ],
+      "yogaSutraConnection": "YS 1.16",
+      "sankhyaConcepts": [
+        "puru\u1e63a",
+        "gu\u1e47a-vait\u1e5b\u1e63\u1e47yam",
+        "sarva-gata"
+      ],
+      "keyTerms": [
+        "acchedya\u1e25",
+        "ad\u0101hya\u1e25",
+        "akledya\u1e25",
+        "a\u015bo\u1e63ya\u1e25",
+        "sarvagata\u1e25",
+        "san\u0101tana\u1e25"
+      ]
+    },
+    {
       "date": "2026-03-06",
       "source": "BG 2.23",
       "chapter": 2,
