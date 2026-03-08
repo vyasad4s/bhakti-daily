@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-07",
+  "lastUpdated": "2026-03-08",
   "terms": [
     {
       "term": "acchedya\u1e25",
@@ -1883,6 +1883,97 @@
         "mercy",
         "clarity",
         "divine-blessing"
+      ]
+    },
+    {
+      "term": "deh\u012b",
+      "transliteration": "deh\u012b",
+      "type": "masculine noun",
+      "definition": "The embodied one; the conscious self temporarily inhabiting a body; like a process running on hardware that gets swapped out.",
+      "roots": "from deha (body)",
+      "references": [
+        "BG 2.13"
+      ],
+      "themes": [
+        "embodied-soul",
+        "puru\u1e63a",
+        "viveka"
+      ]
+    },
+    {
+      "term": "deh\u0101ntara-pr\u0101pti\u1e25",
+      "transliteration": "deh\u0101ntara-pr\u0101pti\u1e25",
+      "type": "feminine compound",
+      "definition": "Attainment of another body; death not as termination but migration; no data lost, just new hardware.",
+      "roots": "deha (body) + antara (other) + pr\u0101pti (attainment)",
+      "references": [
+        "BG 2.13"
+      ],
+      "themes": [
+        "reincarnation",
+        "soul-migration",
+        "death"
+      ]
+    },
+    {
+      "term": "kaum\u0101ra\u1e41",
+      "transliteration": "kaum\u0101ra\u1e41",
+      "type": "neuter noun",
+      "definition": "Childhood; boyhood; the first compiled state of the body's development.",
+      "roots": "from kum\u0101ra (boy, youth)",
+      "references": [
+        "BG 2.13"
+      ],
+      "themes": [
+        "life-stages",
+        "body",
+        "development"
+      ]
+    },
+    {
+      "term": "yauvana\u1e41",
+      "transliteration": "yauvana\u1e41",
+      "type": "neuter noun",
+      "definition": "Youth; the system in full operation, the prime of bodily life.",
+      "roots": "from yuvan (young)",
+      "references": [
+        "BG 2.13"
+      ],
+      "themes": [
+        "life-stages",
+        "body",
+        "prime-of-life"
+      ]
+    },
+    {
+      "term": "jar\u0101",
+      "transliteration": "jar\u0101",
+      "type": "feminine noun",
+      "definition": "Old age; system degradation; entropy in action; the body's decline.",
+      "roots": "from jar (to become old, decay)",
+      "references": [
+        "BG 2.13"
+      ],
+      "themes": [
+        "life-stages",
+        "aging",
+        "entropy"
+      ]
+    },
+    {
+      "term": "dh\u012bra\u1e25",
+      "transliteration": "dh\u012bra\u1e25",
+      "type": "masculine noun",
+      "definition": "The sober, the steady; one whose intelligence (buddhi) remains stable through changing conditions; the unperturbed observer who sees through the simulation.",
+      "roots": "from dh\u1e5b (to hold, support, sustain)",
+      "references": [
+        "BG 2.13"
+      ],
+      "themes": [
+        "steadiness",
+        "buddhi",
+        "viveka",
+        "discernment"
       ]
     }
   ]
