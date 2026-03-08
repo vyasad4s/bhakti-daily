@@ -1,6 +1,47 @@
 {
   "verses": [
     {
+      "date": "2026-03-08",
+      "source": "BG 2.13",
+      "chapter": 2,
+      "verse": 13,
+      "text": "Bhagavad Gita",
+      "tithi": "Krishna Panchami-Shashthi",
+      "nakshatra": "Vishakha",
+      "yoga": "Vyaghata",
+      "themes": [
+        "viveka",
+        "discernment",
+        "soul-migration",
+        "puru\u1e63a-prak\u1e5bti"
+      ],
+      "tags": [
+        "#discernment",
+        "#viveka",
+        "#soul-migration",
+        "#sankhya",
+        "#vishakha-nakshatra",
+        "#ranga-panchami"
+      ],
+      "yogaSutraConnection": "YS I.2",
+      "sankhyaConcepts": [
+        "puru\u1e63a",
+        "prak\u1e5bti",
+        "viveka",
+        "citta-v\u1e5btti-nirodha\u1e25"
+      ],
+      "keyTerms": [
+        "deh\u012b",
+        "deha",
+        "deh\u0101ntara-pr\u0101pti\u1e25",
+        "kaum\u0101ra\u1e41",
+        "yauvana\u1e41",
+        "jar\u0101",
+        "dh\u012bra\u1e25",
+        "muhyati"
+      ]
+    },
+    {
       "date": "2026-03-07",
       "source": "BG 2.24",
       "chapter": 2,
