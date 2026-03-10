@@ -1,6 +1,21 @@
 {
   "verses": [
     {
+      "date": "2026-03-10",
+      "source": "BG 2.64",
+      "chapter": 2,
+      "verse": 64,
+      "text": "Bhagavad Gita",
+      "tithi": "Saptamī → Aṣṭamī",
+      "nakshatra": "Anurādhā → Jyeṣṭhā",
+      "yoga": "Vajra",
+      "themes": ["rāga-dveṣa", "liberation", "prasāda", "sense-control", "kleśa"],
+      "tags": ["#rāga-dveṣa", "#kleśa", "#prasāda", "#sense-control", "#viveka", "#bhakti", "#discipline", "#liberation"],
+      "yogaSutraConnection": "YS II.3",
+      "sankhyaConcepts": ["puruṣa-prakṛti dualism", "kleshas", "viveka"],
+      "keyTerms": ["rāga", "dveṣa", "vimukta", "ātma-vaśya", "vidheyātmā", "prasāda"]
+    },
+    {
       "date": "2026-03-09",
       "source": "BG 2.14",
       "chapter": 2,
@@ -9,53 +24,27 @@
       "tithi": "Ṣaṣṭhī → Saptamī",
       "nakshatra": "Anurādhā",
       "yoga": "Harṣaṇa → Vajra",
-      "themes": [
-        "titikṣā",
-        "tolerance",
-        "impermanence",
-        "duty",
-        "sense-control"
-      ],
-      "tags": [
-        "#titikṣā",
-        "#tolerance",
-        "#duty",
-        "#anitya",
-        "#impermanence",
-        "#mātrā-sparśa",
-        "#sense-control",
-        "#sāṅkhya",
-        "#prakṛti",
-        "#discernment"
-      ],
+      "themes": ["titikṣā", "tolerance", "impermanence", "duty", "sense-control"],
+      "tags": ["#titikṣā", "#tolerance", "#duty", "#anitya", "#impermanence", "#mātrā-sparśa", "#sense-control", "#sāṅkhya", "#prakṛti", "#discernment"],
       "yogaSutraConnection": "YS II.1",
-      "sankhyaConcepts": [
-        "puruṣa-prakṛti dualism",
-        "guṇa-vṛttis",
-        "anitya"
-      ],
-      "keyTerms": [
-        "titikṣasva",
-        "mātrā-sparśaḥ",
-        "anityāḥ",
-        "āgama-apāyinaḥ",
-        "śīta-uṣṇa"
-      ]
+      "sankhyaConcepts": ["puruṣa-prakṛti dualism", "guṇa-vṛttis", "anitya"],
+      "keyTerms": ["titikṣasva", "mātrā-sparśaḥ", "anityāḥ", "āgama-apāyinaḥ", "śīta-uṣṇa"]
     },
-    { "date": "2026-03-05",
+    {
+      "date": "2026-03-05",
       "source": "BG 2.22",
       "chapter": 2,
       "verse": 22,
       "text": "Bhagavad Gita",
       "tithi": "Krishna Dwitiya → Tritiya",
-      "nakshatra": "Hasta → Chitrā",
-      "yoga": "Ganda → Vṛddhi",
-      "themes": [ "reincarnation", "body-soul distinction", "viveka", "impermanence" ],
-      "tags": [ "#reincarnation", "#soul", "#discernment", "#viveka", "#sankhya", "#impermanence", "#liberation" ],
-      "yogaSutraConnection": "YS I.3-4",
-      "sankhyaConcepts": [ "puruṣa-prakṛti dualism", "dehī vs deha", "vṛtti-sārūpya" ],
-      "keyTerms": [ "vāsāṁsi", "jīrṇāni", "vihāya", "dehī", "saṁyāti" ]
+      "nakshatra": "Rohiṇī",
+      "yoga": "Siddha",
+      "themes": ["ātma", "vāsāṃsi", "deha", "vairāgya"],
+      "tags": ["#deha", "#vairāgya", "#ātma", "#sāṅkhya", "#discernment"],
+      "yogaSutraConnection": "YS II.17",
+      "sankhyaConcepts": ["deha-ātma-viveka", "puruṣa-prakṛti"],
+      "keyTerms": ["vāsāṃsi", "jīrṇāni", "deha", "dehī"]
     }
   ],
-  "lastUpdated": "2026-03-09"
+  "lastUpdated": "2026-03-10"
 }
