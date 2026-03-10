@@ -1,6 +1,69 @@
 {
-  "lastUpdated": "2026-03-09",
+  "lastUpdated": "2026-03-10",
   "terms": [
+    {
+      "term": "rāga",
+      "transliteration": "rāga",
+      "type": "masculine noun",
+      "definition": "attachment, passion, coloration of the mind; the condition where the mind is drawn toward objects based on remembered pleasure from past experiences; like legacy code that keeps executing because it worked once.",
+      "roots": "from raj (to color, to dye)",
+      "references": ["BG 2.64"],
+      "themes": ["rāga-dveṣa", "kleśa", "attachment", "desire"]
+    },
+    {
+      "term": "dveṣa",
+      "transliteration": "dveṣa",
+      "type": "masculine noun",
+      "definition": "aversion, hatred, repulsion; the inverse attachment—pushing away what caused pain; both rāga and dveṣa bind equally, just different polarities of the same trap.",
+      "roots": "from dviṣ (to hate, detest)",
+      "references": ["BG 2.64"],
+      "themes": ["rāga-dveṣa", "kleśa", "aversion", "hatred"]
+    },
+    {
+      "term": "vimukta",
+      "transliteration": "vimukta",
+      "type": "adjective, past participle",
+      "definition": "liberated, released, set free; the state of being completely untangled from the kleshas; root muc—to loosen, release.",
+      "roots": "from muc (to loosen, release, free)",
+      "references": ["BG 2.64"],
+      "themes": ["liberation", "kleśa", "mokṣa", "viveka"]
+    },
+    {
+      "term": "ātma-vaśya",
+      "transliteration": "ātma-vaśya",
+      "type": "compound adjective",
+      "definition": "under the control of the self (ātman + vaśya); the senses operating as api endpoints the self controls, not as rogue processes hijacking attention.",
+      "roots": "ātman (self) + vaśya (to be controlled, from vaś)",
+      "references": ["BG 2.64"],
+      "themes": ["sense-control", "ātman", "discipline", "viveka"]
+    },
+    {
+      "term": "vidheyātmā",
+      "transliteration": "vidheyātmā",
+      "type": "compound masculine noun",
+      "definition": "one whose nature follows regulated principles; disciplined freedom—the apparent paradox that structure enables liberation.",
+      "roots": "vidheya (to be followed, from vi-dhā) + ātmā (self)",
+      "references": ["BG 2.64"],
+      "themes": ["discipline", "freedom", "sādhanā", "bhakti"]
+    },
+    {
+      "term": "prasāda",
+      "transliteration": "prasāda",
+      "type": "masculine noun",
+      "definition": "grace, mercy, tranquility; causeless favor of the Lord; the result of bhakti-yoga practice; also the sanctified remnants of offering to the Lord.",
+      "roots": "from pra-sad (to settle down, become clear, be pleased)",
+      "references": ["BG 2.64"],
+      "themes": ["prasāda", "bhakti", "grace", "mercy"]
+    },
+    {
+      "term": "adhigacchati",
+      "transliteration": "adhigacchati",
+      "type": "verb, 3rd person singular present",
+      "definition": "attains, reaches, comes to understand; the active acquisition of prasāda through right practice—this is not passive grace but earned through discipline.",
+      "roots": "from adhi-gam (to go to, attain, understand)",
+      "references": ["BG 2.64"],
+      "themes": ["attainment", "sādhanā", "prasāda", "discipline"]
+    },
     {
       "term": "titikṣasva",
       "transliteration": "titikṣasva",
