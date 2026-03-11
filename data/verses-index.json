@@ -1,19 +1,89 @@
 {
   "verses": [
     {
+      "date": "2026-03-11",
+      "source": "BG 2.65",
+      "chapter": 2,
+      "verse": 65,
+      "text": "Bhagavad Gita",
+      "tithi": "A\u1e63\u1e6dam\u012b \u2192 Navam\u012b",
+      "nakshatra": "M\u016bla",
+      "yoga": "Siddhi",
+      "themes": [
+        "pras\u0101da",
+        "du\u1e25kha-destruction",
+        "buddhi-establishment",
+        "grace",
+        "clarity",
+        "citta-pras\u0101danam"
+      ],
+      "tags": [
+        "#pras\u0101da",
+        "#du\u1e25kha",
+        "#buddhi",
+        "#citta-pras\u0101danam",
+        "#kle\u015ba",
+        "#grace",
+        "#discernment",
+        "#s\u0101\u1e45khya",
+        "#bhakti",
+        "#yoga"
+      ],
+      "yogaSutraConnection": "YS I.33",
+      "sankhyaConcepts": [
+        "buddhi-puru\u1e63a-viveka",
+        "pras\u0101da",
+        "citta-pras\u0101danam"
+      ],
+      "keyTerms": [
+        "pras\u0101da",
+        "sarva-du\u1e25kh\u0101n\u0101m",
+        "h\u0101ni\u1e25",
+        "prasanna-cetasa\u1e25",
+        "buddhi\u1e25",
+        "paryavati\u1e63\u1e6dhate"
+      ]
+    },
+    {
       "date": "2026-03-10",
       "source": "BG 2.64",
       "chapter": 2,
       "verse": 64,
       "text": "Bhagavad Gita",
-      "tithi": "Saptamī → Aṣṭamī",
-      "nakshatra": "Anurādhā → Jyeṣṭhā",
+      "tithi": "Saptam\u012b \u2192 A\u1e63\u1e6dam\u012b",
+      "nakshatra": "Anur\u0101dh\u0101 \u2192 Jye\u1e63\u1e6dh\u0101",
       "yoga": "Vajra",
-      "themes": ["rāga-dveṣa", "liberation", "prasāda", "sense-control", "kleśa"],
-      "tags": ["#rāga-dveṣa", "#kleśa", "#prasāda", "#sense-control", "#viveka", "#bhakti", "#discipline", "#liberation"],
+      "themes": [
+        "r\u0101ga-dve\u1e63a",
+        "liberation",
+        "pras\u0101da",
+        "sense-control",
+        "kle\u015ba"
+      ],
+      "tags": [
+        "#r\u0101ga-dve\u1e63a",
+        "#kle\u015ba",
+        "#pras\u0101da",
+        "#sense-control",
+        "#viveka",
+        "#bhakti",
+        "#discipline",
+        "#liberation"
+      ],
       "yogaSutraConnection": "YS II.3",
-      "sankhyaConcepts": ["puruṣa-prakṛti dualism", "kleshas", "viveka"],
-      "keyTerms": ["rāga", "dveṣa", "vimukta", "ātma-vaśya", "vidheyātmā", "prasāda"]
+      "sankhyaConcepts": [
+        "puru\u1e63a-prak\u1e5bti dualism",
+        "kleshas",
+        "viveka"
+      ],
+      "keyTerms": [
+        "r\u0101ga",
+        "dve\u1e63a",
+        "vimukta",
+        "\u0101tma-va\u015bya",
+        "vidhey\u0101tm\u0101",
+        "pras\u0101da"
+      ]
     },
     {
       "date": "2026-03-09",
@@ -21,14 +91,41 @@
       "chapter": 2,
       "verse": 14,
       "text": "Bhagavad Gita",
-      "tithi": "Ṣaṣṭhī → Saptamī",
-      "nakshatra": "Anurādhā",
-      "yoga": "Harṣaṇa → Vajra",
-      "themes": ["titikṣā", "tolerance", "impermanence", "duty", "sense-control"],
-      "tags": ["#titikṣā", "#tolerance", "#duty", "#anitya", "#impermanence", "#mātrā-sparśa", "#sense-control", "#sāṅkhya", "#prakṛti", "#discernment"],
+      "tithi": "\u1e62a\u1e63\u1e6dh\u012b \u2192 Saptam\u012b",
+      "nakshatra": "Anur\u0101dh\u0101",
+      "yoga": "Har\u1e63a\u1e47a \u2192 Vajra",
+      "themes": [
+        "titik\u1e63\u0101",
+        "tolerance",
+        "impermanence",
+        "duty",
+        "sense-control"
+      ],
+      "tags": [
+        "#titik\u1e63\u0101",
+        "#tolerance",
+        "#duty",
+        "#anitya",
+        "#impermanence",
+        "#m\u0101tr\u0101-spar\u015ba",
+        "#sense-control",
+        "#s\u0101\u1e45khya",
+        "#prak\u1e5bti",
+        "#discernment"
+      ],
       "yogaSutraConnection": "YS II.1",
-      "sankhyaConcepts": ["puruṣa-prakṛti dualism", "guṇa-vṛttis", "anitya"],
-      "keyTerms": ["titikṣasva", "mātrā-sparśaḥ", "anityāḥ", "āgama-apāyinaḥ", "śīta-uṣṇa"]
+      "sankhyaConcepts": [
+        "puru\u1e63a-prak\u1e5bti dualism",
+        "gu\u1e47a-v\u1e5bttis",
+        "anitya"
+      ],
+      "keyTerms": [
+        "titik\u1e63asva",
+        "m\u0101tr\u0101-spar\u015ba\u1e25",
+        "anity\u0101\u1e25",
+        "\u0101gama-ap\u0101yina\u1e25",
+        "\u015b\u012bta-u\u1e63\u1e47a"
+      ]
     },
     {
       "date": "2026-03-05",
@@ -36,15 +133,34 @@
       "chapter": 2,
       "verse": 22,
       "text": "Bhagavad Gita",
-      "tithi": "Krishna Dwitiya → Tritiya",
-      "nakshatra": "Rohiṇī",
+      "tithi": "Krishna Dwitiya \u2192 Tritiya",
+      "nakshatra": "Rohi\u1e47\u012b",
       "yoga": "Siddha",
-      "themes": ["ātma", "vāsāṃsi", "deha", "vairāgya"],
-      "tags": ["#deha", "#vairāgya", "#ātma", "#sāṅkhya", "#discernment"],
+      "themes": [
+        "\u0101tma",
+        "v\u0101s\u0101\u1e43si",
+        "deha",
+        "vair\u0101gya"
+      ],
+      "tags": [
+        "#deha",
+        "#vair\u0101gya",
+        "#\u0101tma",
+        "#s\u0101\u1e45khya",
+        "#discernment"
+      ],
       "yogaSutraConnection": "YS II.17",
-      "sankhyaConcepts": ["deha-ātma-viveka", "puruṣa-prakṛti"],
-      "keyTerms": ["vāsāṃsi", "jīrṇāni", "deha", "dehī"]
+      "sankhyaConcepts": [
+        "deha-\u0101tma-viveka",
+        "puru\u1e63a-prak\u1e5bti"
+      ],
+      "keyTerms": [
+        "v\u0101s\u0101\u1e43si",
+        "j\u012br\u1e47\u0101ni",
+        "deha",
+        "deh\u012b"
+      ]
     }
   ],
-  "lastUpdated": "2026-03-10"
+  "lastUpdated": "2026-03-11"
 }
