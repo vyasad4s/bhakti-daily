@@ -1,64 +1,51 @@
 {
-  "lastUpdated": "2026-03-11",
+  "lastUpdated": "2026-03-12",
   "terms": [
     {
-      "term": "sarva-du\u1e25kh\u0101n\u0101m",
-      "transliteration": "sarva-du\u1e25kh\u0101n\u0101m",
-      "type": "genitive plural",
-      "definition": "of all miseries; sarva = all, du\u1e25kha = suffering/material distress (the threefold: adhyatmika, adhibhautika, adhidaivika)",
-      "roots": "from sarva (all) + du\u1e25kha (suffering)",
+      "term": "adhigacchati",
+      "transliteration": "adhigacchati",
+      "type": "verb, 3rd person singular present",
+      "definition": "attains, reaches, comes to understand; the active acquisition of pras\u0101da through right practice\u2014this is not passive grace but earned through discipline.",
+      "roots": "from adhi-gam (to go to, attain, understand)",
       "references": [
-        "BG 2.65"
+        "BG 2.64"
       ],
       "themes": [
-        "du\u1e25kha",
-        "kle\u015ba",
-        "suffering"
-      ]
-    },
-    {
-      "term": "h\u0101ni\u1e25",
-      "transliteration": "h\u0101ni\u1e25",
-      "type": "feminine noun",
-      "definition": "destruction, cessation, disappearance; the loss or removal of something unwanted; spiritual garbage collection",
-      "roots": "from h\u0101 (to abandon, leave)",
-      "references": [
-        "BG 2.65"
-      ],
-      "themes": [
-        "du\u1e25kha",
-        "grace",
-        "liberation"
-      ]
-    },
-    {
-      "term": "prasanna-cetasa\u1e25",
-      "transliteration": "prasanna-cetasa\u1e25",
-      "type": "genitive singular",
-      "definition": "of the satisfied/pure-hearted; prasanna = clear, bright, satisfied; cetas = mind/heart/consciousness; one whose inner lake reflects truth without distortion",
-      "roots": "from prasanna (clear, bright) + cetas (mind, consciousness)",
-      "references": [
-        "BG 2.65"
-      ],
-      "themes": [
+        "attainment",
+        "s\u0101dhan\u0101",
         "pras\u0101da",
-        "citta",
-        "clarity"
+        "discipline"
       ]
     },
     {
-      "term": "paryavati\u1e63\u1e6dhate",
-      "transliteration": "paryavati\u1e63\u1e6dhate",
-      "type": "verb (3rd person singular)",
-      "definition": "becomes well established, stands firm; pari- = completion, ava-sth\u0101 = to stand; the intelligence that attains stable, immovable discernment",
-      "roots": "from pari- (completion) + ava-sth\u0101 (to stand)",
+      "term": "anity\u0101\u1e25",
+      "transliteration": "anity\u0101\u1e25",
+      "type": "feminine plural, nominative",
+      "definition": "impermanent, non-eternal \u2014 the defining quality of all prak\u1e5btic phenomena; that which cannot be relied upon for lasting satisfaction",
+      "roots": "a (not) + nitya (eternal)",
       "references": [
-        "BG 2.65"
+        "BG 2.14"
       ],
       "themes": [
-        "buddhi",
-        "discernment",
-        "stability"
+        "impermanence",
+        "prak\u1e5bti",
+        "discernment"
+      ]
+    },
+    {
+      "term": "bh\u0101rata",
+      "transliteration": "bh\u0101rata",
+      "type": "masculine vocative singular",
+      "definition": "O descendant of Bharata \u2014 appellation invoking Arjuna's paternal lineage; reminder of the greatness of the Bharata dynasty",
+      "roots": "from Bharata (ancient king)",
+      "references": [
+        "BG 2.14"
+      ],
+      "themes": [
+        "duty",
+        "lineage",
+        "k\u1e63atriya",
+        "dharma"
       ]
     },
     {
@@ -77,20 +64,9 @@
       ]
     },
     {
-      "term": "r\u0101ga",
-      "transliteration": "r\u0101ga",
-      "type": "masculine noun",
-      "definition": "attachment, passion, coloration of the mind; the condition where the mind is drawn toward objects based on remembered pleasure from past experiences; like legacy code that keeps executing because it worked once.",
-      "roots": "from raj (to color, to dye)",
-      "references": [
-        "BG 2.64"
-      ],
-      "themes": [
-        "r\u0101ga-dve\u1e63a",
-        "kle\u015ba",
-        "attachment",
-        "desire"
-      ]
+      "term": "dhy\u0101yata\u1e25",
+      "definition": "while contemplating, pondering; the gerundive form indicating continuous mental engagement. In S\u0101\u1e45khya/Yoga psychology, the first v\u1e5btti that externalizes consciousness\u2014merely thinking about sense objects initiates the cascade toward attachment.",
+      "source": "BG 2.62"
     },
     {
       "term": "dve\u1e63a",
@@ -109,51 +85,78 @@
       ]
     },
     {
-      "term": "vimukta",
-      "transliteration": "vimukta",
-      "type": "adjective, past participle",
-      "definition": "liberated, released, set free; the state of being completely untangled from the kleshas; root muc\u2014to loosen, release.",
-      "roots": "from muc (to loosen, release, free)",
+      "term": "h\u0101ni\u1e25",
+      "transliteration": "h\u0101ni\u1e25",
+      "type": "feminine noun",
+      "definition": "destruction, cessation, disappearance; the loss or removal of something unwanted; spiritual garbage collection",
+      "roots": "from h\u0101 (to abandon, leave)",
       "references": [
-        "BG 2.64"
+        "BG 2.65"
       ],
       "themes": [
-        "liberation",
-        "kle\u015ba",
-        "mok\u1e63a",
-        "viveka"
+        "du\u1e25kha",
+        "grace",
+        "liberation"
       ]
     },
     {
-      "term": "\u0101tma-va\u015bya",
-      "transliteration": "\u0101tma-va\u015bya",
-      "type": "compound adjective",
-      "definition": "under the control of the self (\u0101tman + va\u015bya); the senses operating as api endpoints the self controls, not as rogue processes hijacking attention.",
-      "roots": "\u0101tman (self) + va\u015bya (to be controlled, from va\u015b)",
+      "term": "kaunteya",
+      "transliteration": "kaunteya",
+      "type": "masculine vocative singular",
+      "definition": "O son of Kunt\u012b \u2014 appellation invoking Arjuna's maternal lineage; reminder of the duty that comes from noble birth",
+      "roots": "Kunt\u012b + eya (belonging to)",
       "references": [
-        "BG 2.64"
+        "BG 2.14"
+      ],
+      "themes": [
+        "duty",
+        "lineage",
+        "k\u1e63atriya"
+      ]
+    },
+    {
+      "term": "m\u0101tr\u0101-spar\u015b\u0101\u1e25",
+      "transliteration": "m\u0101tr\u0101-spar\u015b\u0101\u1e25",
+      "type": "masculine plural, compound",
+      "definition": "sense-object contacts \u2014 the interface where consciousness meets prak\u1e5bti; the API boundary where input triggers response",
+      "roots": "m\u0101tr\u0101 + spar\u015ba (contact/touch)",
+      "references": [
+        "BG 2.14"
       ],
       "themes": [
         "sense-control",
-        "\u0101tman",
-        "discipline",
-        "viveka"
+        "prak\u1e5bti",
+        "discernment"
       ]
     },
     {
-      "term": "vidhey\u0101tm\u0101",
-      "transliteration": "vidhey\u0101tm\u0101",
-      "type": "compound masculine noun",
-      "definition": "one whose nature follows regulated principles; disciplined freedom\u2014the apparent paradox that structure enables liberation.",
-      "roots": "vidheya (to be followed, from vi-dh\u0101) + \u0101tm\u0101 (self)",
+      "term": "paryavati\u1e63\u1e6dhate",
+      "transliteration": "paryavati\u1e63\u1e6dhate",
+      "type": "verb (3rd person singular)",
+      "definition": "becomes well established, stands firm; pari- = completion, ava-sth\u0101 = to stand; the intelligence that attains stable, immovable discernment",
+      "roots": "from pari- (completion) + ava-sth\u0101 (to stand)",
       "references": [
-        "BG 2.64"
+        "BG 2.65"
       ],
       "themes": [
-        "discipline",
-        "freedom",
-        "s\u0101dhan\u0101",
-        "bhakti"
+        "buddhi",
+        "discernment",
+        "stability"
+      ]
+    },
+    {
+      "term": "prasanna-cetasa\u1e25",
+      "transliteration": "prasanna-cetasa\u1e25",
+      "type": "genitive singular",
+      "definition": "of the satisfied/pure-hearted; prasanna = clear, bright, satisfied; cetas = mind/heart/consciousness; one whose inner lake reflects truth without distortion",
+      "roots": "from prasanna (clear, bright) + cetas (mind, consciousness)",
+      "references": [
+        "BG 2.65"
+      ],
+      "themes": [
+        "pras\u0101da",
+        "citta",
+        "clarity"
       ]
     },
     {
@@ -173,20 +176,55 @@
       ]
     },
     {
-      "term": "adhigacchati",
-      "transliteration": "adhigacchati",
-      "type": "verb, 3rd person singular present",
-      "definition": "attains, reaches, comes to understand; the active acquisition of pras\u0101da through right practice\u2014this is not passive grace but earned through discipline.",
-      "roots": "from adhi-gam (to go to, attain, understand)",
+      "term": "praty\u0101h\u0101ra",
+      "definition": "withdrawal, retraction; the fifth limb of a\u1e63\u1e6d\u0101\u1e45ga yoga (YS II.54). Sense withdrawal occurs when the mind is fixed on its object, causing senses to automatically cease contact with their objects. Not repression but natural internalization when buddhi withdraws from prak\u1e5btic toward puru\u1e63ic.",
+      "source": "YS II.54, BG 2.62-63 commentary"
+    },
+    {
+      "term": "pra\u1e47a\u015byati",
+      "definition": "one falls down, is ruined, perishes; the inevitable consequence when the entire chain of sa\u1e41s\u0101ra executes\u2014total loss of spiritual position when buddhi is destroyed.",
+      "source": "BG 2.63"
+    },
+    {
+      "term": "r\u0101ga",
+      "transliteration": "r\u0101ga",
+      "type": "masculine noun",
+      "definition": "attachment, passion, coloration of the mind; the condition where the mind is drawn toward objects based on remembered pleasure from past experiences; like legacy code that keeps executing because it worked once.",
+      "roots": "from raj (to color, to dye)",
       "references": [
         "BG 2.64"
       ],
       "themes": [
-        "attainment",
-        "s\u0101dhan\u0101",
-        "pras\u0101da",
-        "discipline"
+        "r\u0101ga-dve\u1e63a",
+        "kle\u015ba",
+        "attachment",
+        "desire"
       ]
+    },
+    {
+      "term": "sammoha",
+      "definition": "complete delusion, bewilderment; the loss of discriminative clarity when buddhi operates under dense tamas; follows anger in the downward spiral.",
+      "source": "BG 2.63"
+    },
+    {
+      "term": "sarva-du\u1e25kh\u0101n\u0101m",
+      "transliteration": "sarva-du\u1e25kh\u0101n\u0101m",
+      "type": "genitive plural",
+      "definition": "of all miseries; sarva = all, du\u1e25kha = suffering/material distress (the threefold: adhyatmika, adhibhautika, adhidaivika)",
+      "roots": "from sarva (all) + du\u1e25kha (suffering)",
+      "references": [
+        "BG 2.65"
+      ],
+      "themes": [
+        "du\u1e25kha",
+        "kle\u015ba",
+        "suffering"
+      ]
+    },
+    {
+      "term": "sm\u1e5bti",
+      "definition": "memory; specifically the capacity to remember one's true nature (puru\u1e63a) and the connection to truth; distinct from ordinary recollection. When bewildered (sm\u1e5bti-bhra\u1e41\u015ba), intelligence is lost.",
+      "source": "BG 2.63"
     },
     {
       "term": "titik\u1e63asva",
@@ -205,33 +243,35 @@
       ]
     },
     {
-      "term": "m\u0101tr\u0101-spar\u015b\u0101\u1e25",
-      "transliteration": "m\u0101tr\u0101-spar\u015b\u0101\u1e25",
-      "type": "masculine plural, compound",
-      "definition": "sense-object contacts \u2014 the interface where consciousness meets prak\u1e5bti; the API boundary where input triggers response",
-      "roots": "m\u0101tr\u0101 + spar\u015ba (contact/touch)",
+      "term": "vidhey\u0101tm\u0101",
+      "transliteration": "vidhey\u0101tm\u0101",
+      "type": "compound masculine noun",
+      "definition": "one whose nature follows regulated principles; disciplined freedom\u2014the apparent paradox that structure enables liberation.",
+      "roots": "vidheya (to be followed, from vi-dh\u0101) + \u0101tm\u0101 (self)",
       "references": [
-        "BG 2.14"
+        "BG 2.64"
       ],
       "themes": [
-        "sense-control",
-        "prak\u1e5bti",
-        "discernment"
+        "discipline",
+        "freedom",
+        "s\u0101dhan\u0101",
+        "bhakti"
       ]
     },
     {
-      "term": "anity\u0101\u1e25",
-      "transliteration": "anity\u0101\u1e25",
-      "type": "feminine plural, nominative",
-      "definition": "impermanent, non-eternal \u2014 the defining quality of all prak\u1e5btic phenomena; that which cannot be relied upon for lasting satisfaction",
-      "roots": "a (not) + nitya (eternal)",
+      "term": "vimukta",
+      "transliteration": "vimukta",
+      "type": "adjective, past participle",
+      "definition": "liberated, released, set free; the state of being completely untangled from the kleshas; root muc\u2014to loosen, release.",
+      "roots": "from muc (to loosen, release, free)",
       "references": [
-        "BG 2.14"
+        "BG 2.64"
       ],
       "themes": [
-        "impermanence",
-        "prak\u1e5bti",
-        "discernment"
+        "liberation",
+        "kle\u015ba",
+        "mok\u1e63a",
+        "viveka"
       ]
     },
     {
@@ -249,6 +289,22 @@
       ]
     },
     {
+      "term": "\u0101tma-va\u015bya",
+      "transliteration": "\u0101tma-va\u015bya",
+      "type": "compound adjective",
+      "definition": "under the control of the self (\u0101tman + va\u015bya); the senses operating as api endpoints the self controls, not as rogue processes hijacking attention.",
+      "roots": "\u0101tman (self) + va\u015bya (to be controlled, from va\u015b)",
+      "references": [
+        "BG 2.64"
+      ],
+      "themes": [
+        "sense-control",
+        "\u0101tman",
+        "discipline",
+        "viveka"
+      ]
+    },
+    {
       "term": "\u015b\u012bta-u\u1e63\u1e47a",
       "transliteration": "\u015b\u012bta-u\u1e63\u1e47a",
       "type": "neuter compound",
@@ -261,37 +317,6 @@
         "dvandva",
         "sense-control",
         "s\u0101\u1e45khya"
-      ]
-    },
-    {
-      "term": "kaunteya",
-      "transliteration": "kaunteya",
-      "type": "masculine vocative singular",
-      "definition": "O son of Kunt\u012b \u2014 appellation invoking Arjuna's maternal lineage; reminder of the duty that comes from noble birth",
-      "roots": "Kunt\u012b + eya (belonging to)",
-      "references": [
-        "BG 2.14"
-      ],
-      "themes": [
-        "duty",
-        "lineage",
-        "k\u1e63atriya"
-      ]
-    },
-    {
-      "term": "bh\u0101rata",
-      "transliteration": "bh\u0101rata",
-      "type": "masculine vocative singular",
-      "definition": "O descendant of Bharata \u2014 appellation invoking Arjuna's paternal lineage; reminder of the greatness of the Bharata dynasty",
-      "roots": "from Bharata (ancient king)",
-      "references": [
-        "BG 2.14"
-      ],
-      "themes": [
-        "duty",
-        "lineage",
-        "k\u1e63atriya",
-        "dharma"
       ]
     }
   ]
