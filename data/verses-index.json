@@ -1,6 +1,54 @@
 {
   "verses": [
     {
+      "date": "2026-03-12",
+      "source": "BG 2.62-63",
+      "chapter": 2,
+      "verse": "62-63",
+      "text": "Bhagavad Gita",
+      "tithi": "Navam\u012b",
+      "nakshatra": "M\u016bla \u2192 P\u016brva A\u1e63\u0101\u1e0dh\u0101",
+      "yoga": "Vyatip\u0101ta",
+      "themes": [
+        "sense-control",
+        "uprooting-attachment",
+        "raga-dvesha",
+        "pratyahara",
+        "samsara-mechanism"
+      ],
+      "tags": [
+        "#sense-control",
+        "#raga-dvesha",
+        "#buddhi",
+        "#pratyahara",
+        "#samsara",
+        "#viveka",
+        "#yoga-sutra",
+        "#kleshas",
+        "#consciousness",
+        "#discipline"
+      ],
+      "yogaSutraConnection": "YS II.54",
+      "sankhyaConcepts": [
+        "raga-dvesha",
+        "kama-krodha",
+        "smriti-vibhrama",
+        "buddhi-nasha",
+        "prakriti-binding"
+      ],
+      "keyTerms": [
+        "dhyayatah",
+        "sanga",
+        "kama",
+        "krodha",
+        "sammoha",
+        "smriti",
+        "buddhi-nasha",
+        "pranashyati",
+        "pratyahara"
+      ]
+    },
+    {
       "date": "2026-03-11",
       "source": "BG 2.65",
       "chapter": 2,
@@ -162,5 +210,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-03-11"
+  "lastUpdated": "2026-03-12"
 }
