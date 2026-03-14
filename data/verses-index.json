@@ -1,5 +1,21 @@
 {
-  "verses": [
+"verses": [
+{
+"date": "2026-03-14",
+"source": "BG 2.65",
+"chapter": 2,
+"verse": 65,
+"text": "Bhagavad Gita",
+"tithi": "Papamochani Ekadashi",
+"nakshatra": "Shravana",
+"yoga": "Parigha",
+"themes": ["destruction-of-suffering", "prasada", "stabilized-intelligence", "ekadashi", "papamochani"],
+"tags": ["#prasada", "#duhkha", "#ekadashi", "#destruction-of-suffering", "#sankhya", "#paravairagya"],
+"yogaSutraConnection": "YS I.16",
+"sankhyaConcepts": ["purusha-khyati", "guna-vaitrishnya", "duhkha-hetu"],
+"keyTerms": ["prasada", "sarva-duhkanam", "hanih", "prasanna-cetasah", "ashu", "paryavatishthate"]
+},
+
     {
       "date": "2026-03-13",
       "source": "BG 2.64",
