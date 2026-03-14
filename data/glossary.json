@@ -1,72 +1,72 @@
 {
-  "lastUpdated": "2026-03-13",
+  "lastUpdated": "2026-03-14",
   "terms": [
     {
-      "term": "indriyaiḥ",
-      "transliteration": "indriyaiḥ",
+      "term": "indriyai\u1e25",
+      "transliteration": "indriyai\u1e25",
       "type": "neuter noun, instrumental plural",
-      "definition": "by the senses; the five senses of perception (jñānendriya) and five of action (karmendriya); the API endpoints through which prakṛti interfaces with experience.",
+      "definition": "by the senses; the five senses of perception (j\u00f1\u0101nendriya) and five of action (karmendriya); the API endpoints through which prak\u1e5bti interfaces with experience.",
       "roots": "from indra (power, senses)",
       "references": [
         "BG 2.64"
       ],
       "themes": [
         "sense-control",
-        "prakṛti",
+        "prak\u1e5bti",
         "discernment"
       ]
     },
     {
-      "term": "viṣayān",
-      "transliteration": "viṣayān",
+      "term": "vi\u1e63ay\u0101n",
+      "transliteration": "vi\u1e63ay\u0101n",
       "type": "masculine noun, accusative plural",
-      "definition": "sense objects; that which spreads out (vi-ṣaya) before consciousness; the target of sense engagement.",
-      "roots": "from viṣ (to be active, act) + -aya or vi- (apart) + sṛ (to spread)",
+      "definition": "sense objects; that which spreads out (vi-\u1e63aya) before consciousness; the target of sense engagement.",
+      "roots": "from vi\u1e63 (to be active, act) + -aya or vi- (apart) + s\u1e5b (to spread)",
       "references": [
         "BG 2.64"
       ],
       "themes": [
         "sense-control",
-        "prakṛti",
-        "rāga-dveṣa"
+        "prak\u1e5bti",
+        "r\u0101ga-dve\u1e63a"
       ]
     },
     {
       "term": "adhigacchati",
       "transliteration": "adhigacchati",
       "type": "verb, 3rd person singular present",
-      "definition": "attains, reaches, comes to understand; the active acquisition of prasāda through right practice—this is not passive grace but earned through discipline.",
+      "definition": "attains, reaches, comes to understand; the active acquisition of pras\u0101da through right practice\u2014this is not passive grace but earned through discipline.",
       "roots": "from adhi-gam (to go to, attain, understand)",
       "references": [
         "BG 2.64"
       ],
       "themes": [
         "attainment",
-        "sādhanā",
-        "prasāda",
+        "s\u0101dhan\u0101",
+        "pras\u0101da",
         "discipline"
       ]
     },
     {
-      "term": "anityāḥ",
-      "transliteration": "anityāḥ",
+      "term": "anity\u0101\u1e25",
+      "transliteration": "anity\u0101\u1e25",
       "type": "feminine plural, nominative",
-      "definition": "impermanent, non-eternal — the defining quality of all prakṛtic phenomena; that which cannot be relied upon for lasting satisfaction",
+      "definition": "impermanent, non-eternal \u2014 the defining quality of all prak\u1e5btic phenomena; that which cannot be relied upon for lasting satisfaction",
       "roots": "a (not) + nitya (eternal)",
       "references": [
         "BG 2.14"
       ],
       "themes": [
         "impermanence",
-        "prakṛti",
+        "prak\u1e5bti",
         "discernment"
       ]
     },
     {
-      "term": "bhārata",
-      "transliteration": "bhārata",
+      "term": "bh\u0101rata",
+      "transliteration": "bh\u0101rata",
       "type": "masculine vocative singular",
-      "definition": "O descendant of Bharata — appellation invoking Arjuna's paternal lineage; reminder of the greatness of the Bharata dynasty",
+      "definition": "O descendant of Bharata \u2014 appellation invoking Arjuna's paternal lineage; reminder of the greatness of the Bharata dynasty",
       "roots": "from Bharata (ancient king)",
       "references": [
         "BG 2.14"
@@ -74,15 +74,15 @@
       "themes": [
         "duty",
         "lineage",
-        "kṣatriya",
+        "k\u1e63atriya",
         "dharma"
       ]
     },
     {
-      "term": "buddhiḥ",
-      "transliteration": "buddhiḥ",
+      "term": "buddhi\u1e25",
+      "transliteration": "buddhi\u1e25",
       "type": "feminine noun",
-      "definition": "intelligence, discernment, faculty of judgment; the interface between puruṣa and prakṛti; the tool that can recognize its own source",
+      "definition": "intelligence, discernment, faculty of judgment; the interface between puru\u1e63a and prak\u1e5bti; the tool that can recognize its own source",
       "roots": "from budh (to wake up, be aware of)",
       "references": [
         "BG 2.65"
@@ -90,41 +90,41 @@
       "themes": [
         "buddhi",
         "discernment",
-        "sāṅkhya"
+        "s\u0101\u1e45khya"
       ]
     },
     {
-      "term": "dhyāyataḥ",
-      "definition": "while contemplating, pondering; the gerundive form indicating continuous mental engagement. In Sāṅkhya/Yoga psychology, the first vṛtti that externalizes consciousness—merely thinking about sense objects initiates the cascade toward attachment.",
+      "term": "dhy\u0101yata\u1e25",
+      "definition": "while contemplating, pondering; the gerundive form indicating continuous mental engagement. In S\u0101\u1e45khya/Yoga psychology, the first v\u1e5btti that externalizes consciousness\u2014merely thinking about sense objects initiates the cascade toward attachment.",
       "source": "BG 2.62"
     },
     {
-      "term": "dveṣa",
-      "transliteration": "dveṣa",
+      "term": "dve\u1e63a",
+      "transliteration": "dve\u1e63a",
       "type": "masculine noun",
-      "definition": "aversion, hatred, repulsion; the inverse attachment—pushing away what caused pain; both rāga and dveṣa bind equally, just different polarities of the same trap.",
-      "roots": "from dviṣ (to hate, detest)",
+      "definition": "aversion, hatred, repulsion; the inverse attachment\u2014pushing away what caused pain; both r\u0101ga and dve\u1e63a bind equally, just different polarities of the same trap.",
+      "roots": "from dvi\u1e63 (to hate, detest)",
       "references": [
         "BG 2.64"
       ],
       "themes": [
-        "rāga-dveṣa",
-        "kleśa",
+        "r\u0101ga-dve\u1e63a",
+        "kle\u015ba",
         "aversion",
         "hatred"
       ]
     },
     {
-      "term": "hāniḥ",
-      "transliteration": "hāniḥ",
+      "term": "h\u0101ni\u1e25",
+      "transliteration": "h\u0101ni\u1e25",
       "type": "feminine noun",
       "definition": "destruction, cessation, disappearance; the loss or removal of something unwanted; spiritual garbage collection",
-      "roots": "from hā (to abandon, leave)",
+      "roots": "from h\u0101 (to abandon, leave)",
       "references": [
         "BG 2.65"
       ],
       "themes": [
-        "duḥkha",
+        "du\u1e25kha",
         "grace",
         "liberation"
       ]
@@ -133,38 +133,38 @@
       "term": "kaunteya",
       "transliteration": "kaunteya",
       "type": "masculine vocative singular",
-      "definition": "O son of Kuntī — appellation invoking Arjuna's maternal lineage; reminder of the duty that comes from noble birth",
-      "roots": "Kuntī + eya (belonging to)",
+      "definition": "O son of Kunt\u012b \u2014 appellation invoking Arjuna's maternal lineage; reminder of the duty that comes from noble birth",
+      "roots": "Kunt\u012b + eya (belonging to)",
       "references": [
         "BG 2.14"
       ],
       "themes": [
         "duty",
         "lineage",
-        "kṣatriya"
+        "k\u1e63atriya"
       ]
     },
     {
-      "term": "mātrā-sparśāḥ",
-      "transliteration": "mātrā-sparśāḥ",
+      "term": "m\u0101tr\u0101-spar\u015b\u0101\u1e25",
+      "transliteration": "m\u0101tr\u0101-spar\u015b\u0101\u1e25",
       "type": "masculine plural, compound",
-      "definition": "sense-object contacts — the interface where consciousness meets prakṛti; the API boundary where input triggers response",
-      "roots": "mātrā + sparśa (contact/touch)",
+      "definition": "sense-object contacts \u2014 the interface where consciousness meets prak\u1e5bti; the API boundary where input triggers response",
+      "roots": "m\u0101tr\u0101 + spar\u015ba (contact/touch)",
       "references": [
         "BG 2.14"
       ],
       "themes": [
         "sense-control",
-        "prakṛti",
+        "prak\u1e5bti",
         "discernment"
       ]
     },
     {
-      "term": "paryavatiṣṭhate",
-      "transliteration": "paryavatiṣṭhate",
+      "term": "paryavati\u1e63\u1e6dhate",
+      "transliteration": "paryavati\u1e63\u1e6dhate",
       "type": "verb (3rd person singular)",
-      "definition": "becomes well established, stands firm; pari- = completion, ava-sthā = to stand; the intelligence that attains stable, immovable discernment",
-      "roots": "from pari- (completion) + ava-sthā (to stand)",
+      "definition": "becomes well established, stands firm; pari- = completion, ava-sth\u0101 = to stand; the intelligence that attains stable, immovable discernment",
+      "roots": "from pari- (completion) + ava-sth\u0101 (to stand)",
       "references": [
         "BG 2.65"
       ],
@@ -175,8 +175,8 @@
       ]
     },
     {
-      "term": "prasanna-cetasaḥ",
-      "transliteration": "prasanna-cetasaḥ",
+      "term": "prasanna-cetasa\u1e25",
+      "transliteration": "prasanna-cetasa\u1e25",
       "type": "genitive singular",
       "definition": "of the satisfied/pure-hearted; prasanna = clear, bright, satisfied; cetas = mind/heart/consciousness; one whose inner lake reflects truth without distortion",
       "roots": "from prasanna (clear, bright) + cetas (mind, consciousness)",
@@ -184,14 +184,14 @@
         "BG 2.65"
       ],
       "themes": [
-        "prasāda",
+        "pras\u0101da",
         "citta",
         "clarity"
       ]
     },
     {
-      "term": "prasāda",
-      "transliteration": "prasāda",
+      "term": "pras\u0101da",
+      "transliteration": "pras\u0101da",
       "type": "masculine noun",
       "definition": "grace, mercy, tranquility; causeless favor of the Lord; the result of bhakti-yoga practice; also the sanctified remnants of offering to the Lord.",
       "roots": "from pra-sad (to settle down, become clear, be pleased)",
@@ -199,25 +199,25 @@
         "BG 2.64"
       ],
       "themes": [
-        "prasāda",
+        "pras\u0101da",
         "bhakti",
         "grace",
         "mercy"
       ]
     },
     {
-      "term": "pratyāhāra",
-      "definition": "withdrawal, retraction; the fifth limb of aṣṭāṅga yoga (YS II.54). Sense withdrawal occurs when the mind is fixed on its object, causing senses to automatically cease contact with their objects. Not repression but natural internalization when buddhi withdraws from prakṛtic toward puruṣic.",
+      "term": "praty\u0101h\u0101ra",
+      "definition": "withdrawal, retraction; the fifth limb of a\u1e63\u1e6d\u0101\u1e45ga yoga (YS II.54). Sense withdrawal occurs when the mind is fixed on its object, causing senses to automatically cease contact with their objects. Not repression but natural internalization when buddhi withdraws from prak\u1e5btic toward puru\u1e63ic.",
       "source": "YS II.54, BG 2.62-63 commentary"
     },
     {
-      "term": "praṇaśyati",
-      "definition": "one falls down, is ruined, perishes; the inevitable consequence when the entire chain of saṁsāra executes—total loss of spiritual position when buddhi is destroyed.",
+      "term": "pra\u1e47a\u015byati",
+      "definition": "one falls down, is ruined, perishes; the inevitable consequence when the entire chain of sa\u1e41s\u0101ra executes\u2014total loss of spiritual position when buddhi is destroyed.",
       "source": "BG 2.63"
     },
     {
-      "term": "rāga",
-      "transliteration": "rāga",
+      "term": "r\u0101ga",
+      "transliteration": "r\u0101ga",
       "type": "masculine noun",
       "definition": "attachment, passion, coloration of the mind; the condition where the mind is drawn toward objects based on remembered pleasure from past experiences; like legacy code that keeps executing because it worked once.",
       "roots": "from raj (to color, to dye)",
@@ -225,8 +225,8 @@
         "BG 2.64"
       ],
       "themes": [
-        "rāga-dveṣa",
-        "kleśa",
+        "r\u0101ga-dve\u1e63a",
+        "kle\u015ba",
         "attachment",
         "desire"
       ]
@@ -237,54 +237,54 @@
       "source": "BG 2.63"
     },
     {
-      "term": "sarva-duḥkhānām",
-      "transliteration": "sarva-duḥkhānām",
+      "term": "sarva-du\u1e25kh\u0101n\u0101m",
+      "transliteration": "sarva-du\u1e25kh\u0101n\u0101m",
       "type": "genitive plural",
-      "definition": "of all miseries; sarva = all, duḥkha = suffering/material distress (the threefold: adhyatmika, adhibhautika, adhidaivika)",
-      "roots": "from sarva (all) + duḥkha (suffering)",
+      "definition": "of all miseries; sarva = all, du\u1e25kha = suffering/material distress (the threefold: adhyatmika, adhibhautika, adhidaivika)",
+      "roots": "from sarva (all) + du\u1e25kha (suffering)",
       "references": [
         "BG 2.65"
       ],
       "themes": [
-        "duḥkha",
-        "kleśa",
+        "du\u1e25kha",
+        "kle\u015ba",
         "suffering"
       ]
     },
     {
-      "term": "smṛti",
-      "definition": "memory; specifically the capacity to remember one's true nature (puruṣa) and the connection to truth; distinct from ordinary recollection. When bewildered (smṛti-bhraṁśa), intelligence is lost.",
+      "term": "sm\u1e5bti",
+      "definition": "memory; specifically the capacity to remember one's true nature (puru\u1e63a) and the connection to truth; distinct from ordinary recollection. When bewildered (sm\u1e5bti-bhra\u1e41\u015ba), intelligence is lost.",
       "source": "BG 2.63"
     },
     {
-      "term": "titikṣasva",
-      "transliteration": "titikṣasva",
+      "term": "titik\u1e63asva",
+      "transliteration": "titik\u1e63asva",
       "type": "imperative, 2nd person singular",
-      "definition": "you must tolerate/endure — active forbearance, not passive suffering; the austere patience that maintains practice through all conditions",
+      "definition": "you must tolerate/endure \u2014 active forbearance, not passive suffering; the austere patience that maintains practice through all conditions",
       "roots": "from tij (to endure, be patient)",
       "references": [
         "BG 2.14"
       ],
       "themes": [
-        "titikṣā",
+        "titik\u1e63\u0101",
         "tolerance",
         "duty",
         "discernment"
       ]
     },
     {
-      "term": "vidheyātmā",
-      "transliteration": "vidheyātmā",
+      "term": "vidhey\u0101tm\u0101",
+      "transliteration": "vidhey\u0101tm\u0101",
       "type": "compound masculine noun",
-      "definition": "one whose nature follows regulated principles; disciplined freedom—the apparent paradox that structure enables liberation.",
-      "roots": "vidheya (to be followed, from vi-dhā) + ātmā (self)",
+      "definition": "one whose nature follows regulated principles; disciplined freedom\u2014the apparent paradox that structure enables liberation.",
+      "roots": "vidheya (to be followed, from vi-dh\u0101) + \u0101tm\u0101 (self)",
       "references": [
         "BG 2.64"
       ],
       "themes": [
         "discipline",
         "freedom",
-        "sādhanā",
+        "s\u0101dhan\u0101",
         "bhakti"
       ]
     },
@@ -292,24 +292,24 @@
       "term": "vimukta",
       "transliteration": "vimukta",
       "type": "adjective, past participle",
-      "definition": "liberated, released, set free; the state of being completely untangled from the kleshas; root muc—to loosen, release.",
+      "definition": "liberated, released, set free; the state of being completely untangled from the kleshas; root muc\u2014to loosen, release.",
       "roots": "from muc (to loosen, release, free)",
       "references": [
         "BG 2.64"
       ],
       "themes": [
         "liberation",
-        "kleśa",
-        "mokṣa",
+        "kle\u015ba",
+        "mok\u1e63a",
         "viveka"
       ]
     },
     {
-      "term": "āgama-apāyinaḥ",
-      "transliteration": "āgama-apāyinaḥ",
+      "term": "\u0101gama-ap\u0101yina\u1e25",
+      "transliteration": "\u0101gama-ap\u0101yina\u1e25",
       "type": "masculine plural, compound",
-      "definition": "those that come and go — describing sensations as temporary visitors, not permanent residents",
-      "roots": "ā-gam (to come) + apāya (departure)",
+      "definition": "those that come and go \u2014 describing sensations as temporary visitors, not permanent residents",
+      "roots": "\u0101-gam (to come) + ap\u0101ya (departure)",
       "references": [
         "BG 2.14"
       ],
@@ -319,34 +319,162 @@
       ]
     },
     {
-      "term": "ātma-vaśya",
-      "transliteration": "ātma-vaśya",
+      "term": "\u0101tma-va\u015bya",
+      "transliteration": "\u0101tma-va\u015bya",
       "type": "compound adjective",
-      "definition": "under the control of the self (ātman + vaśya); the senses operating as api endpoints the self controls, not as rogue processes hijacking attention.",
-      "roots": "ātman (self) + vaśya (to be controlled, from vaś)",
+      "definition": "under the control of the self (\u0101tman + va\u015bya); the senses operating as api endpoints the self controls, not as rogue processes hijacking attention.",
+      "roots": "\u0101tman (self) + va\u015bya (to be controlled, from va\u015b)",
       "references": [
         "BG 2.64"
       ],
       "themes": [
         "sense-control",
-        "ātman",
+        "\u0101tman",
         "discipline",
         "viveka"
       ]
     },
     {
-      "term": "śīta-uṣṇa",
-      "transliteration": "śīta-uṣṇa",
+      "term": "\u015b\u012bta-u\u1e63\u1e47a",
+      "transliteration": "\u015b\u012bta-u\u1e63\u1e47a",
       "type": "neuter compound",
-      "definition": "cold and heat — the classic paired opposites; all dvandva that disturb the undiscriminating mind",
-      "roots": "śīta (cold) + uṣṇa (heat)",
+      "definition": "cold and heat \u2014 the classic paired opposites; all dvandva that disturb the undiscriminating mind",
+      "roots": "\u015b\u012bta (cold) + u\u1e63\u1e47a (heat)",
       "references": [
         "BG 2.14"
       ],
       "themes": [
         "dvandva",
         "sense-control",
-        "sāṅkhya"
+        "s\u0101\u1e45khya"
+      ]
+    },
+    {
+      "term": "pras\u0101de",
+      "transliteration": "pras\u0101de",
+      "type": "masculine noun, locative singular",
+      "definition": "in the grace/mercy of the Lord; the settled state of pras\u0101da; the location where divine favor rests and from which suffering is annihilated.",
+      "roots": "from pra (forth) + sad (to settle, sink down); that which settles firmly",
+      "references": [
+        "BG 2.65"
+      ],
+      "themes": [
+        "pras\u0101da",
+        "grace",
+        "divine-mercy",
+        "stabilization"
+      ]
+    },
+    {
+      "term": "\u0101\u015bu",
+      "transliteration": "\u0101\u015bu",
+      "type": "adverb",
+      "definition": "quickly, immediately, very soon; the speed of transformation when conditions are ripe\u2014not gradual evolution but sudden shift when pras\u0101da settles.",
+      "roots": "from the same root as \u0101\u015bis (benediction); swiftness born of favor",
+      "references": [
+        "BG 2.65"
+      ],
+      "themes": [
+        "speed",
+        "immediacy",
+        "pras\u0101da-effect",
+        "transformation"
+      ]
+    },
+    {
+      "term": "anany\u0101\u1e25",
+      "transliteration": "anany\u0101\u1e25",
+      "type": "adjective, nominative plural",
+      "definition": "having no other; without deviation or rival; absolute singularity of devotion where consciousness permits no competitors",
+      "roots": "a (not) + anya (other); total exclusivity",
+      "references": [
+        "BG 9.22"
+      ],
+      "themes": [
+        "exclusive-devotion",
+        "ananyabhakti",
+        "single-pointedness",
+        "ekadashi"
+      ]
+    },
+    {
+      "term": "cintayanta\u1e25",
+      "transliteration": "cintayanta\u1e25",
+      "type": "present active participle, nominative plural",
+      "definition": "thinking of, meditating upon; continuous unbroken thought-flow toward the Supreme; active unceasing remembrance",
+      "roots": "from cint (to think); the dynamic of sustained contemplation",
+      "references": [
+        "BG 9.22"
+      ],
+      "themes": [
+        "contemplation",
+        "remembrance",
+        "sustained-attention",
+        "ekadashi"
+      ]
+    },
+    {
+      "term": "paryup\u0101sate",
+      "transliteration": "paryup\u0101sate",
+      "type": "verb, 3rd person plural middle",
+      "definition": "worship properly from all sides; surround with service; complete adequate worship that encompasses the Lord",
+      "roots": "pari (around) + up\u0101s (to sit near/serve); circumambulatory devotion",
+      "references": [
+        "BG 9.22"
+      ],
+      "themes": [
+        "worship",
+        "service",
+        "devotion",
+        "parikrama"
+      ]
+    },
+    {
+      "term": "nity\u0101bhiyukt\u0101n\u0101m",
+      "transliteration": "nity\u0101bhiyukt\u0101n\u0101m",
+      "type": "adjective, genitive plural",
+      "definition": "of those always fixed in devotion; perpetually engaged; ever-connected in yoga",
+      "roots": "nitya (eternal/always) + abhiyukta (engaged/fixed); constant application",
+      "references": [
+        "BG 9.22"
+      ],
+      "themes": [
+        "constant-devotion",
+        "engagement",
+        "perseverance",
+        "sadhana"
+      ]
+    },
+    {
+      "term": "yoga-k\u1e63ema",
+      "transliteration": "yoga-k\u1e63ema",
+      "type": "dual compound, accusative",
+      "definition": "acquisition and preservation; what is lacking plus what is possessed; divine logistics\u2014supply and security",
+      "roots": "yoga (acquisition/connection) + k\u1e63ema (protection/welfare); the Lord's total responsibility",
+      "references": [
+        "BG 9.22"
+      ],
+      "themes": [
+        "divine-protection",
+        "providence",
+        "welfare",
+        "ekadashi"
+      ]
+    },
+    {
+      "term": "vah\u0101mi",
+      "transliteration": "vah\u0101mi",
+      "type": "verb, 1st person singular present",
+      "definition": "I carry, I bear, I transport; the Lord's active taking of complete responsibility; personal promise",
+      "roots": "from vah (to carry, bear, convey); divine intervention",
+      "references": [
+        "BG 9.22"
+      ],
+      "themes": [
+        "divine-responsibility",
+        "promise",
+        "carrying",
+        "grace"
       ]
     }
   ]
