@@ -1,35 +1,127 @@
 {
-"verses": [
-{
-"date": "2026-03-14",
-"source": "BG 2.65",
-"chapter": 2,
-"verse": 65,
-"text": "Bhagavad Gita",
-"tithi": "Papamochani Ekadashi",
-"nakshatra": "Shravana",
-"yoga": "Parigha",
-"themes": ["destruction-of-suffering", "prasada", "stabilized-intelligence", "ekadashi", "papamochani"],
-"tags": ["#prasada", "#duhkha", "#ekadashi", "#destruction-of-suffering", "#sankhya", "#paravairagya"],
-"yogaSutraConnection": "YS I.16",
-"sankhyaConcepts": ["purusha-khyati", "guna-vaitrishnya", "duhkha-hetu"],
-"keyTerms": ["prasada", "sarva-duhkanam", "hanih", "prasanna-cetasah", "ashu", "paryavatishthate"]
-},
-
+  "verses": [
+    {
+      "date": "2026-03-15",
+      "source": "BG 2.65",
+      "chapter": 2,
+      "verse": 65,
+      "text": "Bhagavad Gita",
+      "tithi": "Krishna Paksha Dwadashi",
+      "nakshatra": "Shravana",
+      "yoga": "Siva",
+      "themes": [
+        "prasada",
+        "completion",
+        "established-intelligence",
+        "dwadashi",
+        "sravana"
+      ],
+      "tags": [
+        "#prasada",
+        "#buddhi",
+        "#dwadashi",
+        "#completion",
+        "#sravana",
+        "#clear-consciousness"
+      ],
+      "yogaSutraConnection": "YS I.20",
+      "sankhyaConcepts": [
+        "prasada",
+        "buddhi-stability",
+        "tri-vidha-duhkha"
+      ],
+      "keyTerms": [
+        "prasada",
+        "hanih",
+        "prasanna-cetasah",
+        "ashu",
+        "buddhih",
+        "paryavatishthate"
+      ]
+    },
+    {
+      "date": "2026-03-14",
+      "source": "BG 2.65",
+      "chapter": 2,
+      "verse": 65,
+      "text": "Bhagavad Gita",
+      "tithi": "Papamochani Ekadashi",
+      "nakshatra": "Shravana",
+      "yoga": "Parigha",
+      "themes": [
+        "destruction-of-suffering",
+        "prasada",
+        "stabilized-intelligence",
+        "ekadashi",
+        "papamochani"
+      ],
+      "tags": [
+        "#prasada",
+        "#duhkha",
+        "#ekadashi",
+        "#destruction-of-suffering",
+        "#sankhya",
+        "#paravairagya"
+      ],
+      "yogaSutraConnection": "YS I.16",
+      "sankhyaConcepts": [
+        "purusha-khyati",
+        "guna-vaitrishnya",
+        "duhkha-hetu"
+      ],
+      "keyTerms": [
+        "prasada",
+        "sarva-duhkanam",
+        "hanih",
+        "prasanna-cetasah",
+        "ashu",
+        "paryavatishthate"
+      ]
+    },
     {
       "date": "2026-03-13",
       "source": "BG 2.64",
       "chapter": 2,
       "verse": 64,
       "text": "Bhagavad Gita",
-      "tithi": "Krishna Paksha Dashami → Ekadashi",
-      "nakshatra": "Purva Ashadha → Uttara Ashadha",
-      "yoga": "Vriddhi/Variyan → Parigha",
-      "themes": [ "raga-dvesha", "liberation", "prasada", "sense-control", "ekadashi-preparation" ],
-      "tags": [ "#raga-dvesha", "#sense-control", "#prasada", "#bhakti", "#vairagya", "#discrimination", "#liberation", "#ekadashi", "#uttara-ashadha", "#vidheyatma" ],
+      "tithi": "Krishna Paksha Dashami \u2192 Ekadashi",
+      "nakshatra": "Purva Ashadha \u2192 Uttara Ashadha",
+      "yoga": "Vriddhi/Variyan \u2192 Parigha",
+      "themes": [
+        "raga-dvesha",
+        "liberation",
+        "prasada",
+        "sense-control",
+        "ekadashi-preparation"
+      ],
+      "tags": [
+        "#raga-dvesha",
+        "#sense-control",
+        "#prasada",
+        "#bhakti",
+        "#vairagya",
+        "#discrimination",
+        "#liberation",
+        "#ekadashi",
+        "#uttara-ashadha",
+        "#vidheyatma"
+      ],
       "yogaSutraConnection": "YS I.15",
-      "sankhyaConcepts": [ "raga", "dvesha", "prakriti-binding", "purusha-liberation" ],
-      "keyTerms": [ "raga", "dvesha", "vimukta", "atmavashya", "vidheyatma", "prasada", "adhigacchati" ]
+      "sankhyaConcepts": [
+        "raga",
+        "dvesha",
+        "prakriti-binding",
+        "purusha-liberation"
+      ],
+      "keyTerms": [
+        "raga",
+        "dvesha",
+        "vimukta",
+        "atmavashya",
+        "vidheyatma",
+        "prasada",
+        "adhigacchati"
+      ]
     },
     {
       "date": "2026-03-12",
@@ -38,13 +130,46 @@
       "verse": "62-63",
       "text": "Bhagavad Gita",
       "tithi": "Navami",
-      "nakshatra": "Mula → Purva Ashadha",
+      "nakshatra": "Mula \u2192 Purva Ashadha",
       "yoga": "Vyatipata",
-      "themes": [ "sense-control", "uprooting-attachment", "raga-dvesha", "pratyahara", "samsara-mechanism" ],
-      "tags": [ "#sense-control", "#raga-dvesha", "#buddhi", "#pratyahara", "#samsara", "#viveka", "#yoga-sutra", "#kleshas", "#consciousness", "#discipline" ],
+      "themes": [
+        "sense-control",
+        "uprooting-attachment",
+        "raga-dvesha",
+        "pratyahara",
+        "samsara-mechanism"
+      ],
+      "tags": [
+        "#sense-control",
+        "#raga-dvesha",
+        "#buddhi",
+        "#pratyahara",
+        "#samsara",
+        "#viveka",
+        "#yoga-sutra",
+        "#kleshas",
+        "#consciousness",
+        "#discipline"
+      ],
       "yogaSutraConnection": "YS II.54",
-      "sankhyaConcepts": [ "raga-dvesha", "kama-krodha", "smriti-vibhrama", "buddhi-nasha", "prakriti-binding" ],
-      "keyTerms": [ "dhyayatah", "sanga", "kama", "krodha", "sammoha", "smriti", "buddhi-nasha", "pranashyati", "pratyahara" ]
+      "sankhyaConcepts": [
+        "raga-dvesha",
+        "kama-krodha",
+        "smriti-vibhrama",
+        "buddhi-nasha",
+        "prakriti-binding"
+      ],
+      "keyTerms": [
+        "dhyayatah",
+        "sanga",
+        "kama",
+        "krodha",
+        "sammoha",
+        "smriti",
+        "buddhi-nasha",
+        "pranashyati",
+        "pratyahara"
+      ]
     },
     {
       "date": "2026-03-11",
@@ -52,14 +177,43 @@
       "chapter": 2,
       "verse": 65,
       "text": "Bhagavad Gita",
-      "tithi": "Ashtami → Navami",
+      "tithi": "Ashtami \u2192 Navami",
       "nakshatra": "Mula",
       "yoga": "Siddhi",
-      "themes": [ "prasada", "duhkha-destruction", "buddhi-establishment", "grace", "clarity", "citta-prasadnam" ],
-      "tags": [ "#prasada", "#duhkha", "#buddhi", "#citta-prasadnam", "#klesha", "#grace", "#discernment", "#sankhya", "#bhakti", "#yoga" ],
+      "themes": [
+        "prasada",
+        "duhkha-destruction",
+        "buddhi-establishment",
+        "grace",
+        "clarity",
+        "citta-prasadnam"
+      ],
+      "tags": [
+        "#prasada",
+        "#duhkha",
+        "#buddhi",
+        "#citta-prasadnam",
+        "#klesha",
+        "#grace",
+        "#discernment",
+        "#sankhya",
+        "#bhakti",
+        "#yoga"
+      ],
       "yogaSutraConnection": "YS I.33",
-      "sankhyaConcepts": [ "buddhi-purusha-viveka", "prasada", "citta-prasadnam" ],
-      "keyTerms": [ "prasada", "sarva-duhkanam", "hanih", "prasanna-cetasah", "buddhih", "paryavatishthate" ]
+      "sankhyaConcepts": [
+        "buddhi-purusha-viveka",
+        "prasada",
+        "citta-prasadnam"
+      ],
+      "keyTerms": [
+        "prasada",
+        "sarva-duhkanam",
+        "hanih",
+        "prasanna-cetasah",
+        "buddhih",
+        "paryavatishthate"
+      ]
     },
     {
       "date": "2026-03-10",
@@ -67,14 +221,40 @@
       "chapter": 2,
       "verse": 64,
       "text": "Bhagavad Gita",
-      "tithi": "Saptami → Ashtami",
-      "nakshatra": "Anuradha → Jyestha",
+      "tithi": "Saptami \u2192 Ashtami",
+      "nakshatra": "Anuradha \u2192 Jyestha",
       "yoga": "Vajra",
-      "themes": [ "raga-dvesha", "liberation", "prasada", "sense-control", "klesha" ],
-      "tags": [ "#raga-dvesha", "#klesha", "#prasada", "#sense-control", "#viveka", "#bhakti", "#discipline", "#liberation" ],
+      "themes": [
+        "raga-dvesha",
+        "liberation",
+        "prasada",
+        "sense-control",
+        "klesha"
+      ],
+      "tags": [
+        "#raga-dvesha",
+        "#klesha",
+        "#prasada",
+        "#sense-control",
+        "#viveka",
+        "#bhakti",
+        "#discipline",
+        "#liberation"
+      ],
       "yogaSutraConnection": "YS II.3",
-      "sankhyaConcepts": [ "purusha-prakriti dualism", "kleshas", "viveka" ],
-      "keyTerms": [ "raga", "dvesha", "vimukta", "atma-vasya", "vidheyatma", "prasada" ]
+      "sankhyaConcepts": [
+        "purusha-prakriti dualism",
+        "kleshas",
+        "viveka"
+      ],
+      "keyTerms": [
+        "raga",
+        "dvesha",
+        "vimukta",
+        "atma-vasya",
+        "vidheyatma",
+        "prasada"
+      ]
     },
     {
       "date": "2026-03-09",
@@ -82,14 +262,41 @@
       "chapter": 2,
       "verse": 14,
       "text": "Bhagavad Gita",
-      "tithi": "Shashti → Saptami",
+      "tithi": "Shashti \u2192 Saptami",
       "nakshatra": "Anuradha",
-      "yoga": "Harshana → Vajra",
-      "themes": [ "titiksha", "tolerance", "impermanence", "duty", "sense-control" ],
-      "tags": [ "#titiksha", "#tolerance", "#duty", "#anitya", "#impermanence", "#matra-sparsha", "#sense-control", "#sankhya", "#prakriti", "#discernment" ],
+      "yoga": "Harshana \u2192 Vajra",
+      "themes": [
+        "titiksha",
+        "tolerance",
+        "impermanence",
+        "duty",
+        "sense-control"
+      ],
+      "tags": [
+        "#titiksha",
+        "#tolerance",
+        "#duty",
+        "#anitya",
+        "#impermanence",
+        "#matra-sparsha",
+        "#sense-control",
+        "#sankhya",
+        "#prakriti",
+        "#discernment"
+      ],
       "yogaSutraConnection": "YS II.1",
-      "sankhyaConcepts": [ "purusha-prakriti dualism", "guna-vrttis", "anitya" ],
-      "keyTerms": [ "titikshasva", "matra-sparshah", "anityah", "agama-apayinah", "shita-ushna" ]
+      "sankhyaConcepts": [
+        "purusha-prakriti dualism",
+        "guna-vrttis",
+        "anitya"
+      ],
+      "keyTerms": [
+        "titikshasva",
+        "matra-sparshah",
+        "anityah",
+        "agama-apayinah",
+        "shita-ushna"
+      ]
     },
     {
       "date": "2026-03-05",
@@ -97,15 +304,34 @@
       "chapter": 2,
       "verse": 22,
       "text": "Bhagavad Gita",
-      "tithi": "Krishna Dwitiya → Tritiya",
+      "tithi": "Krishna Dwitiya \u2192 Tritiya",
       "nakshatra": "Rohini",
       "yoga": "Siddha",
-      "themes": [ "atma", "vasamsi", "deha", "vairagya" ],
-      "tags": [ "#deha", "#vairagya", "#atma", "#sankhya", "#discernment" ],
+      "themes": [
+        "atma",
+        "vasamsi",
+        "deha",
+        "vairagya"
+      ],
+      "tags": [
+        "#deha",
+        "#vairagya",
+        "#atma",
+        "#sankhya",
+        "#discernment"
+      ],
       "yogaSutraConnection": "YS II.17",
-      "sankhyaConcepts": [ "deha-atma-viveka", "purusha-prakriti" ],
-      "keyTerms": [ "vasamsi", "jirnani", "deha", "dehi" ]
+      "sankhyaConcepts": [
+        "deha-atma-viveka",
+        "purusha-prakriti"
+      ],
+      "keyTerms": [
+        "vasamsi",
+        "jirnani",
+        "deha",
+        "dehi"
+      ]
     }
   ],
-  "lastUpdated": "2026-03-13"
+  "lastUpdated": "2026-03-15"
 }
