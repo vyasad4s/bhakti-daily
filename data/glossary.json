@@ -1,6 +1,81 @@
 {
-  "lastUpdated": "2026-03-15",
+  "lastUpdated": "2026-03-16",
   "terms": [
+    {
+      "term": "yukta",
+      "transliteration": "yukta",
+      "type": "adjective, past passive participle from yuj",
+      "definition": "Yoked, connected, joined; one who is in K\u1e5b\u1e63\u1e47a consciousness; the 'compiled' soul whose consciousness runs on the proper kernel.",
+      "roots": "from yuj (to yoke, join, connect)",
+      "references": [
+        "BG 2.66"
+      ],
+      "themes": [
+        "steadymind",
+        "krishna-consciousness",
+        "discipline"
+      ]
+    },
+    {
+      "term": "ayuktasya",
+      "transliteration": "ayuktasya",
+      "type": "masculine noun, genitive singular",
+      "definition": "Of one who is not connected; the unyoked mind, unstable by definition, executing without proper environment variables set.",
+      "roots": "from a-yukta (not yoked)",
+      "references": [
+        "BG 2.66"
+      ],
+      "themes": [
+        "steadymind",
+        "krishna-consciousness",
+        "discipline"
+      ]
+    },
+    {
+      "term": "buddhi\u1e25",
+      "transliteration": "buddhi\u1e25",
+      "type": "feminine noun, nominative singular",
+      "definition": "Transcendental intelligence, discriminating wisdom; the faculty that distinguishes puru\u1e63a from prak\u1e5bti; the debugger of consciousness.",
+      "roots": "from budh (to wake up, be aware of)",
+      "references": [
+        "BG 2.66"
+      ],
+      "themes": [
+        "steadymind",
+        "discernment",
+        "sankhya"
+      ]
+    },
+    {
+      "term": "bh\u0101van\u0101",
+      "transliteration": "bh\u0101van\u0101",
+      "type": "feminine noun, nominative singular",
+      "definition": "Fixed mind, steady consciousness; the capacity to maintain unwavering focus; the mental state that survives input fluctuations.",
+      "roots": "from bh\u016b (to become, exist)",
+      "references": [
+        "BG 2.66"
+      ],
+      "themes": [
+        "steadymind",
+        "discipline",
+        "bhakti"
+      ]
+    },
+    {
+      "term": "\u015b\u0101nti\u1e25",
+      "transliteration": "\u015b\u0101nti\u1e25",
+      "type": "feminine noun, nominative singular",
+      "definition": "Peace, tranquility; not mere absence of disturbance but a positive state of fullness rooted in satisfaction of the soul.",
+      "roots": "from \u015bam (to calm, pacify, cease)",
+      "references": [
+        "BG 2.66"
+      ],
+      "themes": [
+        "peace",
+        "discipline",
+        "bhakti"
+      ]
+    },
     {
       "term": "indriyai\u1e25",
       "transliteration": "indriyai\u1e25",
