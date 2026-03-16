@@ -1,6 +1,46 @@
 {
   "verses": [
     {
+      "date": "2026-03-16",
+      "source": "BG 2.66",
+      "chapter": 2,
+      "verse": 66,
+      "text": "Bhagavad Gita",
+      "tithi": "Krishna Paksha Trayodashi",
+      "nakshatra": "Dhanishta",
+      "yoga": "Siddha",
+      "themes": [
+        "steadymind",
+        "krishna-consciousness",
+        "peace",
+        "siddha-yoga",
+        "shivaratri"
+      ],
+      "tags": [
+        "#steadymind",
+        "#krishnaconsciousness",
+        "#peace",
+        "#siddhayoga",
+        "#shivaratri",
+        "#pradosh",
+        "#discipline",
+        "#bhakti"
+      ],
+      "yogaSutraConnection": "YS I.2",
+      "sankhyaConcepts": [
+        "yukta",
+        "ayuktasya",
+        "buddhi-stability"
+      ],
+      "keyTerms": [
+        "ayuktasya",
+        "buddhih",
+        "bhavana",
+        "shantih",
+        "sukham"
+      ]
+    },
+    {
       "date": "2026-03-15",
       "source": "BG 2.65",
       "chapter": 2,
