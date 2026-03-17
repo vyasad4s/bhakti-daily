@@ -1,6 +1,46 @@
 {
   "verses": [
     {
+      "date": "2026-03-17",
+      "source": "BG 2.68",
+      "chapter": 2,
+      "verse": 68,
+      "text": "Bhagavad Gita",
+      "tithi": "Krishna Paksha Chaturdashi \u2192 Amavasya",
+      "nakshatra": "Shatabhisha \u2192 Purva Bhadrapada",
+      "yoga": "Sadhya \u2192 Shubha",
+      "themes": [
+        "pratyahara",
+        "sense-control",
+        "prajna-stability",
+        "chaturdashi",
+        "amavasya-preparation"
+      ],
+      "tags": [
+        "#pratyahara",
+        "#sense-control",
+        "#prajna",
+        "#buddhi",
+        "#steadiness",
+        "#chaturdashi",
+        "#amavasya",
+        "#withdrawal"
+      ],
+      "yogaSutraConnection": "YS II.54",
+      "sankhyaConcepts": [
+        "indriya-nigraha",
+        "prajna-pratishthita",
+        "purusha-prakriti-discrimination"
+      ],
+      "keyTerms": [
+        "nigrihitani",
+        "indriyarthebhyah",
+        "prajna",
+        "pratishthita",
+        "tasmad"
+      ]
+    },
+    {
       "date": "2026-03-16",
       "source": "BG 2.66",
       "chapter": 2,
