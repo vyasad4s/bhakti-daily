@@ -1,14 +1,57 @@
 {
   "verses": [
     {
+      "date": "2026-03-19",
+      "source": "BG 2.14",
+      "chapter": 2,
+      "verse": 14,
+      "text": "Bhagavad Gita",
+      "tithi": "Pratipadā",
+      "nakshatra": "Revatī",
+      "yoga": "Brahma",
+      "themes": [
+        "endurance",
+        "impermanence",
+        "equanimity",
+        "sense-perception",
+        "pratipada",
+        "new-beginnings"
+      ],
+      "tags": [
+        "#titikṣa",
+        "#endurance",
+        "#anitya",
+        "#seasons",
+        "#senses",
+        "#upekṣā",
+        "#equanimity",
+        "#prakṛti",
+        "#mātrā-sparśa"
+      ],
+      "yogaSutraConnection": "YS I.33",
+      "sankhyaConcepts": [
+        "prakṛti",
+        "puruṣa",
+        "viveka",
+        "guṇas"
+      ],
+      "keyTerms": [
+        "mātrā-sparśa",
+        "titikṣā",
+        "upekṣā",
+        "āgama-apāyin",
+        "anitya"
+      ]
+    },
+    {
       "date": "2026-03-17",
       "source": "BG 2.68",
       "chapter": 2,
       "verse": 68,
       "text": "Bhagavad Gita",
-      "tithi": "Krishna Paksha Chaturdashi \u2192 Amavasya",
-      "nakshatra": "Shatabhisha \u2192 Purva Bhadrapada",
-      "yoga": "Sadhya \u2192 Shubha",
+      "tithi": "Krishna Paksha Chaturdashi → Amavasya",
+      "nakshatra": "Shatabhisha → Purva Bhadrapada",
+      "yoga": "Sadhya → Shubha",
       "themes": [
         "pratyahara",
         "sense-control",
@@ -164,9 +207,9 @@
       "chapter": 2,
       "verse": 64,
       "text": "Bhagavad Gita",
-      "tithi": "Krishna Paksha Dashami \u2192 Ekadashi",
-      "nakshatra": "Purva Ashadha \u2192 Uttara Ashadha",
-      "yoga": "Vriddhi/Variyan \u2192 Parigha",
+      "tithi": "Krishna Paksha Dashami → Ekadashi",
+      "nakshatra": "Purva Ashadha → Uttara Ashadha",
+      "yoga": "Vriddhi/Variyan → Parigha",
       "themes": [
         "raga-dvesha",
         "liberation",
@@ -210,7 +253,7 @@
       "verse": "62-63",
       "text": "Bhagavad Gita",
       "tithi": "Navami",
-      "nakshatra": "Mula \u2192 Purva Ashadha",
+      "nakshatra": "Mula → Purva Ashadha",
       "yoga": "Vyatipata",
       "themes": [
         "sense-control",
@@ -257,7 +300,7 @@
       "chapter": 2,
       "verse": 65,
       "text": "Bhagavad Gita",
-      "tithi": "Ashtami \u2192 Navami",
+      "tithi": "Ashtami → Navami",
       "nakshatra": "Mula",
       "yoga": "Siddhi",
       "themes": [
@@ -301,8 +344,8 @@
       "chapter": 2,
       "verse": 64,
       "text": "Bhagavad Gita",
-      "tithi": "Saptami \u2192 Ashtami",
-      "nakshatra": "Anuradha \u2192 Jyestha",
+      "tithi": "Saptami → Ashtami",
+      "nakshatra": "Anuradha → Jyestha",
       "yoga": "Vajra",
       "themes": [
         "raga-dvesha",
@@ -342,9 +385,9 @@
       "chapter": 2,
       "verse": 14,
       "text": "Bhagavad Gita",
-      "tithi": "Shashti \u2192 Saptami",
+      "tithi": "Shashti → Saptami",
       "nakshatra": "Anuradha",
-      "yoga": "Harshana \u2192 Vajra",
+      "yoga": "Harshana → Vajra",
       "themes": [
         "titiksha",
         "tolerance",
@@ -384,7 +427,7 @@
       "chapter": 2,
       "verse": 22,
       "text": "Bhagavad Gita",
-      "tithi": "Krishna Dwitiya \u2192 Tritiya",
+      "tithi": "Krishna Dwitiya → Tritiya",
       "nakshatra": "Rohini",
       "yoga": "Siddha",
       "themes": [
@@ -413,5 +456,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-03-15"
+  "lastUpdated": "2026-03-19"
 }
