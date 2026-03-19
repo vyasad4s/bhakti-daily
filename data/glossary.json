@@ -1,6 +1,39 @@
 {
-  "lastUpdated": "2026-03-17",
+  "lastUpdated": "2026-03-19",
   "terms": [
+    {
+      "term": "anitya",
+      "transliteration": "anitya",
+      "type": "adjective",
+      "definition": "impermanent, non-eternal; fleeting by nature, like all phenomena arising from prakṛti; the truth that all vṛttis are temporary processes",
+      "roots": "from a- (not) + nitya (eternal, permanent)",
+      "references": [
+        "BG 2.14"
+      ],
+      "themes": [
+        "impermanence",
+        "temporality",
+        "anitya",
+        "vṛttis"
+      ]
+    },
+    {
+      "term": "upekṣā",
+      "transliteration": "upekṣā",
+      "type": "feminine noun",
+      "definition": "equanimity, indifference, overlooking; one of the four attitudes in YS I.33, specifically toward the sukha/duḥkha of conditioned existence; the emotional Neutral gear",
+      "roots": "from upa- (near) + √īkṣ (to look, regard); looking with equanimity",
+      "references": [
+        "BG 2.14",
+        "YS I.33"
+      ],
+      "themes": [
+        "equanimity",
+        "titikṣā",
+        "sukha-duḥkha",
+        "citta-prasādana"
+      ]
+    },
     {
       "term": "adhigacchati",
       "transliteration": "adhigacchati",
