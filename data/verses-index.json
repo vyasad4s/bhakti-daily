@@ -1,23 +1,66 @@
 {
   "verses": [
     {
+      "date": "2026-03-20",
+      "source": "BG 2.22",
+      "chapter": 2,
+      "verse": 22,
+      "text": "Bhagavad Gita",
+      "tithi": "Dvitīya",
+      "nakshatra": "Revatī → Aśvinī",
+      "yoga": "Brāhma → Indra",
+      "themes": [
+        "soul",
+        "reincarnation",
+        "detachment",
+        "new-beginnings",
+        "gudi-padwa",
+        "vairagya",
+        "puruṣa-prakṛti"
+      ],
+      "tags": [
+        "#GudiPadwa",
+        "#NewYear",
+        "#Soul",
+        "#Reincarnation",
+        "#SankhyaPhilosophy",
+        "#Vairagya",
+        "#BhagavadGita",
+        "#Gita2"
+      ],
+      "yogaSutraConnection": "YS I.3",
+      "sankhyaConcepts": [
+        "puruṣa-prakṛti",
+        "dehī-deha",
+        "vairāgya",
+        "transmigration"
+      ],
+      "keyTerms": [
+        "vāsāṁsi",
+        "jīrṇāni",
+        "dehī",
+        "vihāya",
+        "saṁyāti"
+      ]
+    },
+    {
       "date": "2026-03-18",
       "source": "BG 2.70",
       "chapter": 2,
       "verse": 70,
       "text": "Bhagavad Gita",
-      "tithi": "Am\u0101v\u0101sy\u0101",
-      "nakshatra": "P\u016brva Bh\u0101drapad\u0101 \u2192 Uttara Bh\u0101drapad\u0101",
-      "yoga": "\u015aubha \u2192 \u015aukla",
+      "tithi": "Amāvāsyā",
+      "nakshatra": "Pūrva Bhādrapadā → Uttara Bhādrapadā",
+      "yoga": "Śubha → Śukla",
       "themes": [
         "ocean",
         "fullness",
         "contentment",
-        "vair\u0101gya",
-        "\u015b\u0101nti",
+        "vairāgya",
+        "śānti",
         "desire",
         "samudra",
-        "am\u0101v\u0101sy\u0101"
+        "amāvāsyā"
       ],
       "tags": [
         "#ocean",
@@ -33,18 +76,18 @@
       ],
       "yogaSutraConnection": "YS II.42",
       "sankhyaConcepts": [
-        "puru\u1e63a-plenitude",
-        "prak\u1e5btic-flow",
+        "puruṣa-plenitude",
+        "prakṛtic-flow",
         "contentment",
-        "vair\u0101gya-operationalized"
+        "vairāgya-operationalized"
       ],
       "keyTerms": [
-        "\u0101p\u016bryam\u0101\u1e47am",
-        "acala-prati\u1e63\u1e6dham",
+        "āpūryamāṇam",
+        "acala-pratiṣṭham",
         "samudra",
-        "k\u0101m\u0101\u1e25",
-        "\u015b\u0101ntim",
-        "k\u0101ma-k\u0101m\u012b"
+        "kāmāḥ",
+        "śāntim",
+        "kāma-kāmī"
       ]
     },
     {
@@ -53,8 +96,8 @@
       "chapter": 2,
       "verse": 14,
       "text": "Bhagavad Gita",
-      "tithi": "Pratipad\u0101",
-      "nakshatra": "Revat\u012b",
+      "tithi": "Pratipadā",
+      "nakshatra": "Revatī",
       "yoga": "Brahma",
       "themes": [
         "endurance",
@@ -65,28 +108,28 @@
         "new-beginnings"
       ],
       "tags": [
-        "#titik\u1e63a",
+        "#titikṣa",
         "#endurance",
         "#anitya",
         "#seasons",
         "#senses",
-        "#upek\u1e63\u0101",
+        "#upekṣā",
         "#equanimity",
-        "#prak\u1e5bti",
-        "#m\u0101tr\u0101-spar\u015ba"
+        "#prakṛti",
+        "#mātrā-sparśa"
       ],
       "yogaSutraConnection": "YS I.33",
       "sankhyaConcepts": [
-        "prak\u1e5bti",
-        "puru\u1e63a",
+        "prakṛti",
+        "puruṣa",
         "viveka",
-        "gu\u1e47as"
+        "guṇas"
       ],
       "keyTerms": [
-        "m\u0101tr\u0101-spar\u015ba",
-        "titik\u1e63\u0101",
-        "upek\u1e63\u0101",
-        "\u0101gama-ap\u0101yin",
+        "mātrā-sparśa",
+        "titikṣā",
+        "upekṣā",
+        "āgama-apāyin",
         "anitya"
       ]
     },
@@ -96,9 +139,9 @@
       "chapter": 2,
       "verse": 68,
       "text": "Bhagavad Gita",
-      "tithi": "Krishna Paksha Chaturdashi \u2192 Amavasya",
-      "nakshatra": "Shatabhisha \u2192 Purva Bhadrapada",
-      "yoga": "Sadhya \u2192 Shubha",
+      "tithi": "Krishna Paksha Chaturdashi → Amavasya",
+      "nakshatra": "Shatabhisha → Purva Bhadrapada",
+      "yoga": "Sadhya → Shubha",
       "themes": [
         "pratyahara",
         "sense-control",
@@ -254,9 +297,9 @@
       "chapter": 2,
       "verse": 64,
       "text": "Bhagavad Gita",
-      "tithi": "Krishna Paksha Dashami \u2192 Ekadashi",
-      "nakshatra": "Purva Ashadha \u2192 Uttara Ashadha",
-      "yoga": "Vriddhi/Variyan \u2192 Parigha",
+      "tithi": "Krishna Paksha Dashami → Ekadashi",
+      "nakshatra": "Purva Ashadha → Uttara Ashadha",
+      "yoga": "Vriddhi/Variyan → Parigha",
       "themes": [
         "raga-dvesha",
         "liberation",
@@ -300,7 +343,7 @@
       "verse": "62-63",
       "text": "Bhagavad Gita",
       "tithi": "Navami",
-      "nakshatra": "Mula \u2192 Purva Ashadha",
+      "nakshatra": "Mula → Purva Ashadha",
       "yoga": "Vyatipata",
       "themes": [
         "sense-control",
@@ -347,7 +390,7 @@
       "chapter": 2,
       "verse": 65,
       "text": "Bhagavad Gita",
-      "tithi": "Ashtami \u2192 Navami",
+      "tithi": "Ashtami → Navami",
       "nakshatra": "Mula",
       "yoga": "Siddhi",
       "themes": [
@@ -391,8 +434,8 @@
       "chapter": 2,
       "verse": 64,
       "text": "Bhagavad Gita",
-      "tithi": "Saptami \u2192 Ashtami",
-      "nakshatra": "Anuradha \u2192 Jyestha",
+      "tithi": "Saptami → Ashtami",
+      "nakshatra": "Anuradha → Jyestha",
       "yoga": "Vajra",
       "themes": [
         "raga-dvesha",
@@ -432,9 +475,9 @@
       "chapter": 2,
       "verse": 14,
       "text": "Bhagavad Gita",
-      "tithi": "Shashti \u2192 Saptami",
+      "tithi": "Shashti → Saptami",
       "nakshatra": "Anuradha",
-      "yoga": "Harshana \u2192 Vajra",
+      "yoga": "Harshana → Vajra",
       "themes": [
         "titiksha",
         "tolerance",
@@ -474,7 +517,7 @@
       "chapter": 2,
       "verse": 22,
       "text": "Bhagavad Gita",
-      "tithi": "Krishna Dwitiya \u2192 Tritiya",
+      "tithi": "Krishna Dwitiya → Tritiya",
       "nakshatra": "Rohini",
       "yoga": "Siddha",
       "themes": [
@@ -503,5 +546,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-03-18"
+  "lastUpdated": "2026-03-20"
 }
