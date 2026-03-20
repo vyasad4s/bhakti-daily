@@ -1,39 +1,6 @@
 {
-  "lastUpdated": "2026-03-19",
+  "lastUpdated": "2026-03-20",
   "terms": [
-    {
-      "term": "anitya",
-      "transliteration": "anitya",
-      "type": "adjective",
-      "definition": "impermanent, non-eternal; fleeting by nature, like all phenomena arising from prakṛti; the truth that all vṛttis are temporary processes",
-      "roots": "from a- (not) + nitya (eternal, permanent)",
-      "references": [
-        "BG 2.14"
-      ],
-      "themes": [
-        "impermanence",
-        "temporality",
-        "anitya",
-        "vṛttis"
-      ]
-    },
-    {
-      "term": "upekṣā",
-      "transliteration": "upekṣā",
-      "type": "feminine noun",
-      "definition": "equanimity, indifference, overlooking; one of the four attitudes in YS I.33, specifically toward the sukha/duḥkha of conditioned existence; the emotional Neutral gear",
-      "roots": "from upa- (near) + √īkṣ (to look, regard); looking with equanimity",
-      "references": [
-        "BG 2.14",
-        "YS I.33"
-      ],
-      "themes": [
-        "equanimity",
-        "titikṣā",
-        "sukha-duḥkha",
-        "citta-prasādana"
-      ]
-    },
     {
       "term": "adhigacchati",
       "transliteration": "adhigacchati",
@@ -64,6 +31,22 @@
         "ananyabhakti",
         "single-pointedness",
         "ekadashi"
+      ]
+    },
+    {
+      "term": "anitya",
+      "transliteration": "anitya",
+      "type": "adjective",
+      "definition": "impermanent, non-eternal; fleeting by nature, like all phenomena arising from prakṛti; the truth that all vṛttis are temporary processes",
+      "roots": "from a- (not) + nitya (eternal, permanent)",
+      "references": [
+        "BG 2.14"
+      ],
+      "themes": [
+        "impermanence",
+        "temporality",
+        "anitya",
+        "vṛttis"
       ]
     },
     {
@@ -174,9 +157,26 @@
       ]
     },
     {
+      "term": "dehī",
+      "transliteration": "dehī",
+      "type": "masculine noun",
+      "definition": "The embodied one; consciousness inhabiting material form. The witness, not the vessel.",
+      "roots": "from deha (body) + -in (possessive suffix); literally 'one who has a body'",
+      "references": [
+        "BG 2.22"
+      ],
+      "themes": [
+        "soul",
+        "embodiment",
+        "puruṣa",
+        "reincarnation"
+      ]
+    },
+    {
       "term": "dhyāyataḥ",
       "definition": "while contemplating, pondering; the gerundive form indicating continuous mental engagement. In Sāṅkhya/Yoga psychology, the first vṛtti that externalizes consciousness—merely thinking about sense objects initiates the cascade toward attachment.",
-      "source": "BG 2.62"
+      "source": "BG 2.62",
+      "transliteration": "dhyāyataḥ"
     },
     {
       "term": "dveṣa",
@@ -237,6 +237,22 @@
         "sense-control",
         "prakriti",
         "objects"
+      ]
+    },
+    {
+      "term": "jīrṇāni",
+      "transliteration": "jīrṇāni",
+      "type": "adjective, neuter plural",
+      "definition": "Worn out, old, decayed; that which has served its purpose and is now obsolete; ready to be released.",
+      "roots": "from jṝ (to decay, become old, wear out)",
+      "references": [
+        "BG 2.22"
+      ],
+      "themes": [
+        "impermanence",
+        "vairāgya",
+        "decay",
+        "release"
       ]
     },
     {
@@ -411,12 +427,14 @@
     {
       "term": "pratyāhāra",
       "definition": "withdrawal, retraction; the fifth limb of aṣṭāṅga yoga (YS II.54). Sense withdrawal occurs when the mind is fixed on its object, causing senses to automatically cease contact with their objects. Not repression but natural internalization when buddhi withdraws from prakṛtic toward puruṣic.",
-      "source": "YS II.54, BG 2.62-63 commentary"
+      "source": "YS II.54, BG 2.62-63 commentary",
+      "transliteration": "pratyāhāra"
     },
     {
       "term": "praṇaśyati",
       "definition": "one falls down, is ruined, perishes; the inevitable consequence when the entire chain of saṁsāra executes—total loss of spiritual position when buddhi is destroyed.",
-      "source": "BG 2.63"
+      "source": "BG 2.63",
+      "transliteration": "praṇaśyati"
     },
     {
       "term": "rāga",
@@ -437,7 +455,8 @@
     {
       "term": "sammoha",
       "definition": "complete delusion, bewilderment; the loss of discriminative clarity when buddhi operates under dense tamas; follows anger in the downward spiral.",
-      "source": "BG 2.63"
+      "source": "BG 2.63",
+      "transliteration": "sammoha"
     },
     {
       "term": "sarva-duḥkhānām",
@@ -455,9 +474,26 @@
       ]
     },
     {
+      "term": "saṁyāti",
+      "transliteration": "saṁyāti",
+      "type": "verb, 3rd person singular present",
+      "definition": "Goes toward, accepts, attains; voluntary movement toward the new; the soul's acceptance of a new vehicle.",
+      "roots": "from sam-yā (to go toward, approach)",
+      "references": [
+        "BG 2.22"
+      ],
+      "themes": [
+        "reincarnation",
+        "soul",
+        "movement",
+        "acceptance"
+      ]
+    },
+    {
       "term": "smṛti",
       "definition": "memory; specifically the capacity to remember one's true nature (puruṣa) and the connection to truth; distinct from ordinary recollection. When bewildered (smṛti-bhraṁśa), intelligence is lost.",
-      "source": "BG 2.63"
+      "source": "BG 2.63",
+      "transliteration": "smṛti"
     },
     {
       "term": "titikṣasva",
@@ -473,6 +509,23 @@
         "tolerance",
         "duty",
         "discernment"
+      ]
+    },
+    {
+      "term": "upekṣā",
+      "transliteration": "upekṣā",
+      "type": "feminine noun",
+      "definition": "equanimity, indifference, overlooking; one of the four attitudes in YS I.33, specifically toward the sukha/duḥkha of conditioned existence; the emotional Neutral gear",
+      "roots": "from upa- (near) + √īkṣ (to look, regard); looking with equanimity",
+      "references": [
+        "BG 2.14",
+        "YS I.33"
+      ],
+      "themes": [
+        "equanimity",
+        "titikṣā",
+        "sukha-duḥkha",
+        "citta-prasādana"
       ]
     },
     {
@@ -508,6 +561,22 @@
       ]
     },
     {
+      "term": "vihāya",
+      "transliteration": "vihāya",
+      "type": "gerund, uncompounded",
+      "definition": "Having abandoned, left behind; the act of release without regret or lingering attachment; casting off the worn-out.",
+      "roots": "from vi-hā (to leave behind, abandon, give up)",
+      "references": [
+        "BG 2.22"
+      ],
+      "themes": [
+        "vairāgya",
+        "release",
+        "non-attachment",
+        "renunciation"
+      ]
+    },
+    {
       "term": "vimukta",
       "transliteration": "vimukta",
       "type": "adjective, past participle",
@@ -536,6 +605,22 @@
         "sense-control",
         "prakṛti",
         "rāga-dveṣa"
+      ]
+    },
+    {
+      "term": "vāsāṁsi",
+      "transliteration": "vāsāṁsi",
+      "type": "neuter noun, plural",
+      "definition": "Garments, clothes; temporary coverings that protect but are not the form itself; the body as temporary clothing for the soul.",
+      "roots": "from vas (to put on, wear); also related to vastra (garment)",
+      "references": [
+        "BG 2.22"
+      ],
+      "themes": [
+        "body",
+        "impermanence",
+        "soul",
+        "vairāgya"
       ]
     },
     {
