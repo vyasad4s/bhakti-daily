@@ -1,6 +1,49 @@
 {
   "verses": [
     {
+      "date": "2026-03-21",
+      "source": "BG 2.23",
+      "chapter": 2,
+      "verse": 23,
+      "text": "Bhagavad Gita",
+      "tithi": "Tṛtīyā → Caturthī",
+      "nakshatra": "Aśvinī → Bharaṇī",
+      "yoga": "Vaidhṛti",
+      "themes": [
+        "indestructible-soul",
+        "elements",
+        "matsya-jayanti",
+        "sankhya",
+        "pralaya",
+        "survival"
+      ],
+      "tags": [
+        "#IndestructibleSoul",
+        "#MatsyaJayanti",
+        "#SankhyaMetaphysics",
+        "#PuruṣaPrakṛti",
+        "#Elements",
+        "#Mokṣa",
+        "#YogaSutras",
+        "#ChapterTwo"
+      ],
+      "yogaSutraConnection": "YS I.3",
+      "sankhyaConcepts": [
+        "puruṣa-prakṛti",
+        "mahābhūtas",
+        "sanātana",
+        "neti-neti"
+      ],
+      "keyTerms": [
+        "chindanti",
+        "śastrāṇi",
+        "pāvakaḥ",
+        "kledayanti",
+        "mārutaḥ",
+        "na"
+      ]
+    },
+    {
       "date": "2026-03-20",
       "source": "BG 2.22",
       "chapter": 2,
