@@ -1,6 +1,102 @@
 {
-  "lastUpdated": "2026-03-20",
+  "lastUpdated": "2026-03-21",
   "terms": [
+    {
+      "term": "na",
+      "transliteration": "na",
+      "type": "particle",
+      "definition": "not — repeated four times for absolute negation; the Upaniṣadic neti neti ('not this, not this') in action",
+      "roots": "negative particle",
+      "references": [
+        "BG 2.23"
+      ],
+      "themes": [
+        "negation",
+        "neti-neti",
+        "soul",
+        "absolute"
+      ]
+    },
+    {
+      "term": "mārutaḥ",
+      "transliteration": "mārutaḥ",
+      "type": "noun, masculine",
+      "definition": "the wind — storm gods; principle of movement, desiccation, and scattering; that which seemingly disperses and destroys",
+      "roots": "from marut (the storm deities) or mṛ (to move)",
+      "references": [
+        "BG 2.23"
+      ],
+      "themes": [
+        "wind",
+        "elements",
+        "air",
+        "mahābhūtas"
+      ]
+    },
+    {
+      "term": "kledayanti",
+      "transliteration": "kledayanti",
+      "type": "verb, 3rd plural present active causative",
+      "definition": "they cause to moisten — water's capacity to penetrate, dissolve, and assimilate; the soul is impenetrable",
+      "roots": "from √klid (to be wet) + causative suffix",
+      "references": [
+        "BG 2.23"
+      ],
+      "themes": [
+        "water",
+        "elements",
+        "dissolution",
+        "impenetrable"
+      ]
+    },
+    {
+      "term": "pāvakaḥ",
+      "transliteration": "pāvakaḥ",
+      "type": "noun, masculine",
+      "definition": "fire — sacrificial flame; the purifying fire; one of the five mahābhūtas",
+      "roots": "from pū (to purify) or pāvaka (that which purifies)",
+      "references": [
+        "BG 2.23"
+      ],
+      "themes": [
+        "fire",
+        "elements",
+        "purification",
+        "mahābhūtas"
+      ]
+    },
+    {
+      "term": "śastrāṇi",
+      "transliteration": "śastrāṇi",
+      "type": "noun, neuter plural",
+      "definition": "weapons — instruments of death and destruction; from swords to modern nuclear armaments",
+      "roots": "from śas (to injure, kill) + tra (instrumental suffix)",
+      "references": [
+        "BG 2.23"
+      ],
+      "themes": [
+        "weapons",
+        "elements",
+        "destruction",
+        "mokṣa"
+      ]
+    },
+    {
+      "term": "chindanti",
+      "transliteration": "chindanti",
+      "type": "verb, 3rd person plural present active",
+      "definition": "they cut — splitting, breaking apart; dividing into pieces; the soul cannot be fragmented",
+      "roots": "from √chid (to cut, split, break apart)",
+      "references": [
+        "BG 2.23"
+      ],
+      "themes": [
+        "soul",
+        "indestructible",
+        "cutting",
+        "sankhya"
+      ]
+    },
     {
       "term": "adhigacchati",
       "transliteration": "adhigacchati",
