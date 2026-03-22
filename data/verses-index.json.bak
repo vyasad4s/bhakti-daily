@@ -1,45 +1,6 @@
 {
   "verses": [
     {
-      "date": "2026-03-22",
-      "source": "BG 2.24",
-      "chapter": 2,
-      "verse": 24,
-      "text": "Bhagavad Gita",
-      "tithi": "Caturthi → Pañcamī",
-      "nakshatra": "Bharaṇī → Kṛttikā",
-      "yoga": "Viṣkambha",
-      "themes": [
-        "indestructible-soul",
-        "agni-nakshatra",
-        "fire-proof",
-        "sanatana",
-        "bharani-krittika-portal"
-      ],
-      "tags": [
-        "#IndestructibleSoul",
-        "#SankhyaMetaphysics",
-        "#FireProof",
-        "#AgniNakshatra",
-        "#SanatanaDharma",
-        "#PurushaPrakriti",
-        "#YogaSutras",
-        "#Krittika"
-      ],
-      "yogaSutraConnection": "YS I.3",
-      "sankhyaConcepts": [
-        "puruṣa-indestructible",
-        "prakṛti-transformable",
-        "eternal-soul"
-      ],
-      "keyTerms": [
-        "acchedyaḥ",
-        "adāhyaḥ",
-        "sthāṇuḥ",
-        "sanātanaḥ"
-      ]
-    },
-    {
       "date": "2026-03-21",
       "source": "BG 2.23",
       "chapter": 2,
@@ -628,5 +589,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-03-22"
+  "lastUpdated": "2026-03-20"
 }
