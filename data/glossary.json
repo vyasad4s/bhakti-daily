@@ -1,6 +1,66 @@
 {
-  "lastUpdated": "2026-03-21",
+  "lastUpdated": "2026-03-22",
   "terms": [
+    {
+      "term": "acchedyaḥ",
+      "transliteration": "acchedyaḥ",
+      "type": "adjective",
+      "definition": "Unbreakable, uncuttable, indivisible. The puruṣa is not composed of parts and cannot be fragmented. Hacker metaphor: the soul is the Read-Only memory that cannot be partitioned, formatted, or corrupted.",
+      "roots": "from chhid (to cut)",
+      "references": [
+        "BG 2.24"
+      ],
+      "themes": [
+        "indestructible-soul",
+        "sankhya",
+        "sanatana"
+      ]
+    },
+    {
+      "term": "adāhyaḥ",
+      "transliteration": "adāhyaḥ",
+      "type": "adjective",
+      "definition": "Unburnable, that which cannot be consumed by fire. Even at cosmic dissolution when Agni devours the elements, the soul persists. Hacker metaphor: the soul runs on a separate power grid.",
+      "roots": "from dah (to burn)",
+      "references": [
+        "BG 2.24"
+      ],
+      "themes": [
+        "indestructible-soul",
+        "agni",
+        "fire-proof"
+      ]
+    },
+    {
+      "term": "sthāṇuḥ",
+      "transliteration": "sthāṇuḥ",
+      "type": "adjective",
+      "definition": "Fixed, immovable, standing firm like a pillar. While mind and body fluctuate through the guṇas, the soul remains the invariant observer. Hacker metaphor: the soul is the server root directory.",
+      "roots": "from sthā (to stand)",
+      "references": [
+        "BG 2.24"
+      ],
+      "themes": [
+        "indestructible-soul",
+        "stability",
+        "sankhya"
+      ]
+    },
+    {
+      "term": "sanātanaḥ",
+      "transliteration": "sanātanaḥ",
+      "type": "adjective",
+      "definition": "Eternal, perpetually existing, without origin or end. Outside time's jurisdiction entirely. Hacker metaphor: sanātanaḥ is the code that runs outside the simulation.",
+      "roots": "sanātana (eternal)",
+      "references": [
+        "BG 2.24"
+      ],
+      "themes": [
+        "eternity",
+        "timeless",
+        "sanatana-dharma"
+      ]
+    },
     {
       "term": "na",
       "transliteration": "na",
