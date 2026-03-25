@@ -8,36 +8,25 @@
       "text": "Bhagavad Gita",
       "tithi": "\u015aukla A\u1e63\u1e6dam\u012b",
       "nakshatra": "K\u1e5bttik\u0101 \u2192 Rohi\u1e47\u012b",
-      "yoga": "\u015aukha",
+      "yoga": "\u015aubha",
       "themes": [
         "pervasion",
         "indestructibility",
-        "consciousness",
-        "viveka",
-        "soul"
+        "consciousness"
       ],
       "tags": [
         "#avin\u0101\u015bi",
-        "#pervasion",
-        "#consciousness",
         "#krittika",
-        "#sankhya",
-        "#discrimination",
-        "#soul-nature"
+        "#sankhya"
       ],
       "yogaSutraConnection": "YS I.3",
       "sankhyaConcepts": [
-        "puru\u1e63a-prak\u1e5bti",
-        "tatam",
-        "avyaya",
-        "viveka"
+        "puru\u1e63a-prak\u1e5bti"
       ],
       "keyTerms": [
         "avin\u0101\u015bi",
         "tatam",
-        "avyaya",
-        "viddhi",
-        "sarvagata"
+        "avyaya"
       ]
     },
     {
@@ -45,162 +34,193 @@
       "source": "BG 2.29",
       "chapter": 2,
       "verse": 29,
-      "text": "Bhagavad Gita",
       "tithi": "\u015aukla Saptam\u012b",
-      "nakshatra": "Mrigash\u012br\u1e63a",
+      "nakshatra": "Mriga\u015b\u012br\u1e63a",
       "yoga": "Saubh\u0101gya",
       "themes": [
         "knowledge-levels",
-        "perception",
-        "seeking",
-        "grace",
-        "soul"
+        "perception"
       ],
       "tags": [
         "#knowledge-levels",
-        "#perception",
-        "#mrgasira",
-        "#soul",
-        "#sankhya",
-        "#discrimination",
-        "#grace"
+        "#soul"
       ],
       "yogaSutraConnection": "YS I.7",
       "sankhyaConcepts": [
-        "puru\u1e63a-prak\u1e5bti",
-        "viveka",
-        "pram\u0101\u1e47a"
+        "viveka"
       ],
       "keyTerms": [
         "\u0101\u015bcarya",
         "pa\u015byati",
-        "vadati",
-        "\u015b\u1e5b\u1e47oti",
-        "veda"
+        "\u015b\u1e5b\u1e47oti"
       ]
+    },
+    {
+      "date": "2026-03-23",
+      "source": "BG 2.11",
+      "tithi": "\u015aukla Pa\u00f1cam\u012b",
+      "nakshatra": "Rohi\u1e47\u012b \u2192 K\u1e5bttik\u0101",
+      "yoga": "Sarv\u0101rtha Siddhi"
+    },
+    {
+      "date": "2026-03-22",
+      "source": "BG 2.24"
+    },
+    {
+      "date": "2026-03-21",
+      "source": "BG 2.23"
+    },
+    {
+      "date": "2026-03-20",
+      "source": "BG 2.22"
+    },
+    {
+      "date": "2026-03-19",
+      "source": "BG 2.14"
     },
     {
       "date": "2026-03-18",
-      "source": "BG 2.70",
-      "chapter": 2,
-      "verse": 70,
-      "text": "Bhagavad Gita",
-      "tithi": "Am\u0101v\u0101sy\u0101 (New Moon)",
-      "nakshatra": "P\u016brva Bh\u0101drapad\u0101 \u2192 Uttara Bh\u0101drapad\u0101",
-      "yoga": "\u015aubha \u2192 \u015aukla",
-      "themes": [
-        "vair\u0101gya",
-        "\u015b\u0101nti",
-        "completion",
-        "stillness",
-        "surrender"
-      ],
-      "tags": [
-        "#vairagya",
-        "#detachment",
-        "#inner-peace",
-        "#krishna-consciousness",
-        "#puru\u1e63a-prak\u1e5bti",
-        "#desire-management",
-        "#ocean-metaphor",
-        "#santi",
-        "#nirodha"
-      ],
-      "yogaSutraConnection": "YS I.15",
-      "sankhyaConcepts": [
-        "puru\u1e63a-prak\u1e5bti",
-        "acala-prati\u1e63\u1e6dha",
-        "\u0101p\u016bryam\u0101\u1e47am",
-        "va\u015b\u012bk\u0101ra"
-      ],
-      "keyTerms": [
-        "\u0101p\u016bryam\u0101\u1e47am",
-        "acala-prati\u1e63\u1e6dham",
-        "samudra",
-        "va\u015b\u012bk\u0101ra",
-        "\u015b\u0101nti",
-        "ap\u0101paviddha\u1e25"
-      ]
+      "source": "BG 2.70"
+    },
+    {
+      "date": "2026-03-17",
+      "source": "BG 2.68"
+    },
+    {
+      "date": "2026-03-16",
+      "source": "BG 2.66"
+    },
+    {
+      "date": "2026-03-15",
+      "source": "BG 2.65"
+    },
+    {
+      "date": "2026-03-14",
+      "source": "BG 2.65"
+    },
+    {
+      "date": "2026-03-13",
+      "source": "BG 2.64"
+    },
+    {
+      "date": "2026-03-12",
+      "source": "BG 2.62-63"
+    },
+    {
+      "date": "2026-03-11",
+      "source": "BG 2.65"
+    },
+    {
+      "date": "2026-03-10",
+      "source": "BG 2.64"
     },
     {
       "date": "2026-03-09",
-      "source": "BG 2.14",
-      "chapter": 2,
-      "verse": 14,
-      "text": "Bhagavad Gita",
-      "tithi": "\u1e62a\u1e63\u1e6dh\u012b \u2192 Saptam\u012b",
-      "nakshatra": "Anur\u0101dh\u0101",
-      "yoga": "Har\u1e63a\u1e47a \u2192 Vajra",
-      "themes": [
-        "titik\u1e63\u0101",
-        "tolerance",
-        "impermanence",
-        "duty",
-        "sense-control"
-      ],
-      "tags": [
-        "#titik\u1e63\u0101",
-        "#tolerance",
-        "#duty",
-        "#anitya",
-        "#impermanence",
-        "#m\u0101tr\u0101-spar\u015ba",
-        "#sense-control",
-        "#s\u0101\u1e45khya",
-        "#prak\u1e5bti",
-        "#discernment"
-      ],
-      "yogaSutraConnection": "YS II.1",
-      "sankhyaConcepts": [
-        "puru\u1e63a-prak\u1e5bti dualism",
-        "gu\u1e47a-v\u1e5bttis",
-        "anitya"
-      ],
-      "keyTerms": [
-        "titik\u1e63asva",
-        "m\u0101tr\u0101-spar\u015ba\u1e25",
-        "anity\u0101\u1e25",
-        "\u0101gama-ap\u0101yina\u1e25",
-        "\u015b\u012bta-u\u1e63\u1e47a"
-      ]
+      "source": "BG 2.14"
+    },
+    {
+      "date": "2026-03-08",
+      "source": "BG 2.13"
+    },
+    {
+      "date": "2026-03-07",
+      "source": "BG 2.24"
+    },
+    {
+      "date": "2026-03-06",
+      "source": "BG 2.23"
     },
     {
       "date": "2026-03-05",
-      "source": "BG 2.22",
-      "chapter": 2,
-      "verse": 22,
-      "text": "Bhagavad Gita",
-      "tithi": "Krishna Dwitiya \u2192 Tritiya",
-      "nakshatra": "Hasta \u2192 Chitr\u0101",
-      "yoga": "Ganda \u2192 V\u1e5bddhi",
-      "themes": [
-        "reincarnation",
-        "body-soul distinction",
-        "viveka",
-        "impermanence"
-      ],
-      "tags": [
-        "#reincarnation",
-        "#soul",
-        "#discernment",
-        "#viveka",
-        "#sankhya",
-        "#impermanence",
-        "#liberation"
-      ],
-      "yogaSutraConnection": "YS I.3-4",
-      "sankhyaConcepts": [
-        "puru\u1e63a-prak\u1e5bti dualism",
-        "deh\u012b vs deha",
-        "v\u1e5btti-s\u0101r\u016bpya"
-      ],
-      "keyTerms": [
-        "v\u0101s\u0101\u1e41si",
-        "j\u012br\u1e47\u0101ni",
-        "vih\u0101ya",
-        "deh\u012b",
-        "sa\u1e41y\u0101ti"
-      ]
+      "source": "BG 2.22"
+    },
+    {
+      "date": "2026-03-04",
+      "source": "BG 9.22"
+    },
+    {
+      "date": "2026-03-03",
+      "source": "BG 9.29"
+    },
+    {
+      "date": "2026-03-01",
+      "source": "BG 3.6"
+    },
+    {
+      "date": "2026-02-28",
+      "source": "BG 3.5"
+    },
+    {
+      "date": "2026-02-27",
+      "source": "BG 3.4"
+    },
+    {
+      "date": "2026-02-26",
+      "source": "BG 3.3"
+    },
+    {
+      "date": "2026-02-25",
+      "source": "BG 3.2"
+    },
+    {
+      "date": "2026-02-24",
+      "source": "BG 3.1"
+    },
+    {
+      "date": "2026-02-23",
+      "source": "BG 2.72"
+    },
+    {
+      "date": "2026-02-22",
+      "source": "BG 2.71"
+    },
+    {
+      "date": "2026-02-21",
+      "source": "BG 2.70"
+    },
+    {
+      "date": "2026-02-20",
+      "source": "BG 2.69"
+    },
+    {
+      "date": "2026-02-19",
+      "source": "BG 2.68"
+    },
+    {
+      "date": "2026-02-18",
+      "source": "BG 2.67"
+    },
+    {
+      "date": "2026-02-17",
+      "source": "BG 2.66"
+    },
+    {
+      "date": "2026-02-16",
+      "source": "BG 2.65"
+    },
+    {
+      "date": "2026-02-15",
+      "source": "BG 2.64"
+    },
+    {
+      "date": "2026-02-14",
+      "source": "BG 2.63"
+    },
+    {
+      "date": "2026-02-13",
+      "source": "BG 2.62"
+    },
+    {
+      "date": "2026-02-12",
+      "source": "BG 2.61"
+    },
+    {
+      "date": "2026-02-11",
+      "source": "BG 2.60"
+    },
+    {
+      "date": "2026-02-10",
+      "source": "BG 9.22"
     }
   ],
   "lastUpdated": "2026-03-25"
