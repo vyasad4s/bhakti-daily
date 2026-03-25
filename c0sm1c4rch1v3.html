@@ -3,89 +3,338 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Cosmic Archive | vyasad4s terminal</title>
+  <title>COSMIC ARCHIVE :: VYASAD4S TERMINAL</title>
+  <link rel="icon" type="image/png" href="images/tilak-favicon.png">
+  <link rel="apple-touch-icon" href="images/tilak-favicon.png">
+  <link rel="shortcut icon" type="image/png" href="images/tilak-favicon.png">
+  <link rel="stylesheet" href="css/terminal.css">
   <style>
-    * { margin: 0; padding: 0; box-sizing: border-box; }
-    body { background: #0a0e27; color: #e8e8e8; font-family: 'Courier New', monospace; min-height: 100vh; padding: 2em; }
-    .terminal { max-width: 900px; margin: 0 auto; background: #000; border: 2px solid #00ff00; border-radius: 8px; padding: 2em; }
-    .header { color: #00ff00; text-align: center; margin-bottom: 2em; padding-bottom: 1em; border-bottom: 1px dashed #333; }
-    .header h1 { font-size: 1.5em; margin-bottom: 0.5em; }
-    .today-highlight { background: #1a1f3a; border: 1px solid #ff9933; border-radius: 4px; padding: 1.5em; margin-bottom: 2em; }
-    .today-highlight h2 { color: #ff9933; margin-bottom: 1em; }
-    .date-list { list-style: none; }
-    .date-list li { padding: 0.75em 0; border-bottom: 1px dotted #333; display: flex; gap: 1em; align-items: center; flex-wrap: wrap; }
-    .date-list li:last-child { border-bottom: none; }
-    a { color: #66d9ef; text-decoration: none; }
-    a:hover { text-decoration: underline; }
-    a.verse-link { color: #00ff00; }
-    .meta { color: #666; font-size: 0.9em; }
+    .today-highlight { border: 1px solid #ff9933; padding: 1em; margin: 1em 0; background: rgba(255, 153, 51, 0.1); }
+    .today-highlight h2 { color: #ff9933; margin-bottom: 0.5em; }
+    .date-list { list-style: none; padding: 0; }
+    .date-list li { margin: 0.5em 0; display: flex; gap: 1em; align-items: center; flex-wrap: wrap; }
+    .date-list a { color: #66d9ef; }
+    .date-list a.verse-link { color: #00ff00; }
+    .date-list .meta { color: #666; font-size: 0.9em; }
     .nav-links { margin-top: 2em; padding-top: 1em; border-top: 1px dashed #333; text-align: center; }
-    .nav-links a { margin: 0 1em; }
+    .nav-links a { color: #00ff00; margin-right: 1em; }
+    .command-output { margin: 1em 0; }
   </style>
 </head>
 <body>
   <div class="terminal">
-    <div class="header">
-      <h1>🔥 COSMIC ARCHIVE 🔥</h1>
-      <p>Panchāṅga kernel data for all verse entries</p>
-      <p style="color: #666; font-size: 0.8em;">vyasad4s@vedic-kernel:~$ ls -la cosmic/</p>
-    </div>
-    <div class="today-highlight">
-      <h2>📅 TODAY: 2026-03-25</h2>
-      <p><strong>Source:</strong> BG 2.17 — avināśi tu tad viddhi yena sarvam idaṁ tatam</p>
-      <p><strong>Nakṣatra:</strong> Kṛttikā → Rohiṇī | <strong>Tithi:</strong> Śukla Aṣṭamī</p>
-      <p><strong>Yoga:</strong> Śubha → Śukla | <strong>Moon:</strong> Kumbha → Mīna</p>
-      <p style="margin-top: 1em;">
-        <a href="c0sm1c.html?date=2026-03-25">[view cosmic]</a>
-        <a href="verse.html?date=2026-03-25" class="verse-link">[view verse]</a>
-      </p>
-    </div>
-    <h3 style="color: #00ff00; margin-bottom: 1em;">📜 Archive Entries</h3>
-    <ul class="date-list">
-      <li>
-        <span style="color: #ff9933;">2026-03-25</span>
-        <a href="c0sm1c.html?date=2026-03-25">[cosmic]</a>
-        <a href="verse.html?date=2026-03-25" class="verse-link">[verse]</a>
-        <span class="meta">Kṛttikā → Rohiṇī | Śukla Aṣṭamī | BG 2.17</span>
-      </li>
-      <li>
-        <span style="color: #ff9933;">2026-03-24</span>
-        <a href="c0sm1c.html?date=2026-03-24">[cosmic]</a>
-        <a href="verse.html?date=2026-03-24" class="verse-link">[verse]</a>
-        <span class="meta">Mrigashīrṣa | Śukla Saptamī | BG 2.29</span>
-      </li>
-      <li>
-        <span style="color: #ff9933;">2026-03-23</span>
-        <a href="c0sm1c.html?date=2026-03-23">[cosmic]</a>
-        <a href="verse.html?date=2026-03-23" class="verse-link">[verse]</a>
-        <span class="meta">Rohiṇī → Kṛttikā | Śukla Pañcamī | BG 2.11</span>
-      </li>
-      <li>
-        <span style="color: #ff9933;">2026-03-22</span>
-        <a href="c0sm1c.html?date=2026-03-22">[cosmic]</a>
-        <a href="verse.html?date=2026-03-22" class="verse-link">[verse]</a>
-        <span class="meta">Bharaṇī → Kṛttikā | Caturthi → Pañcamī | BG 2.24</span>
-      </li>
-      <li>
-        <span style="color: #ff9933;">2026-03-18</span>
-        <a href="c0sm1c.html?date=2026-03-18">[cosmic]</a>
-        <a href="verse.html?date=2026-03-18" class="verse-link">[verse]</a>
-        <span class="meta">Pūrva → Uttara Bhādrapadā | Śukla Aṣṭamī | BG 2.70</span>
-      </li>
-      <li>
-        <span style="color: #ff9933;">2026-03-05</span>
-        <a href="c0sm1c.html?date=2026-03-05">[cosmic]</a>
-        <a href="verse.html?date=2026-03-05" class="verse-link">[verse]</a>
-        <span class="meta">Hasta → Chitrā | Krishna Dwitiya → Tritiya | BG 2.22</span>
-      </li>
-    </ul>
-    <div class="nav-links">
-      <a href="index.html">← terminal</a>
-      <a href="verse.html">verse viewer</a>
-      <a href="c0sm1c.html">cosmic viewer</a>
-    </div>
-    <div style="margin-top: 2em; padding-top: 1em; border-top: 1px dashed #333; text-align: center; color: #666; font-size: 0.8em;">
-      <p>vyasad4s@vedic-kernel:~/cosmic$ ▌</p>
+    <div class="terminal-body">
+      <div class="output" id="output">
+        <div class="terminal-header">
+          <pre class="ascii-art">
+░░ ░░░░ ░░░░ ░░░ ░░░░ ░░ ░░░ ░░
+▒ ▒▒▒▒ ▒▒ ▒▒▒▒ ▒▒ ▒▒▒▒▒▒▒▒ ▒▒
+▓ ▓▓▓▓▓▓▓▓ ▓▓▓▓ ▓▓▓ ▓▓▓ ▓▓▓▓▓
+█ ████ ██ ████ ████████ ██ █ █ ████
+██ ████ ████ ███ ████ ██ ███ ██
+░░ ░░░ ░░░░ ░░░ ░░░░ ░░ ░░ ░░░░ ░░
+▒ ▒▒▒▒ ▒▒ ▒▒▒▒ ▒▒ ▒▒▒▒ ▒▒ ▒▒▒▒ ▒▒
+▓ ▓▓▓▓ ▓▓ ▓▓▓ ▓▓▓▓▓▓▓▓ ▓▓▓▓▓
+▓▓▓▓ ▓▓ ▓▓▓ ▓▓▓
+█ ██ ███ ███ ████ ██ ████ █████
+          </pre>
+          <div class="separator">================================================</div>
+          <div class="subtitle">
+            <p>C0SM1C 4RCH1V3 // META DIMENSION</p>
+            <p>Panchāṅga Data & Verse Selection Rationale</p>
+          </div>
+          <div class="separator">================================================</div>
+        </div>
+        
+        <pre class="ascii-box" style="color: #ff9933;">
+════════════════════════════════════════════════
+COSMIC KERNEL logs/
+Archive of daily astrological data & verse selection criteria
+════════════════════════════════════════════════</pre>
+
+        <div class="today-highlight">
+          <p style="color: #ff9933; margin-bottom: 0.5em;">>>> TODAY | March 25, 2026</p>
+          <p><span style="color: #00aa00;">Tithi:</span> Śukla Aṣṭamī | <span style="color: #00aa00;">Nakṣatra:</span> Kṛttikā → Rohiṇī | <span style="color: #00aa00;">Yoga:</span> Śubha</p>
+          <p style="margin-top: 0.5em;">
+            <a href="c0sm1c.html?date=2026-03-25" style="color: #00ff00;">[View Full Cosmic Data]</a>
+            <a href="verse.html?date=2026-03-25" style="color: #ff9933;">[View Verse]</a>
+          </p>
+        </div>
+
+        <pre class="divider" style="color: #666; margin: 1.5em 0;">
+>>> ARCHIVED ENTRIES <<<</pre>
+
+        <ul class="date-list" id="date-list">
+          <li>
+            <span style="color: #ff9933;">2026-03-25</span>
+            <a href="c0sm1c.html?date=2026-03-25">[cosmic]</a>
+            <a href="verse.html?date=2026-03-25" class="verse-link">[verse]</a>
+            <span class="meta">Kṛttikā → Rohiṇī | Śukla Aṣṭamī | BG 2.17</span>
+          </li>
+          <li>
+            <span style="color: #ff9933;">2026-03-24</span>
+            <a href="c0sm1c.html?date=2026-03-24">[cosmic]</a>
+            <a href="verse.html?date=2026-03-24" class="verse-link">[verse]</a>
+            <span class="meta">Mrigaśīrṣa | Śukla Saptamī | BG 2.29</span>
+          </li>
+          <li>
+            <span style="color: #ff9933;">2026-03-23</span>
+            <a href="c0sm1c.html?date=2026-03-23">[cosmic]</a>
+            <a href="verse.html?date=2026-03-23" class="verse-link">[verse]</a>
+            <span class="meta">Rohiṇī → Kṛttikā | Śukla Pañcamī | BG 2.11</span>
+          </li>
+          <li>
+            <span style="color: #ff9933;">2026-03-22</span>
+            <a href="c0sm1c.html?date=2026-03-22">[cosmic]</a>
+            <a href="verse.html?date=2026-03-22" class="verse-link">[verse]</a>
+            <span class="meta">Bharaṇī → Kṛttikā | Caturthī → Pañcamī | BG 2.24</span>
+          </li>
+          <li>
+            <span style="color: #ff9933;">2026-03-21</span>
+            <a href="c0sm1c.html?date=2026-03-21">[cosmic]</a>
+            <a href="verse.html?date=2026-03-21" class="verse-link">[verse]</a>
+            <span class="meta">Chitrā → Svātī | Tṛtīya | BG 2.23</span>
+          </li>
+          <li>
+            <span style="color: #ff9933;">2026-03-20</span>
+            <a href="c0sm1c.html?date=2026-03-20">[cosmic]</a>
+            <a href="verse.html?date=2026-03-20" class="verse-link">[verse]</a>
+            <span class="meta">Uttara Phalguni → Hasta | Krishna Pakṣa | BG 2.22</span>
+          </li>
+          <li>
+            <span style="color: #ff9933;">2026-03-19</span>
+            <a href="c0sm1c.html?date=2026-03-19">[cosmic]</a>
+            <a href="verse.html?date=2026-03-19" class="verse-link">[verse]</a>
+            <span class="meta">Revatī | Pratipadā | BG 2.14</span>
+          </li>
+          <li>
+            <span style="color: #ff9933;">2026-03-18</span>
+            <a href="c0sm1c.html?date=2026-03-18">[cosmic]</a>
+            <a href="verse.html?date=2026-03-18" class="verse-link">[verse]</a>
+            <span class="meta">Pūrva → Uttara Bhādrapadā | Amāvāsyā | BG 2.70</span>
+          </li>
+          <li>
+            <span style="color: #ff9933;">2026-03-17</span>
+            <a href="c0sm1c.html?date=2026-03-17">[cosmic]</a>
+            <a href="verse.html?date=2026-03-17" class="verse-link">[verse]</a>
+            <span class="meta">Pūrva Bhādrapadā | Chaturdaśī | BG 2.68</span>
+          </li>
+          <li>
+            <span style="color: #ff9933;">2026-03-16</span>
+            <a href="c0sm1c.html?date=2026-03-16">[cosmic]</a>
+            <a href="verse.html?date=2026-03-16" class="verse-link">[verse]</a>
+            <span class="meta">Anurādhā → Jyeṣṭhā | Saptamī → Aṣṭamī | BG 2.66</span>
+          </li>
+          <li>
+            <span style="color: #ff9933;">2026-03-15</span>
+            <a href="c0sm1c.html?date=2026-03-15">[cosmic]</a>
+            <a href="verse.html?date=2026-03-15" class="verse-link">[verse]</a>
+            <span class="meta">Śravaṇa | Dwādaśī | BG 2.65</span>
+          </li>
+          <li>
+            <span style="color: #ff9933;">2026-03-14</span>
+            <a href="c0sm1c.html?date=2026-03-14">[cosmic]</a>
+            <a href="verse.html?date=2026-03-14" class="verse-link">[verse]</a>
+            <span class="meta">Śravaṇa | Ekādaśī | BG 2.65</span>
+          </li>
+          <li>
+            <span style="color: #ff9933;">2026-03-13</span>
+            <a href="c0sm1c.html?date=2026-03-13">[cosmic]</a>
+            <a href="verse.html?date=2026-03-13" class="verse-link">[verse]</a>
+            <span class="meta">Dhaniṣṭhā | Daśamī | BG 2.64</span>
+          </li>
+          <li>
+            <span style="color: #ff9933;">2026-03-12</span>
+            <a href="c0sm1c.html?date=2026-03-12">[cosmic]</a>
+            <a href="verse.html?date=2026-03-12" class="verse-link">[verse]</a>
+            <span class="meta">Mūla → Pūrva Aṣāḍhā | Navamī | BG 2.62-63</span>
+          </li>
+          <li>
+            <span style="color: #ff9933;">2026-03-11</span>
+            <a href="c0sm1c.html?date=2026-03-11">[cosmic]</a>
+            <a href="verse.html?date=2026-03-11" class="verse-link">[verse]</a>
+            <span class="meta">Mūla | Aṣṭamī → Navamī | BG 2.65</span>
+          </li>
+          <li>
+            <span style="color: #ff9933;">2026-03-10</span>
+            <a href="c0sm1c.html?date=2026-03-10">[cosmic]</a>
+            <a href="verse.html?date=2026-03-10" class="verse-link">[verse]</a>
+            <span class="meta">Jyeṣṭhā | Saptamī | BG 2.64</span>
+          </li>
+          <li>
+            <span style="color: #ff9933;">2026-03-09</span>
+            <a href="c0sm1c.html?date=2026-03-09">[cosmic]</a>
+            <a href="verse.html?date=2026-03-09" class="verse-link">[verse]</a>
+            <span class="meta">Anurādhā | Ṣaṣṭhī | BG 2.14</span>
+          </li>
+          <li>
+            <span style="color: #ff9933;">2026-03-08</span>
+            <a href="c0sm1c.html?date=2026-03-08">[cosmic]</a>
+            <a href="verse.html?date=2026-03-08" class="verse-link">[verse]</a>
+            <span class="meta">Viśākhā | Pañcamī | BG 2.13</span>
+          </li>
+          <li>
+            <span style="color: #ff9933;">2026-03-07</span>
+            <a href="c0sm1c.html?date=2026-03-07">[cosmic]</a>
+            <a href="verse.html?date=2026-03-07" class="verse-link">[verse]</a>
+            <span class="meta">Pūrva Bhādrapadā | Caturthī | BG 2.24</span>
+          </li>
+          <li>
+            <span style="color: #ff9933;">2026-03-06</span>
+            <a href="c0sm1c.html?date=2026-03-06">[cosmic]</a>
+            <a href="verse.html?date=2026-03-06" class="verse-link">[verse]</a>
+            <span class="meta">Chitrā → Svātī | Tṛtīya | BG 2.23</span>
+          </li>
+          <li>
+            <span style="color: #ff9933;">2026-03-05</span>
+            <a href="c0sm1c.html?date=2026-03-05">[cosmic]</a>
+            <a href="verse.html?date=2026-03-05" class="verse-link">[verse]</a>
+            <span class="meta">Hasta → Chitrā | Krishna Dwitīya | BG 2.22</span>
+          </li>
+          <li>
+            <span style="color: #ff9933;">2026-03-04</span>
+            <a href="c0sm1c.html?date=2026-03-04">[cosmic]</a>
+            <a href="verse.html?date=2026-03-04" class="verse-link">[verse]</a>
+            <span class="meta">Śravaṇa | Ekādaśī | BG 9.22</span>
+          </li>
+          <li>
+            <span style="color: #ff9933;">2026-03-03</span>
+            <a href="c0sm1c.html?date=2026-03-03">[cosmic]</a>
+            <a href="verse.html?date=2026-03-03" class="verse-link">[verse]</a>
+            <span class="meta">Pūrva Phālgunī → Uttara Phālgunī | Pūrṇimā | BG 9.29</span>
+          </li>
+          <li>
+            <span style="color: #ff9933;">2026-03-01</span>
+            <a href="c0sm1c.html?date=2026-03-01">[cosmic]</a>
+            <a href="verse.html?date=2026-03-01" class="verse-link">[verse]</a>
+            <span class="meta">Dhaniṣṭhā | Trayodaśī → Caturdaśī | BG 3.6</span>
+          </li>
+          <li>
+            <span style="color: #ff9933;">2026-02-28</span>
+            <a href="c0sm1c.html?date=2026-02-28">[cosmic]</a>
+            <a href="verse.html?date=2026-02-28" class="verse-link">[verse]</a>
+            <span class="meta">Puṣya → Āśleṣa | Dwādaśī → Trayodaśī | BG 3.5</span>
+          </li>
+          <li>
+            <span style="color: #ff9933;">2026-02-27</span>
+            <a href="c0sm1c.html?date=2026-02-27">[cosmic]</a>
+            <a href="verse.html?date=2026-02-27" class="verse-link">[verse]</a>
+            <span class="meta">Āśleṣa → Magha | Ekādaśī → Dwādaśī | BG 3.4</span>
+          </li>
+          <li>
+            <span style="color: #ff9933;">2026-02-26</span>
+            <a href="c0sm1c.html?date=2026-02-26">[cosmic]</a>
+            <a href="verse.html?date=2026-02-26" class="verse-link">[verse]</a>
+            <span class="meta">Ārdrā → Punarvasu | Saptamī | BG 3.3</span>
+          </li>
+          <li>
+            <span style="color: #ff9933;">2026-02-25</span>
+            <a href="c0sm1c.html?date=2026-02-25">[cosmic]</a>
+            <a href="verse.html?date=2026-02-25" class="verse-link">[verse]</a>
+            <span class="meta">Mrigaśīrṣa | Navamī | BG 3.2</span>
+          </li>
+          <li>
+            <span style="color: #ff9933;">2026-02-24</span>
+            <a href="c0sm1c.html?date=2026-02-24">[cosmic]</a>
+            <a href="verse.html?date=2026-02-24" class="verse-link">[verse]</a>
+            <span class="meta">Rohiṇī | Aṣṭamī | BG 3.1</span>
+          </li>
+          <li>
+            <span style="color: #ff9933;">2026-02-23</span>
+            <a href="c0sm1c.html?date=2026-02-23">[cosmic]</a>
+            <a href="verse.html?date=2026-02-23" class="verse-link">[verse]</a>
+            <span class="meta">Kṛttikā | Saptamī | BG 2.72</span>
+          </li>
+          <li>
+            <span style="color: #ff9933;">2026-02-22</span>
+            <a href="c0sm1c.html?date=2026-02-22">[cosmic]</a>
+            <a href="verse.html?date=2026-02-22" class="verse-link">[verse]</a>
+            <span class="meta">Bharaṇī | Ṣaṣṭhī | BG 2.71</span>
+          </li>
+          <li>
+            <span style="color: #ff9933;">2026-02-21</span>
+            <a href="c0sm1c.html?date=2026-02-21">[cosmic]</a>
+            <a href="verse.html?date=2026-02-21" class="verse-link">[verse]</a>
+            <span class="meta">Aśvinī | Pañcamī | BG 2.70</span>
+          </li>
+          <li>
+            <span style="color: #ff9933;">2026-02-20</span>
+            <a href="c0sm1c.html?date=2026-02-20">[cosmic]</a>
+            <a href="verse.html?date=2026-02-20" class="verse-link">[verse]</a>
+            <span class="meta">Revatī | Caturthī | BG 2.69</span>
+          </li>
+          <li>
+            <span style="color: #ff9933;">2026-02-19</span>
+            <a href="c0sm1c.html?date=2026-02-19">[cosmic]</a>
+            <a href="verse.html?date=2026-02-19" class="verse-link">[verse]</a>
+            <span class="meta">Pūrva Bhādrapadā | Tṛtīya | BG 2.68</span>
+          </li>
+          <li>
+            <span style="color: #ff9933;">2026-02-18</span>
+            <a href="c0sm1c.html?date=2026-02-18">[cosmic]</a>
+            <a href="verse.html?date=2026-02-18" class="verse-link">[verse]</a>
+            <span class="meta">Pūrva Bhādrapadā | Dvitīya | BG 2.67</span>
+          </li>
+          <li>
+            <span style="color: #ff9933;">2026-02-17</span>
+            <a href="c0sm1c.html?date=2026-02-17">[cosmic]</a>
+            <a href="verse.html?date=2026-02-17" class="verse-link">[verse]</a>
+            <span class="meta">Śatabhiṣā | Amāvāsyā | BG 2.66</span>
+          </li>
+          <li>
+            <span style="color: #ff9933;">2026-02-16</span>
+            <a href="c0sm1c.html?date=2026-02-16">[cosmic]</a>
+            <a href="verse.html?date=2026-02-16" class="verse-link">[verse]</a>
+            <span class="meta">Dhaniṣṭhā | Amāvāsyā | BG 2.65</span>
+          </li>
+          <li>
+            <span style="color: #ff9933;">2026-02-15</span>
+            <a href="c0sm1c.html?date=2026-02-15">[cosmic]</a>
+            <a href="verse.html?date=2026-02-15" class="verse-link">[verse]</a>
+            <span class="meta">Śravaṇa | Caturdaśī | BG 2.64</span>
+          </li>
+          <li>
+            <span style="color: #ff9933;">2026-02-14</span>
+            <a href="c0sm1c.html?date=2026-02-14">[cosmic]</a>
+            <a href="verse.html?date=2026-02-14" class="verse-link">[verse]</a>
+            <span class="meta">Uttara Aṣāḍhā | Trayodaśī | BG 2.63</span>
+          </li>
+          <li>
+            <span style="color: #ff9933;">2026-02-13</span>
+            <a href="c0sm1c.html?date=2026-02-13">[cosmic]</a>
+            <a href="verse.html?date=2026-02-13" class="verse-link">[verse]</a>
+            <span class="meta">Pūrva Aṣāḍhā | Dvādaśī | BG 2.62</span>
+          </li>
+          <li>
+            <span style="color: #ff9933;">2026-02-12</span>
+            <a href="c0sm1c.html?date=2026-02-12">[cosmic]</a>
+            <a href="verse.html?date=2026-02-12" class="verse-link">[verse]</a>
+            <span class="meta">Mūla | Ekādaśī | BG 2.61</span>
+          </li>
+          <li>
+            <span style="color: #ff9933;">2026-02-11</span>
+            <a href="c0sm1c.html?date=2026-02-11">[cosmic]</a>
+            <a href="verse.html?date=2026-02-11" class="verse-link">[verse]</a>
+            <span class="meta">Jyeṣṭhā | Daśamī | BG 2.60</span>
+          </li>
+          <li>
+            <span style="color: #ff9933;">2026-02-10</span>
+            <a href="c0sm1c.html?date=2026-02-10">[cosmic]</a>
+            <a href="verse.html?date=2026-02-10" class="verse-link">[verse]</a>
+            <span class="meta">Anurādhā | Navamī | BG 9.22</span>
+          </li>
+        </ul>
+
+        <div class="nav-links">
+          <a href="index.html">← terminal</a>
+          <a href="verse.html">verse viewer</a>
+          <a href="c0sm1c.html">cosmic viewer</a>
+        </div>
+
+        <div style="margin-top: 2em; padding-top: 1em; border-top: 1px dashed #333; text-align: center; color: #666; font-size: 0.8em;">
+          <p>vyasad4s@vedic-kernel:~/cosmic$ ▌</p>
+        </div>
+      </div>
     </div>
   </div>
 </body>
