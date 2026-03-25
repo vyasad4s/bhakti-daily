@@ -1,19 +1,83 @@
 {
   "verses": [
     {
+      "date": "2026-03-25",
+      "source": "BG 2.17",
+      "chapter": 2,
+      "verse": 17,
+      "text": "Bhagavad Gita",
+      "tithi": "\u015aukla A\u1e63\u1e6dam\u012b",
+      "nakshatra": "K\u1e5bttik\u0101 \u2192 Rohi\u1e47\u012b",
+      "yoga": "\u015aukha",
+      "themes": [
+        "pervasion",
+        "indestructibility",
+        "consciousness",
+        "viveka",
+        "soul"
+      ],
+      "tags": [
+        "#avin\u0101\u015bi",
+        "#pervasion",
+        "#consciousness",
+        "#krittika",
+        "#sankhya",
+        "#discrimination",
+        "#soul-nature"
+      ],
+      "yogaSutraConnection": "YS I.3",
+      "sankhyaConcepts": [
+        "puru\u1e63a-prak\u1e5bti",
+        "tatam",
+        "avyaya",
+        "viveka"
+      ],
+      "keyTerms": [
+        "avin\u0101\u015bi",
+        "tatam",
+        "avyaya",
+        "viddhi",
+        "sarvagata"
+      ]
+    },
+    {
       "date": "2026-03-24",
       "source": "BG 2.29",
       "chapter": 2,
       "verse": 29,
       "text": "Bhagavad Gita",
-      "tithi": "Śukla Saptamī",
-      "nakshatra": "Mrigashīrṣa",
-      "yoga": "Saubhāgya",
-      "themes": ["knowledge-levels", "perception", "seeking", "grace", "soul"],
-      "tags": ["#knowledge-levels", "#perception", "#mrgasira", "#soul", "#sankhya", "#discrimination", "#grace"],
+      "tithi": "\u015aukla Saptam\u012b",
+      "nakshatra": "Mrigash\u012br\u1e63a",
+      "yoga": "Saubh\u0101gya",
+      "themes": [
+        "knowledge-levels",
+        "perception",
+        "seeking",
+        "grace",
+        "soul"
+      ],
+      "tags": [
+        "#knowledge-levels",
+        "#perception",
+        "#mrgasira",
+        "#soul",
+        "#sankhya",
+        "#discrimination",
+        "#grace"
+      ],
       "yogaSutraConnection": "YS I.7",
-      "sankhyaConcepts": ["puruṣa-prakṛti", "viveka", "pramāṇa"],
-      "keyTerms": ["āścarya", "paśyati", "vadati", "śṛṇoti", "veda"]
+      "sankhyaConcepts": [
+        "puru\u1e63a-prak\u1e5bti",
+        "viveka",
+        "pram\u0101\u1e47a"
+      ],
+      "keyTerms": [
+        "\u0101\u015bcarya",
+        "pa\u015byati",
+        "vadati",
+        "\u015b\u1e5b\u1e47oti",
+        "veda"
+      ]
     },
     {
       "date": "2026-03-18",
@@ -21,14 +85,42 @@
       "chapter": 2,
       "verse": 70,
       "text": "Bhagavad Gita",
-      "tithi": "Amāvāsyā (New Moon)",
-      "nakshatra": "Pūrva Bhādrapadā → Uttara Bhādrapadā",
-      "yoga": "Śubha → Śukla",
-      "themes": ["vairāgya", "śānti", "completion", "stillness", "surrender"],
-      "tags": ["#vairagya", "#detachment", "#inner-peace", "#krishna-consciousness", "#puruṣa-prakṛti", "#desire-management", "#ocean-metaphor", "#santi", "#nirodha"],
+      "tithi": "Am\u0101v\u0101sy\u0101 (New Moon)",
+      "nakshatra": "P\u016brva Bh\u0101drapad\u0101 \u2192 Uttara Bh\u0101drapad\u0101",
+      "yoga": "\u015aubha \u2192 \u015aukla",
+      "themes": [
+        "vair\u0101gya",
+        "\u015b\u0101nti",
+        "completion",
+        "stillness",
+        "surrender"
+      ],
+      "tags": [
+        "#vairagya",
+        "#detachment",
+        "#inner-peace",
+        "#krishna-consciousness",
+        "#puru\u1e63a-prak\u1e5bti",
+        "#desire-management",
+        "#ocean-metaphor",
+        "#santi",
+        "#nirodha"
+      ],
       "yogaSutraConnection": "YS I.15",
-      "sankhyaConcepts": ["puruṣa-prakṛti", "acala-pratiṣṭha", "āpūryamāṇam", "vaśīkāra"],
-      "keyTerms": ["āpūryamāṇam", "acala-pratiṣṭham", "samudra", "vaśīkāra", "śānti", "apāpaviddhaḥ"]
+      "sankhyaConcepts": [
+        "puru\u1e63a-prak\u1e5bti",
+        "acala-prati\u1e63\u1e6dha",
+        "\u0101p\u016bryam\u0101\u1e47am",
+        "va\u015b\u012bk\u0101ra"
+      ],
+      "keyTerms": [
+        "\u0101p\u016bryam\u0101\u1e47am",
+        "acala-prati\u1e63\u1e6dham",
+        "samudra",
+        "va\u015b\u012bk\u0101ra",
+        "\u015b\u0101nti",
+        "ap\u0101paviddha\u1e25"
+      ]
     },
     {
       "date": "2026-03-09",
@@ -36,14 +128,41 @@
       "chapter": 2,
       "verse": 14,
       "text": "Bhagavad Gita",
-      "tithi": "Ṣaṣṭhī → Saptamī",
-      "nakshatra": "Anurādhā",
-      "yoga": "Harṣaṇa → Vajra",
-      "themes": ["titikṣā", "tolerance", "impermanence", "duty", "sense-control"],
-      "tags": ["#titikṣā", "#tolerance", "#duty", "#anitya", "#impermanence", "#mātrā-sparśa", "#sense-control", "#sāṅkhya", "#prakṛti", "#discernment"],
+      "tithi": "\u1e62a\u1e63\u1e6dh\u012b \u2192 Saptam\u012b",
+      "nakshatra": "Anur\u0101dh\u0101",
+      "yoga": "Har\u1e63a\u1e47a \u2192 Vajra",
+      "themes": [
+        "titik\u1e63\u0101",
+        "tolerance",
+        "impermanence",
+        "duty",
+        "sense-control"
+      ],
+      "tags": [
+        "#titik\u1e63\u0101",
+        "#tolerance",
+        "#duty",
+        "#anitya",
+        "#impermanence",
+        "#m\u0101tr\u0101-spar\u015ba",
+        "#sense-control",
+        "#s\u0101\u1e45khya",
+        "#prak\u1e5bti",
+        "#discernment"
+      ],
       "yogaSutraConnection": "YS II.1",
-      "sankhyaConcepts": ["puruṣa-prakṛti dualism", "guṇa-vṛttis", "anitya"],
-      "keyTerms": ["titikṣasva", "mātrā-sparśaḥ", "anityāḥ", "āgama-apāyinaḥ", "śīta-uṣṇa"]
+      "sankhyaConcepts": [
+        "puru\u1e63a-prak\u1e5bti dualism",
+        "gu\u1e47a-v\u1e5bttis",
+        "anitya"
+      ],
+      "keyTerms": [
+        "titik\u1e63asva",
+        "m\u0101tr\u0101-spar\u015ba\u1e25",
+        "anity\u0101\u1e25",
+        "\u0101gama-ap\u0101yina\u1e25",
+        "\u015b\u012bta-u\u1e63\u1e47a"
+      ]
     },
     {
       "date": "2026-03-05",
@@ -51,15 +170,38 @@
       "chapter": 2,
       "verse": 22,
       "text": "Bhagavad Gita",
-      "tithi": "Krishna Dwitiya → Tritiya",
-      "nakshatra": "Hasta → Chitrā",
-      "yoga": "Ganda → Vṛddhi",
-      "themes": ["reincarnation", "body-soul distinction", "viveka", "impermanence"],
-      "tags": ["#reincarnation", "#soul", "#discernment", "#viveka", "#sankhya", "#impermanence", "#liberation"],
+      "tithi": "Krishna Dwitiya \u2192 Tritiya",
+      "nakshatra": "Hasta \u2192 Chitr\u0101",
+      "yoga": "Ganda \u2192 V\u1e5bddhi",
+      "themes": [
+        "reincarnation",
+        "body-soul distinction",
+        "viveka",
+        "impermanence"
+      ],
+      "tags": [
+        "#reincarnation",
+        "#soul",
+        "#discernment",
+        "#viveka",
+        "#sankhya",
+        "#impermanence",
+        "#liberation"
+      ],
       "yogaSutraConnection": "YS I.3-4",
-      "sankhyaConcepts": ["puruṣa-prakṛti dualism", "dehī vs deha", "vṛtti-sārūpya"],
-      "keyTerms": ["vāsāṁsi", "jīrṇāni", "vihāya", "dehī", "saṁyāti"]
+      "sankhyaConcepts": [
+        "puru\u1e63a-prak\u1e5bti dualism",
+        "deh\u012b vs deha",
+        "v\u1e5btti-s\u0101r\u016bpya"
+      ],
+      "keyTerms": [
+        "v\u0101s\u0101\u1e41si",
+        "j\u012br\u1e47\u0101ni",
+        "vih\u0101ya",
+        "deh\u012b",
+        "sa\u1e41y\u0101ti"
+      ]
     }
   ],
-  "lastUpdated": "2026-03-24"
+  "lastUpdated": "2026-03-25"
 }
