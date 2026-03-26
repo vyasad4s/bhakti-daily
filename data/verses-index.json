@@ -1,30 +1,65 @@
 {
   "verses": [
     {
+      "date": "2026-03-26",
+      "source": "BG 2.26",
+      "chapter": 2,
+      "verse": 26,
+      "text": "Bhagavad Gita",
+      "tithi": "Śukla Navamī",
+      "nakshatra": "Punarvasu",
+      "yoga": "Śobhana",
+      "themes": [
+        "cycles",
+        "materialism-refuted",
+        "no-grief",
+        "return-of-light"
+      ],
+      "tags": [
+        "#punah-vasu",
+        "#cycles-of-light",
+        "#even-if-argument",
+        "#materialism-defeated",
+        "#sankhya-protocol"
+      ],
+      "yogaSutraConnection": "YS 2.12",
+      "sankhyaConcepts": [
+        "karma-cycles",
+        "kleśa-mūla"
+      ],
+      "keyTerms": [
+        "atha",
+        "nitya-jātam",
+        "tathāpi",
+        "mahā-bāhu",
+        "śocitum"
+      ]
+    },
+    {
       "date": "2026-03-25",
       "source": "BG 2.17",
       "chapter": 2,
       "verse": 17,
       "text": "Bhagavad Gita",
-      "tithi": "\u015aukla A\u1e63\u1e6dam\u012b",
-      "nakshatra": "K\u1e5bttik\u0101 \u2192 Rohi\u1e47\u012b",
-      "yoga": "\u015aubha",
+      "tithi": "Śukla Aṣṭamī",
+      "nakshatra": "Kṛttikā → Rohiṇī",
+      "yoga": "Śubha",
       "themes": [
         "pervasion",
         "indestructibility",
         "consciousness"
       ],
       "tags": [
-        "#avin\u0101\u015bi",
+        "#avināśi",
         "#krittika",
         "#sankhya"
       ],
       "yogaSutraConnection": "YS I.3",
       "sankhyaConcepts": [
-        "puru\u1e63a-prak\u1e5bti"
+        "puruṣa-prakṛti"
       ],
       "keyTerms": [
-        "avin\u0101\u015bi",
+        "avināśi",
         "tatam",
         "avyaya"
       ]
@@ -34,9 +69,9 @@
       "source": "BG 2.29",
       "chapter": 2,
       "verse": 29,
-      "tithi": "\u015aukla Saptam\u012b",
-      "nakshatra": "Mriga\u015b\u012br\u1e63a",
-      "yoga": "Saubh\u0101gya",
+      "tithi": "Śukla Saptamī",
+      "nakshatra": "Mrigaśīrṣa",
+      "yoga": "Saubhāgya",
       "themes": [
         "knowledge-levels",
         "perception"
@@ -50,17 +85,17 @@
         "viveka"
       ],
       "keyTerms": [
-        "\u0101\u015bcarya",
-        "pa\u015byati",
-        "\u015b\u1e5b\u1e47oti"
+        "āścarya",
+        "paśyati",
+        "śṛṇoti"
       ]
     },
     {
       "date": "2026-03-23",
       "source": "BG 2.11",
-      "tithi": "\u015aukla Pa\u00f1cam\u012b",
-      "nakshatra": "Rohi\u1e47\u012b \u2192 K\u1e5bttik\u0101",
-      "yoga": "Sarv\u0101rtha Siddhi"
+      "tithi": "Śukla Pañcamī",
+      "nakshatra": "Rohiṇī → Kṛttikā",
+      "yoga": "Sarvārtha Siddhi"
     },
     {
       "date": "2026-03-22",
