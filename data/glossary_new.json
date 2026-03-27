@@ -1,0 +1,159 @@
+{
+  "lastUpdated": "2026-03-25",
+  "terms": [
+    {
+      "term": "avināśi",
+      "transliteration": "avināśi",
+      "type": "adjective",
+      "definition": "indestructible; not capable of being destroyed. The soul cannot undergo the transformation called death because it was never born into the category of things that can die.",
+      "roots": "from naś (to perish) with privative a-",
+      "references": ["BG 2.17"],
+      "themes": ["soul", "indestructibility", "viveka"]
+    },
+    {
+      "term": "tatam",
+      "transliteration": "tatam",
+      "type": "adjective",
+      "definition": "pervaded, spread throughout, extended across; from √tan (to stretch, extend). Consciousness 'stretches' to include — yet never merges with — what it illumines.",
+      "roots": "from √tan (to stretch, extend)",
+      "references": ["BG 2.17"],
+      "themes": ["pervasion", "consciousness", "viveka"]
+    },
+    {
+      "term": "avyaya",
+      "transliteration": "avyaya",
+      "type": "adjective",
+      "definition": "inexhaustible, without depletion; not subject to diminution or expenditure. Unlike prakṛti's transformations which expend their guṇas, the soul is not diminished by what it witnesses.",
+      "roots": "from vi (apart) + i (to go) with privative a-",
+      "references": ["BG 2.17"],
+      "themes": ["soul", "avyaya", "puruṣa"]
+    },
+    {
+      "term": "viddhi",
+      "transliteration": "viddhi",
+      "type": "verb, imperative 2nd person",
+      "definition": "know it, understand it. The grammar of instruction here is epistemological: this is not revealed truth to be accepted blindly, but observable truth to be recognized.",
+      "roots": "from √vid (to know)",
+      "references": ["BG 2.17"],
+      "themes": ["knowledge", "viveka", "epistemology"]
+    },
+    {
+      "term": "arhati",
+      "transliteration": "arhati",
+      "type": "verb, present 3rd singular",
+      "definition": "is capable of, has the capacity to; root √arh (to merit, deserve, be worthy). Absolute impossibility: na kaścit kartum arhati — 'no one can [do this].'",
+      "roots": "from √arh (to merit, deserve, be worthy)",
+      "references": ["BG 2.17"],
+      "themes": ["capacity", "impossibility", "soul"]
+    },
+    {
+      "term": "apāpaviddhaḥ",
+      "transliteration": "apāpaviddhaḥ",
+      "type": "adjective",
+      "definition": "not disturbed, undisturbed; lit. un-struck, un-violated — in Sāṅkhya terms, the puruṣa (conscious witness) remains unaffected by the perpetual injections of prakṛtic activity",
+      "roots": "from pāpa (strike) + viddha (struck) with privative a-",
+      "references": ["BG 2.70"],
+      "themes": ["vairāgya", "puruṣa-prakṛti", "detachment"]
+    },
+    {
+      "term": "āpūryamāṇam",
+      "transliteration": "āpūryamāṇam",
+      "type": "present passive participle",
+      "definition": "being filled continuously — the ocean's volume is maintained by ceaseless input. Unlike the kāmī (desirer) who empties with indulgence, the devotee receives without depletion",
+      "roots": "from ā-pṛ, to fill",
+      "references": ["BG 2.70"],
+      "themes": ["vairāgya", "fullness", "desire-management"]
+    },
+    {
+      "term": "acala-pratiṣṭham",
+      "transliteration": "acala-pratiṣṭham",
+      "type": "compound adjective",
+      "definition": "steady foundation, immovable base — acala (unmoving) + pratiṣṭha (standing firm). The root access of consciousness that no prakṛtic process can revoke",
+      "roots": "acala (unmoving) + pratiṣṭha (standing)",
+      "references": ["BG 2.70"],
+      "themes": ["stability", "puruṣa", "foundation"]
+    },
+    {
+      "term": "samudra",
+      "transliteration": "samudra",
+      "type": "masculine noun",
+      "definition": "ocean, gathering-place of waters — from sam (together) + udra (water). The field containing all phenomena without being modified by them",
+      "roots": "sam (together) + udra (water)",
+      "references": ["BG 2.70"],
+      "themes": ["fullness", "vairāgya", "ocean-metaphor"]
+    },
+    {
+      "term": "vaśīkāra",
+      "transliteration": "vaśīkāra",
+      "type": "masculine noun",
+      "definition": "mastery, control — from vaś (to be subject to). Not the will-to-power of forceful domination, but the effortless sovereignty of the full",
+      "roots": "from vaś (to wish, to be subject to) + kāra (making)",
+      "references": ["BG 2.70", "YS I.15"],
+      "themes": ["nirodha", "mastery", "surrender"]
+    },
+    {
+      "term": "śānti",
+      "transliteration": "śānti",
+      "type": "feminine noun",
+      "definition": "peace, tranquility, cessation of agitation — not the absence of stimulus but the presence of completion. The goal of Sāṅkhya and the fruit of yoga",
+      "roots": "from śam (to calm)",
+      "references": ["BG 2.70"],
+      "themes": ["peace", "completion", "sāṅkhya"]
+    },
+    {
+      "term": "titikṣasva",
+      "transliteration": "titikṣasva",
+      "type": "imperative, 2nd person singular",
+      "definition": "you must tolerate/endure — active forbearance, not passive suffering; the austere patience that maintains practice through all conditions",
+      "roots": "from tij (to endure, be patient)",
+      "references": ["BG 2.14"],
+      "themes": ["titikṣā", "tolerance", "duty", "discernment"]
+    },
+    {
+      "term": "mātrā-sparśāḥ",
+      "transliteration": "mātrā-sparśāḥ",
+      "type": "masculine plural, compound",
+      "definition": "sense-object contacts — the interface where consciousness meets prakṛti; the API boundary where input triggers response",
+      "roots": "mātrā + sparśa (contact/touch)",
+      "references": ["BG 2.14"],
+      "themes": ["sense-control", "prakṛti", "discernment"]
+    },
+    {
+      "term": "anityāḥ",
+      "transliteration": "anityāḥ",
+      "type": "feminine plural, nominative",
+      "definition": "impermanent, non-eternal — the defining quality of all prakṛtic phenomena; that which cannot be relied upon for lasting satisfaction",
+      "roots": "a (not) + nitya (eternal)",
+      "references": ["BG 2.14"],
+      "themes": ["impermanence", "prakṛti", "discernment"]
+    },
+    {
+      "term": "āgama-apāyinaḥ",
+      "transliteration": "āgama-apāyinaḥ",
+      "type": "masculine plural, compound",
+      "definition": "those that come and go — describing sensations as temporary visitors, not permanent residents",
+      "roots": "ā-gam (to come) + apāya (departure)",
+      "references": ["BG 2.14"],
+      "themes": ["impermanence", "sense-control"]
+    },
+    {
+      "term": "śīta-uṣṇa",
+      "transliteration": "śīta-uṣṇa",
+      "type": "neuter compound",
+      "definition": "cold and heat — the classic paired opposites; all dvandva that disturb the undiscriminating mind",
+      "roots": "śīta (cold) + uṣṇa (heat)",
+      "references": ["BG 2.14"],
+      "themes": ["dvandva", "sense-control", "sāṅkhya"]
+    },
+    {
+      "term": "kaunteya",
+      "transliteration": "kaunteya",
+      "type": "masculine vocative singular",
+      "definition": "O son of Kuntī — appellation invoking Arjuna's maternal lineage; reminder of the duty that comes from noble birth",
+      "roots": "Kuntī + eya (belonging to)",
+      "references": ["BG 2.14"],
+      "themes": ["duty", "lineage", "kṣatriya"]
+    },
+    {
+      "term": "bhārata",
+      "trans

@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cosmic Archive | vyasad4s terminal</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        body {
+            background: #0a0e27;
+            color: #e8e8e8;
+            font-family: 'Courier New', monospace;
+            min-height: 100vh;
+            padding: 2em;
+        }
+        .terminal {
+            max-width: 900px;
+            margin: 0 auto;
+            background: #000;
+            border: 2px solid #00ff00;
+            border-radius: 8px;
+            padding: 2em;
+        }
+        .header {
+            color: #00ff00;
+            text-align: center;
+            margin-bottom: 2em;
+            padding-bottom: 1em;
+            border-bottom: 1px dashed #333;
+        }
+        .header h1 {
+            font-size: 1.5em;
+            margin-bottom: 0.5em;
+        }
+        .today-highlight {
+            background: #1a1f3a;
+            border: 1px solid #ff9933;
+            border-radius: 4px;
+            padding: 1.5em;
+            margin-bottom: 2em;
+        }
+        .today-highlight h2 {
+            color: #ff9933;
+            margin-bottom: 1em;
+        }
+        .date-list {
+            list-style: none;
+        }
+        .date-list li {
+            padding: 0.75em 0;
+            border-bottom: 1px dotted #333;
+            display: flex;
+            gap: 1em;
+            align-items: center;
+            flex-wrap: wrap;
+        }
+        .date-list li:last-child {
+            border-bottom: none;
+        }
+        a {
+            color: #66d9ef;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+        a.verse-link {
+            color: #00ff00;
+        }
+        .meta {
+            color: #666;
+            font-size: 0.9em;
+        }
+        .nav-links {
+            margin-top: 2em;
+            padding-top: 1em;
+            border-top: 1px dashed #333;
+            text-align: center;
+        }
+        .nav-links a {
+            margin: 0 1em;
+        }
+    </style>
+</head>
+<body>
+    <div class="terminal">
+        <div class="header">
+            <h1>🔥 COSMIC ARCHIVE 🔥</h1>
+            <p>Panchāṅga kernel data for all verse entries</p>
+            <p style="color: #666; font-size: 0.8em;">vyasad4s@vedic-kernel:~$ ls -la cosmic/</p>
+        </div>
+
+        <div class="today-highlight">
+            <h2>📅 TODAY: 2026-03-24</h2>
+            <p><strong>Source:</strong> BG 2.70 — āpūryamāṇam acala-pratiṣṭham (ocean receiving rivers)</p>
+            <p><strong>Nakṣatra:</strong> Pūrva Bhādrapadā → Uttara Bhādrapadā | <strong>Tithi:</strong> Amāvāsyā</p>
+            <p><strong>Yoga:</strong> Śubha → Śukla | <strong>Moon:</strong> Kumbha → Mīna</p>
+            <p style="margin-top: 1em;">
+                <a href="c0sm1c.html?date=2026-03-18">[view cosmic]</a>
+                <a href="verse.html?date=2026-03-18" class="verse-link">[view verse]</a>
+            </p>
+        </div>
+
+        <h3 style="color: #00ff00; margin-bottom: 1em;">📜 Archive Entries</h3>
+        <ul class="date-list">
+<li> <span style="color: #ff9933;">2026-03-24</span> <a href="c0sm1c.html?date=2026-03-24">[cosmic]</a> <a href="verse.html?date=2026-03-24" class="verse-link">[verse]</a> <span class="meta">Mrigashīrṣa | Śukla Saptamī | BG 2.29</span> </li>
+<li> <span style="color: #ff9933;">2026-03-23</span> <a href="c0sm1c.html?date=2026-03-23">[cosmic]</a> <a href="verse.html?date=2026-03-23" class="verse-link">[verse]</a> <span class="meta">Rohiṇī → Kṛttikā | Śukla Pañcamī | BG 2.11</span> </li> <li> <span style="color: #ff9933;">2026-03-18</span> <a href="c0sm1c.html?date=2026-03-18">[cosmic]</a> <a href="verse.html?date=2026-03-18" class="verse-link">[verse]</a> <span class="meta">Pūrva → Uttara Bhādrapadā | Amāvāsyā | BG 2.70</span> </li>
+            <li>
+                <span style="color: #ff9933;">2026-03-05</span>
+                <a href="c0sm1c.html?date=2026-03-18">[cosmic]</a>
+                <a href="verse.html?date=2026-03-18" class="verse-link">[verse]</a>
+                <span class="meta">Hasta → Chitrā | Krishna Dwitiya → Tritiya | BG 2.22</span>
+            </li>
+        </ul>
+
+        <div class="nav-links">
+            <a href="index.html">← terminal</a>
+            <a href="verse.html">verse viewer</a>
+            <a href="c0sm1c.html">cosmic viewer</a>
+        </div>
+
+        <div style="margin-top: 2em; padding-top: 1em; border-top: 1px dashed #333; text-align: center; color: #666; font-size: 0.8em;">
+            <p>vyasad4s@vedic-kernel:~/cosmic$ ▌</p>
+        </div>
+    </div>
+</body>
+</html>
