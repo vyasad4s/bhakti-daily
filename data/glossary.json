@@ -1,6 +1,36 @@
 {
-  "lastUpdated": "2026-03-27",
+  "lastUpdated": "2026-03-28",
   "terms": [
+    {
+      "term": "saṁharate",
+      "transliteration": "saṁharate",
+      "type": "verb",
+      "definition": "winds up, withdraws; the total retraction of attention; hacker metaphor: disconnecting from the simulation without shutting down the machine",
+      "roots": "from √hṛ (to take, carry) with prefix sam- (together, completely)",
+      "references": [
+        "BG 2.58"
+      ],
+      "themes": [
+        "sense-control",
+        "pratyahara",
+        "viveka"
+      ]
+    },
+    {
+      "term": "kūrma",
+      "transliteration": "kūrma",
+      "type": "noun",
+      "definition": "tortoise; the eternal symbol of deliberate withdrawal. Not rejection — retractability; hacker metaphor: hot-swappable modules: attached when needed, detached when not",
+      "roots": "kūrma (tortoise, one of the divine incarnations)",
+      "references": [
+        "BG 2.58"
+      ],
+      "themes": [
+        "sense-control",
+        "pratyahara",
+        "ekadashi"
+      ]
+    },
     {
       "term": "atha",
       "transliteration": "atha",
