@@ -1,6 +1,86 @@
 {
-  "lastUpdated": "2026-03-28",
+  "lastUpdated": "2026-03-30",
   "terms": [
+    {
+      "term": "avyakta",
+      "transliteration": "avyakta",
+      "type": "noun",
+      "definition": "Unmanifest, invisible, latent; the subtle seed-state before material manifestation emerges from prakṛti; like source code before compilation.",
+      "roots": "from a (not) + vyakta (manifest); √vyac/vyaj (to manifest, spread)",
+      "references": [
+        "BG 2.28"
+      ],
+      "themes": [
+        "unmanifest",
+        "form",
+        "source-code",
+        "dissolution"
+      ]
+    },
+    {
+      "term": "vyakta",
+      "transliteration": "vyakta",
+      "type": "adjective",
+      "definition": "Manifest, visible, expressed; the material form appearing in interim time; the compiled program running in the simulation.",
+      "roots": "from √vyac/vyaj (to manifest, display, spread)",
+      "references": [
+        "BG 2.28"
+      ],
+      "themes": [
+        "manifest",
+        "form",
+        "expression",
+        "vyakta"
+      ]
+    },
+    {
+      "term": "bhūta",
+      "transliteration": "bhūta",
+      "type": "noun",
+      "definition": "Created being, elemental manifestation; from √bhū, 'to become, to come into being'—the evolutes of prakṛti.",
+      "roots": "from √bhū (to become, to be, exist)",
+      "references": [
+        "BG 2.28"
+      ],
+      "themes": [
+        "created-being",
+        "element",
+        "evolutes",
+        "prakriti"
+      ]
+    },
+    {
+      "term": "paridevanā",
+      "transliteration": "paridevanā",
+      "type": "feminine noun",
+      "definition": "Lamentation, excessive grieving, crying out; the emotional reaction fired by ahaṅkāra's misidentification with temporary forms.",
+      "roots": "pari (intensive prefix) + √dev (cry, weep, lament)",
+      "references": [
+        "BG 2.28"
+      ],
+      "themes": [
+        "lamentation",
+        "grief",
+        "attachment",
+        "misidentification"
+      ]
+    },
+    {
+      "term": "nidhana",
+      "transliteration": "nidhana",
+      "type": "noun",
+      "definition": "Annihilation, dissolution, death; the return to unmanifest state; not destruction but transformation.",
+      "roots": "ni (down, into) + dhana (putting, placing); √dhā (to place, put)",
+      "references": [
+        "BG 2.28"
+      ],
+      "themes": [
+        "dissolution",
+        "death",
+        "transformation",
+        "unmanifest"
+      ]
+    },
     {
       "term": "saṁharate",
       "transliteration": "saṁharate",
