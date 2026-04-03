@@ -1,6 +1,45 @@
 {
   "verses": [
     {
+      "date": "2026-04-03",
+      "source": "BG 3.1",
+      "chapter": 3,
+      "verse": 1,
+      "text": "Bhagavad Gita",
+      "tithi": "K\u1e5b\u1e63\u1e47a Pak\u1e63a Dwit\u012by\u0101",
+      "nakshatra": "Chitr\u0101 \u2192 Sv\u0101ti",
+      "yoga": "Har\u1e63a\u1e47a",
+      "themes": [
+        "karma-yoga",
+        "j\u00f1\u0101na-vs-karma",
+        "kriy\u0101-yoga",
+        "chapter-transition",
+        "structure-to-flow"
+      ],
+      "tags": [
+        "#karma-yoga",
+        "#jnana-vs-karma",
+        "#vi\u1e63\u0101da",
+        "#chitra-sv\u0101ti",
+        "#karma-yoga-day1"
+      ],
+      "yogaSutraConnection": "YS II.1",
+      "sankhyaConcepts": [
+        "karma",
+        "buddhi",
+        "buddhi-yoga",
+        "tapas",
+        "sv\u0101dhy\u0101ya"
+      ],
+      "keyTerms": [
+        "jy\u0101yas\u012b",
+        "karma",
+        "buddhi",
+        "jan\u0101rdana",
+        "ke\u015bava"
+      ]
+    },
+    {
       "date": "2026-04-02",
       "source": "BG 2.28",
       "chapter": 2,
