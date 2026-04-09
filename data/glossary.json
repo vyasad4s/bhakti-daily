@@ -2,217 +2,10 @@
   "lastUpdated": "2026-04-09",
   "terms": [
     {
-      "term": "yajña",
-      "transliteration": "yajña",
-      "type": "noun",
-      "definition": "sacrifice; any action performed for Viṣṇu's satisfaction",
-      "roots": "from yaj (to worship, offer)",
-      "references": [
-        "BG 3.9"
-      ],
-      "themes": [
-        "karma-yoga",
-        "yajna",
-        "sacrifice",
-        "bhakti"
-      ]
-    },
-    {
-      "term": "karma-bandhanaḥ",
-      "transliteration": "karma-bandhanaḥ",
-      "type": "masculine noun",
-      "definition": "bondage of action; reactions that bind the soul",
-      "roots": "karma (action) + bandha (bond, fetter)",
-      "references": [
-        "BG 3.9"
-      ],
-      "themes": [
-        "karma",
-        "bandha",
-        "samsara",
-        "reaction"
-      ]
-    },
-    {
-      "term": "mukta-saṅgaḥ",
-      "transliteration": "mukta-saṅgaḥ",
-      "type": "adjective",
-      "definition": "liberated from attachment; unbound by results",
-      "roots": "mukta (liberated) + saṅga (attachment, association)",
-      "references": [
-        "BG 3.9"
-      ],
-      "themes": [
-        "mukti",
-        "vairagya",
-        "non-attachment",
-        "freedom"
-      ]
-    },
-    {
-      "term": "samācara",
-      "transliteration": "samācara",
-      "type": "verb imperative",
-      "definition": "perform perfectly; execute with thoroughness",
-      "roots": "sam- (completely) + ā- (toward) + car (to move, act)",
-      "references": [
-        "BG 3.9"
-      ],
-      "themes": [
-        "karma-yoga",
-        "discipline",
-        "execution",
-        "perfection"
-      ]
-    },
-    {
-      "term": "avaśaḥ",
-      "transliteration": "avaśaḥ",
-      "type": "adjective",
-      "definition": "helpless, uncontrolled; describes the soul bound by the guṇas, compelled to act without volition",
-      "roots": "from a- (not) + vaśa (control); 'without sway'",
-      "references": [
-        "BG 3.5"
-      ],
-      "themes": [
-        "karma",
-        "guna",
-        "compulsion",
-        "prakriti"
-      ]
-    },
-    {
-      "term": "prakṛti-jaiḥ",
-      "transliteration": "prakṛti-jaiḥ",
-      "type": "adjective",
-      "definition": "born of prakṛti; referring to the guṇas as evolutes of material nature",
-      "roots": "prakṛti (material nature) + ja (born)",
-      "references": [
-        "BG 3.5"
-      ],
-      "themes": [
-        "prakriti",
-        "guna",
-        "karma",
-        "sankhya"
-      ]
-    },
-    {
-      "term": "guṇaiḥ",
-      "transliteration": "guṇaiḥ",
-      "type": "noun, instrumental plural",
-      "definition": "by the qualities; the three-fold patterning of material nature (sattva, rajas, tamas) that compels action",
-      "roots": "guṇa (quality, mode, strand)",
-      "references": [
-        "BG 3.5"
-      ],
-      "themes": [
-        "guna",
-        "prakriti",
-        "sankhya",
-        "karma"
-      ]
-    },
-    {
-      "term": "akarma-kṛt",
-      "transliteration": "akarma-kṛt",
-      "type": "noun",
-      "definition": "non-doer of action; the impossible state Arjuna imagines he can reach by renouncing work",
-      "roots": "a- (not) + karma (action) + kṛt (doer)",
-      "references": [
-        "BG 3.5"
-      ],
-      "themes": [
-        "karma",
-        "renunciation",
-        "viveka"
-      ]
-    },
-    {
-      "term": "kāryate",
-      "transliteration": "kāryate",
-      "type": "verb passive",
-      "definition": "is forced to do; causative passive emphasizing compulsion in action",
-      "roots": "kṛ (to do, to make)",
-      "references": [
-        "BG 3.5"
-      ],
-      "themes": [
-        "karma",
-        "compulsion",
-        "guna"
-      ]
-    },
-    {
-      "term": "kṣaṇam api",
-      "transliteration": "kṣaṇam api",
-      "type": "phrase",
-      "definition": "even for a moment; emphasizes continuity of action — not a blink passes without compelled activity",
-      "roots": "kṣaṇa (atomic unit of time) + api (even)",
-      "references": [
-        "BG 3.5"
-      ],
-      "themes": [
-        [
-          "time",
-          "karma",
-          "continuity"
-        ]
-      ]
-    },
-    {
-      "term": "asaktaḥ",
-      "transliteration": "asaktaḥ",
-      "type": "masculine noun",
-      "definition": "Detachment: Operating without the hooks of expectation. Recognition that the actor and the fruits are in different categories, even while the action continues.",
-      "roots": "from saj (to cling, attach) with privative a-",
-      "references": [
-        "BG 3.19"
-      ],
-      "themes": [
-        "karma",
-        "asakti",
-        "detachment",
-        "vairagya"
-      ]
-    },
-    {
-      "term": "samācara",
-      "transliteration": "samācara",
-      "type": "masculine noun",
-      "definition": "Proper execution: Not mere doing, but calibrated action aligned with dharma and timing. The integration of movement toward rightful completion.",
-      "roots": "sam (together, integration) + car (to move)",
-      "references": [
-        "BG 3.19"
-      ],
-      "themes": [
-        "karma",
-        "execution",
-        "dharma",
-        "discipline"
-      ]
-    },
-    {
-      "term": "param",
-      "transliteration": "param",
-      "type": "neuter noun",
-      "definition": "The Supreme: For the bhakta, the Personality of Godhead; for the jñānī, liberation. The destination reached when attachment to results is traded for connection to source.",
-      "roots": "from para (beyond, highest)",
-      "references": [
-        "BG 3.19"
-      ],
-      "themes": [
-        "karma",
-        "bhakti",
-        "liberation",
-        "supreme"
-      ]
-    },
-    {
       "term": "vyatīpāta",
       "transliteration": "vyatīpāta",
       "type": "masculine noun",
-      "definition": "Obstacle yoga: An inauspicious combination meaning 'falling away.' The prompt to act with extra care, as wrong action now carries amplified consequence. Not an excuse for paralysis, but a call to precision.",
+      "definition": "Obstacle yoga: An inauspicious combination meaning 'falling away.' The prompt to act with extra care, as wrong action now carries amplified consequence.",
       "roots": "vi (apart) + ati (over, beyond) + pat (to fall)",
       "references": [
         "BG 3.19"
@@ -225,200 +18,2407 @@
       ]
     },
     {
-      "term": "apāpaviddhaḥ",
-      "transliteration": "apāpaviddhaḥ",
-      "type": "adjective",
-      "definition": "not disturbed, undisturbed; lit. un-struck, un-violated — in Sāṅkhya terms, the puruṣa (conscious witness) remains unaffected by the perpetual injections of prakṛtic activity",
-      "roots": "from pāpa (strike) + viddha (struck) with privative a-",
+      "term": "कार्यं",
+      "transliteration": "kāryam",
+      "type": "neuter noun",
+      "definition": "Duty, what must be done. Not optional work. The non-negotiables of your dharma.",
+      "roots": "from kṛ (to do, make)",
       "references": [
-        "BG 2.70"
+        "BG 3.19"
       ],
       "themes": [
-        "vairāgya",
-        "puruṣa-prakṛti",
-        "detachment"
+        "karma-yoga",
+        "duty",
+        "dharma"
+      ]
+    },
+    {
+      "term": "सततं",
+      "transliteration": "satatam",
+      "type": "adverb",
+      "definition": "Constantly. Not when inspired. Without interruption.",
+      "roots": "from sa-tata (continuous)",
+      "references": [
+        "BG 3.19"
+      ],
+      "themes": [
+        "consistency",
+        "discipline",
+        "practice"
+      ]
+    },
+    {
+      "term": "समाचर",
+      "transliteration": "samācara",
+      "type": "verb",
+      "definition": "Perform completely. Execute fully.",
+      "roots": "from sam (wholly, utterly) + ācar (to perform, practice)",
+      "references": [
+        "BG 3.19"
+      ],
+      "themes": [
+        "execution",
+        "completeness",
+        "discipline"
+      ]
+    },
+    {
+      "term": "karma",
+      "transliteration": "karma",
+      "type": "neuter noun",
+      "definition": "Action, work; has layers—fruitive (binding), prescribed (purifying), karma-yoga (liberating). Requires viveka to discriminate between them.",
+      "roots": "from kṛ (to do)",
+      "references": [
+        "BG 3.1"
+      ],
+      "themes": [
+        "karma-yoga",
+        "action",
+        "viveka"
+      ]
+    },
+    {
+      "term": "buddhi",
+      "transliteration": "buddhi",
+      "type": "feminine noun",
+      "definition": "Intelligence, discernment; the interface between puruṣa and prakṛti. When pure sattva dominates, capable of recognizing the soul's true nature.",
+      "roots": "from budh (to wake, perceive)",
+      "references": [
+        "BG 3.1"
+      ],
+      "themes": [
+        "discernment",
+        "sattva",
+        "sankhya"
+      ]
+    },
+    {
+      "term": "puruṣa-khyāti",
+      "transliteration": "puruṣa-khyāti",
+      "type": "feminine noun",
+      "definition": "Direct perception of the soul; the discriminative knowledge that transforms theoretical Sāṅkhya into realized truth.",
+      "roots": "puruṣa (soul) + khyāti (perception, knowledge)",
+      "references": [
+        "BG 2.15"
+      ],
+      "themes": [
+        "direct-perception",
+        "sankhya",
+        "purusha",
+        "realization"
+      ]
+    },
+    {
+      "term": "dvandva",
+      "transliteration": "dvandva",
+      "type": "neuter noun",
+      "definition": "Pairs of opposites; hot-cold, pleasure-pain, honor-dishonor—the oscillating expressions of prakṛti that disturb the unsteady mind.",
+      "roots": "dva (two, double)",
+      "references": [
+        "BG 2.15"
+      ],
+      "themes": [
+        "opposites",
+        "prakriti",
+        "dvandva",
+        "disturbance"
+      ]
+    },
+    {
+      "term": "kalpate",
+      "transliteration": "kalpate",
+      "type": "verb",
+      "definition": "Is considered eligible, fit, suitable; the technical term for 'qualified practitioner'—having the prerequisites for liberation.",
+      "roots": "from √kḷp (to be able, to be suitable, to arrange)",
+      "references": [
+        "BG 2.15"
+      ],
+      "themes": [
+        "eligibility",
+        "qualified",
+        "fitness",
+        "liberation"
+      ]
+    },
+    {
+      "term": "amṛtatva",
+      "transliteration": "amṛtatva",
+      "type": "neuter noun",
+      "definition": "Liberation, immortality, nectar-state; not merely longevity but freedom from the cycle of birth and death.",
+      "roots": "a-mṛta (without death, immortal)",
+      "references": [
+        "BG 2.15"
+      ],
+      "themes": [
+        "liberation",
+        "immortality",
+        "moksha",
+        "freedom"
+      ]
+    },
+    {
+      "term": "dhīra",
+      "transliteration": "dhīra",
+      "type": "adjective",
+      "definition": "Steady, patient, firm; one who holds steady under pressure—the carrier of spiritual weight without system collapse.",
+      "roots": "from √dhṛ (to hold, carry, support, maintain)",
+      "references": [
+        "BG 2.15"
+      ],
+      "themes": [
+        "steadiness",
+        "patience",
+        "determination",
+        "strength"
+      ]
+    },
+    {
+      "term": "sukha",
+      "transliteration": "sukha",
+      "type": "neuter noun",
+      "definition": "Happiness, pleasure, ease; \"good ground\"—the agreeable feeling-state that still binds the enjoyer to prakṛti.",
+      "roots": "su- (good) + kha (space, ground, axle-hole)",
+      "references": [
+        "BG 2.15"
+      ],
+      "themes": [
+        "happiness",
+        "pleasure",
+        "sukha-duhkha",
+        "binding"
+      ]
+    },
+    {
+      "term": "duḥkha",
+      "transliteration": "duḥkha",
+      "type": "neuter noun",
+      "definition": "Pain, distress, suffering; \"hard ground,\" the existential dissatisfaction of material existence.",
+      "roots": "dus- (difficult) + kha (space, ground, axle-hole)",
+      "references": [
+        "BG 2.15"
+      ],
+      "themes": [
+        "suffering",
+        "pain",
+        "sukha-duhkha",
+        "existential"
+      ]
+    },
+    {
+      "term": "sama",
+      "transliteration": "sama",
+      "type": "adjective",
+      "definition": "Equal, same, balanced, equanimous; the quality of buddhi when sattva predominates and rajas/tamas are subdued.",
+      "roots": "from sam (same, equal)",
+      "references": [
+        "BG 2.15"
+      ],
+      "themes": [
+        "equanimity",
+        "balance",
+        "sattva",
+        "buddhi"
+      ]
+    },
+    {
+      "term": "avyakta",
+      "transliteration": "avyakta",
+      "type": "noun",
+      "definition": "Unmanifest, invisible, latent; the subtle seed-state before material manifestation emerges from prakṛti; like source code before compilation.",
+      "roots": "from a (not) + vyakta (manifest); √vyac/vyaj (to manifest, spread)",
+      "references": [
+        "BG 2.28"
+      ],
+      "themes": [
+        "unmanifest",
+        "form",
+        "source-code",
+        "dissolution"
+      ]
+    },
+    {
+      "term": "vyakta",
+      "transliteration": "vyakta",
+      "type": "adjective",
+      "definition": "Manifest, visible, expressed; the material form appearing in interim time; the compiled program running in the simulation.",
+      "roots": "from √vyac/vyaj (to manifest, display, spread)",
+      "references": [
+        "BG 2.28"
+      ],
+      "themes": [
+        "manifest",
+        "form",
+        "expression",
+        "vyakta"
+      ]
+    },
+    {
+      "term": "bhūta",
+      "transliteration": "bhūta",
+      "type": "noun",
+      "definition": "Created being, elemental manifestation; from √bhū, 'to become, to come into being'—the evolutes of prakṛti.",
+      "roots": "from √bhū (to become, to be, exist)",
+      "references": [
+        "BG 2.28"
+      ],
+      "themes": [
+        "created-being",
+        "element",
+        "evolutes",
+        "prakriti"
+      ]
+    },
+    {
+      "term": "paridevanā",
+      "transliteration": "paridevanā",
+      "type": "feminine noun",
+      "definition": "Lamentation, excessive grieving, crying out; the emotional reaction fired by ahaṅkāra's misidentification with temporary forms.",
+      "roots": "pari (intensive prefix) + √dev (cry, weep, lament)",
+      "references": [
+        "BG 2.28"
+      ],
+      "themes": [
+        "lamentation",
+        "grief",
+        "attachment",
+        "misidentification"
+      ]
+    },
+    {
+      "term": "nidhana",
+      "transliteration": "nidhana",
+      "type": "noun",
+      "definition": "Annihilation, dissolution, death; the return to unmanifest state; not destruction but transformation.",
+      "roots": "ni (down, into) + dhana (putting, placing); √dhā (to place, put)",
+      "references": [
+        "BG 2.28"
+      ],
+      "themes": [
+        "dissolution",
+        "death",
+        "transformation",
+        "unmanifest"
+      ]
+    },
+    {
+      "term": "saṁharate",
+      "transliteration": "saṁharate",
+      "type": "verb",
+      "definition": "winds up, withdraws; the total retraction of attention; hacker metaphor: disconnecting from the simulation without shutting down the machine",
+      "roots": "from √hṛ (to take, carry) with prefix sam- (together, completely)",
+      "references": [
+        "BG 2.58"
+      ],
+      "themes": [
+        "sense-control",
+        "pratyahara",
+        "viveka"
+      ]
+    },
+    {
+      "term": "kūrma",
+      "transliteration": "kūrma",
+      "type": "noun",
+      "definition": "tortoise; the eternal symbol of deliberate withdrawal. Not rejection — retractability; hacker metaphor: hot-swappable modules: attached when needed, detached when not",
+      "roots": "kūrma (tortoise, one of the divine incarnations)",
+      "references": [
+        "BG 2.58"
+      ],
+      "themes": [
+        "sense-control",
+        "pratyahara",
+        "ekadashi"
+      ]
+    },
+    {
+      "term": "atha",
+      "transliteration": "atha",
+      "type": "adverb",
+      "definition": "if, however — introduces alternative viewpoint; the pivot from previous arguments to new consideration",
+      "roots": "from √ath (then, now)",
+      "references": [
+        "BG 2.26"
+      ],
+      "themes": [
+        "even-if-argument",
+        "logical-pivot",
+        "sankhya-protocol"
+      ]
+    },
+    {
+      "term": "nitya-jātam",
+      "transliteration": "nitya-jātam",
+      "type": "adjective + past participle",
+      "definition": "eternally born — the materialist doctrine of perpetual re-generation without permanent soul",
+      "roots": "from nitya (eternal) + √jan (to be born)",
+      "references": [
+        "BG 2.26"
+      ],
+      "themes": [
+        "cycles-of-light",
+        "materialism-defeated",
+        "sankhya-protocol"
+      ]
+    },
+    {
+      "term": "tathāpi",
+      "transliteration": "tathāpi",
+      "type": "adverb",
+      "definition": "even then, still — the crux: regardless of philosophical position, conclusions remain unchanged",
+      "roots": "from tathā (thus) + api (even, also)",
+      "references": [
+        "BG 2.26"
+      ],
+      "themes": [
+        "even-if-argument",
+        "no-grief",
+        "sankhya-protocol"
+      ]
+    },
+    {
+      "term": "mahā-bāhu",
+      "transliteration": "mahā-bāhu",
+      "type": "adjective",
+      "definition": "mighty-armed — ironic address; Arjuna's physical might contrasts with mental weakness",
+      "roots": "from mahā (great) + √bāh (to arm, to share)",
+      "references": [
+        "BG 2.26"
+      ],
+      "themes": [
+        "even-if-argument",
+        "warrior-dharma",
+        "sankhya-protocol"
+      ]
+    },
+    {
+      "term": "na...arhasi",
+      "transliteration": "na...arhasi",
+      "type": "verb phrase",
+      "definition": "you do not deserve — the verdict: grief is beneath the station of a warrior",
+      "roots": "from √arh (to be fit, worthy, deserving)",
+      "references": [
+        "BG 2.26"
+      ],
+      "themes": [
+        "no-grief",
+        "warrior-dharma",
+        "sankhya-protocol"
+      ]
+    },
+    {
+      "term": "samah",
+      "transliteration": "samaḥ",
+      "type": "adjective, nominative singular masculine",
+      "definition": "Equally disposed, same, impartial, level. The Lord's equal disposition toward all beings—no differentiation or preference. Not emotional neutrality but ontological equality.",
+      "roots": "sam (same, equal)",
+      "references": [
+        "BG 9.29"
+      ],
+      "themes": [
+        "equality",
+        "impartiality",
+        "same-sightedness",
+        "level"
+      ]
+    },
+    {
+      "term": "sarva-bhuteshu",
+      "transliteration": "sarva-bhūteṣu",
+      "type": "locative plural masculine",
+      "definition": "In all living entities. Sara (all) + bhūta (living being, entity). The comprehensive scope of the Lord's equal presence—no being is excluded from divine presence.",
+      "roots": "sarva (all) + bhū (to become, exist)",
+      "references": [
+        "BG 9.29"
+      ],
+      "themes": [
+        "all-beings",
+        "omnipresence",
+        "living-entities",
+        "universality"
+      ]
+    },
+    {
+      "term": "dveshyah",
+      "transliteration": "dveṣyaḥ",
+      "type": "adjective, nominative singular masculine",
+      "definition": "Hateful, odious, one who is to be hated. From dviṣ (to hate). The Lord declares no one is hateful to Him—hatred finds no target in the Absolute.",
+      "roots": "dviṣ (to hate, show hostility)",
+      "references": [
+        "BG 9.29"
+      ],
+      "themes": [
+        "hatred",
+        "aversion",
+        "non-aversion",
+        "enmity"
+      ]
+    },
+    {
+      "term": "bhajanti",
+      "transliteration": "bhajanti",
+      "type": "verb, third person plural present",
+      "definition": "They worship, serve, share in, enjoy. From bhaj (to share, serve). The verb of loving devotion—active engagement with the Divine. Not contemplation but participatory connection.",
+      "roots": "bhaj (to share, divide, serve)",
+      "references": [
+        "BG 9.29"
+      ],
+      "themes": [
+        "worship",
+        "service",
+        "devotion",
+        "bhakti",
+        "participation"
+      ]
+    },
+    {
+      "term": "bhaktya",
+      "transliteration": "bhaktyā",
+      "type": "feminine instrumental singular",
+      "definition": "By devotion, with devotion. The instrumental means of connection—devotion is not the goal but the tool, the method, the instrument that opens the heart to divine reciprocation.",
+      "roots": "bhaj (to share, serve)",
+      "references": [
+        "BG 9.29"
+      ],
+      "themes": [
+        "devotion",
+        "bhakti",
+        "instrument",
+        "method",
+        "love"
+      ]
+    },
+    {
+      "term": "karmendriyani-samyamya",
+      "transliteration": "karmendriyāṇi saṁyamya",
+      "type": "neuter plural accusative + gerund absolutive",
+      "definition": "The five organs of action (hands, legs, speech, genitals, anus) having been controlled/restrained. The external show of physical restraint that defines the pretender.",
+      "roots": "karma (action) + indriya (organ) + sam-yam (to hold together)",
+      "references": [
+        "BG 3.6"
+      ],
+      "themes": [
+        "action-organs",
+        "restraint",
+        "pretender",
+        "external-show"
+      ]
+    },
+    {
+      "term": "aste",
+      "transliteration": "āste",
+      "type": "verb, present middle voice 3rd person singular",
+      "definition": "Sits, remains, dwells. From ās (to sit). The pretender's posture of meditation—body still while mind wanders. The middle voice emphasizes self-benefit that never arrives.",
+      "roots": "from ās (to sit, be present)",
+      "references": [
+        "BG 3.6"
+      ],
+      "themes": [
+        "sitting",
+        "remaining",
+        "posture",
+        "pretender-stillness"
+      ]
+    },
+    {
+      "term": "smaran",
+      "transliteration": "smaran",
+      "type": "present participle, nominative singular masculine",
+      "definition": "Thinking of, dwelling upon, remembering. From smṛ (to remember). The smoking gun of the pretender—the mind actively engaging with sense objects while body feigns renunciation.",
+      "roots": "from smṛ (to remember, think of)",
+      "references": [
+        "BG 3.6"
+      ],
+      "themes": [
+        "dwelling",
+        "thinking",
+        "memory",
+        "mind-wandering"
+      ]
+    },
+    {
+      "term": "indriya-arthan",
+      "transliteration": "indriyārthān",
+      "type": "compound, masculine plural accusative",
+      "definition": "Objects of the senses. Indriya (sense) + artha (object/purpose) + ān (accusative plural). The viṣaya that the pretender's mind secretly craves while body remains still.",
+      "roots": "indriya (sense) + artha (object)",
+      "references": [
+        "BG 3.6"
+      ],
+      "themes": [
+        "sense-objects",
+        "viṣaya",
+        "craving",
+        "objects"
+      ]
+    },
+    {
+      "term": "vimudhatma",
+      "transliteration": "vimūḍhātmā",
+      "type": "compound, nominative singular masculine",
+      "definition": "One whose self is deluded/bewildered. Vimūḍha (deluded) + ātmā (self). Not merely confused but thoroughly deluded—vi (intensive) + mūḍha. The pretender's true state.",
+      "roots": "vi (intensive) + muh (to be deluded) + ātmā (self)",
+      "references": [
+        "BG 3.6"
+      ],
+      "themes": [
+        "deluded",
+        "bewildered",
+        "self-deception",
+        "confusion"
+      ]
+    },
+    {
+      "term": "mithyacarah",
+      "transliteration": "mithyācāraḥ",
+      "type": "compound, nominative singular masculine",
+      "definition": "Pretender, hypocrite. Mithyā (false) + ācāraḥ (conduct/behavior). The greatest cheater—one whose external show contradicts internal reality. Body restrained, mind wandering.",
+      "roots": "mithyā (false) + ācāra (conduct)",
+      "references": [
+        "BG 3.6"
+      ],
+      "themes": [
+        "hypocrisy",
+        "pretender",
+        "false-show",
+        "deception"
+      ]
+    },
+    {
+      "term": "ucyate",
+      "transliteration": "ucyate",
+      "type": "verb, present passive 3rd person singular",
+      "definition": "Is called, is named, is said. From vac (to speak). The passive voice emphasizes external judgment—such a person IS CALLED a pretender by the wise.",
+      "roots": "from vac (to speak)",
+      "references": [
+        "BG 3.6"
+      ],
+      "themes": [
+        "is-called",
+        "named",
+        "passive-voice",
+        "designation"
+      ]
+    },
+    {
+      "term": "yas",
+      "transliteration": "yaḥ",
+      "type": "relative pronoun, nominative singular masculine",
+      "definition": "One who; the subject being described. Inclusive of any earnest practitioner regardless of external position. BG 3.7 begins with this inclusive opening—anyone can be the superior yogī.",
+      "roots": "from yad (which, who)",
+      "references": [
+        "BG 3.7"
+      ],
+      "themes": [
+        "inclusivity",
+        "whoever",
+        "practitioner",
+        "open-door"
+      ]
+    },
+    {
+      "term": "tu",
+      "transliteration": "tu",
+      "type": "particle, indeclinable",
+      "definition": "But; on the other hand. The contrasting particle that marks the dramatic shift from BG 3.6's false yogī to the genuine practitioner. The pivot point of the teaching.",
+      "roots": "emphatic/contrastive particle",
+      "references": [
+        "BG 3.7"
+      ],
+      "themes": [
+        "contrast",
+        "but",
+        "however",
+        "shift",
+        "pivot"
+      ]
+    },
+    {
+      "term": "indriyani",
+      "transliteration": "indriyāṇi",
+      "type": "neuter plural noun, accusative",
+      "definition": "The five senses of perception (jñānendriyas): sight, hearing, touch, taste, smell. The instruments through which prakṛti delivers sensory data. Not suppressed but regulated by the mind.",
+      "roots": "from indriya (belonging to Indra, sensory power)",
+      "references": [
+        "BG 3.7"
+      ],
+      "themes": [
+        "senses",
+        "perception",
+        "jnana-indriya",
+        "instruments"
+      ]
+    },
+    {
+      "term": "manasa",
+      "transliteration": "manasā",
+      "type": "neuter noun, instrumental singular",
+      "definition": "By the mind; the faculty of consciousness between ahaṅkāra and buddhi. The integration point of incoming sensory data. The instrument through which senses are regulated toward yoga.",
+      "roots": "from man (to think)",
+      "references": [
+        "BG 3.7"
+      ],
+      "themes": [
+        "mind",
+        "instrumental",
+        "faculty",
+        "regulation",
+        "manas"
+      ]
+    },
+    {
+      "term": "niyamya",
+      "transliteration": "niyamya",
+      "type": "gerund, absolutive",
+      "definition": "Regulating, controlling, directing—not suppressing. From ni-yam: the active governance of the senses by the mind. Not violent suppression but skillful direction toward the Supreme.",
+      "roots": "ni (down, back) + yam (to restrain, direct)",
+      "references": [
+        "BG 3.7"
+      ],
+      "themes": [
+        "regulation",
+        "control",
+        "governance",
+        "direction",
+        "ni-yama"
+      ]
+    },
+    {
+      "term": "arabhate",
+      "transliteration": "ārabhate",
+      "type": "verb, present middle voice 3rd person singular",
+      "definition": "Begins, undertakes, commences. From ā-rabh: to seize, grasp, begin. The middle voice emphasizes self-benefit through action—the practitioner benefits themselves through devotional engagement.",
+      "roots": "ā (toward) + rabh (to seize, grasp)",
+      "references": [
+        "BG 3.7"
+      ],
+      "themes": [
+        "beginning",
+        "undertaking",
+        "commencement",
+        "seizing"
+      ]
+    },
+    {
+      "term": "karmendriyaih",
+      "transliteration": "karmendriyaiḥ",
+      "type": "neuter noun, instrumental plural",
+      "definition": "By the organs of action; the five karmendriyas: hands, legs, speech, genitals, and anus. The active instruments through which prakṛti expresses. Engaged in yoga rather than suppressed.",
+      "roots": "karma (action) + indriya (sense organ)",
+      "references": [
+        "BG 3.7"
+      ],
+      "themes": [
+        "action-organs",
+        "karmendriya",
+        "hands",
+        "legs",
+        "speech"
+      ]
+    },
+    {
+      "term": "karma-yogam",
+      "transliteration": "karma-yogam",
+      "type": "masculine compound, accusative singular",
+      "definition": "The path of duty without attachment; the yoga of action dedicated to the Supreme Viṣṇu. The bridge between saṃsāra and mokṣa. Ordinary work becomes worship when offered to the Lord.",
+      "roots": "karma (action) + yoga (union/discipline)",
+      "references": [
+        "BG 3.7"
+      ],
+      "themes": [
+        "action",
+        "union",
+        "devotion",
+        "service",
+        "transformed-work"
+      ]
+    },
+    {
+      "term": "asaktah",
+      "transliteration": "asaktaḥ",
+      "type": "nominalized past passive participle, nominative singular",
+      "definition": "Unattached, free from clinging; from a-sañj. Freedom from binding desires—not aversion to objects but non-attachment to results. The karmic chain is severed, yet action continues.",
+      "roots": "a (without) + sañj (to adhere, cling)",
+      "references": [
+        "BG 3.7"
+      ],
+      "themes": [
+        "non-attachment",
+        "freedom",
+        "unclinging",
+        "vairagya",
+        "asakti"
+      ]
+    },
+    {
+      "term": "sa",
+      "transliteration": "sa",
+      "type": "demonstrative pronoun, nominative singular",
+      "definition": "That person; he who practices thus with sincerity. The demonstrative pointing to the one who performs karma-yoga with non-attachment. Not just anyone, but the true practitioner.",
+      "roots": "demonstrative pronoun from tad",
+      "references": [
+        "BG 3.7"
+      ],
+      "themes": [
+        "that-person",
+        "demonstrative",
+        "practitioner"
+      ]
+    },
+    {
+      "term": "vishishyate",
+      "transliteration": "viśiṣyate",
+      "type": "verb, present passive 3rd person singular",
+      "definition": "Is by far superior; is distinguished, surpasses all others. From vi-śiṣ: to distinguish, surpass. The passive voice indicates divine recognition—this person is marked as superior by the Lord Himself.",
+      "roots": "vi (intensive) + śiṣ (to distinguish)",
+      "references": [
+        "BG 3.7"
+      ],
+      "themes": [
+        "superiority",
+        "distinguished",
+        "surpasses",
+        "excellence",
+        "supreme"
+      ]
+    },
+    {
+      "term": "kṣaṇam",
+      "transliteration": "kṣaṇam",
+      "type": "masculine noun, nominative singular",
+      "definition": "Moment, instant; from kṣaṇ (to wink). 'Not even for a moment' — the guṇas compel constantly. No creature can refrain from action, not even for the smallest unit of time.",
+      "roots": "from kṣaṇ (to wink, to flicker)",
+      "references": [
+        "BG 3.5"
+      ],
+      "themes": [
+        "moment",
+        "instant",
+        "time",
+        "compulsion",
+        "gunas"
+      ]
+    },
+    {
+      "term": "akarma-kṛt",
+      "transliteration": "akarma-kṛt",
+      "type": "compound, nominative singular masculine",
+      "definition": "One who refrains from work; a (without) + karma (action) + kṛt (doer). No such creature exists. Even the stone sits, even the corpse decays. The attempt to not act is itself action under the guṇas.",
+      "roots": "a (without) + karma (action) + kṛt (doer, from kṛ)",
+      "references": [
+        "BG 3.5"
+      ],
+      "themes": [
+        "non-actor",
+        "inaction",
+        "fiction",
+        "impossibility"
+      ]
+    },
+    {
+      "term": "avaśaḥ",
+      "transliteration": "avaśaḥ",
+      "type": "adjective, nominative singular masculine",
+      "definition": "Helpless, under compulsion; a (not) + vaśa (control). Free will is NOT doing nothing — it's choosing WHOSE consciousness directs the unavoidable action compelled by prakṛti.",
+      "roots": "a (not) + vaśa (control, from vaś to wish, desire)",
+      "references": [
+        "BG 3.5"
+      ],
+      "themes": [
+        "helpless",
+        "compulsion",
+        "uncontrolled",
+        "prakriti-bound"
+      ]
+    },
+    {
+      "term": "kāryate",
+      "transliteration": "kāryate",
+      "type": "verb, passive present 3rd person singular",
+      "definition": "Is compelled, is caused to act; passive of kṛ (to do). The self is kāryate by the guṇas. One acts helplessly — not freely choosing inaction, but helplessly driven by the modes.",
+      "roots": "from kṛ (to do, make) + causative/passive",
+      "references": [
+        "BG 3.5"
+      ],
+      "themes": [
+        "compelled",
+        "caused",
+        "passive-action",
+        "driven"
+      ]
+    },
+    {
+      "term": "prakṛti-jaiḥ",
+      "transliteration": "prakṛti-jaiḥ",
+      "type": "compound, instrumental plural masculine",
+      "definition": "Born of material nature, produced by prakṛti; ja = born. The guṇas (sattva, rajas, tamas) are born of prakṛti — and by them, all are compelled to act.",
+      "roots": "prakṛti (material nature) + ja (born, from jan)",
+      "references": [
+        "BG 3.5"
+      ],
+      "themes": [
+        "born-of-nature",
+        "material-origin",
+        "prakriti",
+        "source"
+      ]
+    },
+    {
+      "term": "guṇaiḥ",
+      "transliteration": "guṇaiḥ",
+      "type": "masculine noun, instrumental plural",
+      "definition": "By the modes (sattva, rajas, tamas); guṇa = quality, strand. The three strands of prakṛti that weave all embodied action. One acts helplessly according to which guṇas dominate.",
+      "roots": "from guṇa (strand, thread, quality)",
+      "references": [
+        "BG 3.5"
+      ],
+      "themes": [
+        "modes",
+        "gunas",
+        "strands",
+        "qualities",
+        "compulsion"
+      ]
+    },
+    {
+      "term": "anārambhāt",
+      "transliteration": "anārambhāt",
+      "type": "ablative singular masculine",
+      "definition": "From non-commencement, from not beginning; a (without) + ārambha (beginning/undertaking). The escapist who refuses to act—avoidance is still attachment. Not by mere inaction can one achieve naiṣkarmya.",
+      "roots": "a (without) + ārambha (beginning, undertaking)",
+      "references": [
+        "BG 3.4"
+      ],
+      "themes": [
+        "non-commencement",
+        "avoidance",
+        "inaction",
+        "beginning"
+      ]
+    },
+    {
+      "term": "naiṣkarmya",
+      "transliteration": "naiṣkarmya",
+      "type": "neuter noun, nominative/accusative singular",
+      "definition": "Freedom from reaction, inaction in action; the state of being akarma. Not mere absence of action but action without binding consequence. Cannot be achieved by anārambhāt (non-beginning).",
+      "roots": "nais (without) + karma (action)",
+      "references": [
+        "BG 3.4"
+      ],
+      "themes": [
+        "freedom",
+        "inaction-in-action",
+        "akarma",
+        "liberation"
+      ]
+    },
+    {
+      "term": "aśnute",
+      "transliteration": "aśnute",
+      "type": "verb, 3rd person singular present middle",
+      "definition": "Attains, reaches, obtains; from aś (to reach, attain). The puruṣa (soul) does not aśnute (attain) naiṣkarmya by avoidance. Active engagement required.",
+      "roots": "from aś (to reach, attain)",
+      "references": [
+        "BG 3.4"
+      ],
+      "themes": [
+        "attainment",
+        "reaching",
+        "obtaining",
+        "achieving"
+      ]
+    },
+    {
+      "term": "sannyasanāt",
+      "transliteration": "sannyasanāt",
+      "type": "ablative singular masculine",
+      "definition": "From renunciation; sannyāsa = complete renunciation of world and works. Not by outer show alone. The monk who left the world but not the ego has gone nowhere. True renunciation is inner.",
+      "roots": "sam (together, thoroughly) + nyas (to place down) — to put down completely",
+      "references": [
+        "BG 3.4"
+      ],
+      "themes": [
+        "renunciation",
+        "sannyasa",
+        "complete-renunciation",
+        "outer-show"
+      ]
+    },
+    {
+      "term": "samadhigacchati",
+      "transliteration": "samadhigacchati",
+      "type": "verb, 3rd person singular present",
+      "definition": "One fully attains; sam (together) + adhi (over, toward) + gam (to go). The complete going-toward that results in siddhi. Not partial, not incomplete, but thorough attainment.",
+      "roots": "sam (together) + adhi (toward) + gam (to go)",
+      "references": [
+        "BG 3.4"
+      ],
+      "themes": [
+        "full-attainment",
+        "complete-reaching",
+        "success",
+        "perfection"
+      ]
+    },
+    {
+      "term": "vākyena",
+      "transliteration": "vākyena",
+      "type": "neuter noun, instrumental singular",
+      "definition": "By speech, by words; from vac (to speak). The instrumental through which buddhi is bewildered. It is not Kṛṣṇa's intention but Arjuna's reception that creates vyāmiśreṇa (confusion).",
+      "roots": "from vac (to speak)",
+      "references": [
+        "BG 3.2"
+      ],
+      "themes": [
+        "speech",
+        "words",
+        "communication",
+        "instrumental"
+      ]
+    },
+    {
+      "term": "jyāyasī",
+      "transliteration": "jyāyasī",
+      "type": "comparative adjective, nominative singular feminine",
+      "definition": "Better, superior; the comparative of jyāya (elder/greater). Arjuna's question: is knowledge better than action? The eternal seeker's dilemma.",
+      "roots": "from jyāya (elder, greater) — comparative form",
+      "references": [
+        "BG 3.1"
+      ],
+      "themes": [
+        "superiority",
+        "comparison",
+        "better",
+        "knowledge-vs-action"
+      ]
+    },
+    {
+      "term": "mata",
+      "transliteration": "mata",
+      "type": "feminine noun, nominative singular",
+      "definition": "Thought, opinion, doctrine; from man (to think). Your considered view, O Kṛṣṇa—the teaching, the position taken.",
+      "roots": "from man (to think)",
+      "references": [
+        "BG 3.1"
+      ],
+      "themes": [
+        "thought",
+        "opinion",
+        "doctrine",
+        "view"
+      ]
+    },
+    {
+      "term": "ghora",
+      "transliteration": "ghora",
+      "type": "adjective, locative singular",
+      "definition": "Terrible, dreadful, fierce; the quality of the battlefield, the difficult act. Karmaṇi ghore—in terrible, fearsome action. Not escape, but courageous engagement.",
+      "roots": "from ghor (to be terrible, fierce)",
+      "references": [
+        "BG 3.1"
+      ],
+      "themes": [
+        "terrible",
+        "fierce",
+        "dreadful",
+        "battle",
+        "fearsome"
+      ]
+    },
+    {
+      "term": "niyojayasi",
+      "transliteration": "niyojayasi",
+      "type": "verb, causative present active 2nd person singular",
+      "definition": "You cause to engage, you employ, you urge; from ni-yuj (to yoke). The question: why do you compel me? The causative implies making someone do something.",
+      "roots": "from ni-yuj (to engage, employ) — causative form",
+      "references": [
+        "BG 3.1"
+      ],
+      "themes": [
+        "engagement",
+        "employment",
+        "compulsion",
+        "action",
+        "yoking"
+      ]
+    },
+    {
+      "term": "keśava",
+      "transliteration": "keśava",
+      "type": "vocative masculine noun",
+      "definition": "O Kṛṣṇa; keśa (hair) + va (possessor); literally 'one with beautiful hair'. Arjuna's address: the intimate, the accessible, the beautiful Lord.",
+      "roots": "keśa (hair) + va (possessor)",
+      "references": [
+        "BG 3.1"
+      ],
+      "themes": [
+        "krishna",
+        "address",
+        "beauty",
+        "hair",
+        "intimacy"
+      ]
+    },
+    {
+      "term": "eṣā",
+      "transliteration": "eṣā",
+      "type": "pronoun, feminine nominative singular",
+      "definition": "This; referring to the previously described state. The brahmī sthitiḥ - the divine state just elaborated through verses 2.66-2.71.",
+      "roots": "demonstrative pronoun from eṣa",
+      "references": [
+        "BG 2.72"
+      ],
+      "themes": [
+        "reference",
+        "this",
+        "demonstrative"
+      ]
+    },
+    {
+      "term": "brāhmī",
+      "transliteration": "brāhmī",
+      "type": "adjective, feminine nominative singular",
+      "definition": "Divine, pertaining to Brahman; the state of being established in ultimate reality. The transformed condition of consciousness - neither technique nor practice but being.",
+      "roots": "from Brahman (the Absolute, the Ultimate)",
+      "references": [
+        "BG 2.72"
+      ],
+      "themes": [
+        "brahman",
+        "divine",
+        "ultimate-reality",
+        "state",
+        "establishment"
+      ]
+    },
+    {
+      "term": "sthitiḥ",
+      "transliteration": "sthitiḥ",
+      "type": "feminine noun, nominative singular",
+      "definition": "State, position, establishment; from sthā (to stand). The standing firm - not achieved, not sought, but realized. The seer established in its own nature.",
+      "roots": "from sthā (to stand)",
+      "references": [
+        "BG 2.72"
+      ],
+      "themes": [
+        "state",
+        "establishment",
+        "position",
+        "standing"
+      ]
+    },
+    {
+      "term": "vimuhyati",
+      "transliteration": "vimuhyati",
+      "type": "verb, present indicative 3rd person singular",
+      "definition": "Becomes deluded; vi-muh (to be thoroughly confused). Negated with na - never deluded. The kleśa cascade cannot touch one established here.",
+      "roots": "vi (thoroughly) + muh (to be confused)",
+      "references": [
+        "BG 2.72"
+      ],
+      "themes": [
+        "delusion",
+        "confusion",
+        "bewilderment"
+      ]
+    },
+    {
+      "term": "anta-kāle",
+      "transliteration": "anta-kāle",
+      "type": "compound, masculine locative singular",
+      "definition": "At the time of death; anta (end) + kāla (time). The ultimate test - even at death, one is not deluded. The fear that drives worldly activity proves powerless.",
+      "roots": "anta (end) + kāla (time)",
+      "references": [
+        "BG 2.72"
+      ],
+      "themes": [
+        "death",
+        "end-time",
+        "final-moment",
+        "transition"
+      ]
+    },
+    {
+      "term": "nirvāṇa",
+      "transliteration": "nirvāṇa",
+      "type": "neuter noun, accusative singular",
+      "definition": "Extinction, liberation from material existence; nir + vāṇa (blowing out). Not extinction of existence but of bondage. The culmination - paramaṁ (supreme).",
+      "roots": "nir (out, away) + vāṇa (blowing)",
+      "references": [
+        "BG 2.72"
+      ],
+      "themes": [
+        "liberation",
+        "extinction",
+        "moksha",
+        "cessation",
+        "supreme"
+      ]
+    },
+    {
+      "term": "vihāya",
+      "transliteration": "vihāya",
+      "type": "gerund, absolutive",
+      "definition": "Having abandoned, having given up; the active completion of renunciation. Not suppression or denial, but total release. The hands must open to receive fullness.",
+      "roots": "vi (apart, away) + hā (to abandon, leave)",
+      "references": [
+        "BG 2.71"
+      ],
+      "themes": [
+        "abandonment",
+        "renunciation",
+        "release",
+        "surrender"
+      ]
+    },
+    {
+      "term": "niḥspṛhaḥ",
+      "transliteration": "niḥspṛhaḥ",
+      "type": "adjective, nominative singular masculine",
+      "definition": "Free from desire; from nir + spṛh (to wish). Natural state without craving. The vitṛṣṇa of YS 1.15 made manifest—devoid of thirst for seen and heard objects.",
+      "roots": "nis/nir (without) + spṛh (to wish, desire)",
+      "references": [
+        "BG 2.71"
+      ],
+      "themes": [
+        "desirelessness",
+        "freedom",
+        "thirstless",
+        "vairagya"
+      ]
+    },
+    {
+      "term": "nirmamaḥ",
+      "transliteration": "nirmamaḥ",
+      "type": "adjective, nominative singular masculine",
+      "definition": "Without sense of 'mine'; nir (without) + mama (mine). No appropriation, no sense of proprietorship. The 'me' and 'mine' that bind one to karma dissolved.",
+      "roots": "nir (without) + mama (mine)",
+      "references": [
+        "BG 2.71"
+      ],
+      "themes": [
+        "minelessness",
+        "non-appropriation",
+        "detachment",
+        "proprietorship"
+      ]
+    },
+    {
+      "term": "nirahaṅkāraḥ",
+      "transliteration": "nirahaṅkāraḥ",
+      "type": "adjective, nominative singular masculine",
+      "definition": "Devoid of false ego; nir (without) + ahaṅkāra (I-sense, ego). The root of bondage cut. The 'I' that appropriates experience dissolved into the witnessing puruṣa.",
+      "roots": "nir (without) + ahaṅkāra (ego, I-sense)",
+      "references": [
+        "BG 2.71"
+      ],
+      "themes": [
+        "egolessness",
+        "false-ego",
+        "I-sense",
+        "root-of-bondage"
+      ]
+    },
+    {
+      "term": "adhigacchati",
+      "transliteration": "adhigacchati",
+      "type": "verb, 3rd person singular present",
+      "definition": "Attains, reaches; adhi-√gam (to go toward). The destination achieved through transformation, not travel. Śānti obtained via niḥspṛhaḥ, nirmamaḥ, nirahaṅkāraḥ.",
+      "roots": "adhi (toward, over) + gam (to go)",
+      "references": [
+        "BG 2.71"
+      ],
+      "themes": [
+        "attainment",
+        "reaching",
+        "achievement",
+        "going-toward"
       ]
     },
     {
       "term": "āpūryamāṇam",
       "transliteration": "āpūryamāṇam",
-      "type": "present passive participle",
-      "definition": "being filled continuously — the ocean's volume is maintained by ceaseless input. Unlike the kāmī (desirer) who empties with indulgence, the devotee receives without depletion",
-      "roots": "from ā-pṛ, to fill",
+      "type": "present passive participle, accusative singular neuter",
+      "definition": "Always being filled, constantly replenished; from ā-pṝ (to fill completely). The ocean's quality of receiving incessantly without agitation. Rivers flow in; the ocean remains still.",
+      "roots": "ā (completely) + pṝ (to fill, from pṝ to be full)",
       "references": [
         "BG 2.70"
       ],
       "themes": [
-        "vairāgya",
-        "fullness",
-        "desire-management"
+        "filling",
+        "replenishment",
+        "completion",
+        "receiving"
       ]
     },
     {
       "term": "acala-pratiṣṭham",
       "transliteration": "acala-pratiṣṭham",
-      "type": "compound adjective",
-      "definition": "steady foundation, immovable base — acala (unmoving) + pratiṣṭha (standing firm). The root access of consciousness that no prakṛtic process can revoke",
-      "roots": "acala (unmoving) + pratiṣṭha (standing)",
+      "type": "neuter adjective compound, accusative singular",
+      "definition": "Steadily situated, immovably established; acala (unmoving) + pratiṣṭha (foundation). The ocean's stability—not rigid, but unshakeable presence. Foundation on all sides.",
+      "roots": "acala (unmoving) + pratiṣṭha (foundation, basis)",
       "references": [
         "BG 2.70"
       ],
       "themes": [
         "stability",
-        "puruṣa",
-        "foundation"
+        "foundation",
+        "unshakeable",
+        "steadiness"
       ]
     },
     {
       "term": "samudra",
       "transliteration": "samudra",
-      "type": "masculine noun",
-      "definition": "ocean, gathering-place of waters — from sam (together) + udra (water). The field containing all phenomena without being modified by them",
+      "type": "masculine noun, accusative singular",
+      "definition": "Ocean, the gathering-place of waters; sam (together) + udra (water). Not merely large volume but wholeness. Nothing can be added to or taken from that which is already full.",
       "roots": "sam (together) + udra (water)",
       "references": [
         "BG 2.70"
       ],
       "themes": [
+        "ocean",
+        "wholeness",
         "fullness",
-        "vairāgya",
-        "ocean-metaphor"
+        "completion",
+        "gathering"
       ]
     },
     {
-      "term": "vaśīkāra",
-      "transliteration": "vaśīkāra",
-      "type": "masculine noun",
-      "definition": "mastery, control — from vaś (to be subject to). Not the will-to-power of forceful domination, but the effortless sovereignty of the full",
-      "roots": "from vaś (to wish, to be subject to) + kāra (making)",
-      "references": [
-        "BG 2.70",
-        "YS I.15"
-      ],
-      "themes": [
-        "nirodha",
-        "mastery",
-        "surrender"
-      ]
-    },
-    {
-      "term": "śānti",
-      "transliteration": "śānti",
-      "type": "feminine noun",
-      "definition": "peace, tranquility, cessation of agitation — not the absence of stimulus but the presence of completion. The goal of Sāṅkhya and the fruit of yoga",
-      "roots": "from śam (to calm)",
+      "term": "kāma-kāmī",
+      "transliteration": "kāma-kāmī",
+      "type": "masculine noun compound, nominative singular",
+      "definition": "One who desires to fulfill desires; the tautology reveals the futility. Desire chasing desire creates an infinite loop, presuming lack where the ocean finds completion.",
+      "roots": "kāma (desire) + kāma (desire) — recursive trap",
       "references": [
         "BG 2.70"
       ],
       "themes": [
+        "desire",
+        "futility",
+        "recursion",
+        "trap",
+        "chasing"
+      ]
+    },
+    {
+      "term": "niśā",
+      "transliteration": "niśā",
+      "type": "feminine noun, nominative singular",
+      "definition": "Night, darkness, state of unknowing; the condition where consciousness is obscured. For material beings: night is spiritual perception. For the sage: night is material existence. Complete perceptual inversion.",
+      "roots": "from niś (to become dark)",
+      "references": [
+        "BG 2.69"
+      ],
+      "themes": [
+        "night",
+        "darkness",
+        "unknowing",
+        "obscured-consciousness"
+      ]
+    },
+    {
+      "term": "saṁyamī",
+      "transliteration": "saṁyamī",
+      "type": "masculine noun, nominative singular",
+      "definition": "One who practices self-control; literally 'one who holds together'. The yogi who holds the mind from its natural tendency to fragment. From saṁyama — the integrated practice of dhāraṇā, dhyāna, samādhi.",
+      "roots": "from saṁyama (holding together, integration)",
+      "references": [
+        "BG 2.69"
+      ],
+      "themes": [
+        "self-control",
+        "integration",
+        "holding-together",
+        "saṁyama"
+      ]
+    },
+    {
+      "term": "jāgarti",
+      "transliteration": "jāgarti",
+      "type": "verb, 3rd person singular present",
+      "definition": "Is awake, is alert; from jāgṛ (to wake, be vigilant). Not biological wakefulness but conscious presence. The saṁyamī is jāgarti in the night of material existence.",
+      "roots": "from jāgṛ (to wake, be vigilant)",
+      "references": [
+        "BG 2.69"
+      ],
+      "themes": [
+        "awakening",
+        "vigilance",
+        "presence",
+        "alertness"
+      ]
+    },
+    {
+      "term": "bhūtāni",
+      "transliteration": "bhūtāni",
+      "type": "neuter noun, nominative plural",
+      "definition": "Living entities, beings; literally 'that which has come into existence' (from bhū — to be). All embodied souls, all beings who have manifested from the primordial.",
+      "roots": "from bhū (to be, become, exist)",
+      "references": [
+        "BG 2.69"
+      ],
+      "themes": [
+        "beings",
+        "entities",
+        "manifested",
+        "all-living"
+      ]
+    },
+    {
+      "term": "paśyataḥ",
+      "transliteration": "paśyataḥ",
+      "type": "present active participle, genitive singular masculine",
+      "definition": "Of one who sees, of the seer; from paś (to see). The sage whose perception is purified — sees what the materialist misses. The witness-function of puruṣa.",
+      "roots": "from paś (to see)",
+      "references": [
+        "BG 2.69"
+      ],
+      "themes": [
+        "seeing",
+        "seer",
+        "perception",
+        "witness",
+        "vision"
+      ]
+    },
+    {
+      "term": "tasmāt",
+      "transliteration": "tasmāt",
+      "type": "indeclinable particle",
+      "definition": "Therefore, from that, hence; logical connector establishing causality. BG 2.67's destruction (boat swept away) leads to 2.68's prescription (restraint leading to establishment).",
+      "roots": "from tad (that) + suffix -smāt",
+      "references": [
+        "BG 2.68"
+      ],
+      "themes": [
+        "therefore",
+        "causality",
+        "logical-consequence",
+        "hence"
+      ]
+    },
+    {
+      "term": "nigṛhītāni",
+      "transliteration": "nigṛhītāni",
+      "type": "past passive participle, nominative plural neuter",
+      "definition": "Restrained, controlled, held down; from ni-grah (to hold down, check). Not suppression but directed holding—wild horses reined, not blindfolded. Pratyāhāra as willed direction.",
+      "roots": "ni (down, back) + grah (to seize, grasp)",
+      "references": [
+        "BG 2.68"
+      ],
+      "themes": [
+        "restraint",
+        "holding-back",
+        "controlled",
+        "pratyahara"
+      ]
+    },
+    {
+      "term": "sarvaśaḥ",
+      "transliteration": "sarvaśaḥ",
+      "type": "indeclinable adverb",
+      "definition": "In all respects, completely, totally; sarva (all) + śaḥ (direction/way). Total restraint—not partial, not selective. All senses directed toward puruṣa.",
+      "roots": "sarva (all) + suffix -śaḥ",
+      "references": [
+        "BG 2.68"
+      ],
+      "themes": [
+        "completely",
+        "totally",
+        "all-respects",
+        " thorough"
+      ]
+    },
+    {
+      "term": "indriyārthebhyaḥ",
+      "transliteration": "indriyārthebhyaḥ",
+      "type": "compound, ablative plural masculine",
+      "definition": "From the objects of the senses; indriya (sense) + artha (object, purpose) + ablative plural suffix. What is restrained is contact with viṣaya—not the senses themselves but their engagement with objects.",
+      "roots": "indriya (sense) + artha (object, purpose)",
+      "references": [
+        "BG 2.68"
+      ],
+      "themes": [
+        "sense-objects",
+        "from-objects",
+        "viṣaya",
+        "withdrawal"
+      ]
+    },
+    {
+      "term": "pratiṣṭhitā",
+      "transliteration": "pratiṣṭhitā",
+      "type": "feminine adjective, nominative singular",
+      "definition": "Established, founded, standing firm; from prati-sthā (to stand firm). Stability achieved—not stability sought but accomplished. The boat now anchored, not drifting.",
+      "roots": "prati (firmly) + sthā (to stand)",
+      "references": [
+        "BG 2.68"
+      ],
+      "themes": [
+        "established",
+        "founded",
+        "stable",
+        "anchored"
+      ]
+    },
+    {
+      "term": "caratām",
+      "transliteration": "caratām",
+      "type": "present participle, genitive plural feminine",
+      "definition": "Of those that roam/wander; from car (to move). The senses in their natural uncontrolled state — not evil, just mobile. The wind that blows; the problem is only when the mind follows.",
+      "roots": "from car (to move, wander, roam)",
+      "references": [
+        "BG 2.67"
+      ],
+      "themes": [
+        "roaming",
+        "wandering",
+        "senses",
+        "mobility",
+        "wind"
+      ]
+    },
+    {
+      "term": "anuvidhīyate",
+      "transliteration": "anuvidhīyate",
+      "type": "passive verb, 3rd person singular present",
+      "definition": "Is followed, is obeyed; from anu-vidh (to follow rules). The mind's voluntary submission to sensory movement — the discipline failure. The boat that drifts with the current.",
+      "roots": "anu (following after) + vidh (to know, lay down rules)",
+      "references": [
+        "BG 2.67"
+      ],
+      "themes": [
+        "following",
+        "obedience",
+        "submission",
+        "discipline-failure"
+      ]
+    },
+    {
+      "term": "prajñā",
+      "transliteration": "prajñā",
+      "type": "feminine noun, accusative singular",
+      "definition": "Wisdom, intelligence, discriminative knowledge; from pra + jñā (to know). The capacity for discrimination — the CPU of consciousness. The cargo swept away when the mind-boat drifts.",
+      "roots": "pra (intensive prefix) + jñā (to know)",
+      "references": [
+        "BG 2.67"
+      ],
+      "themes": [
+        "wisdom",
+        "intelligence",
+        "discrimination",
+        "knowing"
+      ]
+    },
+    {
+      "term": "nāva",
+      "transliteration": "nāva",
+      "type": "feminine noun, accusative singular",
+      "definition": "Boat, vessel, ship; the mind as vehicle. Requires direction or drifts. The wind of senses can sweep it away unless anchored by pratyāhāra.",
+      "roots": "from nau/nā (ship, boat)",
+      "references": [
+        "BG 2.67"
+      ],
+      "themes": [
+        "boat",
+        "vessel",
+        "mind",
+        "vehicle",
+        "requires-direction"
+      ]
+    },
+    {
+      "term": "ambhasi",
+      "transliteration": "ambhasi",
+      "type": "neuter noun, locative singular",
+      "definition": "In the water; the sense-field, the ocean of viṣaya. The field upon which the mind-boat floats, vulnerable to wind.",
+      "roots": "from ambhas (water, fluid)",
+      "references": [
+        "BG 2.67"
+      ],
+      "themes": [
+        "water",
+        "sense-field",
+        "ocean",
+        "medium"
+      ]
+    },
+    {
+      "term": "āyuktasya",
+      "transliteration": "āyuktasya",
+      "type": "adjective, genitive singular masculine",
+      "definition": "Of one who is not connected; a-yukta = without yukti (union/devotion). The disconnected node in the network. Without connection to the Supreme, neither transcendental intelligence nor steady mind is possible.",
+      "roots": "a (without) + yukta (connected, from yuj)",
+      "references": [
+        "BG 2.66"
+      ],
+      "themes": [
+        "disconnection",
+        "absence",
+        "without-union",
+        "prerequisite-missing"
+      ]
+    },
+    {
+      "term": "bhāvanā",
+      "transliteration": "bhāvanā",
+      "type": "feminine noun, nominative singular",
+      "definition": "Fixed mind, steadiness, cultivation; the citta stabilized in its object. The process locked in memory. Without yukti, even the capacity for steady-mindedness is absent.",
+      "roots": "from bhū (to be, become)",
+      "references": [
+        "BG 2.66"
+      ],
+      "themes": [
+        "steadiness",
+        "fixed-mind",
+        "cultivation",
+        "stability"
+      ]
+    },
+    {
+      "term": "śāntiḥ",
+      "transliteration": "śāntiḥ",
+      "type": "feminine noun, nominative singular",
+      "definition": "Peace, tranquility; cessation of vṛtti agitation. The system at rest. Without bhāvanā (steady mind), there can be no śānti. The prerequisite chain: yukti → buddhi → bhāvanā → śānti → sukha.",
+      "roots": "from śam (to cease, become calm)",
+      "references": [
+        "BG 2.65",
+        "BG 2.66"
+      ],
+      "themes": [
         "peace",
-        "completion",
-        "sāṅkhya"
+        "tranquility",
+        "cessation",
+        "calm",
+        "rest"
       ]
     },
     {
-      "term": "titikṣasva",
-      "transliteration": "titikṣasva",
-      "type": "imperative, 2nd person singular",
-      "definition": "you must tolerate/endure — active forbearance, not passive suffering; the austere patience that maintains practice through all conditions",
-      "roots": "from tij (to endure, be patient)",
+      "term": "sukham",
+      "transliteration": "sukham",
+      "type": "neuter noun, nominative/accusative singular",
+      "definition": "Happiness, ease, comfort; the fruit that requires śānti as prerequisite. The output impossible without proper input chain. Without peace, there can be no happiness — the question is rhetorical: kutaḥ sukham?",
+      "roots": "from su (good) + kha (axle-hole, space for axle to turn smoothly)",
       "references": [
-        "BG 2.14"
+        "BG 2.66"
       ],
       "themes": [
-        "titikṣā",
-        "tolerance",
-        "duty",
-        "discernment"
+        "happiness",
+        "ease",
+        "comfort",
+        "result",
+        "fruit"
       ]
     },
     {
-      "term": "mātrā-sparśāḥ",
-      "transliteration": "mātrā-sparśāḥ",
-      "type": "masculine plural, compound",
-      "definition": "sense-object contacts — the interface where consciousness meets prakṛti; the API boundary where input triggers response",
-      "roots": "mātrā + sparśa (contact/touch)",
+      "term": "prasāde",
+      "transliteration": "prasāde",
+      "type": "masculine noun, locative singular",
+      "definition": "In the settled state of grace; when citta settles into the ocean of consciousness. The prerequisite for hāniḥ — the destruction of miseries. Not conventional happiness but the condition in which buddhi becomes well-established.",
+      "roots": "from pra-sad (to settle down, become clear)",
       "references": [
-        "BG 2.14"
+        "BG 2.65"
       ],
       "themes": [
-        "sense-control",
-        "prakṛti",
-        "discernment"
+        "grace",
+        "settled-state",
+        "prerequisite",
+        "contentment",
+        "clear-mind"
       ]
     },
     {
-      "term": "anityāḥ",
-      "transliteration": "anityāḥ",
-      "type": "feminine plural, nominative",
-      "definition": "impermanent, non-eternal — the defining quality of all prakṛtic phenomena; that which cannot be relied upon for lasting satisfaction",
-      "roots": "a (not) + nitya (eternal)",
+      "term": "hāniḥ",
+      "transliteration": "hāniḥ",
+      "type": "feminine noun, nominative singular",
+      "definition": "Destruction, cessation; not suppression but natural dissolving when cause is removed. When prasāda is present, the threefold miseries undergo natural hāniḥ — they cease to register.",
+      "roots": "from han (to strike, destroy)",
       "references": [
-        "BG 2.14"
+        "BG 2.65"
       ],
       "themes": [
-        "impermanence",
-        "prakṛti",
-        "discernment"
+        "destruction",
+        "cessation",
+        "dissolving",
+        "natural-release"
       ]
     },
     {
-      "term": "āgama-apāyinaḥ",
-      "transliteration": "āgama-apāyinaḥ",
-      "type": "masculine plural, compound",
-      "definition": "those that come and go — describing sensations as temporary visitors, not permanent residents",
-      "roots": "ā-gam (to come) + apāya (departure)",
+      "term": "prasanna-cetasaḥ",
+      "transliteration": "prasanna-cetasaḥ",
+      "type": "adjective, genitive singular",
+      "definition": "Of the satisfied/clear/placid mind; prasanna = placid, clear, satisfied + cetas = mind/heart. When the mind's waters become still and clear, reflection of puruṣa becomes possible.",
+      "roots": "prasanna (placid, clear) + cetas (mind, heart)",
       "references": [
-        "BG 2.14"
+        "BG 2.65"
       ],
       "themes": [
-        "impermanence",
+        "satisfied-mind",
+        "clear-consciousness",
+        "placid-waters",
+        "reflection"
+      ]
+    },
+    {
+      "term": "paryavatiṣṭhate",
+      "transliteration": "paryavatiṣṭhate",
+      "type": "verb (3rd person singular middle voice)",
+      "definition": "Stands firmly all around, becomes well-established; pari (completely, around) + atiṣṭhate (stands firm). Buddhi becomes established like a house with foundations on all sides — stable from every angle.",
+      "roots": "pari (around, completely) + sthā (to stand)",
+      "references": [
+        "BG 2.65"
+      ],
+      "themes": [
+        "establishment",
+        "stability",
+        "surrounding-foundation",
+        "complete-standing"
+      ]
+    },
+    {
+      "term": "dvi-vidhā",
+      "transliteration": "dvi-vidhā",
+      "type": "compound, nominative singular feminine",
+      "definition": "Two-fold, of two kinds; dvi (two) + vidhā (manner/kind). Kṛṣṇa's answer to Arjuna's demand for ONE path: there are TWO classes of men, two approaches to the same truth.",
+      "roots": "dvi (two) + vidhā (manner, kind)",
+      "references": [
+        "BG 3.3"
+      ],
+      "themes": [
+        "duality",
+        "paths",
+        "classification",
+        "two-methods"
+      ]
+    },
+    {
+      "term": "niṣṭhā",
+      "transliteration": "niṣṭhā",
+      "type": "feminine noun",
+      "definition": "Firm standing, devotion, faith, fixed concentration; from ni-sthā (to stand firmly). Steadiness in one's chosen path, not wavering between methods.",
+      "roots": "from ni-sthā (to stand firmly)",
+      "references": [
+        "BG 3.3"
+      ],
+      "themes": [
+        "faith",
+        "devotion",
+        "firmness",
+        "commitment",
+        "steadiness"
+      ]
+    },
+    {
+      "term": "jñāna-yoga",
+      "transliteration": "jñāna-yoga",
+      "type": "masculine compound",
+      "definition": "The yoga of knowledge; jñāna (knowledge) + yoga (union/discipline). The path of Sāṅkhyas, analytical understanding of spirit and matter. The indirect process leading eventually to Kṛṣṇa consciousness.",
+      "roots": "jñāna (knowledge) + yoga (union, discipline)",
+      "references": [
+        "BG 3.3"
+      ],
+      "themes": [
+        "knowledge",
+        "path",
+        "sankhya",
+        "realization",
+        "speculation"
+      ]
+    },
+    {
+      "term": "sāṅkhyānām",
+      "transliteration": "sāṅkhyānām",
+      "type": "genitive plural masculine",
+      "definition": "Of the Sāṅkhyas, the empiric philosophers; followers of Sāṅkhya who analyze spirit and matter. Philosophers honestly seeking the Absolute Truth will eventually come to Kṛṣṇa consciousness.",
+      "roots": "from Sāṅkhya (the analytical philosophical system)",
+      "references": [
+        "BG 3.3"
+      ],
+      "themes": [
+        "sankhya",
+        "philosophers",
+        "empiricists",
+        "analysis",
+        "speculation"
+      ]
+    },
+    {
+      "term": "karma-yoga",
+      "transliteration": "karma-yoga",
+      "type": "masculine compound",
+      "definition": "The yoga of action; karma (action) + yoga (discipline). Working in Kṛṣṇa consciousness, the path of devotional service. The direct process that is simultaneously easy and sublime.",
+      "roots": "karma (action) + yoga (union, discipline)",
+      "references": [
+        "BG 3.3"
+      ],
+      "themes": [
+        "action",
+        "path",
+        "devotional-service",
+        "karma",
+        "direct-method"
+      ]
+    },
+    {
+      "term": "yoginām",
+      "transliteration": "yoginām",
+      "type": "genitive plural masculine",
+      "definition": "Of the yogīs, of those devoted to yoga practice; working in Kṛṣṇa consciousness. The direct bhaktas who arrive at the destination without the winding road of philosophical speculation.",
+      "roots": "from yogin (one who practices yoga)",
+      "references": [
+        "BG 3.3"
+      ],
+      "themes": [
+        "yogis",
+        "practitioners",
+        "devotees",
+        "bhaktas"
+      ]
+    },
+    {
+      "term": "Saṁyamya",
+      "transliteration": "saṁyamya",
+      "type": "participle",
+      "definition": "Restraining, unifying, coalescing; gathering the scattered senses into one direction. Not suppression but unified direction.",
+      "roots": "from sam- (together) + yam (to restrain)",
+      "references": [
+        "BG 2.61"
+      ],
+      "themes": [
+        "restraint",
+        "unification",
         "sense-control"
       ]
     },
     {
-      "term": "śīta-uṣṇa",
-      "transliteration": "śīta-uṣṇa",
-      "type": "neuter compound",
-      "definition": "cold and heat — the classic paired opposites; all dvandva that disturb the undiscriminating mind",
-      "roots": "śīta (cold) + uṣṇa (heat)",
+      "term": "Yukta",
+      "transliteration": "yukta",
+      "type": "adjective",
+      "definition": "Yoked, united; one who has accomplished yoga; the conquered mind. The mind yoked to Īśvara, neither scattered nor grasping.",
+      "roots": "from yuj (to yoke, join)",
       "references": [
-        "BG 2.14"
+        "BG 2.61"
       ],
       "themes": [
-        "dvandva",
-        "sense-control",
-        "sāṅkhya"
+        "yoga",
+        "union",
+        "controlled-mind"
       ]
     },
     {
-      "term": "kaunteya",
-      "transliteration": "kaunteya",
-      "type": "masculine vocative singular",
-      "definition": "O son of Kuntī — appellation invoking Arjuna's maternal lineage; reminder of the duty that comes from noble birth",
-      "roots": "Kuntī + eya (belonging to)",
+      "term": "Mat-paraḥ",
+      "transliteration": "mat-paraḥ",
+      "type": "compound",
+      "definition": "Having Me (mat-) as the highest/ultimate (paraḥ); single-pointed devotion. Intent on Kṛṣṇa as the exclusive goal.",
+      "roots": "mat (me) + para (highest/ultimate)",
       "references": [
-        "BG 2.14"
+        "BG 2.61"
       ],
       "themes": [
-        "duty",
-        "lineage",
-        "kṣatriya"
+        "single-pointedness",
+        "devotion",
+        "exclusivity"
       ]
     },
     {
-      "term": "bhārata",
-      "transliteration": "bhārata",
-      "type": "masculine vocative singular",
-      "definition": "O descendant of Bharata — appellation invoking Arjuna's paternal lineage; reminder of the greatness of the Bharata dynasty",
-      "roots": "from Bharata (ancient king)",
+      "term": "Pratiṣṭhitā",
+      "transliteration": "pratiṣṭhitā",
+      "type": "adjective",
+      "definition": "Well-founded, established, rooted; wisdom becomes stable like a tree with deep roots. Not fleeting insight but founded understanding.",
+      "roots": "from pratiṣṭhā (foundation, basis)",
+      "references": [
+        "BG 2.61"
+      ],
+      "themes": [
+        "stability",
+        "wisdom",
+        "foundation"
+      ]
+    },
+    {
+      "term": "Dhyāyataḥ",
+      "transliteration": "dhyāyataḥ",
+      "type": "participle",
+      "definition": "Contemplating, the mind's scanning function; first step in the chain of entanglement. Without redirection toward puruṣa, defaults to viṣaya.",
+      "roots": "from dhyai (to contemplate, meditate)",
+      "references": [
+        "BG 2.62"
+      ],
+      "themes": [
+        "contemplation",
+        "entanglement",
+        "scanning"
+      ]
+    },
+    {
+      "term": "Saṅgaḥ",
+      "transliteration": "saṅgaḥ",
+      "type": "masculine noun",
+      "definition": "Attachment, binding; from saṅj 'to join'; the merge point where buddhi fuses with prakṛti instead of reflecting puruṣa.",
+      "roots": "from saṅj (to join, adhere)",
+      "references": [
+        "BG 2.62"
+      ],
+      "themes": [
+        "attachment",
+        "binding",
+        "entanglement"
+      ]
+    },
+    {
+      "term": "Kāmaḥ",
+      "transliteration": "kāmaḥ",
+      "type": "masculine noun",
+      "definition": "Desire, lust; from kam 'to wish'; the extension of saṅga into active seeking—the process spawning beyond control.",
+      "roots": "from kam (to wish, desire)",
+      "references": [
+        "BG 2.62"
+      ],
+      "themes": [
+        "desire",
+        "lust",
+        "propagation"
+      ]
+    },
+    {
+      "term": "Krodhaḥ",
+      "transliteration": "krodhaḥ",
+      "type": "masculine noun",
+      "definition": "Anger; from kru 'to be crooked'; the ego's defense when desire is frustrated. Arises when kāma is obstructed.",
+      "roots": "from kru (to be crooked, injured)",
+      "references": [
+        "BG 2.62"
+      ],
+      "themes": [
+        "anger",
+        "frustration",
+        "ego-defense"
+      ]
+    },
+    {
+      "term": "Sammohaḥ",
+      "transliteration": "sammohaḥ",
+      "type": "masculine noun",
+      "definition": "Perfect delusion, complete bewilderment; total loss of orientation in matter. The mirror shaken by tremors.",
+      "roots": "from sam-muh (to be completely confused)",
+      "references": [
+        "BG 2.63"
+      ],
+      "themes": [
+        "delusion",
+        "confusion",
+        "bewilderment"
+      ]
+    },
+    {
+      "term": "Smṛti-vibhramaḥ",
+      "transliteration": "smṛti-vibhramaḥ",
+      "type": "compound",
+      "definition": "Bewilderment of memory; the native memory of spiritual identity becomes distorted. Forgetting who you are.",
+      "roots": "smṛti (memory) + vibhrama (wandering/confusion)",
+      "references": [
+        "BG 2.63"
+      ],
+      "themes": [
+        "memory-loss",
+        "identity",
+        "spiritual-amnesia"
+      ]
+    },
+    {
+      "term": "Buddhi-nāśaḥ",
+      "transliteration": "buddhi-nāśaḥ",
+      "type": "compound",
+      "definition": "Destruction of intelligence; the collapse of buddhi's capacity to reflect puruṣa. The CPU is fried.",
+      "roots": "buddhi (intelligence) + nāśa (destruction)",
+      "references": [
+        "BG 2.63"
+      ],
+      "themes": [
+        "intelligence-collapse",
+        "system-failure",
+        "destruction"
+      ]
+    },
+    {
+      "term": "Praṇaśyati",
+      "transliteration": "praṇaśyati",
+      "type": "verb (passive)",
+      "definition": "Is lost, falls; the terminal state of the kleśa cascade. Like gravity—operates whether one is aware or not.",
+      "roots": "from pra-naś (to be lost/destroyed)",
+      "references": [
+        "BG 2.63"
+      ],
+      "themes": [
+        "falling",
+        "destruction",
+        "kleśa-termination"
+      ]
+    },
+    {
+      "term": "Rāga",
+      "transliteration": "rāga",
+      "type": "masculine noun",
+      "definition": "Attachment, coloring toward; from raj \"to color\". The tendency to grasp at pleasant objects; attraction in the guṇa matrix.",
+      "roots": "from raj (to color)",
+      "references": [
+        "BG 2.64"
+      ],
+      "themes": [
+        "attachment",
+        "attraction",
+        "kleśa"
+      ]
+    },
+    {
+      "term": "Dveṣa",
+      "transliteration": "dveṣa",
+      "type": "masculine noun",
+      "definition": "Aversion, repulsion; from dviṣ \"to hate\". The tendency to push away unpleasant objects; rejection in the guṇa matrix.",
+      "roots": "from dviṣ (to hate)",
+      "references": [
+        "BG 2.64"
+      ],
+      "themes": [
+        "aversion",
+        "repulsion",
+        "kleśa"
+      ]
+    },
+    {
+      "term": "Vimukta",
+      "transliteration": "vimukta",
+      "type": "adjective (past participle)",
+      "definition": "Liberated, free from; vi-mukta—completely released from the binding force. Not suppression but transcendence.",
+      "roots": "vi (completely) + mukta (released/from muc \"to loosen\")",
+      "references": [
+        "BG 2.64"
+      ],
+      "themes": [
+        "liberation",
+        "freedom",
+        "release"
+      ]
+    },
+    {
+      "term": "Ātma-vaśya",
+      "transliteration": "ātma-vaśya",
+      "type": "compound adjective",
+      "definition": "Under self-control; the ātma as commander, not prisoner. Self-mastery through regulation, not will-power.",
+      "roots": "ātma (self) + vaśya (under control)",
+      "references": [
+        "BG 2.64"
+      ],
+      "themes": [
+        "self-control",
+        "mastery",
+        "regulation"
+      ]
+    },
+    {
+      "term": "Prasāda",
+      "transliteration": "prasāda",
+      "type": "masculine noun",
+      "definition": "Grace, mercy, serene clarity; from pra-sad \"to settle down, become clear\". The settled state of citta when vṛtti ceases.",
+      "roots": "from pra-sad (to settle down)",
+      "references": [
+        "BG 2.64"
+      ],
+      "themes": [
+        "grace",
+        "mercy",
+        "clarity",
+        "divine-blessing"
+      ]
+    },
+    {
+      "term": "niyata",
+      "transliteration": "niyata",
+      "type": "adjective",
+      "definition": "Prescribed, regulated, ordained",
+      "roots": "ni-yam",
+      "references": [
+        "BG 3.8"
+      ],
+      "themes": [
+        "duty"
+      ]
+    },
+    {
+      "term": "jyayah",
+      "transliteration": "jyāyaḥ",
+      "type": "adjective",
+      "definition": "Superior, better, more excellent",
+      "roots": "jyā",
+      "references": [
+        "BG 3.8"
+      ],
+      "themes": [
+        "superiority"
+      ]
+    },
+    {
+      "term": "akarma",
+      "transliteration": "akarma",
+      "type": "noun",
+      "definition": "Non-action, false renunciation",
+      "roots": "a-karma",
+      "references": [
+        "BG 3.8"
+      ],
+      "themes": [
+        "renunciation"
+      ]
+    },
+    {
+      "term": "prasidhyed",
+      "transliteration": "prasidhyed",
+      "type": "verb",
+      "definition": "Would be accomplished, effected",
+      "roots": "pra-sidh",
+      "references": [
+        "BG 3.8"
+      ],
+      "themes": [
+        "success"
+      ]
+    },
+    {
+      "term": "vasamsi",
+      "transliteration": "vāsāṃsi",
+      "type": "noun",
+      "definition": "Garments, clothes, coverings",
+      "roots": "vas",
+      "references": [
+        "BG 2.22"
+      ],
+      "themes": [
+        "garments"
+      ]
+    },
+    {
+      "term": "jirnani",
+      "transliteration": "jīrṇāni",
+      "type": "adjective",
+      "definition": "Worn out, old, useless",
+      "roots": "jṝ",
+      "references": [
+        "BG 2.22"
+      ],
+      "themes": [
+        "old"
+      ]
+    },
+    {
+      "term": "samyati",
+      "transliteration": "saṁyāti",
+      "type": "verb",
+      "definition": "He acquires, obtains, enters",
+      "roots": "sam-yā",
+      "references": [
+        "BG 2.22"
+      ],
+      "themes": [
+        "acquisition"
+      ]
+    },
+    {
+      "term": "chindanti",
+      "transliteration": "chindanti",
+      "type": "verb",
+      "definition": "They cut, sever, split",
+      "roots": "chid",
+      "references": [
+        "BG 2.23"
+      ],
+      "themes": [
+        "cutting"
+      ]
+    },
+    {
+      "term": "sastrani",
+      "transliteration": "śastrāṇi",
+      "type": "noun",
+      "definition": "Weapons, instruments",
+      "roots": "śas",
+      "references": [
+        "BG 2.23"
+      ],
+      "themes": [
+        "weapons"
+      ]
+    },
+    {
+      "term": "pavakah",
+      "transliteration": "pāvakaḥ",
+      "type": "noun",
+      "definition": "Fire, purifier",
+      "roots": "pū",
+      "references": [
+        "BG 2.23"
+      ],
+      "themes": [
+        "fire"
+      ]
+    },
+    {
+      "term": "kledayanti",
+      "transliteration": "kledayanti",
+      "type": "verb",
+      "definition": "They moisten, wet",
+      "roots": "klid",
+      "references": [
+        "BG 2.23"
+      ],
+      "themes": [
+        "moistening"
+      ]
+    },
+    {
+      "term": "sosyati",
+      "transliteration": "śoṣayati",
+      "type": "verb",
+      "definition": "He dries up",
+      "roots": "śuṣ",
+      "references": [
+        "BG 2.23"
+      ],
+      "themes": [
+        "drying"
+      ]
+    },
+    {
+      "term": "acchedyah",
+      "transliteration": "acchedyaḥ",
+      "type": "adjective",
+      "definition": "Uncuttable, unbreakable",
+      "roots": "a-chid",
+      "references": [
+        "BG 2.24"
+      ],
+      "themes": [
+        "indivisible"
+      ]
+    },
+    {
+      "term": "adahyah",
+      "transliteration": "adāhyaḥ",
+      "type": "adjective",
+      "definition": "Unburnable",
+      "roots": "a-dah",
+      "references": [
+        "BG 2.24"
+      ],
+      "themes": [
+        "fireproof"
+      ]
+    },
+    {
+      "term": "akledyah",
+      "transliteration": "akledyaḥ",
+      "type": "adjective",
+      "definition": "Insoluble",
+      "roots": "a-kled",
+      "references": [
+        "BG 2.24"
+      ],
+      "themes": [
+        "impermeable"
+      ]
+    },
+    {
+      "term": "asosyah",
+      "transliteration": "aśoṣyaḥ",
+      "type": "adjective",
+      "definition": "Undryable",
+      "roots": "a-śuṣ",
+      "references": [
+        "BG 2.24"
+      ],
+      "themes": [
+        "undryable"
+      ]
+    },
+    {
+      "term": "sthnuh",
+      "transliteration": "sthāṇuḥ",
+      "type": "adjective",
+      "definition": "Fixed, immovable",
+      "roots": "sthā",
+      "references": [
+        "BG 2.24"
+      ],
+      "themes": [
+        "immovable"
+      ]
+    },
+    {
+      "term": "anitya",
+      "transliteration": "anitya",
+      "type": "adjective",
+      "definition": "Impermanent, non-eternal",
+      "roots": "a-nitya",
       "references": [
         "BG 2.14"
       ],
       "themes": [
-        "duty",
-        "lineage",
-        "kṣatriya",
-        "dharma"
+        "impermanence"
+      ]
+    },
+    {
+      "term": "upeksa",
+      "transliteration": "upekṣā",
+      "type": "noun",
+      "definition": "Equanimity, overlooking",
+      "roots": "upa-īkṣ",
+      "references": [
+        "BG 2.14"
+      ],
+      "themes": [
+        "equanimity"
+      ]
+    },
+    {
+      "term": "titiksa",
+      "transliteration": "titikṣā",
+      "type": "noun",
+      "definition": "Forbearance, endurance",
+      "roots": "tij",
+      "references": [
+        "BG 2.14"
+      ],
+      "themes": [
+        "endurance"
+      ]
+    },
+    {
+      "term": "agne-tapa-maruta",
+      "transliteration": "agni-tāpa-māruta",
+      "type": "compound",
+      "definition": "Fire-heat-wind",
+      "roots": "agni-tāpa-māruta",
+      "references": [
+        "BG 2.14"
+      ],
+      "themes": [
+        "elements"
+      ]
+    },
+    {
+      "term": "avinasi",
+      "transliteration": "avināśi",
+      "type": "adjective",
+      "definition": "Indestructible; not capable of being destroyed",
+      "roots": "a-naś",
+      "references": [
+        "BG 2.17"
+      ],
+      "themes": [
+        "indestructibility"
+      ]
+    },
+    {
+      "term": "tatam",
+      "transliteration": "tatam",
+      "type": "adjective",
+      "definition": "Pervaded, spread throughout",
+      "roots": "tan",
+      "references": [
+        "BG 2.17"
+      ],
+      "themes": [
+        "pervasion"
+      ]
+    },
+    {
+      "term": "avyaya",
+      "transliteration": "avyaya",
+      "type": "adjective",
+      "definition": "Inexhaustible, never depleted",
+      "roots": "a-vyaya",
+      "references": [
+        "BG 2.17"
+      ],
+      "themes": [
+        "inexhaustible"
+      ]
+    },
+    {
+      "term": "viddhi",
+      "transliteration": "viddhi",
+      "type": "verb",
+      "definition": "Know! Understand!",
+      "roots": "vid",
+      "references": [
+        "BG 2.17"
+      ],
+      "themes": [
+        "knowledge"
+      ]
+    },
+    {
+      "term": "sarvagatah",
+      "transliteration": "sarvagataḥ",
+      "type": "adjective",
+      "definition": "All-pervading, omnipresent",
+      "roots": "sarva-gam",
+      "references": [
+        "BG 2.17"
+      ],
+      "themes": [
+        "omnipresence"
+      ]
+    },
+    {
+      "term": "ascaryah",
+      "transliteration": "āścaryaḥ",
+      "type": "adjective",
+      "definition": "Wonderful, amazing",
+      "roots": "āścarya",
+      "references": [
+        "BG 2.29"
+      ],
+      "themes": [
+        "wonder"
+      ]
+    },
+    {
+      "term": "pasyati",
+      "transliteration": "paśyati",
+      "type": "verb",
+      "definition": "He sees",
+      "roots": "paś",
+      "references": [
+        "BG 2.29"
+      ],
+      "themes": [
+        "seeing"
+      ]
+    },
+    {
+      "term": "vadati",
+      "transliteration": "vadati",
+      "type": "verb",
+      "definition": "He speaks",
+      "roots": "vad",
+      "references": [
+        "BG 2.29"
+      ],
+      "themes": [
+        "speaking"
+      ]
+    },
+    {
+      "term": "srnoti",
+      "transliteration": "śṛṇoti",
+      "type": "verb",
+      "definition": "He hears",
+      "roots": "śru",
+      "references": [
+        "BG 2.29"
+      ],
+      "themes": [
+        "hearing"
       ]
     }
   ]
