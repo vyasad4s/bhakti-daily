@@ -1,6 +1,48 @@
 {
   "verses": [
     {
+      "date": "2026-04-11",
+      "source": "BG 3.30",
+      "chapter": 3,
+      "verse": 30,
+      "text": "Bhagavad Gita",
+      "tithi": "Kṛṣṇa Pakṣa Navamī → Daśamī",
+      "nakshatra": "Śravaṇa",
+      "yoga": "Sādhya",
+      "themes": [
+        "karma-yoga",
+        "surrender",
+        "vigata-jvara",
+        "sravana",
+        "sadhya-yoga",
+        "isvara-pranidhana",
+        "nirmama",
+        "nirashi"
+      ],
+      "tags": [
+        "#karma-yoga",
+        "#vigata-jvara",
+        "#sravana",
+        "#sadhya-yoga",
+        "#surrender",
+        "#isvara-pranidhana"
+      ],
+      "yogaSutraConnection": "YS II.1",
+      "sankhyaConcepts": [
+        "karma",
+        "buddhi",
+        "surrender",
+        "kriya-yoga",
+        "isvara-pranidhana"
+      ],
+      "keyTerms": [
+        "sarvāṇi karmāṇi",
+        "adhyātma-cetasā",
+        "nirāśīḥ",
+        "nirmamaḥ",
+        "vigata-jvaraḥ"
+      ]
+    },
       "date": "2026-04-10",
       "source": "BG 3.7",
       "chapter": 3,
@@ -813,5 +855,5 @@
       "source": "BG 9.22"
     }
   ],
-  "lastUpdated": "2026-04-08"
+  "lastUpdated": "2026-04-11"
 }
