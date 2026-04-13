@@ -1,6 +1,54 @@
 {
-  "lastUpdated": "2026-04-12",
+  "lastUpdated": "2026-04-13",
   "terms": [
+    {
+      "term": "karma-indriyāṇi",
+      "transliteration": "karmendriyāṇi",
+      "type": "neuter noun plural",
+      "definition": "Organs of action: hands (pāṇi), legs (pāda), speech (vāk), genitals (upastha), anus (pāyu); the five instruments of outward movement.",
+      "roots": "karman (action) + indriya (organ, faculty)",
+      "references": [
+        "BG 3.6"
+      ],
+      "themes": [
+        "karma-yoga",
+        "sense-control",
+        "prakriti",
+        "astanga-yoga"
+      ]
+    },
+    {
+      "term": "manasā smaran",
+      "transliteration": "manasā smaran",
+      "type": "participial phrase",
+      "definition": "Remembering within the mind; mental dwelling upon sense-objects even during physical restraint. The background process consuming your CPU cycles while you think the main thread is suspended.",
+      "roots": "manas (mind) + smṛ (to remember/recollect)",
+      "references": [
+        "BG 3.6"
+      ],
+      "themes": [
+        "karma-yoga",
+        "sense-control",
+        "manas",
+        "pratyahara"
+      ]
+    },
+    {
+      "term": "pratyāhāra",
+      "transliteration": "pratyāhāra",
+      "type": "masculine noun",
+      "definition": "Withdrawal of the senses from their objects; the fifth limb of aṣṭāṅga yoga. Not suppression but redirected flow — indriyāṇām following cittasya toward svarūpa.",
+      "roots": "prati (back, against) + ā-hṛ (to withdraw, draw back)",
+      "references": [
+        "BG 3.6"
+      ],
+      "themes": [
+        "astanga-yoga",
+        "sense-control",
+        "pratyahara",
+        "karma-yoga"
+      ]
+    },
     {
       "term": "niyatam",
       "transliteration": "niyatam",
