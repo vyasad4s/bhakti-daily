@@ -1,6 +1,51 @@
 {
   "verses": [
     {
+      "date": "2026-04-13",
+      "source": "BG 3.6",
+      "chapter": 3,
+      "verse": 6,
+      "text": "Bhagavad Gita",
+      "tithi": "Kṛṣṇa Pakṣa Ekādaśī → Dwādaśī",
+      "nakshatra": "Śatabhiṣā",
+      "yoga": "Śukla",
+      "themes": [
+        "karma-yoga",
+        "sense-control",
+        "pratyahara",
+        "hypocrisy",
+        "mithyacara",
+        "ekadashi",
+        "varuna"
+      ],
+      "tags": [
+        "#karma-yoga",
+        "#sense-control",
+        "#pratyahara",
+        "#hypocrisy",
+        "#ekadashi",
+        "#varuna",
+        "#shatabhisha"
+      ],
+      "yogaSutraConnection": "YS II.54",
+      "sankhyaConcepts": [
+        "karma-indriya",
+        "manas",
+        "mithya",
+        "vimudha",
+        "pratyahara",
+        "svarupa"
+      ],
+      "keyTerms": [
+        "karmendriyāṇi",
+        "saṃyamya",
+        "manasā smaran",
+        "indriyārthān",
+        "mithyācāraḥ",
+        "vimūḍhātmā"
+      ]
+    },
+    {
       "date": "2026-04-12",
       "source": "BG 3.8",
       "chapter": 3,
