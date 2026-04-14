@@ -1,0 +1,45 @@
+    {
+      "term": "adhyātma-cetāsā",
+      "transliteration": "adhyātma-cetāsā",
+      "type": "compound noun phrase",
+      "definition": "with consciousness fixed on the self — the cognitive mode where awareness acknowledges its source in the Divine, like a wave knowing it is water.",
+      "roots": "adhyātma (supreme self) + cetas (consciousness, mind)",
+      "references": ["BG 3.30"],
+      "themes": ["karma-yoga", "consciousness", "surrender", "adhyatma"]
+    },
+    {
+      "term": "vigata-jvaraḥ",
+      "transliteration": "vigata-jvaraḥ",
+      "type": "compound adjective",
+      "definition": "without fever — the absence of nervous mental agitation about outcomes. The body works; the mind calculates; but the grip of anxiety dissolves.",
+      "roots": "vi (without) + gata (gone) + jvara (fever, burning)",
+      "references": ["BG 3.30"],
+      "themes": ["karma-yoga", "vigata-jvara", "anxiety", "equanimity", "samatva"]
+    },
+    {
+      "term": "nirāśīḥ",
+      "transliteration": "nirāśīḥ",
+      "type": "masculine noun/adjective",
+      "definition": "without expectation — acting without attachment to specific results. The sky doesn't rain expecting gratitude; the sun doesn't shine for appreciation.",
+      "roots": "nis (without) + āśā (hope, expectation)",
+      "references": ["BG 3.30"],
+      "themes": ["karma-yoga", "nirashi", "non-attachment", "vairagya", "nishkama-karma"]
+    },
+    {
+      "term": "sannyasya",
+      "transliteration": "sannyasya",
+      "type": "gerund",
+      "definition": "having fully renounced — complete surrender of agency, not abandonment of action. Like a symphony musician surrendering to the conductor.",
+      "roots": "sam (completely) + ni (down) + as (to throw, cast off)",
+      "references": ["BG 3.30"],
+      "themes": ["karma-yoga", "surrender", "renunciation", "sannyas", "tyaga"]
+    },
+    {
+      "term": "īśvarapraṇidhāna",
+      "transliteration": "īśvarapraṇidhāna",
+      "type": "neuter noun",
+      "definition": "surrender to the Lord — the yogic practice of offering all actions to the Divine. The accelerator of spiritual practice.",
+      "roots": "īśvara (Supreme Lord) + praṇidhāna (complete surrender, devotion)",
+      "references": ["BG 3.30", "YS II.1"],
+      "themes": ["karma-yoga", "isvara-pranidhana", "surrender", "bhakti", "kriya-yoga"]
+    }
