@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-13",
+  "lastUpdated": "2026-04-15",
   "terms": [
     {
       "term": "karma-indriyāṇi",
@@ -2616,6 +2616,54 @@
       ],
       "themes": [
         "hearing"
+      ]
+    },
+    {
+      "term": "asakti",
+      "transliteration": "asakti",
+      "type": "noun",
+      "definition": "Non-attachment; the state of engaging fully in action while recognizing that results belong to prakṛti's operation, not to the witnessing puruṣa. This is not withdrawal or indifference — it is action unburdened by the self-image that demands specific outcomes; hacker metaphor: running processes without claiming ownership of their output.",
+      "roots": "from a (privative prefix) + sakti (attachment, power)",
+      "references": [
+        "BG 3.19"
+      ],
+      "themes": [
+        "karma-yoga",
+        "non-attachment",
+        "vairagya",
+        "dispassion"
+      ]
+    },
+    {
+      "term": "param",
+      "transliteration": "param",
+      "type": "adjective/noun",
+      "definition": "The Supreme; the ultimate reality. In dualistic Sankhya, this refers to the highest attainment — union with puruṣa, liberation from the cycle of birth and death. Not a distant abstraction, but the direct recognition of oneself as pure consciousness; hacker metaphor: root access to the system, the highest privilege level.",
+      "roots": "parama (highest, supreme)",
+      "references": [
+        "BG 3.19"
+      ],
+      "themes": [
+        "karma-yoga",
+        "liberation",
+        "moksha",
+        "supreme-goal"
+      ]
+    },
+    {
+      "term": "pūruṣaḥ",
+      "transliteration": "pūruṣaḥ",
+      "type": "noun",
+      "definition": "A person; human being; spirit as individual. Here used to indicate that the teaching applies to anyone — man, woman, any varṇa, any stage of life. Yoga is not restricted. The mechanics work for anyone who applies them.",
+      "roots": "puruṣa (person, spirit, conscious being)",
+      "references": [
+        "BG 3.19"
+      ],
+      "themes": [
+        "karma-yoga",
+        "universality",
+        "individual",
+        "applicability"
       ]
     }
   ]
