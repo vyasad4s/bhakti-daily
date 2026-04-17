@@ -1,5 +1,59 @@
 {
   "verses": [
+{
+  "date": "2026-04-17",
+  "source": "BG 3.43",
+  "chapter": 3,
+  "verse": 43,
+  "text": "Bhagavad Gita",
+  "tithi": "Amāvāsyā (New Moon)",
+  "nakshatra": "Aśvinī (Gandamool Portal)",
+  "yoga": "Viṣkambha → Prīti | Sarvartha Siddhi",
+  "themes": [
+    "conquest-of-lust",
+    "kāma-rūpa",
+    "abhyāsa",
+    "vairāgya",
+    "buddhi-hierarchy",
+    "sāṅkhya-conquest",
+    "amāvāsyā-completion",
+    "ashvini-gandamool"
+  ],
+  "tags": [
+    "#conquest",
+    "#kāma-rūpa",
+    "#abhyāsa",
+    "#vairāgya",
+    "#buddhi",
+    "#karma-yoga-complete",
+    "#amavasya",
+    "#ashvini",
+    "#siddhi-yoga",
+    "#chapter-transition"
+  ],
+  "yogaSutraConnection": "YS I.12",
+  "sankhyaConcepts": [
+    "puruṣa",
+    "prakṛti",
+    "buddhi",
+    "manas",
+    "indriya",
+    "kāma-rūpa",
+    "citta-vṛtti",
+    "abhyāsa",
+    "vairāgya"
+  ],
+  "keyTerms": [
+    "buddhi",
+    "kāma-rūpa",
+    "abhyāsa",
+    "vairāgya",
+    "saṁstabhya",
+    "jahi",
+    "śatru"
+  ]
+}
+,
     {
       "date": "2026-04-16",
       "source": "BG 3.27",
