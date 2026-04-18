@@ -1,59 +1,99 @@
 {
   "verses": [
-{
-  "date": "2026-04-17",
-  "source": "BG 3.43",
-  "chapter": 3,
-  "verse": 43,
-  "text": "Bhagavad Gita",
-  "tithi": "Amāvāsyā (New Moon)",
-  "nakshatra": "Aśvinī (Gandamool Portal)",
-  "yoga": "Viṣkambha → Prīti | Sarvartha Siddhi",
-  "themes": [
-    "conquest-of-lust",
-    "kāma-rūpa",
-    "abhyāsa",
-    "vairāgya",
-    "buddhi-hierarchy",
-    "sāṅkhya-conquest",
-    "amāvāsyā-completion",
-    "ashvini-gandamool"
-  ],
-  "tags": [
-    "#conquest",
-    "#kāma-rūpa",
-    "#abhyāsa",
-    "#vairāgya",
-    "#buddhi",
-    "#karma-yoga-complete",
-    "#amavasya",
-    "#ashvini",
-    "#siddhi-yoga",
-    "#chapter-transition"
-  ],
-  "yogaSutraConnection": "YS I.12",
-  "sankhyaConcepts": [
-    "puruṣa",
-    "prakṛti",
-    "buddhi",
-    "manas",
-    "indriya",
-    "kāma-rūpa",
-    "citta-vṛtti",
-    "abhyāsa",
-    "vairāgya"
-  ],
-  "keyTerms": [
-    "buddhi",
-    "kāma-rūpa",
-    "abhyāsa",
-    "vairāgya",
-    "saṁstabhya",
-    "jahi",
-    "śatru"
-  ]
-}
-,
+    {
+      "date": "2026-04-18",
+      "source": "BG 4.9",
+      "chapter": 4,
+      "verse": 9,
+      "text": "Bhagavad Gita",
+      "tithi": "Pratipad\u0101 \u2192 Dvit\u012bya",
+      "nakshatra": "Bhara\u1e47\u012b \u2192 K\u1e5bttik\u0101",
+      "yoga": "V\u1e5bddhi",
+      "themes": [
+        "jnana-yoga",
+        "divine-nature",
+        "liberation",
+        "knowledge-burns-seed",
+        "rebirth-ceased"
+      ],
+      "tags": [
+        "#jnana-yoga",
+        "#transcendental-knowledge",
+        "#liberation",
+        "#no-rebirth",
+        "#krittika-portal"
+      ],
+      "yogaSutraConnection": "YS I.3",
+      "sankhyaConcepts": [
+        "divyam-janma",
+        "karma-as-lila",
+        "tattvatah-knowledge",
+        "mam-eti-attainment"
+      ],
+      "keyTerms": [
+        "janma",
+        "karma",
+        "divyam",
+        "tattvata\u1e25",
+        "tyaktv\u0101",
+        "punar-janma",
+        "na-eti",
+        "m\u0101m-eti"
+      ]
+    },
+    {
+      "date": "2026-04-17",
+      "source": "BG 3.43",
+      "chapter": 3,
+      "verse": 43,
+      "text": "Bhagavad Gita",
+      "tithi": "Am\u0101v\u0101sy\u0101 (New Moon)",
+      "nakshatra": "A\u015bvin\u012b (Gandamool Portal)",
+      "yoga": "Vi\u1e63kambha \u2192 Pr\u012bti | Sarvartha Siddhi",
+      "themes": [
+        "conquest-of-lust",
+        "k\u0101ma-r\u016bpa",
+        "abhy\u0101sa",
+        "vair\u0101gya",
+        "buddhi-hierarchy",
+        "s\u0101\u1e45khya-conquest",
+        "am\u0101v\u0101sy\u0101-completion",
+        "ashvini-gandamool"
+      ],
+      "tags": [
+        "#conquest",
+        "#k\u0101ma-r\u016bpa",
+        "#abhy\u0101sa",
+        "#vair\u0101gya",
+        "#buddhi",
+        "#karma-yoga-complete",
+        "#amavasya",
+        "#ashvini",
+        "#siddhi-yoga",
+        "#chapter-transition"
+      ],
+      "yogaSutraConnection": "YS I.12",
+      "sankhyaConcepts": [
+        "puru\u1e63a",
+        "prak\u1e5bti",
+        "buddhi",
+        "manas",
+        "indriya",
+        "k\u0101ma-r\u016bpa",
+        "citta-v\u1e5btti",
+        "abhy\u0101sa",
+        "vair\u0101gya"
+      ],
+      "keyTerms": [
+        "buddhi",
+        "k\u0101ma-r\u016bpa",
+        "abhy\u0101sa",
+        "vair\u0101gya",
+        "sa\u1e41stabhya",
+        "jahi",
+        "\u015batru"
+      ]
+    },
     {
       "date": "2026-04-16",
       "source": "BG 3.27",
@@ -1127,5 +1167,5 @@
       "source": "BG 9.22"
     }
   ],
-  "lastUpdated": "2026-04-16"
+  "lastUpdated": "2026-04-18"
 }
