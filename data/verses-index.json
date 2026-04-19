@@ -1,6 +1,47 @@
 {
   "verses": [
     {
+      "date": "2026-04-19",
+      "source": "BG 4.10",
+      "chapter": 4,
+      "verse": 10,
+      "text": "Bhagavad Gita",
+      "tithi": "Ak\u1e63aya Trit\u012by\u0101",
+      "nakshatra": "K\u1e5bttik\u0101 \u2192 Rohi\u1e47\u012b",
+      "yoga": "Dhruva",
+      "themes": [
+        "jnana-tapasa",
+        "prema-bhakti",
+        "purification",
+        "akshaya-tritiya",
+        "liberation"
+      ],
+      "tags": [
+        "#jnana-tapasa",
+        "#prema-bhakti",
+        "#vita-raga-bhaya-krodha",
+        "#akshaya-tritiya",
+        "#parasurama"
+      ],
+      "yogaSutraConnection": "YS II.3-9",
+      "sankhyaConcepts": [
+        "j\u00f1\u0101na-tapas\u0101",
+        "v\u012bta-kle\u015ba",
+        "mad-bh\u0101vam",
+        "prema-destination"
+      ],
+      "keyTerms": [
+        "v\u012bta",
+        "r\u0101ga",
+        "bhaya",
+        "krodha",
+        "man-may\u0101",
+        "up\u0101\u015brit\u0101\u1e25",
+        "j\u00f1\u0101na-tapas\u0101",
+        "mad-bh\u0101vam"
+      ]
+    },
+    {
       "date": "2026-04-18",
       "source": "BG 4.9",
       "chapter": 4,
@@ -1167,5 +1208,5 @@
       "source": "BG 9.22"
     }
   ],
-  "lastUpdated": "2026-04-18"
+  "lastUpdated": "2026-04-19"
 }
