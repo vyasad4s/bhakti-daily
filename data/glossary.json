@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-18",
+  "lastUpdated": "2026-04-19",
   "terms": [
     {
       "term": "Buddhi-n\u0101\u015ba\u1e25",
@@ -2907,6 +2907,133 @@
         "personalism",
         "divine-presence",
         "liberation"
+      ]
+    },
+    {
+      "term": "vita",
+      "transliteration": "v\u012bta",
+      "type": "past passive participle",
+      "definition": "Freed, released from; indicating completed liberation from binding conditions",
+      "roots": "vi (away) + i (to go)",
+      "references": [
+        "BG 4.10"
+      ],
+      "themes": [
+        "liberation",
+        "freedom",
+        "release"
+      ]
+    },
+    {
+      "term": "ragha",
+      "transliteration": "r\u0101ga",
+      "type": "masculine noun",
+      "definition": "Attachment, passion, desire for pleasure; one of the three gates of hell (BG 16.21); grasping after pleasant experiences",
+      "roots": "ra\u00f1j (to be colored, to attach)",
+      "references": [
+        "BG 4.10"
+      ],
+      "themes": [
+        "attachment",
+        "passion",
+        "kle\u015ba",
+        "binding"
+      ]
+    },
+    {
+      "term": "bhaya",
+      "transliteration": "bhaya",
+      "type": "neuter noun",
+      "definition": "Fear, anxiety, dread of unpleasant; binding through avoidance and aversion",
+      "roots": "bh\u012b (to fear)",
+      "references": [
+        "BG 4.10"
+      ],
+      "themes": [
+        "fear",
+        "anxiety",
+        "aversion",
+        "kle\u015ba"
+      ]
+    },
+    {
+      "term": "krodha",
+      "transliteration": "krodha",
+      "type": "masculine noun",
+      "definition": "Anger, wrath, defensive reaction; destructive emotional response that arises from frustrated attachment",
+      "roots": "krudh (to be angry)",
+      "references": [
+        "BG 4.10"
+      ],
+      "themes": [
+        "anger",
+        "wrath",
+        "destruction",
+        "kle\u015ba"
+      ]
+    },
+    {
+      "term": "man-maya",
+      "transliteration": "man-may\u0101",
+      "type": "compound adjective",
+      "definition": "Made of Me, absorbed in Me; mind saturated with K\u1e5b\u1e63\u1e47a-consciousness to the point of identification",
+      "roots": "manas (mind) + maya (made of, full of)",
+      "references": [
+        "BG 4.10"
+      ],
+      "themes": [
+        "absorption",
+        "consciousness",
+        "identification",
+        "bhakti"
+      ]
+    },
+    {
+      "term": "upasritah",
+      "transliteration": "up\u0101\u015brit\u0101\u1e25",
+      "type": "perfect passive participle, nominative plural",
+      "definition": "Having taken refuge, surrendered; those who have sought shelter in the Supreme",
+      "roots": "upa (near) + \u015bri (to lean on, rest upon)",
+      "references": [
+        "BG 4.10"
+      ],
+      "themes": [
+        "surrender",
+        "refuge",
+        "shelter",
+        "bhakti"
+      ]
+    },
+    {
+      "term": "jnana-tapasa",
+      "transliteration": "j\u00f1\u0101na-tapas\u0101",
+      "type": "compound noun, instrumental singular",
+      "definition": "By the austerity/heat of knowledge; purification through discriminative understanding that burns away ignorance",
+      "roots": "j\u00f1\u0101na (knowledge) + tapas (heat, austerity)",
+      "references": [
+        "BG 4.10"
+      ],
+      "themes": [
+        "knowledge",
+        "austerity",
+        "purification",
+        "discrimination"
+      ]
+    },
+    {
+      "term": "mad-bhavam",
+      "transliteration": "mad-bh\u0101vam",
+      "type": "compound noun, accusative singular",
+      "definition": "My state of being, My nature; transcendental love and the Lord's own prema-bh\u0101va which is the destination of knowledge",
+      "roots": "mat (My) + bh\u0101va (state of being, love)",
+      "references": [
+        "BG 4.10"
+      ],
+      "themes": [
+        "divine-love",
+        "prema",
+        "attainment",
+        "bhakti"
       ]
     }
   ]
