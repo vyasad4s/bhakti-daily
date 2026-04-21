@@ -1,6 +1,47 @@
 {
   "verses": [
     {
+      "date": "2026-04-21",
+      "source": "BG 4.7",
+      "chapter": 4,
+      "verse": 7,
+      "text": "Bhagavad Gita",
+      "tithi": "Śukla Pañcamī → Ṣaṣṭhī",
+      "nakshatra": "Mṛgaśīrṣa → Ārdrā",
+      "yoga": "Ātigāṇḍa",
+      "themes": [
+        "avatara",
+        "divine-descent",
+        "dharmaglani",
+        "cyclical-time",
+        "ardra"
+      ],
+      "tags": [
+        "#avatara",
+        "#yadayada",
+        "#glani",
+        "#srjami",
+        "#ardra",
+        "#atiganda"
+      ],
+      "yogaSutraConnection": "YS I.23",
+      "sankhyaConcepts": [
+        "avatara",
+        "isvara-pranidhana",
+        "divine-descent",
+        "prakriti-cycles"
+      ],
+      "keyTerms": [
+        "yadā yadā",
+        "dharmasya",
+        "glāniḥ",
+        "abhyutthānam",
+        "adharmasya",
+        "sṛjāmi",
+        "ātmānam"
+      ]
+    },
+    {
       "date": "2026-04-20",
       "source": "BG 4.8",
       "chapter": 4,
@@ -1247,5 +1288,5 @@
       "source": "BG 9.22"
     }
   ],
-  "lastUpdated": "2026-04-19"
+  "lastUpdated": "2026-04-21"
 }
