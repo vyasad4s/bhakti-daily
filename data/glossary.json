@@ -1,6 +1,216 @@
 {
-  "lastUpdated": "2026-04-20",
+  "lastUpdated": "2026-04-21",
   "terms": [
+    {
+      "term": "yadā yadā",
+      "transliteration": "yadā yadā",
+      "type": "indeclinable phrase",
+      "definition": "whenever and wherever; cyclical, not linear. The Lord manifests repeatedly, not just once.",
+      "roots": "from yadā (when); reduplication indicating recurrence and universality",
+      "references": [
+        "BG 4.7"
+      ],
+      "themes": [
+        "cyclical-time",
+        "avatara",
+        "divine-descent"
+      ]
+    },
+    {
+      "term": "dharmasya",
+      "transliteration": "dharmasya",
+      "type": "masculine noun, genitive singular",
+      "definition": "of cosmic order, natural law; the supporting structure of existence",
+      "roots": "from dharma (religious principles, cosmic law) + sya (genitive case suffix)",
+      "references": [
+        "BG 4.7"
+      ],
+      "themes": [
+        "dharma",
+        "cosmic-order",
+        "natural-law"
+      ]
+    },
+    {
+      "term": "glāniḥ",
+      "transliteration": "glāniḥ",
+      "type": "feminine noun",
+      "definition": "decline, deterioration, erosion; when peak performance fades",
+      "roots": "from glai (to become tired, decline, languish)",
+      "references": [
+        "BG 4.7"
+      ],
+      "themes": [
+        "entropy",
+        "decay",
+        "cosmic-tribulation"
+      ]
+    },
+    {
+      "term": "abhyutthānam",
+      "transliteration": "abhyutthānam",
+      "type": "neuter noun",
+      "definition": "rising up, predominance, victorious emergence; the error state becoming default",
+      "roots": "from abhi (toward, upon) + ut (up) + sthā (to stand); standing up against",
+      "references": [
+        "BG 4.7"
+      ],
+      "themes": [
+        "adharma",
+        "predominance",
+        "uprising"
+      ]
+    },
+    {
+      "term": "adharmasya",
+      "transliteration": "adharmasya",
+      "type": "masculine noun, genitive singular",
+      "definition": "of irreligion, that which violates natural law",
+      "roots": "from a (negation) + dharma + sya (genitive)",
+      "references": [
+        "BG 4.7"
+      ],
+      "themes": [
+        "irreligion",
+        "violation",
+        "adharma"
+      ]
+    },
+    {
+      "term": "sṛjāmi",
+      "transliteration": "sṛjāmi",
+      "type": "verb, 1st person singular present",
+      "definition": "I manifest, emit, release; NOT create — eternal forms become apparent",
+      "roots": "from sṛj (to release, emit, manifest, discharge)",
+      "references": [
+        "BG 4.7"
+      ],
+      "themes": [
+        "avatara",
+        "manifestation",
+        "divine-descent"
+      ]
+    },
+    {
+      "term": "ātmānam",
+      "transliteration": "ātmānam",
+      "type": "masculine noun, accusative singular",
+      "definition": "Myself, personally; direct presence, not delegation",
+      "roots": "from ātman (self, soul); ātmānam indicates the Supreme Person descends personally",
+      "references": [
+        "BG 4.7"
+      ],
+      "themes": [
+        "supreme-person",
+        "personal-god",
+        "immanence"
+      ]
+    },
+    {
+      "term": "yadā yadā",
+      "transliteration": "yadā yadā",
+      "type": "indeclinable phrase",
+      "definition": "whenever and wherever; cyclical, not linear. The Lord manifests repeatedly, not just once.",
+      "roots": "from yadā (when); reduplication indicating recurrence and universality",
+      "references": [
+        "BG 4.7"
+      ],
+      "themes": [
+        "cyclical-time",
+        "avatara",
+        "divine-descent"
+      ]
+    },
+    {
+      "term": "dharmasya",
+      "transliteration": "dharmasya",
+      "type": "masculine noun, genitive singular",
+      "definition": "of cosmic order, natural law; the supporting structure of existence",
+      "roots": "from dharma (religious principles, cosmic law) + sya (genitive case suffix)",
+      "references": [
+        "BG 4.7"
+      ],
+      "themes": [
+        "dharma",
+        "cosmic-order",
+        "natural-law"
+      ]
+    },
+    {
+      "term": "glāniḥ",
+      "transliteration": "glāniḥ",
+      "type": "feminine noun",
+      "definition": "decline, deterioration, erosion; when peak performance fades",
+      "roots": "from glai (to become tired, decline, languish)",
+      "references": [
+        "BG 4.7"
+      ],
+      "themes": [
+        "entropy",
+        "decay",
+        "cosmic-tribulation"
+      ]
+    },
+    {
+      "term": "abhyutthānam",
+      "transliteration": "abhyutthānam",
+      "type": "neuter noun",
+      "definition": "rising up, predominance, victorious emergence; the error state becoming default",
+      "roots": "from abhi (toward, upon) + ut (up) + sthā (to stand); standing up against",
+      "references": [
+        "BG 4.7"
+      ],
+      "themes": [
+        "adharma",
+        "predominance",
+        "uprising"
+      ]
+    },
+    {
+      "term": "adharmasya",
+      "transliteration": "adharmasya",
+      "type": "masculine noun, genitive singular",
+      "definition": "of irreligion, that which violates natural law",
+      "roots": "from a (negation) + dharma + sya (genitive)",
+      "references": [
+        "BG 4.7"
+      ],
+      "themes": [
+        "irreligion",
+        "violation",
+        "adharma"
+      ]
+    },
+    {
+      "term": "sṛjāmi",
+      "transliteration": "sṛjāmi",
+      "type": "verb, 1st person singular present",
+      "definition": "I manifest, emit, release; NOT create — eternal forms become apparent",
+      "roots": "from sṛj (to release, emit, manifest, discharge)",
+      "references": [
+        "BG 4.7"
+      ],
+      "themes": [
+        "avatara",
+        "manifestation",
+        "divine-descent"
+      ]
+    },
+    {
+      "term": "ātmānam",
+      "transliteration": "ātmānam",
+      "type": "masculine noun, accusative singular",
+      "definition": "Myself, personally; direct presence, not delegation",
+      "roots": "from ātman (self, soul); ātmānam indicates the Supreme Person descends personally",
+      "references": [
+        "BG 4.7"
+      ],
+      "themes": [
+        "supreme-person",
+        "personal-god",
+        "immanence"
+      ]
+    },
     {
       "term": "Īśvara-praṇidhāna",
       "transliteration": "īśvara-praṇidhāna",
