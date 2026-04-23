@@ -1,6 +1,45 @@
 {
   "verses": [
     {
+      "date": "2026-04-23",
+      "source": "BG 4.34",
+      "chapter": 4,
+      "verse": 34,
+      "text": "Bhagavad Gita",
+      "tithi": "Śukla Saptamī → Aṣṭamī",
+      "nakshatra": "Punarvasu → Puṣya",
+      "yoga": "Dhṛti → Śūla",
+      "themes": [
+        "guru",
+        "surrender",
+        "jnana",
+        "transmission",
+        "pranipata",
+        "pariprasna",
+        "seva"
+      ],
+      "tags": [
+        "#guru",
+        "#surrender",
+        "#jnana",
+        "#parampara"
+      ],
+      "yogaSutraConnection": "YS I.23, II.1",
+      "sankhyaConcepts": [
+        "jnana-yoga",
+        "parampara",
+        "isvara-pranidhana"
+      ],
+      "keyTerms": [
+        "pranipata",
+        "pariprasna",
+        "seva",
+        "jnani",
+        "tattva-darsi",
+        "upadesa"
+      ]
+    },
+    {
       "date": "2026-04-21",
       "source": "BG 4.7",
       "chapter": 4,
@@ -1288,5 +1327,5 @@
       "source": "BG 9.22"
     }
   ],
-  "lastUpdated": "2026-04-21"
+  "lastUpdated": "2026-04-23"
 }
