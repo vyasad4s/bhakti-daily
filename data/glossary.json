@@ -1,6 +1,86 @@
 {
-  "lastUpdated": "2026-04-22",
+  "lastUpdated": "2026-04-23",
   "terms": [
+    {
+      "term": "pra\u1e47ip\u0101ta",
+      "transliteration": "pra\u1e47ip\u0101ta",
+      "type": "masculine noun",
+      "definition": "Approaching by bowing down; complete surrender, prostration before the spiritual master. The necessary humility that opens the door to what lies beyond personal capacity.",
+      "roots": "from pra (intensive prefix) + ni (down) + pat (to fall)",
+      "references": [
+        "BG 4.34"
+      ],
+      "themes": [
+        "surrender",
+        "guru",
+        "jnana-yoga",
+        "humility"
+      ]
+    },
+    {
+      "term": "paripra\u015bna",
+      "transliteration": "paripra\u015bna",
+      "type": "masculine noun",
+      "definition": "Inquiry from all sides; submissive questioning aimed at understanding, not debate. Intelligent querying of the system \u2014 read the documentation, ask specific questions, accept the output.",
+      "roots": "from pari (around, all sides) + pra\u015bna (question)",
+      "references": [
+        "BG 4.34"
+      ],
+      "themes": [
+        "inquiry",
+        "guru",
+        "jnana-yoga",
+        "discrimination"
+      ]
+    },
+    {
+      "term": "sev\u0101",
+      "transliteration": "sev\u0101",
+      "type": "feminine noun",
+      "definition": "Service; selfless action rendered without desire for result. The method by which knowledge is digested through direct application.",
+      "roots": "from sev (to serve, attend to, honor)",
+      "references": [
+        "BG 4.34"
+      ],
+      "themes": [
+        "service",
+        "bhakti",
+        "karma-yoga",
+        "selflessness"
+      ]
+    },
+    {
+      "term": "tattva-dar\u015b\u012b",
+      "transliteration": "tattva-dar\u015b\u012b",
+      "type": "masculine noun",
+      "definition": "One who sees the truth; the self-realized soul who perceives reality as it is, not as it appears. The one who sees the essence beneath the form.",
+      "roots": "from tattva (the essence, truth) + dar\u015bin (one who sees)",
+      "references": [
+        "BG 4.34"
+      ],
+      "themes": [
+        "realization",
+        "discrimination",
+        "jnana-yoga",
+        "vision"
+      ]
+    },
+    {
+      "term": "upade\u015ba",
+      "transliteration": "upade\u015ba",
+      "type": "masculine noun",
+      "definition": "Instruction; the act of sitting near. The guru points to what is already present but unrecognized. Transmission of realized knowledge from one who has seen.",
+      "roots": "from upa (near) + di\u015b (to point, show)",
+      "references": [
+        "BG 4.34"
+      ],
+      "themes": [
+        "teaching",
+        "guru",
+        "transmission",
+        "parampara"
+      ]
+    },
     {
       "term": "avyaya",
       "transliteration": "avyaya",
