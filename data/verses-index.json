@@ -1,14 +1,55 @@
 {
   "verses": [
     {
+      "date": "2026-04-24",
+      "source": "BG 4.7",
+      "chapter": 4,
+      "verse": 7,
+      "text": "Bhagavad Gita",
+      "tithi": "\u015aukla Navam\u012b",
+      "nakshatra": "\u0100\u015ble\u1e63\u0101",
+      "yoga": "S\u016bla \u2192 Ganda",
+      "themes": [
+        "avatara",
+        "divine-descent",
+        "dharma-restore",
+        "ashlesha",
+        "penetrating-insight"
+      ],
+      "tags": [
+        "#avatara",
+        "#divine-descent",
+        "#dharmaglani",
+        "#ashlesha",
+        "#navami",
+        "#pranidhana"
+      ],
+      "yogaSutraConnection": "YS I.23",
+      "sankhyaConcepts": [
+        "avatara",
+        "isvara-pranidhana",
+        "divine-descent",
+        "prakriti-cycles"
+      ],
+      "keyTerms": [
+        "yada yada",
+        "dharmasya",
+        "glanih",
+        "abhyutthanam",
+        "adharmasya",
+        "srjami",
+        "atmanam"
+      ]
+    },
+    {
       "date": "2026-04-23",
       "source": "BG 4.34",
       "chapter": 4,
       "verse": 34,
       "text": "Bhagavad Gita",
-      "tithi": "Śukla Saptamī → Aṣṭamī",
-      "nakshatra": "Punarvasu → Puṣya",
-      "yoga": "Dhṛti → Śūla",
+      "tithi": "\u015aukla Saptam\u012b \u2192 A\u1e63\u1e6dam\u012b",
+      "nakshatra": "Punarvasu \u2192 Pu\u1e63ya",
+      "yoga": "Dh\u1e5bti \u2192 \u015a\u016bla",
       "themes": [
         "guru",
         "surrender",
@@ -45,9 +86,9 @@
       "chapter": 4,
       "verse": 7,
       "text": "Bhagavad Gita",
-      "tithi": "Śukla Pañcamī → Ṣaṣṭhī",
-      "nakshatra": "Mṛgaśīrṣa → Ārdrā",
-      "yoga": "Ātigāṇḍa",
+      "tithi": "\u015aukla Pa\u00f1cam\u012b \u2192 \u1e62a\u1e63\u1e6dh\u012b",
+      "nakshatra": "M\u1e5bga\u015b\u012br\u1e63a \u2192 \u0100rdr\u0101",
+      "yoga": "\u0100tig\u0101\u1e47\u1e0da",
       "themes": [
         "avatara",
         "divine-descent",
@@ -71,13 +112,13 @@
         "prakriti-cycles"
       ],
       "keyTerms": [
-        "yadā yadā",
+        "yad\u0101 yad\u0101",
         "dharmasya",
-        "glāniḥ",
-        "abhyutthānam",
+        "gl\u0101ni\u1e25",
+        "abhyutth\u0101nam",
         "adharmasya",
-        "sṛjāmi",
-        "ātmānam"
+        "s\u1e5bj\u0101mi",
+        "\u0101tm\u0101nam"
       ]
     },
     {
@@ -86,9 +127,9 @@
       "chapter": 4,
       "verse": 8,
       "text": "Bhagavad Gita",
-      "tithi": "Śukla Caturthī → Pañcamī",
-      "nakshatra": "Rohinī → Mṛgaśīrṣa",
-      "yoga": "Śobhana → Amṛta Siddhi",
+      "tithi": "\u015aukla Caturth\u012b \u2192 Pa\u00f1cam\u012b",
+      "nakshatra": "Rohin\u012b \u2192 M\u1e5bga\u015b\u012br\u1e63a",
+      "yoga": "\u015aobhana \u2192 Am\u1e5bta Siddhi",
       "themes": [
         "avatara",
         "deliverance",
@@ -111,12 +152,12 @@
         "yuga-cycles"
       ],
       "keyTerms": [
-        "paritrāṇa",
-        "sādhu",
-        "duṣkṛta",
-        "dharmasaṁsthāpana",
+        "paritr\u0101\u1e47a",
+        "s\u0101dhu",
+        "du\u1e63k\u1e5bta",
+        "dharmasa\u1e41sth\u0101pana",
         "yuge yuge",
-        "praṇidhāna"
+        "pra\u1e47idh\u0101na"
       ]
     },
     {
@@ -125,8 +166,8 @@
       "chapter": 4,
       "verse": 10,
       "text": "Bhagavad Gita",
-      "tithi": "Akṣaya Tritīyā",
-      "nakshatra": "Kṛttikā → Rohiṇī",
+      "tithi": "Ak\u1e63aya Trit\u012by\u0101",
+      "nakshatra": "K\u1e5bttik\u0101 \u2192 Rohi\u1e47\u012b",
       "yoga": "Dhruva",
       "themes": [
         "jnana-tapasa",
@@ -144,20 +185,20 @@
       ],
       "yogaSutraConnection": "YS II.3-9",
       "sankhyaConcepts": [
-        "jñāna-tapasā",
-        "vīta-kleśa",
-        "mad-bhāvam",
+        "j\u00f1\u0101na-tapas\u0101",
+        "v\u012bta-kle\u015ba",
+        "mad-bh\u0101vam",
         "prema-destination"
       ],
       "keyTerms": [
-        "vīta",
-        "rāga",
+        "v\u012bta",
+        "r\u0101ga",
         "bhaya",
         "krodha",
-        "man-mayā",
-        "upāśritāḥ",
-        "jñāna-tapasā",
-        "mad-bhāvam"
+        "man-may\u0101",
+        "up\u0101\u015brit\u0101\u1e25",
+        "j\u00f1\u0101na-tapas\u0101",
+        "mad-bh\u0101vam"
       ]
     },
     {
@@ -166,9 +207,9 @@
       "chapter": 4,
       "verse": 9,
       "text": "Bhagavad Gita",
-      "tithi": "Pratipadā → Dvitīya",
-      "nakshatra": "Bharaṇī → Kṛttikā",
-      "yoga": "Vṛddhi",
+      "tithi": "Pratipad\u0101 \u2192 Dvit\u012bya",
+      "nakshatra": "Bhara\u1e47\u012b \u2192 K\u1e5bttik\u0101",
+      "yoga": "V\u1e5bddhi",
       "themes": [
         "jnana-yoga",
         "divine-nature",
@@ -194,11 +235,11 @@
         "janma",
         "karma",
         "divyam",
-        "tattvataḥ",
-        "tyaktvā",
+        "tattvata\u1e25",
+        "tyaktv\u0101",
         "punar-janma",
         "na-eti",
-        "mām-eti"
+        "m\u0101m-eti"
       ]
     },
     {
@@ -207,24 +248,24 @@
       "chapter": 3,
       "verse": 43,
       "text": "Bhagavad Gita",
-      "tithi": "Amāvāsyā (New Moon)",
-      "nakshatra": "Aśvinī (Gandamool Portal)",
-      "yoga": "Viṣkambha → Prīti | Sarvartha Siddhi",
+      "tithi": "Am\u0101v\u0101sy\u0101 (New Moon)",
+      "nakshatra": "A\u015bvin\u012b (Gandamool Portal)",
+      "yoga": "Vi\u1e63kambha \u2192 Pr\u012bti | Sarvartha Siddhi",
       "themes": [
         "conquest-of-lust",
-        "kāma-rūpa",
-        "abhyāsa",
-        "vairāgya",
+        "k\u0101ma-r\u016bpa",
+        "abhy\u0101sa",
+        "vair\u0101gya",
         "buddhi-hierarchy",
-        "sāṅkhya-conquest",
-        "amāvāsyā-completion",
+        "s\u0101\u1e45khya-conquest",
+        "am\u0101v\u0101sy\u0101-completion",
         "ashvini-gandamool"
       ],
       "tags": [
         "#conquest",
-        "#kāma-rūpa",
-        "#abhyāsa",
-        "#vairāgya",
+        "#k\u0101ma-r\u016bpa",
+        "#abhy\u0101sa",
+        "#vair\u0101gya",
         "#buddhi",
         "#karma-yoga-complete",
         "#amavasya",
@@ -234,24 +275,24 @@
       ],
       "yogaSutraConnection": "YS I.12",
       "sankhyaConcepts": [
-        "puruṣa",
-        "prakṛti",
+        "puru\u1e63a",
+        "prak\u1e5bti",
         "buddhi",
         "manas",
         "indriya",
-        "kāma-rūpa",
-        "citta-vṛtti",
-        "abhyāsa",
-        "vairāgya"
+        "k\u0101ma-r\u016bpa",
+        "citta-v\u1e5btti",
+        "abhy\u0101sa",
+        "vair\u0101gya"
       ],
       "keyTerms": [
         "buddhi",
-        "kāma-rūpa",
-        "abhyāsa",
-        "vairāgya",
-        "saṁstabhya",
+        "k\u0101ma-r\u016bpa",
+        "abhy\u0101sa",
+        "vair\u0101gya",
+        "sa\u1e41stabhya",
         "jahi",
-        "śatru"
+        "\u015batru"
       ]
     },
     {
@@ -260,44 +301,44 @@
       "chapter": 3,
       "verse": 27,
       "text": "Bhagavad Gita",
-      "tithi": "Kṛṣṇa Pakṣa Caturdaśī → Amāvāsyā",
-      "nakshatra": "Revatī → Aśvinī (Gandamool)",
-      "yoga": "Vaidhṛti → Viśkambha",
+      "tithi": "K\u1e5b\u1e63\u1e47a Pak\u1e63a Caturda\u015b\u012b \u2192 Am\u0101v\u0101sy\u0101",
+      "nakshatra": "Revat\u012b \u2192 A\u015bvin\u012b (Gandamool)",
+      "yoga": "Vaidh\u1e5bti \u2192 Vi\u015bkambha",
       "themes": [
         "ego-dissolution",
         "false-identification",
-        "puruṣa-prakṛti-discrimination",
-        "ahaṅkāra",
+        "puru\u1e63a-prak\u1e5bti-discrimination",
+        "aha\u1e45k\u0101ra",
         "vimoha",
-        "amāvāsyā",
+        "am\u0101v\u0101sy\u0101",
         "gandamool"
       ],
       "tags": [
         "#ego-dissolution",
-        "#ahaṅkāra",
+        "#aha\u1e45k\u0101ra",
         "#vimoha",
-        "#puruṣa-prakṛti",
-        "#amāvāsyā",
-        "#revatī",
+        "#puru\u1e63a-prak\u1e5bti",
+        "#am\u0101v\u0101sy\u0101",
+        "#revat\u012b",
         "#gandamool",
         "#karma-yoga"
       ],
       "yogaSutraConnection": "YS II.1",
       "sankhyaConcepts": [
-        "prakṛti",
-        "guṇa",
-        "puruṣa",
-        "ahaṅkāra",
+        "prak\u1e5bti",
+        "gu\u1e47a",
+        "puru\u1e63a",
+        "aha\u1e45k\u0101ra",
         "vimoha",
-        "kartā",
-        "sākṣī"
+        "kart\u0101",
+        "s\u0101k\u1e63\u012b"
       ],
       "keyTerms": [
-        "prakṛteḥ",
-        "kriyamāṇāni",
-        "guṇaiḥ",
-        "ahaṅkāra-vimūḍha-ātmā",
-        "kartā",
+        "prak\u1e5bte\u1e25",
+        "kriyam\u0101\u1e47\u0101ni",
+        "gu\u1e47ai\u1e25",
+        "aha\u1e45k\u0101ra-vim\u016b\u1e0dha-\u0101tm\u0101",
+        "kart\u0101",
         "aham",
         "manyate"
       ]
@@ -308,8 +349,8 @@
       "chapter": 3,
       "verse": 19,
       "text": "Bhagavad Gita",
-      "tithi": "Kṛṣṇa Pakṣa Trayodāśī → Caturdaśī",
-      "nakshatra": "Uttara Bhādrapādā → Revatī",
+      "tithi": "K\u1e5b\u1e63\u1e47a Pak\u1e63a Trayod\u0101\u015b\u012b \u2192 Caturda\u015b\u012b",
+      "nakshatra": "Uttara Bh\u0101drap\u0101d\u0101 \u2192 Revat\u012b",
       "yoga": "Indra",
       "themes": [
         "asakti",
@@ -337,12 +378,12 @@
         "buddhi-function"
       ],
       "keyTerms": [
-        "asaktaḥ",
-        "satataṁ",
-        "kāryaṁ",
-        "samācara",
+        "asakta\u1e25",
+        "satata\u1e41",
+        "k\u0101rya\u1e41",
+        "sam\u0101cara",
         "param",
-        "pūruṣaḥ"
+        "p\u016bru\u1e63a\u1e25"
       ]
     },
     {
@@ -351,9 +392,9 @@
       "chapter": 3,
       "verse": 10,
       "text": "Bhagavad Gita",
-      "tithi": "Śukla Navamī",
-      "nakshatra": "Pūrva → Uttara Bhādrapadā",
-      "yoga": "Raudra → Sarvārtha Siddhi",
+      "tithi": "\u015aukla Navam\u012b",
+      "nakshatra": "P\u016brva \u2192 Uttara Bh\u0101drapad\u0101",
+      "yoga": "Raudra \u2192 Sarv\u0101rtha Siddhi",
       "themes": [
         "yajna",
         "creation",
@@ -390,9 +431,9 @@
       "chapter": 3,
       "verse": 6,
       "text": "Bhagavad Gita",
-      "tithi": "Kṛṣṇa Pakṣa Ekādaśī → Dwādaśī",
-      "nakshatra": "Śatabhiṣā",
-      "yoga": "Śukla",
+      "tithi": "K\u1e5b\u1e63\u1e47a Pak\u1e63a Ek\u0101da\u015b\u012b \u2192 Dw\u0101da\u015b\u012b",
+      "nakshatra": "\u015aatabhi\u1e63\u0101",
+      "yoga": "\u015aukla",
       "themes": [
         "karma-yoga",
         "sense-control",
@@ -421,12 +462,12 @@
         "svarupa"
       ],
       "keyTerms": [
-        "karmendriyāṇi",
-        "saṃyamya",
-        "manasā smaran",
-        "indriyārthān",
-        "mithyācāraḥ",
-        "vimūḍhātmā"
+        "karmendriy\u0101\u1e47i",
+        "sa\u1e43yamya",
+        "manas\u0101 smaran",
+        "indriy\u0101rth\u0101n",
+        "mithy\u0101c\u0101ra\u1e25",
+        "vim\u016b\u1e0dh\u0101tm\u0101"
       ]
     },
     {
@@ -435,9 +476,9 @@
       "chapter": 3,
       "verse": 8,
       "text": "Bhagavad Gita",
-      "tithi": "Kṛṣṇa Pakṣa Daśamī → Ekādaśī",
-      "nakshatra": "Dhaniṣṭhā",
-      "yoga": "Śubha",
+      "tithi": "K\u1e5b\u1e63\u1e47a Pak\u1e63a Da\u015bam\u012b \u2192 Ek\u0101da\u015b\u012b",
+      "nakshatra": "Dhani\u1e63\u1e6dh\u0101",
+      "yoga": "\u015aubha",
       "themes": [
         "karma-yoga",
         "prescribed-duty",
@@ -464,10 +505,10 @@
         "prakriti"
       ],
       "keyTerms": [
-        "niyataṁ",
+        "niyata\u1e41",
         "karma",
-        "jyāyaḥ",
-        "śarīra-yātrā",
+        "jy\u0101ya\u1e25",
+        "\u015bar\u012bra-y\u0101tr\u0101",
         "prasidhyet"
       ]
     },
@@ -477,9 +518,9 @@
       "chapter": 3,
       "verse": 30,
       "text": "Bhagavad Gita",
-      "tithi": "Kṛṣṇa Pakṣa Navamī → Daśamī",
-      "nakshatra": "Śravaṇa",
-      "yoga": "Sādhya",
+      "tithi": "K\u1e5b\u1e63\u1e47a Pak\u1e63a Navam\u012b \u2192 Da\u015bam\u012b",
+      "nakshatra": "\u015arava\u1e47a",
+      "yoga": "S\u0101dhya",
       "themes": [
         "karma-yoga",
         "surrender",
@@ -507,11 +548,11 @@
         "isvara-pranidhana"
       ],
       "keyTerms": [
-        "sarvāṇi karmāṇi",
-        "adhyātma-cetasā",
-        "nirāśīḥ",
-        "nirmamaḥ",
-        "vigata-jvaraḥ"
+        "sarv\u0101\u1e47i karm\u0101\u1e47i",
+        "adhy\u0101tma-cetas\u0101",
+        "nir\u0101\u015b\u012b\u1e25",
+        "nirmama\u1e25",
+        "vigata-jvara\u1e25"
       ]
     },
     {
@@ -520,8 +561,8 @@
       "chapter": 3,
       "verse": 7,
       "text": "Bhagavad Gita",
-      "tithi": "Kṛṣṇa Pakṣa Aṣṭamī → Navamī",
-      "nakshatra": "Uttara Aṣāḍhā",
+      "tithi": "K\u1e5b\u1e63\u1e47a Pak\u1e63a A\u1e63\u1e6dam\u012b \u2192 Navam\u012b",
+      "nakshatra": "Uttara A\u1e63\u0101\u1e0dh\u0101",
       "yoga": "Siddha",
       "themes": [
         "karma-yoga",
@@ -549,12 +590,12 @@
         "karma"
       ],
       "keyTerms": [
-        "manasā",
+        "manas\u0101",
         "niyamya",
-        "karmendriyaiḥ",
+        "karmendriyai\u1e25",
         "karma-yogam",
-        "asaktaḥ",
-        "viśiṣyate"
+        "asakta\u1e25",
+        "vi\u015bi\u1e63yate"
       ]
     },
     {
@@ -563,9 +604,9 @@
       "chapter": 3,
       "verse": 9,
       "text": "Bhagavad Gita",
-      "tithi": "Kṛṣṇa Pakṣa Saptami → Aṣṭamī",
-      "nakshatra": "Pūrva Aṣāḍhā",
-      "yoga": "Śiva",
+      "tithi": "K\u1e5b\u1e63\u1e47a Pak\u1e63a Saptami \u2192 A\u1e63\u1e6dam\u012b",
+      "nakshatra": "P\u016brva A\u1e63\u0101\u1e0dh\u0101",
+      "yoga": "\u015aiva",
       "themes": [
         "karma-yoga",
         "yajna",
@@ -608,9 +649,9 @@
       "chapter": 3,
       "verse": 5,
       "text": "Bhagavad Gita",
-      "tithi": "Kṛṣṇa Pakṣa Ṣaṣṭhī → Saptamī",
-      "nakshatra": "Mūla → Pūrva Aṣāḍhā",
-      "yoga": "Parīgha",
+      "tithi": "K\u1e5b\u1e63\u1e47a Pak\u1e63a \u1e62a\u1e63\u1e6dh\u012b \u2192 Saptam\u012b",
+      "nakshatra": "M\u016bla \u2192 P\u016brva A\u1e63\u0101\u1e0dh\u0101",
+      "yoga": "Par\u012bgha",
       "themes": [
         "karma-yoga",
         "mula-nakshatra",
@@ -635,12 +676,12 @@
         "vritti-sarupyam"
       ],
       "keyTerms": [
-        "avaśaḥ",
-        "prakṛti-jaiḥ",
-        "guṇaiḥ",
-        "akarma-kṛt",
-        "kāryate",
-        "kṣaṇam"
+        "ava\u015ba\u1e25",
+        "prak\u1e5bti-jai\u1e25",
+        "gu\u1e47ai\u1e25",
+        "akarma-k\u1e5bt",
+        "k\u0101ryate",
+        "k\u1e63a\u1e47am"
       ]
     },
     {
@@ -649,9 +690,9 @@
       "chapter": 3,
       "verse": 42,
       "text": "Bhagavad Gita",
-      "tithi": "Kṛṣṇa Pakṣa Ṣaṣṭhī",
-      "nakshatra": "Jyeṣṭha → Mūla",
-      "yoga": "Varīyān",
+      "tithi": "K\u1e5b\u1e63\u1e47a Pak\u1e63a \u1e62a\u1e63\u1e6dh\u012b",
+      "nakshatra": "Jye\u1e63\u1e6dha \u2192 M\u016bla",
+      "yoga": "Var\u012by\u0101n",
       "themes": [
         "karma-yoga",
         "conquest",
@@ -673,17 +714,17 @@
         "indriya",
         "manas",
         "buddhi",
-        "puruṣa",
-        "pratyāhāra",
+        "puru\u1e63a",
+        "praty\u0101h\u0101ra",
         "hierarchy"
       ],
       "keyTerms": [
-        "indriyāṇi",
-        "manaḥ",
-        "buddhiḥ",
-        "puruṣa",
-        "pratyāhāra",
-        "saḥ"
+        "indriy\u0101\u1e47i",
+        "mana\u1e25",
+        "buddhi\u1e25",
+        "puru\u1e63a",
+        "praty\u0101h\u0101ra",
+        "sa\u1e25"
       ]
     },
     {
@@ -693,35 +734,35 @@
       "verse": 9,
       "text": "Bhagavad Gita",
       "tithi": "Krishna Paksha Chaturthi (Sankashti Chaturthi)",
-      "nakshatra": "Viśākhā → Anurādhā",
+      "nakshatra": "Vi\u015b\u0101kh\u0101 \u2192 Anur\u0101dh\u0101",
       "yoga": "Siddhi",
       "themes": [
         "karma-yoga",
         "unbound-action",
         "sacrifice",
-        "yajña",
+        "yaj\u00f1a",
         "siddhi-yoga"
       ],
       "tags": [
         "#karma-yoga",
         "#unbound-action",
         "#sacrifice",
-        "#yajñārthāt",
-        "#mukta-saṅgaḥ"
+        "#yaj\u00f1\u0101rth\u0101t",
+        "#mukta-sa\u1e45ga\u1e25"
       ],
       "yogaSutraConnection": "YS 2.1",
       "sankhyaConcepts": [
         "karma",
         "karma-bandhana",
         "mukti",
-        "yajña",
-        "kriyā-yoga"
+        "yaj\u00f1a",
+        "kriy\u0101-yoga"
       ],
       "keyTerms": [
-        "yajña-arthāt",
-        "karma-bandhanaḥ",
-        "mukta-saṅgaḥ",
-        "samācara",
+        "yaj\u00f1a-arth\u0101t",
+        "karma-bandhana\u1e25",
+        "mukta-sa\u1e45ga\u1e25",
+        "sam\u0101cara",
         "kaunteya"
       ]
     },
@@ -731,33 +772,33 @@
       "chapter": 3,
       "verse": 19,
       "text": "Bhagavad Gita",
-      "tithi": "Kṛṣṇa Pakṣa Tṛtīyā",
-      "nakshatra": "Swāti → Viśākhā",
+      "tithi": "K\u1e5b\u1e63\u1e47a Pak\u1e63a T\u1e5bt\u012by\u0101",
+      "nakshatra": "Sw\u0101ti \u2192 Vi\u015b\u0101kh\u0101",
       "yoga": "Vajra",
       "themes": [
         "karma-yoga",
         "detached-action",
         "vajra-yoga",
         "duty",
-        "asaktaḥ"
+        "asakta\u1e25"
       ],
       "tags": [
         "#vajra-yoga",
         "#detached-action",
         "#karma-yoga",
-        "#asaktaḥ",
+        "#asakta\u1e25",
         "#swati-vishakha"
       ],
       "yogaSutraConnection": "YS II.1",
       "sankhyaConcepts": [
         "karma",
         "asakti",
-        "vairāgya",
-        "kriyā-yoga"
+        "vair\u0101gya",
+        "kriy\u0101-yoga"
       ],
       "keyTerms": [
-        "asaktaḥ",
-        "kāryam",
+        "asakta\u1e25",
+        "k\u0101ryam",
         "satatam",
         "param"
       ]
@@ -768,21 +809,21 @@
       "chapter": 3,
       "verse": 1,
       "text": "Bhagavad Gita",
-      "tithi": "Kṛṣṇa Pakṣa Dwitīyā",
-      "nakshatra": "Chitrā → Svāti",
-      "yoga": "Harṣaṇa",
+      "tithi": "K\u1e5b\u1e63\u1e47a Pak\u1e63a Dwit\u012by\u0101",
+      "nakshatra": "Chitr\u0101 \u2192 Sv\u0101ti",
+      "yoga": "Har\u1e63a\u1e47a",
       "themes": [
         "karma-yoga",
-        "jñāna-vs-karma",
-        "kriyā-yoga",
+        "j\u00f1\u0101na-vs-karma",
+        "kriy\u0101-yoga",
         "chapter-transition",
         "structure-to-flow"
       ],
       "tags": [
         "#karma-yoga",
         "#jnana-vs-karma",
-        "#viṣāda",
-        "#chitra-svāti",
+        "#vi\u1e63\u0101da",
+        "#chitra-sv\u0101ti",
         "#karma-yoga-day1"
       ],
       "yogaSutraConnection": "YS II.1",
@@ -791,14 +832,14 @@
         "buddhi",
         "buddhi-yoga",
         "tapas",
-        "svādhyāya"
+        "sv\u0101dhy\u0101ya"
       ],
       "keyTerms": [
-        "jyāyasī",
+        "jy\u0101yas\u012b",
         "karma",
         "buddhi",
-        "janārdana",
-        "keśava"
+        "jan\u0101rdana",
+        "ke\u015bava"
       ]
     },
     {
@@ -807,15 +848,15 @@
       "chapter": 2,
       "verse": 28,
       "text": "Bhagavad Gita",
-      "tithi": "Kṛṣṇa Pratipadā",
+      "tithi": "K\u1e5b\u1e63\u1e47a Pratipad\u0101",
       "nakshatra": "Chitra",
-      "yoga": "Vyāghāta",
+      "yoga": "Vy\u0101gh\u0101ta",
       "themes": [
         "manifestation",
         "unmanifest",
         "vyakta",
         "avyakta",
-        "paridevanā",
+        "paridevan\u0101",
         "cycles"
       ],
       "tags": [
@@ -836,8 +877,8 @@
       "keyTerms": [
         "avyakta",
         "vyakta",
-        "paridevanā",
-        "bhūtāni"
+        "paridevan\u0101",
+        "bh\u016bt\u0101ni"
       ]
     },
     {
@@ -846,7 +887,7 @@
       "chapter": 2,
       "verse": 15,
       "text": "Bhagavad Gita",
-      "tithi": "Śukla Pūrṇimā",
+      "tithi": "\u015aukla P\u016br\u1e47im\u0101",
       "nakshatra": "Hasta",
       "yoga": "Dhruva",
       "themes": [
@@ -887,15 +928,15 @@
       "chapter": 2,
       "verse": 20,
       "text": "Bhagavad Gita",
-      "tithi": "Śukla Caturdaśī → Pūrṇimā",
-      "nakshatra": "Uttara Phālgunī → Hasta",
-      "yoga": "Vṛddhi",
+      "tithi": "\u015aukla Caturda\u015b\u012b \u2192 P\u016br\u1e47im\u0101",
+      "nakshatra": "Uttara Ph\u0101lgun\u012b \u2192 Hasta",
+      "yoga": "V\u1e5bddhi",
       "themes": [
         "unborn",
         "eternal",
         "witness",
-        "pūrṇimā",
-        "kūṭa-stha"
+        "p\u016br\u1e47im\u0101",
+        "k\u016b\u1e6da-stha"
       ],
       "tags": [
         "#unborn",
@@ -907,18 +948,18 @@
       ],
       "yogaSutraConnection": "YS II.20",
       "sankhyaConcepts": [
-        "draṣṭā",
+        "dra\u1e63\u1e6d\u0101",
         "pratyaya",
-        "puruṣa-prakṛti",
-        "ṣaḍ-vikāra"
+        "puru\u1e63a-prak\u1e5bti",
+        "\u1e63a\u1e0d-vik\u0101ra"
       ],
       "keyTerms": [
-        "ajaḥ",
-        "nityaḥ",
-        "śāśvataḥ",
-        "purāṇaḥ",
-        "na jāyate",
-        "hanyamāne śarīre"
+        "aja\u1e25",
+        "nitya\u1e25",
+        "\u015b\u0101\u015bvata\u1e25",
+        "pur\u0101\u1e47a\u1e25",
+        "na j\u0101yate",
+        "hanyam\u0101ne \u015bar\u012bre"
       ]
     },
     {
@@ -927,35 +968,35 @@
       "chapter": 2,
       "verse": 28,
       "text": "Bhagavad Gita",
-      "tithi": "Śukla Trayodaśī → Caturdaśī",
-      "nakshatra": "Pūrva Phālgunī → Uttara Phālgunī",
+      "tithi": "\u015aukla Trayoda\u015b\u012b \u2192 Caturda\u015b\u012b",
+      "nakshatra": "P\u016brva Ph\u0101lgun\u012b \u2192 Uttara Ph\u0101lgun\u012b",
       "yoga": "Ganda",
       "themes": [
         "dissolution",
         "rebirth",
         "unmanifest",
-        "pradoṣa",
-        "phālgunī"
+        "prado\u1e63a",
+        "ph\u0101lgun\u012b"
       ],
       "tags": [
         "#avyakta",
         "#vyakta",
         "#dissolution",
-        "#pradoṣa",
-        "#kriyāyoga"
+        "#prado\u1e63a",
+        "#kriy\u0101yoga"
       ],
       "yogaSutraConnection": "YS II.1",
       "sankhyaConcepts": [
-        "kriyā-yoga",
+        "kriy\u0101-yoga",
         "tapas",
-        "svādhyāya",
-        "īśvara-praṇidhāna"
+        "sv\u0101dhy\u0101ya",
+        "\u012b\u015bvara-pra\u1e47idh\u0101na"
       ],
       "keyTerms": [
         "avyakta",
         "vyakta",
-        "bhūta",
-        "paridevanā",
+        "bh\u016bta",
+        "paridevan\u0101",
         "nidhana"
       ]
     },
@@ -965,8 +1006,8 @@
       "chapter": 2,
       "verse": 27,
       "text": "Bhagavad Gita",
-      "tithi": "Śukla Dwādaśī",
-      "nakshatra": "Maghā",
+      "tithi": "\u015aukla Dw\u0101da\u015b\u012b",
+      "nakshatra": "Magh\u0101",
       "yoga": "Soola",
       "themes": [
         "inevitability",
@@ -991,10 +1032,10 @@
       ],
       "keyTerms": [
         "dhruva",
-        "aparihārya",
-        "śocitum",
-        "jātasya",
-        "mṛtyu"
+        "aparih\u0101rya",
+        "\u015bocitum",
+        "j\u0101tasya",
+        "m\u1e5btyu"
       ]
     },
     {
@@ -1003,9 +1044,9 @@
       "chapter": 2,
       "verse": 58,
       "text": "Bhagavad Gita",
-      "tithi": "Śukla Ekādaśī (Kamada)",
-      "nakshatra": "Āśleṣā",
-      "yoga": "Dhṛti",
+      "tithi": "\u015aukla Ek\u0101da\u015b\u012b (Kamada)",
+      "nakshatra": "\u0100\u015ble\u1e63\u0101",
+      "yoga": "Dh\u1e5bti",
       "themes": [
         "sense-control",
         "ekadashi",
@@ -1027,10 +1068,10 @@
         "prajna"
       ],
       "keyTerms": [
-        "saṃharate",
-        "kūrma",
-        "prajñā",
-        "pratiṣṭhitā"
+        "sa\u1e43harate",
+        "k\u016brma",
+        "praj\u00f1\u0101",
+        "prati\u1e63\u1e6dhit\u0101"
       ]
     },
     {
@@ -1039,9 +1080,9 @@
       "chapter": 2,
       "verse": 70,
       "text": "Bhagavad Gita",
-      "tithi": "Śukla Daśamī → Ekādaśī",
-      "nakshatra": "Puṣya → Āśleṣā",
-      "yoga": "Sukarmān",
+      "tithi": "\u015aukla Da\u015bam\u012b \u2192 Ek\u0101da\u015b\u012b",
+      "nakshatra": "Pu\u1e63ya \u2192 \u0100\u015ble\u1e63\u0101",
+      "yoga": "Sukarm\u0101n",
       "themes": [
         "ocean-of-peace",
         "sense-control",
@@ -1062,11 +1103,11 @@
         "sense-withdrawal"
       ],
       "keyTerms": [
-        "āpūryamāṇam",
-        "acala-pratiṣṭham",
-        "kāma-kāmī",
-        "pratyāhāra",
-        "śānti"
+        "\u0101p\u016bryam\u0101\u1e47am",
+        "acala-prati\u1e63\u1e6dham",
+        "k\u0101ma-k\u0101m\u012b",
+        "praty\u0101h\u0101ra",
+        "\u015b\u0101nti"
       ]
     },
     {
@@ -1075,9 +1116,9 @@
       "chapter": 2,
       "verse": 26,
       "text": "Bhagavad Gita",
-      "tithi": "Śukla Navamī",
+      "tithi": "\u015aukla Navam\u012b",
       "nakshatra": "Punarvasu",
-      "yoga": "Śobhana",
+      "yoga": "\u015aobhana",
       "themes": [
         "cycles",
         "materialism-refuted",
@@ -1094,14 +1135,14 @@
       "yogaSutraConnection": "YS 2.12",
       "sankhyaConcepts": [
         "karma-cycles",
-        "kleśa-mūla"
+        "kle\u015ba-m\u016bla"
       ],
       "keyTerms": [
         "atha",
-        "nitya-jātam",
-        "tathāpi",
-        "mahā-bāhu",
-        "śocitum"
+        "nitya-j\u0101tam",
+        "tath\u0101pi",
+        "mah\u0101-b\u0101hu",
+        "\u015bocitum"
       ]
     },
     {
@@ -1110,25 +1151,25 @@
       "chapter": 2,
       "verse": 17,
       "text": "Bhagavad Gita",
-      "tithi": "Śukla Aṣṭamī",
-      "nakshatra": "Kṛttikā → Rohiṇī",
-      "yoga": "Śubha",
+      "tithi": "\u015aukla A\u1e63\u1e6dam\u012b",
+      "nakshatra": "K\u1e5bttik\u0101 \u2192 Rohi\u1e47\u012b",
+      "yoga": "\u015aubha",
       "themes": [
         "pervasion",
         "indestructibility",
         "consciousness"
       ],
       "tags": [
-        "#avināśi",
+        "#avin\u0101\u015bi",
         "#krittika",
         "#sankhya"
       ],
       "yogaSutraConnection": "YS I.3",
       "sankhyaConcepts": [
-        "puruṣa-prakṛti"
+        "puru\u1e63a-prak\u1e5bti"
       ],
       "keyTerms": [
-        "avināśi",
+        "avin\u0101\u015bi",
         "tatam",
         "avyaya"
       ]
@@ -1138,9 +1179,9 @@
       "source": "BG 2.29",
       "chapter": 2,
       "verse": 29,
-      "tithi": "Śukla Saptamī",
-      "nakshatra": "Mrigaśīrṣa",
-      "yoga": "Saubhāgya",
+      "tithi": "\u015aukla Saptam\u012b",
+      "nakshatra": "Mriga\u015b\u012br\u1e63a",
+      "yoga": "Saubh\u0101gya",
       "themes": [
         "knowledge-levels",
         "perception"
@@ -1154,17 +1195,17 @@
         "viveka"
       ],
       "keyTerms": [
-        "āścarya",
-        "paśyati",
-        "śṛṇoti"
+        "\u0101\u015bcarya",
+        "pa\u015byati",
+        "\u015b\u1e5b\u1e47oti"
       ]
     },
     {
       "date": "2026-03-23",
       "source": "BG 2.11",
-      "tithi": "Śukla Pañcamī",
-      "nakshatra": "Rohiṇī → Kṛttikā",
-      "yoga": "Sarvārtha Siddhi"
+      "tithi": "\u015aukla Pa\u00f1cam\u012b",
+      "nakshatra": "Rohi\u1e47\u012b \u2192 K\u1e5bttik\u0101",
+      "yoga": "Sarv\u0101rtha Siddhi"
     },
     {
       "date": "2026-03-22",
@@ -1327,5 +1368,5 @@
       "source": "BG 9.22"
     }
   ],
-  "lastUpdated": "2026-04-23"
+  "lastUpdated": "2026-04-24"
 }
