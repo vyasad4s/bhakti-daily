@@ -1,6 +1,97 @@
 {
-  "lastUpdated": "2026-04-23",
+  "lastUpdated": "2026-04-24",
   "terms": [
+    {
+      "term": "yad\u0101 yad\u0101",
+      "transliteration": "yad\u0101 yad\u0101",
+      "type": "adverb",
+      "definition": "Whenever and wherever; the cyclical trigger condition indicating divine intervention is not random but responds to systematic degradation.",
+      "roots": "from yad (when, whenever)",
+      "references": [
+        "BG 4.7"
+      ],
+      "themes": [
+        "divine-descent",
+        "avatara",
+        "dharma"
+      ]
+    },
+    {
+      "term": "gl\u0101ni\u1e25",
+      "transliteration": "gl\u0101ni\u1e25",
+      "type": "feminine noun (nominative singular)",
+      "definition": "Decline, depletion; the state when dharma has fallen below operational threshold.",
+      "roots": "from gl\u0101 (to fade, to be exhausted)",
+      "references": [
+        "BG 4.7"
+      ],
+      "themes": [
+        "decline",
+        "dharma",
+        "adharma"
+      ]
+    },
+    {
+      "term": "abhyutth\u0101nam",
+      "transliteration": "abhyutth\u0101nam",
+      "type": "neuter noun (nominative singular)",
+      "definition": "Rise, predominance; the upsurge of irreligion's influence over consciousness.",
+      "roots": "from abhi (toward) + ut (up) + sth\u0101 (to stand)",
+      "references": [
+        "BG 4.7"
+      ],
+      "themes": [
+        "adharma",
+        "predominance",
+        "rise"
+      ]
+    },
+    {
+      "term": "s\u1e5bj\u0101mi",
+      "transliteration": "s\u1e5bj\u0101mi",
+      "type": "first person singular present causative of s\u1e5bj",
+      "definition": "I manifest, I emit; not creation but making apparent what was always present.",
+      "roots": "from s\u1e5bj (to emit, to release)",
+      "references": [
+        "BG 4.7"
+      ],
+      "themes": [
+        "manifestation",
+        "descent",
+        "avatara"
+      ]
+    },
+    {
+      "term": "\u0101tm\u0101nam",
+      "transliteration": "\u0101tm\u0101nam",
+      "type": "masculine noun (accusative singular)",
+      "definition": "Myself; the Personal Absolute, not impersonal force but conscious descent.",
+      "roots": "from \u0101tman (self, soul)",
+      "references": [
+        "BG 4.7"
+      ],
+      "themes": [
+        "self",
+        "divine",
+        "personal-absolute"
+      ]
+    },
+    {
+      "term": "pra\u1e47idh\u0101na",
+      "transliteration": "pra\u1e47idh\u0101na",
+      "type": "neuter noun (nominative singular)",
+      "definition": "Complete surrender, devotion as orientation of the total being toward \u012a\u015bvara.",
+      "roots": "from pra (before) + ni (down) + dh\u0101 (to place)",
+      "references": [
+        "BG 4.7",
+        "YS I.23"
+      ],
+      "themes": [
+        "surrender",
+        "devotion",
+        "bhakti"
+      ]
+    },
     {
       "term": "pra\u1e47ip\u0101ta",
       "transliteration": "pra\u1e47ip\u0101ta",
