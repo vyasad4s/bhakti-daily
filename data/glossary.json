@@ -1,6 +1,101 @@
 {
-  "lastUpdated": "2026-04-25",
+  "lastUpdated": "2026-04-26",
   "terms": [
+    {
+      "term": "jñānam",
+      "transliteration": "jñānam",
+      "type": "noun",
+      "definition": "knowledge, wisdom, especially spiritual knowledge of the Absolute Truth; the mature fruit of yoga practice",
+      "roots": "from jñā (to know)",
+      "references": [
+        "BG 4.38"
+      ],
+      "themes": [
+        "jnana",
+        "knowledge",
+        "yoga"
+      ]
+    },
+    {
+      "term": "yoga-saṁsiddhiḥ",
+      "transliteration": "yoga-saṁsiddhiḥ",
+      "type": "feminine noun",
+      "definition": "mature perfection or accomplishment in yoga; the completed state when practice bears its fruit; mature fruit of all mysticism",
+      "roots": "from sam-siddhi (completion, perfection) + yoga",
+      "references": [
+        "BG 4.38"
+      ],
+      "themes": [
+        "jnana",
+        "yoga",
+        "maturity",
+        "perfection"
+      ]
+    },
+    {
+      "term": "śraddhā",
+      "transliteration": "śraddhā",
+      "type": "feminine noun",
+      "definition": "faith, clarity of mind, belief in the goal; the opening condition that makes knowledge accessible",
+      "roots": "from śrat (truth) + dhā (to hold)",
+      "references": [
+        "BG 4.39"
+      ],
+      "themes": [
+        "shraddha",
+        "faith",
+        "knowledge",
+        "jnanamarga"
+      ]
+    },
+    {
+      "term": "saṁyatendriyaḥ",
+      "transliteration": "saṁyatendriyaḥ",
+      "type": "masculine adjective (compound)",
+      "definition": "one who has subdued or controlled the senses; sense withdrawal as prerequisite; the Ekādasi principle of inner fasting embodied",
+      "roots": "from sam-yata (controlled) + indriya (senses)",
+      "references": [
+        "BG 4.39"
+      ],
+      "themes": [
+        "sense-control",
+        "ekadashi",
+        "discipline",
+        "yoga"
+      ]
+    },
+    {
+      "term": "acireṇa",
+      "transliteration": "acireṇa",
+      "type": "adverb",
+      "definition": "very soon, without delay, quickly; the immediacy of knowledge-peace once conditions are met",
+      "roots": "from a-cira (without long delay)",
+      "references": [
+        "BG 4.39"
+      ],
+      "themes": [
+        "immediacy",
+        "peace",
+        "knowledge",
+        "result"
+      ]
+    },
+    {
+      "term": "parā śāntiḥ",
+      "transliteration": "parā śāntiḥ",
+      "type": "feminine noun (compound)",
+      "definition": "supreme, transcendental peace; the peace that results from knowledge; not transactional calm but ontological stillness",
+      "roots": "from parā (supreme) + śānti (peace)",
+      "references": [
+        "BG 4.39"
+      ],
+      "themes": [
+        "peace",
+        "santi",
+        "jnanaphala",
+        "result"
+      ]
+    },
     {
       "term": "yadā yadā",
       "transliteration": "yadā yadā",
