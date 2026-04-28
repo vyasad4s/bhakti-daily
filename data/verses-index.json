@@ -1,6 +1,36 @@
 {
   "verses": [
     {
+      "date": "2026-04-28",
+      "source": "BG 4.6",
+      "chapter": 4,
+      "verse": 6,
+      "text": "Bhagavad Gita",
+      "tithi": "Śukla Dvādaśī",
+      "nakshatra": "Uttara Phālgunī",
+      "yoga": "Saumya",
+      "themes": [
+        "avatara",
+        "unborn",
+        "internalpower",
+        "maya",
+        "commitment"
+      ],
+      "tags": [
+        "#avatara",
+        "#unborn",
+        "#atmamaya",
+        "#uttara-phalguni",
+        "#saumya"
+      ],
+      "yogaSutraConnection": "YS III.42",
+      "sankhyaConcepts": [
+        "unborn-source",
+        "internal-prakriti",
+        "self-manifestation"
+      ]
+    },
+    {
       "date": "2026-04-27",
       "source": "BG 4.1",
       "chapter": 4,
@@ -194,5 +224,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-04-27"
+  "lastUpdated": "2026-04-28"
 }
