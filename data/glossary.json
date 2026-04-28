@@ -1,6 +1,81 @@
 {
-  "lastUpdated": "2026-04-27",
+  "lastUpdated": "2026-04-28",
   "terms": [
+    {
+      "term": "ajaḥ",
+      "transliteration": "ajaḥ",
+      "type": "masculine noun",
+      "definition": "Unborn, without beginning; the absolute source",
+      "roots": "from a (not) + ja (born)",
+      "references": [
+        "BG 4.6"
+      ],
+      "themes": [
+        "avatara",
+        "unborn",
+        "absolute-source"
+      ]
+    },
+    {
+      "term": "avyayātmā",
+      "transliteration": "avyayātmā",
+      "type": "compound masculine noun",
+      "definition": "Imperishable self; transcendental body never deteriorating",
+      "roots": "from a (not) + vyaya (deteriorating) + ātmā (self)",
+      "references": [
+        "BG 4.6"
+      ],
+      "themes": [
+        "imperishable",
+        "self",
+        "transcendental-body"
+      ]
+    },
+    {
+      "term": "īśvaraḥ",
+      "transliteration": "īśvaraḥ",
+      "type": "masculine noun",
+      "definition": "The Lord, the supreme controller",
+      "roots": "from īś (to rule, own)",
+      "references": [
+        "BG 4.6"
+      ],
+      "themes": [
+        "isvara",
+        "supreme-controller",
+        "lord"
+      ]
+    },
+    {
+      "term": "adhiṣṭhāya",
+      "transliteration": "adhiṣṭhāya",
+      "type": "gerund",
+      "definition": "Standing upon, residing in",
+      "roots": "from adhi (over) + sthā (to stand)",
+      "references": [
+        "BG 4.6"
+      ],
+      "themes": [
+        "residing",
+        "standing-upon",
+        "divine-presence"
+      ]
+    },
+    {
+      "term": "ātma-māyayā",
+      "transliteration": "ātma-māyayā",
+      "type": "feminine noun instrumental",
+      "definition": "By His internal potency/power",
+      "roots": "from ātman (self) + māyā (potency)",
+      "references": [
+        "BG 4.6"
+      ],
+      "themes": [
+        "internal-potency",
+        "atmamaya",
+        "divine-power"
+      ]
+    },
     {
       "term": "paramparā",
       "transliteration": "paramparā",
