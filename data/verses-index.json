@@ -1,6 +1,36 @@
 {
   "verses": [
     {
+      "date": "2026-04-29",
+      "source": "BG 4.3",
+      "chapter": 4,
+      "verse": 3,
+      "text": "Bhagavad Gita",
+      "tithi": "Śukla Caturdaśī",
+      "nakshatra": "Hasta → Chitrā",
+      "yoga": "Harṣaṇā → Vajra",
+      "themes": [
+        "narasimha",
+        "devotion",
+        "friendship",
+        "secret",
+        "transmission"
+      ],
+      "tags": [
+        "#narasimha",
+        "#jayanti",
+        "#devotion",
+        "#rahasya",
+        "#uttama"
+      ],
+      "yogaSutraConnection": "YS I.7",
+      "sankhyaConcepts": [
+        "bhakti",
+        "sakhya",
+        "secret-transmission"
+      ]
+    },
+    {
       "date": "2026-04-28",
       "source": "BG 4.6",
       "chapter": 4,
