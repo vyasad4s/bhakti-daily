@@ -11,22 +11,23 @@
       "yoga": "Vyatipāta → Varīyān",
       "themes": [
         "knowledge-as-object",
+        "meta-epistemology",
         "reset",
-        "transmission"
+        "svātī"
       ],
       "tags": [
         "#knowledge",
-        "#epistemic",
         "#svātī",
-        "#new-moon",
-        "#reset"
+        "#reset",
+        "#transmission"
       ],
       "yogaSutraConnection": "YS I.7",
       "sankhyaConcepts": [
         "sa-vijñeyam",
         "vidyā-vināśa-vardhan",
         "zero-fill"
-      ]
+      ],
+      "title": "Knowledge as the Object"
     },
     {
       "date": "2026-04-29",
