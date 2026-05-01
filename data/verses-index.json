@@ -1,287 +1,244 @@
 {
   "verses": [
     {
-      "date": "2026-04-30",
-      "source": "BG 4.4",
+      "date": "2026-05-01",
+      "source": "BG 4.37",
       "chapter": 4,
-      "verse": 4,
+      "verse": 37,
       "text": "Bhagavad Gita",
-      "tithi": "Amāvāsyā → Pratipad",
-      "nakshatra": "Svātī",
-      "yoga": "Vyatipāta → Varīyān",
+      "tithi": "Purnima",
+      "nakshatra": "Swati",
+      "yoga": "Siddhi",
       "themes": [
-        "knowledge-as-object",
-        "meta-epistemology",
-        "reset",
-        "svātī"
+        "jnana-yoga",
+        "karmic-purge",
+        "illumination",
+        "root-deletion",
+        "discrimination"
       ],
       "tags": [
-        "#knowledge",
-        "#svātī",
-        "#reset",
-        "#transmission"
+        "#JnanaYoga",
+        "#KarmicPurge",
+        "#Sankhya",
+        "#Purnima",
+        "#RootPurge"
       ],
-      "yogaSutraConnection": "YS I.7",
+      "yogaSutraConnection": "YS 1.23",
       "sankhyaConcepts": [
-        "sa-vijñeyam",
-        "vidyā-vināśa-vardhan",
-        "zero-fill"
-      ],
-      "title": "Knowledge as the Object"
-    },
-    {
-      "date": "2026-04-29",
-      "source": "BG 4.3",
-      "chapter": 4,
-      "verse": 3,
-      "text": "Bhagavad Gita",
-      "tithi": "Śukla Caturdaśī",
-      "nakshatra": "Hasta → Chitrā",
-      "yoga": "Harṣaṇā → Vajra",
-      "themes": [
-        "narasimha",
-        "devotion",
-        "friendship",
-        "secret",
-        "transmission"
-      ],
-      "tags": [
-        "#narasimha",
-        "#jayanti",
-        "#devotion",
-        "#rahasya",
-        "#uttama"
-      ],
-      "yogaSutraConnection": "YS I.7",
-      "sankhyaConcepts": [
-        "bhakti",
-        "sakhya",
-        "secret-transmission"
-      ]
-    },
-    {
-      "date": "2026-04-28",
-      "source": "BG 4.6",
-      "chapter": 4,
-      "verse": 6,
-      "text": "Bhagavad Gita",
-      "tithi": "Śukla Dvādaśī",
-      "nakshatra": "Uttara Phālgunī",
-      "yoga": "Saumya",
-      "themes": [
-        "avatara",
-        "unborn",
-        "internalpower",
-        "maya",
-        "commitment"
-      ],
-      "tags": [
-        "#avatara",
-        "#unborn",
-        "#atmamaya",
-        "#uttara-phalguni",
-        "#saumya"
-      ],
-      "yogaSutraConnection": "YS III.42",
-      "sankhyaConcepts": [
-        "unborn-source",
-        "internal-prakriti",
-        "self-manifestation"
-      ]
-    },
-    {
-      "date": "2026-04-27",
-      "source": "BG 4.1",
-      "chapter": 4,
-      "verse": 1,
-      "text": "Bhagavad Gita",
-      "tithi": "Śukla Ekādaśī → Dvādaśī (Mohinī)",
-      "nakshatra": "Pūrva Phālgunī → Uttara Phālgunī",
-      "yoga": "Dhruva → Vyāghāta",
-      "themes": [
-        "parampara",
-        "avyaya",
-        "vivasvan",
-        "restoration",
-        "imperishable-knowledge"
-      ],
-      "tags": [
-        "#parampara",
-        "#disciplic-succession",
-        "#avyaya",
-        "#imperishable",
-        "#vivasvan",
-        "#ekadashi",
-        "#mohini",
-        "#jñana-yoga"
-      ],
-      "yogaSutraConnection": "YS I.23, YS II.1",
-      "sankhyaConcepts": [
-        "parampara",
-        "avyaya",
-        "disciplic-succession",
-        "isvara-pranidhana"
+        "purusa-prakriti",
+        "viveka",
+        "buddhi-sharpness",
+        "klesha-burning"
       ],
       "keyTerms": [
-        "paramparā",
-        "avyayam",
-        "vivasvān",
-        "manave",
-        "ikṣvākave",
-        "avyaya"
+        "jnanagni",
+        "bhasma-sat",
+        "sarva-karmani"
       ]
     },
     {
-      "date": "2026-04-26",
-      "source": "BG 4.38-39",
-      "chapter": 4,
-      "verse": "38-39",
+      "date": "2026-04-14",
+      "source": "BG 3.8",
+      "chapter": 3,
+      "verse": 8,
       "text": "Bhagavad Gita",
-      "tithi": "Śukla Daśamī → Ekādaśī",
-      "nakshatra": "Pūrva Phālgunī",
-      "yoga": "Vṛddhi → Dhruva",
+      "tithi": "Dvitīya",
+      "nakshatra": "Pūrva Bhādrapāda → Uttara Bhādrapāda",
+      "yoga": "Raudra",
       "themes": [
-        "jnana",
-        "yoga-samsiddhi",
-        "ekadashi",
-        "shraddha",
+        "karma-yoga",
+        "action-over-inaction",
+        "kriya-yoga",
+        "prescribed-duty",
+        "discipline"
+      ],
+      "tags": [
+        "#karma-yoga",
+        "#action-over-inaction",
+        "#kriya-yoga",
+        "#discipline",
+        "#tapas",
+        "#prescribed-duty"
+      ],
+      "yogaSutraConnection": "YS II.1",
+      "sankhyaConcepts": [
+        "karma",
+        "prakriti-action",
+        "prescribed-duty",
+        "kleśas"
+      ],
+      "keyTerms": [
+        "niyatam",
+        "karma",
+        "akarmanah",
+        "kriya-yoga",
+        "tapas"
+      ]
+    },
+    {
+      "date": "2026-03-25",
+      "source": "BG 2.17",
+      "chapter": 2,
+      "verse": 17,
+      "text": "Bhagavad Gita",
+      "tithi": "\u015aukla A\u1e63\u1e6dam\u012b",
+      "nakshatra": "K\u1e5bttik\u0101 \u2192 Rohi\u1e47\u012b",
+      "yoga": "\u015aukha",
+      "themes": [
+        "pervasion",
+        "indestructibility",
+        "consciousness",
+        "viveka",
+        "soul"
+      ],
+      "tags": [
+        "#avin\u0101\u015bi",
+        "#pervasion",
+        "#consciousness",
+        "#krittika",
+        "#sankhya",
+        "#discrimination",
+        "#soul-nature"
+      ],
+      "yogaSutraConnection": "YS I.3",
+      "sankhyaConcepts": [
+        "puru\u1e63a-prak\u1e5bti",
+        "tatam",
+        "avyaya",
+        "viveka"
+      ],
+      "keyTerms": [
+        "avin\u0101\u015bi",
+        "tatam",
+        "avyaya",
+        "viddhi",
+        "sarvagata"
+      ]
+    },
+    {
+      "date": "2026-03-24",
+      "source": "BG 2.29",
+      "chapter": 2,
+      "verse": 29,
+      "text": "Bhagavad Gita",
+      "tithi": "\u015aukla Saptam\u012b",
+      "nakshatra": "Mrigash\u012br\u1e63a",
+      "yoga": "Saubh\u0101gya",
+      "themes": [
+        "knowledge-levels",
+        "perception",
+        "seeking",
+        "grace",
+        "soul"
+      ],
+      "tags": [
+        "#knowledge-levels",
+        "#perception",
+        "#mrgasira",
+        "#soul",
+        "#sankhya",
+        "#discrimination",
+        "#grace"
+      ],
+      "yogaSutraConnection": "YS I.7",
+      "sankhyaConcepts": [
+        "puru\u1e63a-prak\u1e5bti",
+        "viveka",
+        "pram\u0101\u1e47a"
+      ],
+      "keyTerms": [
+        "\u0101\u015bcarya",
+        "pa\u015byati",
+        "vadati",
+        "\u015b\u1e5b\u1e47oti",
+        "veda"
+      ]
+    },
+    {
+      "date": "2026-03-18",
+      "source": "BG 2.70",
+      "chapter": 2,
+      "verse": 70,
+      "text": "Bhagavad Gita",
+      "tithi": "Am\u0101v\u0101sy\u0101 (New Moon)",
+      "nakshatra": "P\u016brva Bh\u0101drapad\u0101 \u2192 Uttara Bh\u0101drapad\u0101",
+      "yoga": "\u015aubha \u2192 \u015aukla",
+      "themes": [
+        "vair\u0101gya",
+        "\u015b\u0101nti",
+        "completion",
+        "stillness",
+        "surrender"
+      ],
+      "tags": [
+        "#vairagya",
+        "#detachment",
+        "#inner-peace",
+        "#krishna-consciousness",
+        "#puru\u1e63a-prak\u1e5bti",
+        "#desire-management",
+        "#ocean-metaphor",
+        "#santi",
+        "#nirodha"
+      ],
+      "yogaSutraConnection": "YS I.15",
+      "sankhyaConcepts": [
+        "puru\u1e63a-prak\u1e5bti",
+        "acala-prati\u1e63\u1e6dha",
+        "\u0101p\u016bryam\u0101\u1e47am",
+        "va\u015b\u012bk\u0101ra"
+      ],
+      "keyTerms": [
+        "\u0101p\u016bryam\u0101\u1e47am",
+        "acala-prati\u1e63\u1e6dham",
+        "samudra",
+        "va\u015b\u012bk\u0101ra",
+        "\u015b\u0101nti",
+        "ap\u0101paviddha\u1e25"
+      ]
+    },
+    {
+      "date": "2026-03-09",
+      "source": "BG 2.14",
+      "chapter": 2,
+      "verse": 14,
+      "text": "Bhagavad Gita",
+      "tithi": "\u1e62a\u1e63\u1e6dh\u012b \u2192 Saptam\u012b",
+      "nakshatra": "Anur\u0101dh\u0101",
+      "yoga": "Har\u1e63a\u1e47a \u2192 Vajra",
+      "themes": [
+        "titik\u1e63\u0101",
+        "tolerance",
+        "impermanence",
+        "duty",
         "sense-control"
       ],
       "tags": [
-        "#jnana",
-        "#shraddha",
+        "#titik\u1e63\u0101",
+        "#tolerance",
+        "#duty",
+        "#anitya",
+        "#impermanence",
+        "#m\u0101tr\u0101-spar\u015ba",
         "#sense-control",
-        "#ekadashi",
-        "#yoga-samsiddhi"
+        "#s\u0101\u1e45khya",
+        "#prak\u1e5bti",
+        "#discernment"
       ],
-      "yogaSutraConnection": "YS I.20",
+      "yogaSutraConnection": "YS II.1",
       "sankhyaConcepts": [
-        "jnanam",
-        "yoga-samsiddhi",
-        "shraddha",
-        "samyatendriyah",
-        "bhakti-jnana-integration"
+        "puru\u1e63a-prak\u1e5bti dualism",
+        "gu\u1e47a-v\u1e5bttis",
+        "anitya"
       ],
       "keyTerms": [
-        "jnanam",
-        "yoga-samsiddhi",
-        "shraddha",
-        "samyatendriyah",
-        "acirena",
-        "para shanti"
-      ]
-    },
-    {
-      "date": "2026-04-25",
-      "source": "BG 4.2",
-      "chapter": 4,
-      "verse": 2,
-      "text": "Bhagavad Gita",
-      "tithi": "Śukla Daśamī",
-      "nakshatra": "Āśleṣā → Māgha",
-      "yoga": "Vṛddhi",
-      "themes": [
-        "parampara",
-        "transmission",
-        "lineage",
-        "saturn",
-        "restoration"
-      ],
-      "tags": [
-        "#parampara",
-        "#lineage",
-        "#entropy",
-        "#saturn",
-        "#restoration"
-      ],
-      "yogaSutraConnection": "YS I.14",
-      "sankhyaConcepts": [
-        "parampara",
-        "abhyasa",
-        "vairagya",
-        "breaking-transmission"
-      ]
-    },
-    {
-      "date": "2026-04-24",
-      "source": "BG 4.7",
-      "chapter": 4,
-      "verse": 7,
-      "text": "Bhagavad Gita",
-      "tithi": "Śukla Navamī",
-      "nakshatra": "Āśleṣā",
-      "yoga": "Śūla → Gaṇḍa",
-      "themes": [
-        "avatara",
-        "divine-descent",
-        "dharma-restore",
-        "ashlesha",
-        "penetrating-insight"
-      ],
-      "tags": [
-        "#avatara",
-        "#divine-descent",
-        "#dharmaglani",
-        "#ashlesha",
-        "#navami",
-        "#pranidhana"
-      ],
-      "yogaSutraConnection": "YS I.23",
-      "sankhyaConcepts": [
-        "avatara",
-        "isvara-pranidhana",
-        "divine-descent",
-        "prakriti-cycles"
-      ],
-      "keyTerms": [
-        "yada yada",
-        "dharmasya",
-        "glanih",
-        "abhyutthanam",
-        "adharmasya",
-        "srjami",
-        "atmanam"
-      ]
-    },
-    {
-      "date": "2026-04-23",
-      "source": "BG 4.34",
-      "chapter": 4,
-      "verse": 34,
-      "text": "Bhagavad Gita",
-      "tithi": "Śukla Saptamī → Aṣṭamī",
-      "nakshatra": "Punarvasu → Puṣya",
-      "yoga": "Dhṛti → Śūla",
-      "themes": [
-        "guru",
-        "surrender",
-        "jnana",
-        "transmission",
-        "pranipata",
-        "pariprasna",
-        "seva"
-      ],
-      "tags": [
-        "#guru",
-        "#surrender",
-        "#jnana",
-        "#parampara"
-      ],
-      "yogaSutraConnection": "YS I.23, II.1",
-      "sankhyaConcepts": [
-        "jnana-yoga",
-        "parampara",
-        "isvara-pranidhana"
-      ],
-      "keyTerms": [
-        "pranipata",
-        "pariprasna",
-        "seva",
-        "jnani",
-        "tattva-darsi",
-        "upadesa"
+        "titik\u1e63asva",
+        "m\u0101tr\u0101-spar\u015ba\u1e25",
+        "anity\u0101\u1e25",
+        "\u0101gama-ap\u0101yina\u1e25",
+        "\u015b\u012bta-u\u1e63\u1e도a"
       ]
     }
   ],
-  "lastUpdated": "2026-04-28"
+  "lastUpdated": "2026-05-01"
 }
