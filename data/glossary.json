@@ -1,6 +1,66 @@
 {
-  "lastUpdated": "2026-05-02",
+  "lastUpdated": "2026-05-03",
   "terms": [
+    {
+      "term": "विद्या",
+      "transliteration": "vidyā",
+      "type": "noun",
+      "definition": "Knowledge of the self, spiritual wisdom. In Sankhya-Yoga, vidyā is direct perception of puruṣa and prakṛti. Not to be confused with mundane scholarship. Hacker metaphor: Vidya = the source code of consciousness. Most people only see the compiled output (prakṛti); sages access the underlying architecture (puruṣa).",
+      "roots": "from vid (to know)",
+      "references": [
+        "BG 5.18"
+      ],
+      "themes": [
+        "knowledge",
+        "discrimination",
+        "sankhya"
+      ]
+    },
+    {
+      "term": "विनय",
+      "transliteration": "vinaya",
+      "type": "noun",
+      "definition": "Humility, the absence of ego-driven assertion. From vi-√nī (to lead away), vinaya removes the practitioner from attachment to personal opinions. Hacker metaphor: Vinaya = running as a non-root user. Ego escalation (root access) leads to system corruption; humility (user mode) preserves integrity.",
+      "roots": "from vi-√nī (to lead away)",
+      "references": [
+        "BG 5.18"
+      ],
+      "themes": [
+        "humility",
+        "ego-dissolution",
+        "discipline"
+      ]
+    },
+    {
+      "term": "समदर्शिनः",
+      "transliteration": "sama-darśinḥ",
+      "type": "adjective",
+      "definition": "Equal vision, non-discriminating perception. Not indifference — impartiality grounded in tattva-jñāna (truth knowledge). Hacker metaphor: Sama-darśin = seeing packets, not payloads. The enlightened debug the transmission of consciousness, not the temporary data it carries.",
+      "roots": "from sama (equal) + dṛś (to see)",
+      "references": [
+        "BG 5.18"
+      ],
+      "themes": [
+        "equanimity",
+        "non-attachment",
+        "vision"
+      ]
+    },
+    {
+      "term": "प्रशान्त",
+      "transliteration": "prasanta",
+      "type": "adjective",
+      "definition": "Tranquility, the quietude that follows the cessation of mental fluctuations. The natural state of citta when kleśas (afflictions) are removed. Hacker metaphor: Prasanta = CPU at idle. No unnecessary processes, no thermal throttling — the mind is cool, responsive, and available for true computation.",
+      "roots": "from pra (intensive) + śam (to calm)",
+      "references": [
+        "YS 2.38"
+      ],
+      "themes": [
+        "tranquility",
+        "nirodha",
+        "peace"
+      ]
+    },
     {
       "term": "akarmaṅgaḥ",
       "transliteration": "akarmaṅgaḥ",
