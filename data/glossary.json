@@ -1,6 +1,67 @@
 {
-  "lastUpdated": "2026-05-03",
+  "lastUpdated": "2026-05-04",
   "terms": [
+    {
+      "term": "संन्यास (Sannyāsa)",
+      "transliteration": "sannyāsa",
+      "type": "masculine noun",
+      "definition": "Renunciation of the ego's claim on actions. The Gita redefines it—not as abandonment of duty, but as ownership transfer to the Supreme.",
+      "roots": "from sam (complete) + nyasa (laying down)",
+      "references": [
+        "BG 5.29"
+      ],
+      "themes": [
+        "renunciation",
+        "action",
+        "karma yoga"
+      ]
+    },
+    {
+      "term": "साक्षी (Sākṣī)",
+      "transliteration": "sākṣī",
+      "type": "masculine noun",
+      "definition": "The witness consciousness, unattached yet fully aware. BG 9.18 describes Kṛṣṇa as this for every soul: \"I am the witness, the maintainer, the shelter.\"",
+      "roots": "from sakṣ (to witness)",
+      "references": [
+        "BG 5.29",
+        "BG 9.18"
+      ],
+      "themes": [
+        "witness",
+        "consciousness",
+        "detachment"
+      ]
+    },
+    {
+      "term": "परिघ योग (Parigha Yoga)",
+      "transliteration": "parigha yoga",
+      "type": "masculine noun (yoga)",
+      "definition": "A restrictive yoga that forces attention inward. Like a failed script timing out, it creates pressure—but therein lies its gift.",
+      "roots": "from parigha (obstruction, fence)",
+      "references": [
+        "Panchanga 2026-05-04"
+      ],
+      "themes": [
+        "yoga",
+        "restriction",
+        "meditation"
+      ]
+    },
+    {
+      "term": "विष्टि करण (Viṣṭi Karaṇa)",
+      "transliteration": "viṣṭi karaṇa",
+      "type": "neuter noun",
+      "definition": "A dangerous time for initiation, but ripe for debugging samskaras (mental imprints). Treat reactive patterns as errors to catch, not identities to defend.",
+      "roots": "from viṣṭi (dangerous, spreading)",
+      "references": [
+        "Panchanga 2026-05-04"
+      ],
+      "themes": [
+        "karana",
+        "time",
+        "self-inquiry"
+      ]
+    },
     {
       "term": "विद्या",
       "transliteration": "vidyā",
