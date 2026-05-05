@@ -1,6 +1,20 @@
 {
   "verses": [
     {
+      "date": "2026-05-05",
+      "source": "BG 5.28",
+      "chapter": 5,
+      "verse": 28,
+      "text": "Bhagavad Gita",
+      "tithi": "Kṛṣṇa Daśamī",
+      "nakshatra": "Mūla",
+      "yoga": "Śiva",
+      "themes": ["sense withdrawal", "root access consciousness"],
+      "tags": ["rootportal", "kusala", "shutdownsequence"],
+      "yogaSutraConnection": "YS II.54 (Pratyāhāra)",
+      "sankhyaConcepts": ["puruṣa", "antaḥkaraṇa"]
+    },
+    {
       "date": "2026-05-04",
       "source": "BG 5.29",
       "chapter": 5,
@@ -37,38 +51,11 @@
       "tithi": "Krishna Paksha Dwitiya",
       "nakshatra": "Rohini",
       "yoga": "Vṛddhi",
-      "themes": [
-        "equanimity",
-        "non-attachment",
-        "renunciation",
-        "sage-vision",
-        "unity-in-diversity"
-      ],
-      "tags": [
-        "#equanimity",
-        "#non-attachment",
-        "#renunciation",
-        "#sankhya",
-        "#yoga-sutra",
-        "#sama-darshin",
-        "#vidya",
-        "#vinaya"
-      ],
+      "themes": ["equanimity", "non-attachment", "renunciation", "sage-vision", "unity-in-diversity"],
+      "tags": ["#equanimity", "#non-attachment", "#renunciation", "#sankhya", "#yoga-sutra", "#sama-darshin", "#vidya", "#vinaya"],
       "yogaSutraConnection": "YS 2.38",
-      "sankhyaConcepts": [
-        "puruṣa",
-        "prakṛti",
-        "tattva-jñāna",
-        "citta-vṛtti-nirodhaḥ",
-        "kleśa-dissolution"
-      ],
-      "keyTerms": [
-        "vidyā",
-        "vinaya",
-        "sama-darśinḥ",
-        "prasanta",
-        "ātman"
-      ]
+      "sankhyaConcepts": ["puruṣa", "prakṛti", "tattva-jñāna", "citta-vṛtti-nirodhaḥ", "kleśa-dissolution"],
+      "keyTerms": ["vidyā", "vinaya", "sama-darśinḥ", "prasanta", "ātman"]
     },
     {
       "date": "2026-05-02",
@@ -79,33 +66,11 @@
       "tithi": "Krishna Paksha Pratipada",
       "nakshatra": "Vishaka",
       "yoga": "Vyatipata → Variyan",
-      "themes": [
-        "jnana-yoga",
-        "karmic-deletion",
-        "purification",
-        "Viveka",
-        "Narada-Jayanti"
-      ],
-      "tags": [
-        "#KarmicDeletion",
-        "#AgniPrinciple",
-        "#Kaivalya",
-        "#Viveka",
-        "#SankhyaDebug"
-      ],
+      "themes": ["jnana-yoga", "karmic-deletion", "purification", "Viveka", "Narada-Jayanti"],
+      "tags": ["#KarmicDeletion", "#AgniPrinciple", "#Kaivalya", "#Viveka", "#SankhyaDebug"],
       "yogaSutraConnection": "YS 4.29-4.30",
-      "sankhyaConcepts": [
-        "guna-transcendence",
-        "dharma-megha-samadhi",
-        "klesha-dissolution",
-        "purusa-realization"
-      ],
-      "keyTerms": [
-        "jnanagni",
-        "bhasma-sat",
-        "pavitram",
-        "yoga-samsiddhah"
-      ]
+      "sankhyaConcepts": ["guna-transcendence", "dharma-megha-samadhi", "klesha-dissolution", "purusa-realization"],
+      "keyTerms": ["jnanagni", "bhasma-sat", "pavitram", "yoga-samsiddhah"]
     },
     {
       "date": "2026-05-01",
@@ -116,32 +81,11 @@
       "tithi": "Purnima",
       "nakshatra": "Swati",
       "yoga": "Siddhi",
-      "themes": [
-        "jnana-yoga",
-        "karmic-purge",
-        "illumination",
-        "root-deletion",
-        "discrimination"
-      ],
-      "tags": [
-        "#JnanaYoga",
-        "#KarmicPurge",
-        "#Sankhya",
-        "#Purnima",
-        "#RootPurge"
-      ],
+      "themes": ["jnana-yoga", "karmic-purge", "illumination", "root-deletion", "discrimination"],
+      "tags": ["#JnanaYoga", "#KarmicPurge", "#Sankhya", "#Purnima", "#RootPurge"],
       "yogaSutraConnection": "YS 1.23",
-      "sankhyaConcepts": [
-        "purusa-prakriti",
-        "viveka",
-        "buddhi-sharpness",
-        "klesha-burning"
-      ],
-      "keyTerms": [
-        "jnanagni",
-        "bhasma-sat",
-        "sarva-karmani"
-      ]
+      "sankhyaConcepts": ["purusa-prakriti", "viveka", "buddhi-sharpness", "klesha-burning"],
+      "keyTerms": ["jnanagni", "bhasma-sat", "sarva-karmani"]
     },
     {
       "date": "2026-04-14",
@@ -152,35 +96,11 @@
       "tithi": "Dvitīya",
       "nakshatra": "Pūrva Bhādrapāda → Uttara Bhādrapāda",
       "yoga": "Raudra",
-      "themes": [
-        "karma-yoga",
-        "action-over-inaction",
-        "kriya-yoga",
-        "prescribed-duty",
-        "discipline"
-      ],
-      "tags": [
-        "#karma-yoga",
-        "#action-over-inaction",
-        "#kriya-yoga",
-        "#discipline",
-        "#tapas",
-        "#prescribed-duty"
-      ],
+      "themes": ["karma-yoga", "action-over-inaction", "kriya-yoga", "prescribed-duty", "discipline"],
+      "tags": ["#karma-yoga", "#action-over-inaction", "#kriya-yoga", "#discipline", "#tapas", "#prescribed-duty"],
       "yogaSutraConnection": "YS II.1",
-      "sankhyaConcepts": [
-        "karma",
-        "prakriti-action",
-        "prescribed-duty",
-        "kleśas"
-      ],
-      "keyTerms": [
-        "niyatam",
-        "karma",
-        "akarmanah",
-        "kriya-yoga",
-        "tapas"
-      ]
+      "sankhyaConcepts": ["karma", "prakriti-action", "prescribed-duty", "kleśas"],
+      "keyTerms": ["niyatam", "karma", "akarmanah", "kriya-yoga", "tapas"]
     },
     {
       "date": "2026-03-25",
@@ -191,36 +111,11 @@
       "tithi": "Śukla Aṣṭamī",
       "nakshatra": "Kṛttikā → Rohiṇī",
       "yoga": "Śukha",
-      "themes": [
-        "pervasion",
-        "indestructibility",
-        "consciousness",
-        "viveka",
-        "soul"
-      ],
-      "tags": [
-        "#avināśi",
-        "#pervasion",
-        "#consciousness",
-        "#krittika",
-        "#sankhya",
-        "#discrimination",
-        "#soul-nature"
-      ],
+      "themes": ["pervasion", "indestructibility", "consciousness", "viveka", "soul"],
+      "tags": ["#avināśi", "#pervasion", "#consciousness", "#krittika", "#sankhya", "#discrimination", "#soul-nature"],
       "yogaSutraConnection": "YS I.3",
-      "sankhyaConcepts": [
-        "puruṣa-prakṛti",
-        "tatam",
-        "avyaya",
-        "viveka"
-      ],
-      "keyTerms": [
-        "avināśi",
-        "tatam",
-        "avyaya",
-        "viddhi",
-        "sarvagata"
-      ]
+      "sankhyaConcepts": ["puruṣa-prakṛti", "tatam", "avyaya", "viveka"],
+      "keyTerms": ["avināśi", "tatam", "avyaya", "viddhi", "sarvagata"]
     },
     {
       "date": "2026-03-24",
@@ -231,35 +126,11 @@
       "tithi": "Śukla Saptamī",
       "nakshatra": "Mṛgaśirā",
       "yoga": "Saubhāgya",
-      "themes": [
-        "knowledge-levels",
-        "perception",
-        "seeking",
-        "grace",
-        "soul"
-      ],
-      "tags": [
-        "#knowledge-levels",
-        "#perception",
-        "#mrgasira",
-        "#soul",
-        "#sankhya",
-        "#discrimination",
-        "#grace"
-      ],
+      "themes": ["knowledge-levels", "perception", "seeking", "grace", "soul"],
+      "tags": ["#knowledge-levels", "#perception", "#mrgasira", "#soul", "#sankhya", "#discrimination", "#grace"],
       "yogaSutraConnection": "YS I.7",
-      "sankhyaConcepts": [
-        "puruṣa-prakṛti",
-        "viveka",
-        "pramāṇa"
-      ],
-      "keyTerms": [
-        "āścarya",
-        "paśyati",
-        "vadati",
-        "śṛṇoti",
-        "veda"
-      ]
+      "sankhyaConcepts": ["puruṣa-prakṛti", "viveka", "pramāṇa"],
+      "keyTerms": ["āścarya", "paśyati", "vadati", "śṛṇoti", "veda"]
     },
     {
       "date": "2026-03-18",
@@ -270,39 +141,11 @@
       "tithi": "Amāvasyā (New Moon)",
       "nakshatra": "Pūrva Bhādrapāda → Uttara Bhādrapāda",
       "yoga": "Śubha → Śukla",
-      "themes": [
-        "vairāgya",
-        "śānti",
-        "completion",
-        "stillness",
-        "surrender"
-      ],
-      "tags": [
-        "#vairagya",
-        "#detachment",
-        "#inner-peace",
-        "#krishna-consciousness",
-        "#puruṣa-prakṛti",
-        "#desire-management",
-        "#ocean-metaphor",
-        "#santi",
-        "#nirodha"
-      ],
+      "themes": ["vairāgya", "śānti", "completion", "stillness", "surrender"],
+      "tags": ["#vairagya", "#detachment", "#inner-peace", "#krishna-consciousness", "#puruṣa-prakṛti", "#desire-management", "#ocean-metaphor", "#santi", "#nirodha"],
       "yogaSutraConnection": "YS I.15",
-      "sankhyaConcepts": [
-        "puruṣa-prakṛti",
-        "acala-pratiṣṭha",
-        "āpūryamāṇam",
-        "vaśīkāra"
-      ],
-      "keyTerms": [
-        "āpūryamāṇam",
-        "acala-pratiṣṭham",
-        "samudra",
-        "vaśīkāra",
-        "śānti",
-        "apāpaviddham"
-      ]
+      "sankhyaConcepts": ["puruṣa-prakṛti", "acala-pratiṣṭha", "āpūryamāṇam", "vaśīkāra"],
+      "keyTerms": ["āpūryamāṇam", "acala-pratiṣṭham", "samudra", "vaśīkāra", "śānti", "apāpaviddham"]
     },
     {
       "date": "2026-03-09",
@@ -313,39 +156,12 @@
       "tithi": "Ṣaṣṭhī → Saptamī",
       "nakshatra": "Anurādhā",
       "yoga": "Harṣaṇa → Vajra",
-      "themes": [
-        "titikṣā",
-        "tolerance",
-        "impermanence",
-        "duty",
-        "sense-control"
-      ],
-      "tags": [
-        "#titikṣā",
-        "#tolerance",
-        "#duty",
-        "#anitya",
-        "#impermanence",
-        "#mātrā-sparśa",
-        "#sense-control",
-        "#sāṅkhya",
-        "#prakṛti",
-        "#discernment"
-      ],
+      "themes": ["titikṣā", "tolerance", "impermanence", "duty", "sense-control"],
+      "tags": ["#titikṣā", "#tolerance", "#duty", "#anitya", "#impermanence", "#mātrā-sparśa", "#sense-control", "#sāṅkhya", "#prakṛti", "#discernment"],
       "yogaSutraConnection": "YS II.1",
-      "sankhyaConcepts": [
-        "puruṣa-prakṛti dualism",
-        "guṇa-vṛttis",
-        "anitya"
-      ],
-      "keyTerms": [
-        "titikṣasva",
-        "mātrā-sparśāḥ",
-        "anityāḥ",
-        "āgamāpāyinaḥ",
-        "śītoṣṇa"
-      ]
+      "sankhyaConcepts": ["puruṣa-prakṛti dualism", "guṇa-vṛttis", "anitya"],
+      "keyTerms": ["titikṣasva", "mātrā-sparśāḥ", "anityāḥ", "āgamāpāyinaḥ", "śītoṣṇa"]
     }
   ],
-  "lastUpdated": "2026-05-03"
+  "lastUpdated": "2026-05-05"
 }
