@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-04",
+  "lastUpdated": "2026-05-05",
   "terms": [
     {
       "term": "संन्यास (Sannyāsa)",
@@ -492,6 +492,52 @@
         "peace",
         "completion",
         "sāṅkhya"
+      ]
+    },
+    {
+      "term": "Mūla Nakṣatra",
+      "transliteration": "mūla nakṣatra",
+      "type": "feminine noun (nakṣatra)",
+      "definition": "Root Portal: The lunar mansion governed by Nirṛti (dissolution). Your BIOS reset point.",
+      "roots": "mūla (root)",
+      "references": [
+        "Panchanga 2026-05-05"
+      ],
+      "themes": [
+        "panchanga",
+        "dissolution",
+        "roots"
+      ]
+    },
+    {
+      "term": "Pratyāhāra",
+      "transliteration": "pratyāhāra",
+      "type": "masculine noun",
+      "definition": "Sense Withdrawal: The kill -9 command for sensory interrupts. The process of pulling the awareness away from the sense objects and centering it in the mind.",
+      "roots": "prati (against/back) + hāra (taking away)",
+      "references": [
+        "BG 5.28",
+        "YS II.54"
+      ],
+      "themes": [
+        "yoga",
+        "discipline",
+        "sense-control"
+      ]
+    },
+    {
+      "term": "Ātma-stha",
+      "transliteration": "ātma-stha",
+      "type": "adjective",
+      "definition": "Indwelling Kernel: The paramātmā embedded in your consciousness stack; the Supreme residing within the heart of every living entity.",
+      "roots": "ātman (self) + stha (situated)",
+      "references": [
+        "BG 5.28"
+      ],
+      "themes": [
+        "paramatma",
+        "indwelling",
+        "realization"
       ]
     }
   ]
