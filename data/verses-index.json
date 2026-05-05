@@ -2,19 +2,46 @@
   "verses": [
     {
       "date": "2026-05-05",
-      "source": "BG 5.28",
+      "source": "BG 5.27–5.28",
       "chapter": 5,
-      "verse": 28,
+      "verse": "27–28",
       "text": "Bhagavad Gita",
       "tithi": "Kṛṣṇa Daśamī",
       "nakshatra": "Mūla",
       "yoga": "Śiva",
-      "themes": ["sense withdrawal", "root intelligence", "BIOS consciousness", "terminal logout"],
-      "tags": ["rootNullification", "yatendra", "yuktaḥ", "pratyāhāra", "Mūla"],
+      "themes": [
+        "sense withdrawal",
+        "root intelligence",
+        "BIOS consciousness",
+        "terminal logout"
+      ],
+      "tags": [
+        "rootNullification",
+        "yatendra",
+        "yuktaḥ",
+        "pratyāhāra",
+        "Mūla"
+      ],
       "yogaSutraConnection": "YS II.54",
-      "sankhyaConcepts": ["puruṣa", "buddhi", "pratyāhāra", "ahaṅkāra-zeroed"],
-      "keyTerms": ["yatendra", "manobuddhi", "yoga-vatiṣṭhati", "dṛg-dṛśya-viveka", "Śiva"],
-      "cosmicThemes": ["BIOS whisper", "Ketu pointer", "init 0", "karma reformat"]
+      "sankhyaConcepts": [
+        "puruṣa",
+        "buddhi",
+        "pratyāhāra",
+        "ahaṅkāra-zeroed"
+      ],
+      "keyTerms": [
+        "yatendra",
+        "manobuddhi",
+        "yoga-vatiṣṭhati",
+        "dṛg-dṛśya-viveka",
+        "Śiva"
+      ],
+      "cosmicThemes": [
+        "BIOS whisper",
+        "Ketu pointer",
+        "init 0",
+        "karma reformat"
+      ]
     },
     {
       "date": "2026-05-04",
@@ -25,11 +52,28 @@
       "tithi": "Kṛṣṇa Tritīyā",
       "nakshatra": "Jyeṣṭha → Mūla",
       "yoga": "Parigha → Śiva",
-      "themes": ["Supreme Enjoyer", "peace", "system scheduler"],
-      "tags": ["bhokta","sarvaloka","suhrid","ŚivaYoga"],
+      "themes": [
+        "Supreme Enjoyer",
+        "peace",
+        "system scheduler"
+      ],
+      "tags": [
+        "bhokta",
+        "sarvaloka",
+        "suhrid",
+        "ŚivaYoga"
+      ],
       "yogaSutraConnection": "YS I.23",
-      "sankhyaConcepts": ["īśvara", "puruṣa", "prakṛti"],
-      "keyTerms": ["bhokta", "sarva-loka-maheśvara", "śānti"]
+      "sankhyaConcepts": [
+        "īśvara",
+        "puruṣa",
+        "prakṛti"
+      ],
+      "keyTerms": [
+        "bhokta",
+        "sarva-loka-maheśvara",
+        "śānti"
+      ]
     },
     {
       "date": "2026-05-03",
@@ -40,11 +84,30 @@
       "tithi": "Kṛṣṇa Pakṣa Dvitīyā",
       "nakshatra": "Rohiṇī",
       "yoga": "Vṛddhi",
-      "themes": ["equanimity", "equal vision", "non-discrimination"],
-      "tags": ["equalVision", "sama-darśin"],
+      "themes": [
+        "equanimity",
+        "equal vision",
+        "non-discrimination"
+      ],
+      "tags": [
+        "equalVision",
+        "sama-darśin"
+      ],
       "yogaSutraConnection": "YS 2.38",
-      "sankhyaConcepts": ["puruṣa", "tattva-jñāna", "buddhi"],
-      "keyTerms": ["vidyā", "vinaya", "sama-darśinḥ", "brāhmaṇe", "gavi", "śuni", "śvapāke"]
+      "sankhyaConcepts": [
+        "puruṣa",
+        "tattva-jñāna",
+        "buddhi"
+      ],
+      "keyTerms": [
+        "vidyā",
+        "vinaya",
+        "sama-darśinḥ",
+        "brāhmaṇe",
+        "gavi",
+        "śuni",
+        "śvapāke"
+      ]
     }
   ],
   "lastUpdated": "2026-05-05"
