@@ -1,6 +1,66 @@
 {
-  "lastUpdated": "2026-05-05",
+  "lastUpdated": "2026-05-06",
   "terms": [
+    {
+      "term": "bandhāt pramucyate",
+      "transliteration": "bandhāt pramucyate",
+      "type": "verb phrase",
+      "definition": "Liberated from bondage; the deletion of the karmic link between action and actor.",
+      "roots": "bandha (bondage) + muc (to release)",
+      "references": [
+        "BG 5.3"
+      ],
+      "themes": [
+        "liberation",
+        "bondage",
+        "root-purge"
+      ]
+    },
+    {
+      "term": "nitya-sannyāsī",
+      "transliteration": "nitya-sannyāsī",
+      "type": "masculine noun",
+      "definition": "The permanent renouncer; one whose internal state is permanently decoupled from external results.",
+      "roots": "nitya (eternal) + sannyāsa (renunciation)",
+      "references": [
+        "BG 5.3"
+      ],
+      "themes": [
+        "renunciation",
+        "stability",
+        "consciousness"
+      ]
+    },
+    {
+      "term": "nirdvandvaḥ",
+      "transliteration": "nirdvandvaḥ",
+      "type": "adjective",
+      "definition": "Free from dualities; the state of zero oscillation between attraction and repulsion.",
+      "roots": "nis (without) + dvandva (duality/pair)",
+      "references": [
+        "BG 5.3"
+      ],
+      "themes": [
+        "equanimity",
+        "duality",
+        "sankhya"
+      ]
+    },
+    {
+      "term": "Pūrva Āṣāḍha",
+      "transliteration": "pūrva āṣāḍha",
+      "type": "feminine noun (nakṣatra)",
+      "definition": "The \"Early Rain\" nakṣatra; symbolizes the flow of will being redirected from the ego to the Absolute.",
+      "roots": "pūrva (early) + āṣāḍha (month of Ashadha)",
+      "references": [
+        "Panchanga 2026-05-06"
+      ],
+      "themes": [
+        "panchanga",
+        "will",
+        "water-element"
+      ]
+    },
     {
       "term": "संन्यास (Sannyāsa)",
       "transliteration": "sannyāsa",
