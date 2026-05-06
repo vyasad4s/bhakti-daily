@@ -1,6 +1,38 @@
 {
   "verses": [
     {
+      "date": "2026-05-06",
+      "source": "BG 5.3",
+      "chapter": 5,
+      "verse": 3,
+      "text": "Bhagavad Gita",
+      "tithi": "Śukla Pratipad",
+      "nakshatra": "Pūrva Āṣāḍha",
+      "yoga": "Viṣṭi",
+      "themes": [
+        "Eternal Renouncer",
+        "Zero Entropy",
+        "Freedom from Dualities"
+      ],
+      "tags": [
+        "nitya-sannyasi",
+        "nirdvandva",
+        "zeroEntropy",
+        "bondageDeletion"
+      ],
+      "yogaSutraConnection": "YS IV.7",
+      "sankhyaConcepts": [
+        "nirdvandva",
+        "sthiratā",
+        "prakriti-null"
+      ],
+      "keyTerms": [
+        "nitya-sannyāsī",
+        "nirdvandvaḥ",
+        "bandhāt pramucyate"
+      ]
+    },
+    {
       "date": "2026-05-05",
       "source": "BG 5.27–5.28",
       "chapter": 5,
@@ -110,5 +142,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-05-05"
+  "lastUpdated": "2026-05-06"
 }
