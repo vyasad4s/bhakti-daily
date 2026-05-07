@@ -2,240 +2,6 @@
   "lastUpdated": "2026-05-07",
   "terms": [
     {
-      "term": "ज्ञान-यज्ञ",
-      "transliteration": "jñāna-yajña",
-      "type": "noun",
-      "definition": "The sacrifice of knowledge; the process of offering one's intellectual faculties and ego to the Absolute Truth.",
-      "roots": "from jñāna (knowledge) + yajña (sacrifice)",
-      "references": [
-        "BG 4.33"
-      ],
-      "themes": [
-        "JnanaYoga",
-        "KnowledgeAsSacrifice"
-      ]
-    },
-    {
-      "term": "द्रव्य-मय",
-      "transliteration": "dravya-maya",
-      "type": "adjective",
-      "definition": "Materially composed; referring to physical assets or offerings (legacy hardware).",
-      "roots": "from dravya (matter) + maya (composed of)",
-      "references": [
-        "BG 4.33"
-      ],
-      "themes": [
-        "TranscendentalUpgrade"
-      ]
-    },
-    {
-      "term": "कर्म-काण्ड",
-      "transliteration": "karma-kāṇḍa",
-      "type": "noun",
-      "definition": "The ritualistic layer of spiritual practice; performing actions to achieve specific results (scripted mode).",
-      "roots": "from karma (action) + kāṇḍa (section)",
-      "references": [
-        "BG 4.33"
-      ],
-      "themes": [
-        "KriyaYoga"
-      ]
-    },
-    {
-      "term": "ज्ञान-काण्ड",
-      "transliteration": "jñāna-kāṇḍa",
-      "type": "noun",
-      "definition": "The pursuit of truth through discernment; the \"debug\" mode where the nature of reality is analyzed.",
-      "roots": "from jñāna (knowledge) + kāṇḍa (section)",
-      "references": [
-        "BG 4.33"
-      ],
-      "themes": [
-        "JnanaYoga"
-      ]
-    },
-    {
-      "term": "bandhāt pramucyate",
-      "transliteration": "bandhāt pramucyate",
-      "type": "verb phrase",
-      "definition": "Liberated from bondage; the deletion of the karmic link between action and actor.",
-      "roots": "bandha (bondage) + muc (to release)",
-      "references": [
-        "BG 5.3"
-      ],
-      "themes": [
-        "liberation",
-        "bondage",
-        "root-purge"
-      ]
-    },
-    {
-      "term": "nitya-sannyāsī",
-      "transliteration": "nitya-sannyāsī",
-      "type": "masculine noun",
-      "definition": "The permanent renouncer; one whose internal state is permanently decoupled from external results.",
-      "roots": "nitya (eternal) + sannyāsa (renunciation)",
-      "references": [
-        "BG 5.3"
-      ],
-      "themes": [
-        "renunciation",
-        "stability",
-        "consciousness"
-      ]
-    },
-    {
-      "term": "nirdvandvaḥ",
-      "transliteration": "nirdvandvaḥ",
-      "type": "adjective",
-      "definition": "Free from dualities; the state of zero oscillation between attraction and repulsion.",
-      "roots": "nis (without) + dvandva (duality/pair)",
-      "references": [
-        "BG 5.3"
-      ],
-      "themes": [
-        "equanimity",
-        "duality",
-        "sankhya"
-      ]
-    },
-    {
-      "term": "Pūrva Āṣāḍha",
-      "transliteration": "pūrva āṣāḍha",
-      "type": "feminine noun (nakṣatra)",
-      "definition": "The \"Early Rain\" nakṣatra; symbolizes the flow of will being redirected from the ego to the Absolute.",
-      "roots": "pūrva (early) + āṣāḍha (month of Ashadha)",
-      "references": [
-        "Panchanga 2026-05-06"
-      ],
-      "themes": [
-        "panchanga",
-        "will",
-        "water-element"
-      ]
-    },
-    {
-      "term": "संन्यास (Sannyāsa)",
-      "transliteration": "sannyāsa",
-      "type": "masculine noun",
-      "definition": "Renunciation of the ego's claim on actions. The Gita redefines it—not as abandonment of duty, but as ownership transfer to the Supreme.",
-      "roots": "from sam (complete) + nyasa (laying down)",
-      "references": [
-        "BG 5.29"
-      ],
-      "themes": [
-        "renunciation",
-        "action",
-        "karma yoga"
-      ]
-    },
-    {
-      "term": "साक्षी (Sākṣī)",
-      "transliteration": "sākṣī",
-      "type": "masculine noun",
-      "definition": "The witness consciousness, unattached yet fully aware. BG 9.18 describes Kṛṣṇa as this for every soul: \"I am the witness, the maintainer, the shelter.\"",
-      "roots": "from sakṣ (to witness)",
-      "references": [
-        "BG 5.29",
-        "BG 9.18"
-      ],
-      "themes": [
-        "witness",
-        "consciousness",
-        "detachment"
-      ]
-    },
-    {
-      "term": "परिघ योग (Parigha Yoga)",
-      "transliteration": "parigha yoga",
-      "type": "masculine noun (yoga)",
-      "definition": "A restrictive yoga that forces attention inward. Like a failed script timing out, it creates pressure—but therein lies its gift.",
-      "roots": "from parigha (obstruction, fence)",
-      "references": [
-        "Panchanga 2026-05-04"
-      ],
-      "themes": [
-        "yoga",
-        "restriction",
-        "meditation"
-      ]
-    },
-    {
-      "term": "विष्टि करण (Viṣṭi Karaṇa)",
-      "transliteration": "viṣṭi karaṇa",
-      "type": "neuter noun",
-      "definition": "A dangerous time for initiation, but ripe for debugging samskaras (mental imprints). Treat reactive patterns as errors to catch, not identities to defend.",
-      "roots": "from viṣṭi (dangerous, spreading)",
-      "references": [
-        "Panchanga 2026-05-04"
-      ],
-      "themes": [
-        "karana",
-        "time",
-        "self-inquiry"
-      ]
-    },
-    {
-      "term": "विद्या",
-      "transliteration": "vidyā",
-      "type": "noun",
-      "definition": "Knowledge of the self, spiritual wisdom. In Sankhya-Yoga, vidyā is direct perception of puruṣa and prakṛti. Not to be confused with mundane scholarship. Hacker metaphor: Vidya = the source code of consciousness. Most people only see the compiled output (prakṛti); sages access the underlying architecture (puruṣa).",
-      "roots": "from vid (to know)",
-      "references": [
-        "BG 5.18"
-      ],
-      "themes": [
-        "knowledge",
-        "discrimination",
-        "sankhya"
-      ]
-    },
-    {
-      "term": "विनय",
-      "transliteration": "vinaya",
-      "type": "noun",
-      "definition": "Humility, the absence of ego-driven assertion. From vi-√nī (to lead away), vinaya removes the practitioner from attachment to personal opinions. Hacker metaphor: Vinaya = running as a non-root user. Ego escalation (root access) leads to system corruption; humility (user mode) preserves integrity.",
-      "roots": "from vi-√nī (to lead away)",
-      "references": [
-        "BG 5.18"
-      ],
-      "themes": [
-        "humility",
-        "ego-dissolution",
-        "discipline"
-      ]
-    },
-    {
-      "term": "समदर्शिनः",
-      "transliteration": "sama-darśinḥ",
-      "type": "adjective",
-      "definition": "Equal vision, non-discriminating perception. Not indifference — impartiality grounded in tattva-jñāna (truth knowledge). Hacker metaphor: Sama-darśin = seeing packets, not payloads. The enlightened debug the transmission of consciousness, not the temporary data it carries.",
-      "roots": "from sama (equal) + dṛś (to see)",
-      "references": [
-        "BG 5.18"
-      ],
-      "themes": [
-        "equanimity",
-        "non-attachment",
-        "vision"
-      ]
-    },
-    {
-      "term": "प्रशान्त",
-      "transliteration": "prasanta",
-      "type": "adjective",
-      "definition": "Tranquility, the quietude that follows the cessation of mental fluctuations. The natural state of citta when kleśas (afflictions) are removed. Hacker metaphor: Prasanta = CPU at idle. No unnecessary processes, no thermal throttling — the mind is cool, responsive, and available for true computation.",
-      "roots": "from pra (intensive) + śam (to calm)",
-      "references": [
-        "YS 2.38"
-      ],
-      "themes": [
-        "tranquility",
-        "nirodha",
-        "peace"
-      ]
-    },
-    {
       "term": "akarmaṅgaḥ",
       "transliteration": "akarmaṅgaḥ",
       "type": "noun",
@@ -282,6 +48,21 @@
       ]
     },
     {
+      "term": "Ātma-stha",
+      "transliteration": "ātma-stha",
+      "type": "adjective",
+      "definition": "Indwelling Kernel: The paramātmā embedded in your consciousness stack; the Supreme residing within the heart of every living entity.",
+      "roots": "ātman (self) + stha (situated)",
+      "references": [
+        "BG 5.28"
+      ],
+      "themes": [
+        "paramatma",
+        "indwelling",
+        "realization"
+      ]
+    },
+    {
       "term": "avyaya",
       "transliteration": "avyaya",
       "type": "adjective",
@@ -294,6 +75,37 @@
         "eternal-soul",
         "imperishability",
         "soul-nature"
+      ]
+    },
+    {
+      "term": "bandhāt pramucyate",
+      "transliteration": "bandhāt pramucyate",
+      "type": "verb phrase",
+      "definition": "Liberated from bondage; the deletion of the karmic link between action and actor.",
+      "roots": "bandha (bondage) + muc (to release)",
+      "references": [
+        "BG 5.3"
+      ],
+      "themes": [
+        "liberation",
+        "bondage",
+        "root-purge"
+      ]
+    },
+    {
+      "term": "bhārata",
+      "transliteration": "bhārata",
+      "type": "masculine vocative singular",
+      "definition": "O descendant of Bharata — appellation invoking Arjuna's paternal lineage; reminder of the greatness of the Bharata dynasty",
+      "roots": "from Bharata (ancient king)",
+      "references": [
+        "BG 2.14"
+      ],
+      "themes": [
+        "duty",
+        "lineage",
+        "kṣatriya",
+        "dharma"
       ]
     },
     {
@@ -312,19 +124,15 @@
       ]
     },
     {
-      "term": "bhārata",
-      "transliteration": "bhārata",
-      "type": "masculine vocative singular",
-      "definition": "O descendant of Bharata — appellation invoking Arjuna's paternal lineage; reminder of the greatness of the Bharata dynasty",
-      "roots": "from Bharata (ancient king)",
+      "term": "brahmaṇy ādhāya",
+      "transliteration": "brahmaṇi ādhāya",
+      "definition": "Placing one's actions into the Absolute; transferring ownership of the result to the Supreme.",
+      "root": "√धा (dhā) — to place",
       "references": [
-        "BG 2.14"
+        "BG 5.10"
       ],
       "themes": [
-        "duty",
-        "lineage",
-        "kṣatriya",
-        "dharma"
+        "surrender"
       ]
     },
     {
@@ -359,21 +167,6 @@
       ]
     },
     {
-      "term": "kaunteya",
-      "transliteration": "kaunteya",
-      "type": "masculine vocative singular",
-      "definition": "O son of Kuntī — appellation invoking Arjuna's maternal lineage; reminder of the duty that comes from noble birth",
-      "roots": "Kuntī + eya (belonging to)",
-      "references": [
-        "BG 2.14"
-      ],
-      "themes": [
-        "duty",
-        "lineage",
-        "kṣatriya"
-      ]
-    },
-    {
       "term": "karma",
       "transliteration": "karma",
       "type": "noun",
@@ -386,6 +179,21 @@
         "karma-yoga",
         "action",
         "discipline"
+      ]
+    },
+    {
+      "term": "kaunteya",
+      "transliteration": "kaunteya",
+      "type": "masculine vocative singular",
+      "definition": "O son of Kuntī — appellation invoking Arjuna's maternal lineage; reminder of the duty that comes from noble birth",
+      "roots": "Kuntī + eya (belonging to)",
+      "references": [
+        "BG 2.14"
+      ],
+      "themes": [
+        "duty",
+        "lineage",
+        "kṣatriya"
       ]
     },
     {
@@ -403,6 +211,63 @@
         "karma-yoga",
         "discipline",
         "tapas"
+      ]
+    },
+    {
+      "term": "Mūla Nakṣatra",
+      "transliteration": "mūla nakṣatra",
+      "type": "feminine noun (nakṣatra)",
+      "definition": "Root Portal: The lunar mansion governed by Nirṛti (dissolution). Your BIOS reset point.",
+      "roots": "mūla (root)",
+      "references": [
+        "Panchanga 2026-05-05"
+      ],
+      "themes": [
+        "panchanga",
+        "dissolution",
+        "roots"
+      ]
+    },
+    {
+      "term": "na lipyate",
+      "transliteration": "na lipyate",
+      "definition": "Not sticking; the state of the soul that remains untouched by karmic residue, like a lotus leaf in water.",
+      "root": "√लिप् (lip) — to stick",
+      "references": [
+        "BG 5.10"
+      ],
+      "themes": [
+        "liberation"
+      ]
+    },
+    {
+      "term": "nirdvandvaḥ",
+      "transliteration": "nirdvandvaḥ",
+      "type": "adjective",
+      "definition": "Free from dualities; the state of zero oscillation between attraction and repulsion.",
+      "roots": "nis (without) + dvandva (duality/pair)",
+      "references": [
+        "BG 5.3"
+      ],
+      "themes": [
+        "equanimity",
+        "duality",
+        "sankhya"
+      ]
+    },
+    {
+      "term": "nitya-sannyāsī",
+      "transliteration": "nitya-sannyāsī",
+      "type": "masculine noun",
+      "definition": "The permanent renouncer; one whose internal state is permanently decoupled from external results.",
+      "roots": "nitya (eternal) + sannyāsa (renunciation)",
+      "references": [
+        "BG 5.3"
+      ],
+      "themes": [
+        "renunciation",
+        "stability",
+        "consciousness"
       ]
     },
     {
@@ -467,6 +332,50 @@
       ]
     },
     {
+      "term": "Pratyāhāra",
+      "transliteration": "pratyāhāra",
+      "type": "masculine noun",
+      "definition": "Sense Withdrawal: The kill -9 command for sensory interrupts. The process of pulling the awareness away from the sense objects and centering it in the mind.",
+      "roots": "prati (against/back) + hāra (taking away)",
+      "references": [
+        "BG 5.28",
+        "YS II.54"
+      ],
+      "themes": [
+        "yoga",
+        "discipline",
+        "sense-control"
+      ]
+    },
+    {
+      "term": "Pūrva Āṣāḍha",
+      "transliteration": "pūrva āṣāḍha",
+      "type": "feminine noun (nakṣatra)",
+      "definition": "The \"Early Rain\" nakṣatra; symbolizes the flow of will being redirected from the ego to the Absolute.",
+      "roots": "pūrva (early) + āṣāḍha (month of Ashadha)",
+      "references": [
+        "Panchanga 2026-05-06"
+      ],
+      "themes": [
+        "panchanga",
+        "will",
+        "water-element"
+      ]
+    },
+    {
+      "term": "Pūrva Phālgunī",
+      "transliteration": "pūrva phālguni",
+      "definition": "The 'Early Autumn' nakṣatra ruled by Bhaga (God of Luck). A time of creative abundance and the challenge of maintaining detachment amidst luxury.",
+      "references": [
+        "Panchanga 2026-05-07"
+      ],
+      "themes": [
+        "creativity",
+        "surrender",
+        "luxury-trap"
+      ]
+    },
+    {
       "term": "raudra",
       "transliteration": "raudra",
       "type": "adjective",
@@ -511,6 +420,33 @@
         "fullness",
         "vairāgya",
         "ocean-metaphor"
+      ]
+    },
+    {
+      "term": "saṅgaṁ tyaktvā",
+      "transliteration": "saṅgaṁ tyaktvā",
+      "definition": "Abandoning attachment; removing the psychic 'glue' that binds the soul to material outcomes.",
+      "root": "√त्यज् (tyaj) — to abandon",
+      "references": [
+        "BG 5.10"
+      ],
+      "themes": [
+        "detachment"
+      ]
+    },
+    {
+      "term": "śānti",
+      "transliteration": "śānti",
+      "type": "feminine noun",
+      "definition": "peace, tranquility, cessation of agitation — not the absence of stimulus but the presence of completion. The goal of Sāṅkhya and the fruit of yoga",
+      "roots": "from śam (to calm)",
+      "references": [
+        "BG 2.70"
+      ],
+      "themes": [
+        "peace",
+        "completion",
+        "sāṅkhya"
       ]
     },
     {
@@ -593,64 +529,177 @@
       ]
     },
     {
-      "term": "śānti",
-      "transliteration": "śānti",
-      "type": "feminine noun",
-      "definition": "peace, tranquility, cessation of agitation — not the absence of stimulus but the presence of completion. The goal of Sāṅkhya and the fruit of yoga",
-      "roots": "from śam (to calm)",
+      "term": "कर्म-काण्ड",
+      "transliteration": "karma-kāṇḍa",
+      "type": "noun",
+      "definition": "The ritualistic layer of spiritual practice; performing actions to achieve specific results (scripted mode).",
+      "roots": "from karma (action) + kāṇḍa (section)",
       "references": [
-        "BG 2.70"
+        "BG 4.33"
       ],
       "themes": [
-        "peace",
-        "completion",
-        "sāṅkhya"
+        "KriyaYoga"
       ]
     },
     {
-      "term": "Mūla Nakṣatra",
-      "transliteration": "mūla nakṣatra",
-      "type": "feminine noun (nakṣatra)",
-      "definition": "Root Portal: The lunar mansion governed by Nirṛti (dissolution). Your BIOS reset point.",
-      "roots": "mūla (root)",
+      "term": "ज्ञान-काण्ड",
+      "transliteration": "jñāna-kāṇḍa",
+      "type": "noun",
+      "definition": "The pursuit of truth through discernment; the \"debug\" mode where the nature of reality is analyzed.",
+      "roots": "from jñāna (knowledge) + kāṇḍa (section)",
       "references": [
-        "Panchanga 2026-05-05"
+        "BG 4.33"
       ],
       "themes": [
-        "panchanga",
-        "dissolution",
-        "roots"
+        "JnanaYoga"
       ]
     },
     {
-      "term": "Pratyāhāra",
-      "transliteration": "pratyāhāra",
-      "type": "masculine noun",
-      "definition": "Sense Withdrawal: The kill -9 command for sensory interrupts. The process of pulling the awareness away from the sense objects and centering it in the mind.",
-      "roots": "prati (against/back) + hāra (taking away)",
+      "term": "ज्ञान-यज्ञ",
+      "transliteration": "jñāna-yajña",
+      "type": "noun",
+      "definition": "The sacrifice of knowledge; the process of offering one's intellectual faculties and ego to the Absolute Truth.",
+      "roots": "from jñāna (knowledge) + yajña (sacrifice)",
       "references": [
-        "BG 5.28",
-        "YS II.54"
+        "BG 4.33"
+      ],
+      "themes": [
+        "JnanaYoga",
+        "KnowledgeAsSacrifice"
+      ]
+    },
+    {
+      "term": "द्रव्य-मय",
+      "transliteration": "dravya-maya",
+      "type": "adjective",
+      "definition": "Materially composed; referring to physical assets or offerings (legacy hardware).",
+      "roots": "from dravya (matter) + maya (composed of)",
+      "references": [
+        "BG 4.33"
+      ],
+      "themes": [
+        "TranscendentalUpgrade"
+      ]
+    },
+    {
+      "term": "परिघ योग (Parigha Yoga)",
+      "transliteration": "parigha yoga",
+      "type": "masculine noun (yoga)",
+      "definition": "A restrictive yoga that forces attention inward. Like a failed script timing out, it creates pressure—but therein lies its gift.",
+      "roots": "from parigha (obstruction, fence)",
+      "references": [
+        "Panchanga 2026-05-04"
       ],
       "themes": [
         "yoga",
-        "discipline",
-        "sense-control"
+        "restriction",
+        "meditation"
       ]
     },
     {
-      "term": "Ātma-stha",
-      "transliteration": "ātma-stha",
+      "term": "प्रशान्त",
+      "transliteration": "prasanta",
       "type": "adjective",
-      "definition": "Indwelling Kernel: The paramātmā embedded in your consciousness stack; the Supreme residing within the heart of every living entity.",
-      "roots": "ātman (self) + stha (situated)",
+      "definition": "Tranquility, the quietude that follows the cessation of mental fluctuations. The natural state of citta when kleśas (afflictions) are removed. Hacker metaphor: Prasanta = CPU at idle. No unnecessary processes, no thermal throttling — the mind is cool, responsive, and available for true computation.",
+      "roots": "from pra (intensive) + śam (to calm)",
       "references": [
-        "BG 5.28"
+        "YS 2.38"
       ],
       "themes": [
-        "paramatma",
-        "indwelling",
-        "realization"
+        "tranquility",
+        "nirodha",
+        "peace"
+      ]
+    },
+    {
+      "term": "विद्या",
+      "transliteration": "vidyā",
+      "type": "noun",
+      "definition": "Knowledge of the self, spiritual wisdom. In Sankhya-Yoga, vidyā is direct perception of puruṣa and prakṛti. Not to be confused with mundane scholarship. Hacker metaphor: Vidya = the source code of consciousness. Most people only see the compiled output (prakṛti); sages access the underlying architecture (puruṣa).",
+      "roots": "from vid (to know)",
+      "references": [
+        "BG 5.18"
+      ],
+      "themes": [
+        "knowledge",
+        "discrimination",
+        "sankhya"
+      ]
+    },
+    {
+      "term": "विनय",
+      "transliteration": "vinaya",
+      "type": "noun",
+      "definition": "Humility, the absence of ego-driven assertion. From vi-√nī (to lead away), vinaya removes the practitioner from attachment to personal opinions. Hacker metaphor: Vinaya = running as a non-root user. Ego escalation (root access) leads to system corruption; humility (user mode) preserves integrity.",
+      "roots": "from vi-√nī (to lead away)",
+      "references": [
+        "BG 5.18"
+      ],
+      "themes": [
+        "humility",
+        "ego-dissolution",
+        "discipline"
+      ]
+    },
+    {
+      "term": "विष्टि करण (Viṣṭi Karaṇa)",
+      "transliteration": "viṣṭi karaṇa",
+      "type": "neuter noun",
+      "definition": "A dangerous time for initiation, but ripe for debugging samskaras (mental imprints). Treat reactive patterns as errors to catch, not identities to defend.",
+      "roots": "from viṣṭi (dangerous, spreading)",
+      "references": [
+        "Panchanga 2026-05-04"
+      ],
+      "themes": [
+        "karana",
+        "time",
+        "self-inquiry"
+      ]
+    },
+    {
+      "term": "संन्यास (Sannyāsa)",
+      "transliteration": "sannyāsa",
+      "type": "masculine noun",
+      "definition": "Renunciation of the ego's claim on actions. The Gita redefines it—not as abandonment of duty, but as ownership transfer to the Supreme.",
+      "roots": "from sam (complete) + nyasa (laying down)",
+      "references": [
+        "BG 5.29"
+      ],
+      "themes": [
+        "renunciation",
+        "action",
+        "karma yoga"
+      ]
+    },
+    {
+      "term": "समदर्शिनः",
+      "transliteration": "sama-darśinḥ",
+      "type": "adjective",
+      "definition": "Equal vision, non-discriminating perception. Not indifference — impartiality grounded in tattva-jñāna (truth knowledge). Hacker metaphor: Sama-darśin = seeing packets, not payloads. The enlightened debug the transmission of consciousness, not the temporary data it carries.",
+      "roots": "from sama (equal) + dṛś (to see)",
+      "references": [
+        "BG 5.18"
+      ],
+      "themes": [
+        "equanimity",
+        "non-attachment",
+        "vision"
+      ]
+    },
+    {
+      "term": "साक्षी (Sākṣī)",
+      "transliteration": "sākṣī",
+      "type": "masculine noun",
+      "definition": "The witness consciousness, unattached yet fully aware. BG 9.18 describes Kṛṣṇa as this for every soul: \"I am the witness, the maintainer, the shelter.\"",
+      "roots": "from sakṣ (to witness)",
+      "references": [
+        "BG 5.29",
+        "BG 9.18"
+      ],
+      "themes": [
+        "witness",
+        "consciousness",
+        "detachment"
       ]
     }
   ]
