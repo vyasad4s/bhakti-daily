@@ -1,6 +1,59 @@
 {
-  "lastUpdated": "2026-05-06",
+  "lastUpdated": "2026-05-07",
   "terms": [
+    {
+      "term": "ज्ञान-यज्ञ",
+      "transliteration": "jñāna-yajña",
+      "type": "noun",
+      "definition": "The sacrifice of knowledge; the process of offering one's intellectual faculties and ego to the Absolute Truth.",
+      "roots": "from jñāna (knowledge) + yajña (sacrifice)",
+      "references": [
+        "BG 4.33"
+      ],
+      "themes": [
+        "JnanaYoga",
+        "KnowledgeAsSacrifice"
+      ]
+    },
+    {
+      "term": "द्रव्य-मय",
+      "transliteration": "dravya-maya",
+      "type": "adjective",
+      "definition": "Materially composed; referring to physical assets or offerings (legacy hardware).",
+      "roots": "from dravya (matter) + maya (composed of)",
+      "references": [
+        "BG 4.33"
+      ],
+      "themes": [
+        "TranscendentalUpgrade"
+      ]
+    },
+    {
+      "term": "कर्म-काण्ड",
+      "transliteration": "karma-kāṇḍa",
+      "type": "noun",
+      "definition": "The ritualistic layer of spiritual practice; performing actions to achieve specific results (scripted mode).",
+      "roots": "from karma (action) + kāṇḍa (section)",
+      "references": [
+        "BG 4.33"
+      ],
+      "themes": [
+        "KriyaYoga"
+      ]
+    },
+    {
+      "term": "ज्ञान-काण्ड",
+      "transliteration": "jñāna-kāṇḍa",
+      "type": "noun",
+      "definition": "The pursuit of truth through discernment; the \"debug\" mode where the nature of reality is analyzed.",
+      "roots": "from jñāna (knowledge) + kāṇḍa (section)",
+      "references": [
+        "BG 4.33"
+      ],
+      "themes": [
+        "JnanaYoga"
+      ]
+    },
     {
       "term": "bandhāt pramucyate",
       "transliteration": "bandhāt pramucyate",
