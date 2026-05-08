@@ -1,4 +1,23 @@
-{"verses": [
+{
+  "verses": [
+    {
+      "date": "2026-05-08",
+      "source": "BG 5.11",
+      "chapter": 5,
+      "verse": 11,
+      "title": "The Purification Fire",
+      "yogaSutraConnection": "YS II.33",
+      "tags": [
+        "purification",
+        "equanimity",
+        "vasudeva"
+      ],
+      "themes": [
+        "zero-point",
+        "cleanroom",
+        "surrender"
+      ]
+    },
     {
       "date": "2026-05-07",
       "source": "BG 5.10",
@@ -6,7 +25,16 @@
       "verse": 10,
       "title": "Lotus Leaf Kernel",
       "yogaSutraConnection": "YS II.33",
-      "tags": ["lotus", "non-stick", "detached-action"],
-      "themes": ["surrender", "karmic-shield"]
+      "tags": [
+        "lotus",
+        "non-stick",
+        "detached-action"
+      ],
+      "themes": [
+        "surrender",
+        "karmic-shield"
+      ]
     }
-  ], "lastUpdated": "2026-05-07"}
+  ],
+  "lastUpdated": "2026-05-08"
+}
