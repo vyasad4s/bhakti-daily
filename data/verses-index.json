@@ -1,22 +1,27 @@
 {
   "verses": [
     {
+      "date": "2026-05-09",
+      "source": "BG 5.21",
+      "chapter": 5,
+      "verse": 21,
+      "title": "Brahma-Bhuta: The Zero-Point",
+      "yogaSutraConnection": "YS II.34",
+      "tags": ["BrahmaBhuta", "SelfAbsorption", "AtmaTattva", "SvaSthaya", "Yoga"],
+      "themes": ["self-realization", "absorption", "transcendence", "discipline"],
+      "nakshatra": "Shravana/Dhanishta",
+      "tithi": "Krishna Paksha Ashtami",
+      "yoga": "Sukla/Brahma"
+    },
+    {
       "date": "2026-05-08",
       "source": "BG 5.11",
       "chapter": 5,
       "verse": 11,
       "title": "The Purification Fire",
       "yogaSutraConnection": "YS II.33",
-      "tags": [
-        "purification",
-        "equanimity",
-        "vasudeva"
-      ],
-      "themes": [
-        "zero-point",
-        "cleanroom",
-        "surrender"
-      ]
+      "tags": ["Purification", "ZeroState", "Vasudeva", "KarmicFirewall"],
+      "themes": ["purification", "detachment", "surrender", "transcendence"]
     },
     {
       "date": "2026-05-07",
@@ -25,16 +30,29 @@
       "verse": 10,
       "title": "Lotus Leaf Kernel",
       "yogaSutraConnection": "YS II.33",
-      "tags": [
-        "lotus",
-        "non-stick",
-        "detached-action"
-      ],
-      "themes": [
-        "surrender",
-        "karmic-shield"
-      ]
+      "tags": ["LotisLeaf", "NonStick", "DetachedAction"],
+      "themes": ["detachment", "karma-yoga", "surrender"]
+    },
+    {
+      "date": "2026-05-06",
+      "source": "BG X.Y",
+      "chapter": "X",
+      "verse": "Y",
+      "title": "",
+      "yogaSutraConnection": "YS II.33",
+      "tags": ["cosmic", "panchanga", "sankhya"],
+      "themes": ["detachment", "purification", "surrender"]
+    },
+    {
+      "date": "2026-05-05",
+      "source": "BG X.Y",
+      "chapter": "X",
+      "verse": "Y",
+      "title": "",
+      "yogaSutraConnection": "YS II.33",
+      "tags": ["cosmic", "panchanga", "sankhya"],
+      "themes": ["detachment", "purification", "surrender"]
     }
   ],
-  "lastUpdated": "2026-05-08"
+  "lastUpdated": "2026-05-09"
 }
