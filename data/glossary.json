@@ -1,65 +1,6 @@
 {
-  "lastUpdated": "2026-05-09",
+  "lastUpdated": "2026-05-10",
   "terms": [
-    {
-      "term": "Mūla Nakṣatra",
-      "transliteration": "mūla nakṣatra",
-      "type": "feminine noun (nakṣatra)",
-      "definition": "Root Portal: The lunar mansion governed by Nirṛti (dissolution). Your BIOS reset point.",
-      "roots": "mūla (root)",
-      "references": [
-        "Panchanga 2026-05-05"
-      ],
-      "themes": [
-        "panchanga",
-        "dissolution",
-        "roots"
-      ]
-    },
-    {
-      "term": "Pratyāhāra",
-      "transliteration": "pratyāhāra",
-      "type": "masculine noun",
-      "definition": "Sense Withdrawal: The kill -9 command for sensory interrupts. The process of pulling the awareness away from the sense objects and centering it in the mind.",
-      "roots": "prati (against/back) + hāra (taking away)",
-      "references": [
-        "BG 5.28",
-        "YS II.54"
-      ],
-      "themes": [
-        "yoga",
-        "discipline",
-        "sense-control"
-      ]
-    },
-    {
-      "term": "Pūrva Phālgunī",
-      "transliteration": "pūrva phālguni",
-      "definition": "The 'Early Autumn' nakṣatra ruled by Bhaga (God of Luck). A time of creative abundance and the challenge of maintaining detachment amidst luxury.",
-      "references": [
-        "Panchanga 2026-05-07"
-      ],
-      "themes": [
-        "creativity",
-        "surrender",
-        "luxury-trap"
-      ]
-    },
-    {
-      "term": "Pūrva Āṣāḍha",
-      "transliteration": "pūrva āṣāḍha",
-      "type": "feminine noun (nakṣatra)",
-      "definition": "The \"Early Rain\" nakṣatra; symbolizes the flow of will being redirected from the ego to the Absolute.",
-      "roots": "pūrva (early) + āṣāḍha (month of Ashadha)",
-      "references": [
-        "Panchanga 2026-05-06"
-      ],
-      "themes": [
-        "panchanga",
-        "will",
-        "water-element"
-      ]
-    },
     {
       "term": "akarmaṅgaḥ",
       "transliteration": "akarmaṅgaḥ",
@@ -107,6 +48,21 @@
       ]
     },
     {
+      "term": "Ātma-stha",
+      "transliteration": "ātma-stha",
+      "type": "adjective",
+      "definition": "Indwelling Kernel: The paramātmā embedded in your consciousness stack; the Supreme residing within the heart of every living entity.",
+      "roots": "ātman (self) + stha (situated)",
+      "references": [
+        "BG 5.28"
+      ],
+      "themes": [
+        "paramatma",
+        "indwelling",
+        "realization"
+      ]
+    },
+    {
       "term": "avyaya",
       "transliteration": "avyaya",
       "type": "adjective",
@@ -137,21 +93,6 @@
       ]
     },
     {
-      "term": "bhasma-sāt",
-      "transliteration": "bhasma-sāt",
-      "type": "adjective",
-      "definition": "Turned to ashes; complete erasure of legacy karmic debt. In Sāṅkhya: the dissolution of the false identification of the soul with the material products of action.",
-      "roots": "bhasma (ashes) + sāt (become/turned into)",
-      "references": [
-        "BG 4.37"
-      ],
-      "themes": [
-        "purification",
-        "liberation",
-        "root-purge"
-      ]
-    },
-    {
       "term": "bhārata",
       "transliteration": "bhārata",
       "type": "masculine vocative singular",
@@ -165,6 +106,21 @@
         "lineage",
         "kṣatriya",
         "dharma"
+      ]
+    },
+    {
+      "term": "bhasma-sāt",
+      "transliteration": "bhasma-sāt",
+      "type": "adjective",
+      "definition": "Turned to ashes; complete erasure of legacy karmic debt. In Sāṅkhya: the dissolution of the false identification of the soul with the material products of action.",
+      "roots": "bhasma (ashes) + sāt (become/turned into)",
+      "references": [
+        "BG 4.37"
+      ],
+      "themes": [
+        "purification",
+        "liberation",
+        "root-purge"
       ]
     },
     {
@@ -193,6 +149,20 @@
         "reincarnation",
         "samsara",
         "soul-nature"
+      ]
+    },
+    {
+      "term": "jitendriyaḥ",
+      "transliteration": "jitendriyaḥ",
+      "type": "compound",
+      "definition": "Conquered senses; mastery over the impulses of mind and body.",
+      "roots": "from jita (conquered) + indriya (senses, organs of perception and action)",
+      "references": [
+        "BG 5.7"
+      ],
+      "themes": [
+        "sense-control",
+        "discipline"
       ]
     },
     {
@@ -255,6 +225,21 @@
         "karma-yoga",
         "discipline",
         "tapas"
+      ]
+    },
+    {
+      "term": "Mūla Nakṣatra",
+      "transliteration": "mūla nakṣatra",
+      "type": "feminine noun (nakṣatra)",
+      "definition": "Root Portal: The lunar mansion governed by Nirṛti (dissolution). Your BIOS reset point.",
+      "roots": "mūla (root)",
+      "references": [
+        "Panchanga 2026-05-05"
+      ],
+      "themes": [
+        "panchanga",
+        "dissolution",
+        "roots"
       ]
     },
     {
@@ -361,6 +346,50 @@
       ]
     },
     {
+      "term": "Pratyāhāra",
+      "transliteration": "pratyāhāra",
+      "type": "masculine noun",
+      "definition": "Sense Withdrawal: The kill -9 command for sensory interrupts. The process of pulling the awareness away from the sense objects and centering it in the mind.",
+      "roots": "prati (against/back) + hāra (taking away)",
+      "references": [
+        "BG 5.28",
+        "YS II.54"
+      ],
+      "themes": [
+        "yoga",
+        "discipline",
+        "sense-control"
+      ]
+    },
+    {
+      "term": "Pūrva Āṣāḍha",
+      "transliteration": "pūrva āṣāḍha",
+      "type": "feminine noun (nakṣatra)",
+      "definition": "The \"Early Rain\" nakṣatra; symbolizes the flow of will being redirected from the ego to the Absolute.",
+      "roots": "pūrva (early) + āṣāḍha (month of Ashadha)",
+      "references": [
+        "Panchanga 2026-05-06"
+      ],
+      "themes": [
+        "panchanga",
+        "will",
+        "water-element"
+      ]
+    },
+    {
+      "term": "Pūrva Phālgunī",
+      "transliteration": "pūrva phālguni",
+      "definition": "The 'Early Autumn' nakṣatra ruled by Bhaga (God of Luck). A time of creative abundance and the challenge of maintaining detachment amidst luxury.",
+      "references": [
+        "Panchanga 2026-05-07"
+      ],
+      "themes": [
+        "creativity",
+        "surrender",
+        "luxury-trap"
+      ]
+    },
+    {
       "term": "raudra",
       "transliteration": "raudra",
       "type": "adjective",
@@ -374,21 +403,6 @@
         "transformative",
         "fierce",
         "tapas"
-      ]
-    },
-    {
-      "term": "samudra",
-      "transliteration": "samudra",
-      "type": "masculine noun",
-      "definition": "ocean, gathering-place of waters — from sam (together) + udra (water). The field containing all phenomena without being modified by them",
-      "roots": "sam (together) + udra (water)",
-      "references": [
-        "BG 2.70"
-      ],
-      "themes": [
-        "fullness",
-        "vairāgya",
-        "ocean-metaphor"
       ]
     },
     {
@@ -408,18 +422,18 @@
       ]
     },
     {
-      "term": "sarva-karmāṇi",
-      "transliteration": "sarva-karmāṇi",
-      "type": "neuter plural",
-      "definition": "All reactions to material activities; the accumulated logs of a million previous system states. The totality of karmic debris that must be cleared for root-level liberation.",
-      "roots": "sarva (all) + karma (action/reaction)",
+      "term": "samudra",
+      "transliteration": "samudra",
+      "type": "masculine noun",
+      "definition": "ocean, gathering-place of waters — from sam (together) + udra (water). The field containing all phenomena without being modified by them",
+      "roots": "sam (together) + udra (water)",
       "references": [
-        "BG 4.37"
+        "BG 2.70"
       ],
       "themes": [
-        "karma",
-        "purification",
-        "root-purge"
+        "fullness",
+        "vairāgya",
+        "ocean-metaphor"
       ]
     },
     {
@@ -432,6 +446,50 @@
       ],
       "themes": [
         "detachment"
+      ]
+    },
+    {
+      "term": "śānti",
+      "transliteration": "śānti",
+      "type": "feminine noun",
+      "definition": "peace, tranquility, cessation of agitation — not the absence of stimulus but the presence of completion. The goal of Sāṅkhya and the fruit of yoga",
+      "roots": "from śam (to calm)",
+      "references": [
+        "BG 2.70"
+      ],
+      "themes": [
+        "peace",
+        "completion",
+        "sāṅkhya"
+      ]
+    },
+    {
+      "term": "sarva-bhūtātma-bhūtātmā",
+      "transliteration": "sarva-bhūtātma-bhūtātmā",
+      "type": "compound",
+      "definition": "Seeing the Self in all beings; recognizing the one Divine presence everywhere.",
+      "roots": "from sarva (all) + bhūtātma (the Self of beings) + bhūtātmā (the Self dwelling in all beings)",
+      "references": [
+        "BG 5.7"
+      ],
+      "themes": [
+        "universal-vision",
+        "non-duality"
+      ]
+    },
+    {
+      "term": "sarva-karmāṇi",
+      "transliteration": "sarva-karmāṇi",
+      "type": "neuter plural",
+      "definition": "All reactions to material activities; the accumulated logs of a million previous system states. The totality of karmic debris that must be cleared for root-level liberation.",
+      "roots": "sarva (all) + karma (action/reaction)",
+      "references": [
+        "BG 4.37"
+      ],
+      "themes": [
+        "karma",
+        "purification",
+        "root-purge"
       ]
     },
     {
@@ -467,6 +525,34 @@
       ]
     },
     {
+      "term": "vijitātmā",
+      "transliteration": "vijitātmā",
+      "type": "compound",
+      "definition": "Mastery over the self; conquest of the lower nature.",
+      "roots": "from vijita (conquered, victorious) + ātmā (self)",
+      "references": [
+        "BG 5.7"
+      ],
+      "themes": [
+        "self-mastery",
+        "victory"
+      ]
+    },
+    {
+      "term": "viśuddhātmā",
+      "transliteration": "viśuddhātmā",
+      "type": "compound",
+      "definition": "Purified heart; a heart cleansed of selfish desires.",
+      "roots": "from viśuddha (pure, cleansed) + ātmā (self, heart)",
+      "references": [
+        "BG 5.7"
+      ],
+      "themes": [
+        "purification",
+        "consciousness"
+      ]
+    },
+    {
       "term": "vyatipāta",
       "transliteration": "vyatipāta",
       "type": "masculine noun",
@@ -499,33 +585,17 @@
       ]
     },
     {
-      "term": "Ātma-stha",
-      "transliteration": "ātma-stha",
-      "type": "adjective",
-      "definition": "Indwelling Kernel: The paramātmā embedded in your consciousness stack; the Supreme residing within the heart of every living entity.",
-      "roots": "ātman (self) + stha (situated)",
+      "term": "yoga-yuktaḥ",
+      "transliteration": "yoga-yuktaḥ",
+      "type": "compound",
+      "definition": "Engaged in devotion; united with the Divine through selfless action.",
+      "roots": "from yoga (union, devotion) + yukta (united, engaged)",
       "references": [
-        "BG 5.28"
+        "BG 5.7"
       ],
       "themes": [
-        "paramatma",
-        "indwelling",
-        "realization"
-      ]
-    },
-    {
-      "term": "śānti",
-      "transliteration": "śānti",
-      "type": "feminine noun",
-      "definition": "peace, tranquility, cessation of agitation — not the absence of stimulus but the presence of completion. The goal of Sāṅkhya and the fruit of yoga",
-      "roots": "from śam (to calm)",
-      "references": [
-        "BG 2.70"
-      ],
-      "themes": [
-        "peace",
-        "completion",
-        "sāṅkhya"
+        "devotion",
+        "yoga"
       ]
     },
     {
