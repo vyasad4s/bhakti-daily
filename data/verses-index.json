@@ -1,14 +1,43 @@
 {
   "verses": [
     {
+      "date": "2026-05-10",
+      "source": "BG 5.7",
+      "chapter": 5,
+      "verse": 7,
+      "title": "Karma Yoga in Divine Leadership",
+      "yogaSutraConnection": "YS II.1, II.54-55",
+      "tags": [
+        "karma-yoga",
+        "devotion",
+        "sense-control"
+      ],
+      "themes": [
+        "detached-action",
+        "pure-consciousness",
+        "surrender"
+      ]
+    },
+    {
       "date": "2026-05-09",
       "source": "BG 5.21",
       "chapter": 5,
       "verse": 21,
       "title": "Brahma-Bhuta: The Zero-Point",
       "yogaSutraConnection": "YS II.34",
-      "tags": ["BrahmaBhuta", "SelfAbsorption", "AtmaTattva", "SvaSthaya", "Yoga"],
-      "themes": ["self-realization", "absorption", "transcendence", "discipline"],
+      "tags": [
+        "BrahmaBhuta",
+        "SelfAbsorption",
+        "AtmaTattva",
+        "SvaSthaya",
+        "Yoga"
+      ],
+      "themes": [
+        "self-realization",
+        "absorption",
+        "transcendence",
+        "discipline"
+      ],
       "nakshatra": "Shravana/Dhanishta",
       "tithi": "Krishna Paksha Ashtami",
       "yoga": "Sukla/Brahma"
@@ -20,8 +49,18 @@
       "verse": 11,
       "title": "The Purification Fire",
       "yogaSutraConnection": "YS II.33",
-      "tags": ["Purification", "ZeroState", "Vasudeva", "KarmicFirewall"],
-      "themes": ["purification", "detachment", "surrender", "transcendence"]
+      "tags": [
+        "Purification",
+        "ZeroState",
+        "Vasudeva",
+        "KarmicFirewall"
+      ],
+      "themes": [
+        "purification",
+        "detachment",
+        "surrender",
+        "transcendence"
+      ]
     },
     {
       "date": "2026-05-07",
@@ -30,8 +69,16 @@
       "verse": 10,
       "title": "Lotus Leaf Kernel",
       "yogaSutraConnection": "YS II.33",
-      "tags": ["LotisLeaf", "NonStick", "DetachedAction"],
-      "themes": ["detachment", "karma-yoga", "surrender"]
+      "tags": [
+        "LotisLeaf",
+        "NonStick",
+        "DetachedAction"
+      ],
+      "themes": [
+        "detachment",
+        "karma-yoga",
+        "surrender"
+      ]
     },
     {
       "date": "2026-05-06",
@@ -40,8 +87,16 @@
       "verse": "Y",
       "title": "",
       "yogaSutraConnection": "YS II.33",
-      "tags": ["cosmic", "panchanga", "sankhya"],
-      "themes": ["detachment", "purification", "surrender"]
+      "tags": [
+        "cosmic",
+        "panchanga",
+        "sankhya"
+      ],
+      "themes": [
+        "detachment",
+        "purification",
+        "surrender"
+      ]
     },
     {
       "date": "2026-05-05",
@@ -50,9 +105,17 @@
       "verse": "Y",
       "title": "",
       "yogaSutraConnection": "YS II.33",
-      "tags": ["cosmic", "panchanga", "sankhya"],
-      "themes": ["detachment", "purification", "surrender"]
+      "tags": [
+        "cosmic",
+        "panchanga",
+        "sankhya"
+      ],
+      "themes": [
+        "detachment",
+        "purification",
+        "surrender"
+      ]
     }
   ],
-  "lastUpdated": "2026-05-09"
+  "lastUpdated": "2026-05-10"
 }
