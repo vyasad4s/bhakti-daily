@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-10",
+  "lastUpdated": "2026-05-11",
   "terms": [
     {
       "term": "Acala",
@@ -398,6 +398,21 @@
       "date": "2026-02-26"
     },
     {
+      "term": "Karma-Yoga",
+      "transliteration": "",
+      "type": "noun",
+      "definition": "The yoga of action. The process of transforming mundane work into spiritual service by offering the results to the Divine.",
+      "roots": "",
+      "references": [
+        "BG 5.2"
+      ],
+      "themes": [
+        "Action",
+        "Service"
+      ],
+      "date": "2026-05-11"
+    },
+    {
       "term": "Karmendriyaiḥ",
       "transliteration": "",
       "type": "noun",
@@ -672,6 +687,20 @@
       ],
       "themes": [],
       "date": "2026-02-22"
+    },
+    {
+      "term": "Niḥśreyasa",
+      "transliteration": "",
+      "type": "noun",
+      "definition": "The ultimate, unsurpassed good; liberation from the cycle of birth and death (saṁsāra).",
+      "roots": "",
+      "references": [
+        "BG 5.2"
+      ],
+      "themes": [
+        "Liberation"
+      ],
+      "date": "2026-05-11"
     },
     {
       "term": "Niṣṭhā (feminine noun)",
@@ -984,6 +1013,20 @@
       ],
       "themes": [],
       "date": "2026-02-27"
+    },
+    {
+      "term": "Sannyāsa",
+      "transliteration": "",
+      "type": "noun",
+      "definition": "The act of renunciation. In its lower form, it is the physical abandonment of duties; in its higher form, it is the mental abandonment of the sense of proprietorship.",
+      "roots": "",
+      "references": [
+        "BG 5.2"
+      ],
+      "themes": [
+        "Renunciation"
+      ],
+      "date": "2026-05-11"
     },
     {
       "term": "Sarvaśaḥ (indeclinable)",
