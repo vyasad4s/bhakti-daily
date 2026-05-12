@@ -1,6 +1,86 @@
 {
-  "lastUpdated": "2026-05-11",
+  "lastUpdated": "2026-05-12",
   "terms": [
+    {
+      "term": "saṁsparśa",
+      "transliteration": "saṁsparśa",
+      "type": "noun",
+      "definition": "The interface between a sense organ and a material object; the \"input\" that triggers a sensory reaction",
+      "roots": "from [root]",
+      "references": [
+        "BG 5.22"
+      ],
+      "themes": [
+        "sense-control"
+      ]
+    },
+    {
+      "term": "bhogāḥ",
+      "transliteration": "bhogāḥ",
+      "type": "noun",
+      "definition": "The outputs of sensory stimulation; the temporary \"highs\" produced by material interaction",
+      "roots": "from [root]",
+      "references": [
+        "BG 5.22"
+      ],
+      "themes": [
+        "sense-control"
+      ]
+    },
+    {
+      "term": "budhaḥ",
+      "transliteration": "budhaḥ",
+      "type": "noun",
+      "definition": "One who possesses Viveka (discernment) and can debug the illusion of temporary pleasure",
+      "roots": "from [root]",
+      "references": [
+        "BG 5.22"
+      ],
+      "themes": [
+        "sense-control"
+      ]
+    },
+    {
+      "term": "ekādaśī",
+      "transliteration": "ekādaśī",
+      "type": "noun",
+      "definition": "The eleventh day of the lunar fortnight, a day prescribed for fasting and increased devotion",
+      "roots": "from [root]",
+      "references": [
+        "BG 5.22"
+      ],
+      "themes": [
+        "ekadashi"
+      ]
+    },
+    {
+      "term": "pratyāhāra",
+      "transliteration": "pratyāhāra",
+      "type": "noun",
+      "definition": "The withdrawal of the senses from their objects; the fifth limb of aṣṭāṅga yoga",
+      "roots": "from [root]",
+      "references": [
+        "BG 5.22"
+      ],
+      "themes": [
+        "pratyahara",
+        "sense-control"
+      ]
+    },
+    {
+      "term": "vairāgyam",
+      "transliteration": "vairāgyam",
+      "type": "noun",
+      "definition": "Dispassion or non-attachment; freedom from craving for sense objects",
+      "roots": "from [root]",
+      "references": [
+        "BG 5.22"
+      ],
+      "themes": [
+        "vairagya",
+        "sense-control"
+      ]
+    },
     {
       "term": "Acala",
       "transliteration": "",
