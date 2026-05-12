@@ -1,6 +1,25 @@
 {
   "verses": [
     {
+      "date": "2026-05-12",
+      "source": "BG 5.22",
+      "chapter": 5,
+      "verse": 22,
+      "title": "Apara Ekadashi: Sense-Control Protocol",
+      "yogaSutraConnection": "YS 1.15, 2.54",
+      "tags": [
+        "sense-control",
+        "ekadashi",
+        "vairagya",
+        "pratyahara"
+      ],
+      "themes": [
+        "detached-action",
+        "pure-consciousness",
+        "surrender"
+      ]
+    },
+    {
       "date": "2026-05-11",
       "source": "BG 5.2",
       "chapter": 5,
@@ -138,5 +157,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-05-11"
+  "lastUpdated": "2026-05-12"
 }
