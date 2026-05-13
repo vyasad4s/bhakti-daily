@@ -1,6 +1,51 @@
 {
-  "lastUpdated": "2026-05-12",
+  "lastUpdated": "2026-05-13",
   "terms": [
+    {
+      "term": "asakta",
+      "transliteration": "asakta",
+      "type": "adjective",
+      "definition": "Not attached, unattached. In BG 5.21, asakta-ātmā refers to one whose mind is not attached to external sense objects.",
+      "roots": "from sak (to be attached)",
+      "references": [
+        "BG 5.21"
+      ],
+      "themes": [
+        "sense-control",
+        "vairagya",
+        "pratyahara"
+      ]
+    },
+    {
+      "term": "brahma-yoga",
+      "transliteration": "brahma-yoga",
+      "type": "noun",
+      "definition": "Union with the Absolute through concentration. The state where the mind is fixed on Brahman, leading to inner satisfaction.",
+      "roots": "from brahma (the Absolute) + yoga (union)",
+      "references": [
+        "BG 5.21"
+      ],
+      "themes": [
+        "brahma-yoga",
+        "sense-control",
+        "ekadashi"
+      ]
+    },
+    {
+      "term": "akṣaya",
+      "transliteration": "akṣaya",
+      "type": "adjective",
+      "definition": "Imperishable, unlimited, undiminishing. The happiness of the self-realized person never decreases.",
+      "roots": "from kṣay (to decay)",
+      "references": [
+        "BG 5.21"
+      ],
+      "themes": [
+        "sense-control",
+        "ekadashi",
+        "brahma-yoga"
+      ]
+    },
     {
       "term": "saṁsparśa",
       "transliteration": "saṁsparśa",
