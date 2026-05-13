@@ -1,6 +1,86 @@
 {
-  "lastUpdated": "2026-05-10",
+  "lastUpdated": "2026-05-12",
   "terms": [
+    {
+      "term": "saṁsparśa",
+      "transliteration": "saṁsparśa",
+      "type": "noun",
+      "definition": "The interface between a sense organ and a material object; the \"input\" that triggers a sensory reaction",
+      "roots": "from [root]",
+      "references": [
+        "BG 5.22"
+      ],
+      "themes": [
+        "sense-control"
+      ]
+    },
+    {
+      "term": "bhogāḥ",
+      "transliteration": "bhogāḥ",
+      "type": "noun",
+      "definition": "The outputs of sensory stimulation; the temporary \"highs\" produced by material interaction",
+      "roots": "from [root]",
+      "references": [
+        "BG 5.22"
+      ],
+      "themes": [
+        "sense-control"
+      ]
+    },
+    {
+      "term": "budhaḥ",
+      "transliteration": "budhaḥ",
+      "type": "noun",
+      "definition": "One who possesses Viveka (discernment) and can debug the illusion of temporary pleasure",
+      "roots": "from [root]",
+      "references": [
+        "BG 5.22"
+      ],
+      "themes": [
+        "sense-control"
+      ]
+    },
+    {
+      "term": "ekādaśī",
+      "transliteration": "ekādaśī",
+      "type": "noun",
+      "definition": "The eleventh day of the lunar fortnight, a day prescribed for fasting and increased devotion",
+      "roots": "from [root]",
+      "references": [
+        "BG 5.22"
+      ],
+      "themes": [
+        "ekadashi"
+      ]
+    },
+    {
+      "term": "pratyāhāra",
+      "transliteration": "pratyāhāra",
+      "type": "noun",
+      "definition": "The withdrawal of the senses from their objects; the fifth limb of aṣṭāṅga yoga",
+      "roots": "from [root]",
+      "references": [
+        "BG 5.22"
+      ],
+      "themes": [
+        "pratyahara",
+        "sense-control"
+      ]
+    },
+    {
+      "term": "vairāgyam",
+      "transliteration": "vairāgyam",
+      "type": "noun",
+      "definition": "Dispassion or non-attachment; freedom from craving for sense objects",
+      "roots": "from [root]",
+      "references": [
+        "BG 5.22"
+      ],
+      "themes": [
+        "vairagya",
+        "sense-control"
+      ]
+    },
     {
       "term": "Acala",
       "transliteration": "",
@@ -398,6 +478,21 @@
       "date": "2026-02-26"
     },
     {
+      "term": "Karma-Yoga",
+      "transliteration": "",
+      "type": "noun",
+      "definition": "The yoga of action. The process of transforming mundane work into spiritual service by offering the results to the Divine.",
+      "roots": "",
+      "references": [
+        "BG 5.2"
+      ],
+      "themes": [
+        "Action",
+        "Service"
+      ],
+      "date": "2026-05-11"
+    },
+    {
       "term": "Karmendriyaiḥ",
       "transliteration": "",
       "type": "noun",
@@ -672,6 +767,20 @@
       ],
       "themes": [],
       "date": "2026-02-22"
+    },
+    {
+      "term": "Niḥśreyasa",
+      "transliteration": "",
+      "type": "noun",
+      "definition": "The ultimate, unsurpassed good; liberation from the cycle of birth and death (saṁsāra).",
+      "roots": "",
+      "references": [
+        "BG 5.2"
+      ],
+      "themes": [
+        "Liberation"
+      ],
+      "date": "2026-05-11"
     },
     {
       "term": "Niṣṭhā (feminine noun)",
@@ -984,6 +1093,20 @@
       ],
       "themes": [],
       "date": "2026-02-27"
+    },
+    {
+      "term": "Sannyāsa",
+      "transliteration": "",
+      "type": "noun",
+      "definition": "The act of renunciation. In its lower form, it is the physical abandonment of duties; in its higher form, it is the mental abandonment of the sense of proprietorship.",
+      "roots": "",
+      "references": [
+        "BG 5.2"
+      ],
+      "themes": [
+        "Renunciation"
+      ],
+      "date": "2026-05-11"
     },
     {
       "term": "Sarvaśaḥ (indeclinable)",
