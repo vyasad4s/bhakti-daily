@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>COSMIC ARCHIVE :: VYASAD4S TERMINAL</title>
+  <link rel="icon" type="image/png" href="images/tilak-favicon.png">
+  <link rel="apple-touch-icon" href="images/tilak-favicon.png">
+  <link rel="shortcut icon" type="image/png" href="images/tilak-favicon.png">
+  <link rel="stylesheet" href="css/terminal.css">
+  <style>
+    .today-highlight { border: 1px solid #ff9933; padding: 1em; margin: 1em 0; background: rgba(255, 153, 51, 0.1); }
+    .today-highlight h2 { color: #ff9933; margin-bottom: 0.5em; }
+    .date-list { list-style: none; padding: 0; }
+    .date-list li { margin: 0.5em 0; display: flex; gap: 1em; align-items: center; flex-wrap: wrap; }
+    .date-list a { color: #66d9ef; }
+    .date-list a.verse-link { color: #00ff00; }
+    .date-list .meta { color: #666; font-size: 0.9em; }
+    .nav-links { margin-top: 2em; padding-top: 1em; border-top: 1px dashed #333; text-align: center; }
+    .nav-links a { color: #00ff00; margin-right: 1em; }
+    .command-output { margin: 1em 0; }
+  </style>
+</head>
+<body>
+  <div class="terminal">
+    <div class="terminal-body">
+      <div class="output" id="output">
+        <div class="terminal-header">
+          <pre class="ascii-art">
+░░      ░░░░      ░░░░      ░░░  ░░░░  ░░        ░░░      ░░
+▒  ▒▒▒▒  ▒▒  ▒▒▒▒  ▒▒  ▒▒▒▒▒▒▒▒   ▒▒   ▒▒▒▒▒  ▒▒▒▒▒  ▒▒▒▒  ▒
+▓  ▓▓▓▓▓▓▓▓  ▓▓▓▓  ▓▓▓      ▓▓▓        ▓▓▓▓▓  ▓▓▓▓▓  ▓▓▓▓▓▓▓
+█  ████  ██  ████  ████████  ██  █  █  █████  █████  ████  █
+██      ████      ████      ███  ████  ██        ███      ██ 
+
+░░      ░░░       ░░░░      ░░░  ░░░░  ░░        ░░  ░░░░  ░░        ░
+▒  ▒▒▒▒  ▒▒  ▒▒▒▒  ▒▒  ▒▒▒▒  ▒▒  ▒▒▒▒  ▒▒▒▒▒  ▒▒▒▒▒  ▒▒▒▒  ▒▒  ▒▒▒▒▒▒▒
+▓  ▓▓▓▓  ▓▓       ▓▓▓  ▓▓▓▓▓▓▓▓        ▓▓▓▓▓  ▓▓▓▓▓▓  ▓▓  ▓▓▓      ▓▓▓
+█        ██  ███  ███  ████  ██  ████  █████  ███████    ████  ███████
+█  ████  ██  ████  ███      ███  ████  ██        █████  █████        █
+          </pre>
+          <div class="separator">================================================</div>
+          <div class="subtitle">
+            <p>C0SM1C 4RCH1V3 // META DIMENSION</p>
+            <p>Panchāṅga Data & Verse Selection Rationale</p>
+          </div>
+          <div class="separator">================================================</div>
+        </div>
+        
+        <pre class="ascii-box" style="color: #ff9933;">
+════════════════════════════════════════════════
+COSMIC KERNEL logs/
+Archive of daily astrological data & verse selection criteria
+════════════════════════════════════════════════</pre>
+
+        <div class="today-highlight">
+  <p style="color: #ff9933; margin-bottom: 0.5em;">>>> TODAY | May 8, 2026</p>
+  <p><span style="color: #00aa00;">Tithi:</span> Śukla Saptamī | <span style="color: #00aa00;">Nakṣatra:</span> Pūrva Phālgunī | <span style="color: #00aa00;">Yoga:</span> Parigha</p>
+  <p style="margin-top: 0.5em;">
+    <a href="c0sm1c.html?date=2026-05-08" style="color: #00ff00;">[View Full Cosmic Data]</a>
+    <a href="verse.html?date=2026-05-08" style="color: #ff9933;">[View Verse]</a>
+  </p>
+</div>
+
+        <pre class="divider" style="color: #666; margin: 1.5em 0;">
+>>> ARCHIVED ENTRIES <<<</pre>
+
+        <ul class="date-list" id="date-list">
+    <li>
+      <span style="color: #ff9933;">2026-05-08</span>
+      <a href="c0sm1c.html?date=2026-05-08">[cosmic]</a>
+      <a href="verse.html?date=2026-05-08" class="verse-link">[verse]</a>
+      <span class="meta">Pūrva Phālgunī | Śukla Saptamī | BG 5.11</span>
+    </li>
+    <li>
+      <span style="color: #ff9933;">2026-05-07</span>
+      <a href="c0sm1c.html?date=2026-05-07">[cosmic]</a>
+      <a href="verse.html?date=2026-05-07" class="verse-link">[verse]</a>
+      <span class="meta">Pūrvā Phālgunī | BG 4.33</span>
+    </li>
+    <li>
+      <span style="color: #ff9933;">2026-05-06</span>
+      <a href="c0sm1c.html?date=2026-05-06">[cosmic]</a>
+      <a href="verse.html?date=2026-05-06" class="verse-link">[verse]</a>
+      <span class="meta">Pūrva Āṣāḍha | BG 5.3</span>
+    </li>
+    <!-- Rest of the list remains unchanged -->
+    <li>
+      <span style="color: #ff9933;">2026-04-01</span>
+      <a href="c0sm1c.html?date=2026-04-01">[cosmic]</a>
+      <a href="verse.html?date=2026-04-01" class="verse-link">[verse]</a>
+      <span class="meta">Hasta | BG 2.15</span>
+    </li>
+  </ul>
+
+        <div class="nav-links">
+          <a href="index.html">← terminal</a>
+          <a href="verse.html">verse viewer</a>
+          <a href="c0sm1c.html">cosmic viewer</a>
+        </div>
+
+        <div style="margin-top: 2em; padding-top: 1em; border-top: 1px dashed #333; text-align: center; color: #666; font-size: 0.8em;">
+          <p>vyasad4s@vedic-kernel:~/cosmic$ ▌</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</body>
+</html>
