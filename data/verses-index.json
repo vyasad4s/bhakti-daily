@@ -1,6 +1,25 @@
 {
   "verses": [
     {
+      "date": "2026-05-15",
+      "source": "BG 5.15",
+      "chapter": 5,
+      "verse": 15,
+      "title": "Lotus-Leaf Detachment on Amavasya Eve",
+      "yogaSutraConnection": "YS 2.3",
+      "tags": [
+        "non-doership",
+        "karma-yoga",
+        "amavasya",
+        "detached-action"
+      ],
+      "themes": [
+        "detached-action",
+        "pure-consciousness",
+        "surrender"
+      ]
+    },
+    {
       "date": "2026-05-14",
       "source": "BG 5.10",
       "chapter": 5,
@@ -93,8 +112,8 @@
       "tags": [
         "#karmaYoga",
         "#sannyasa",
-        "#ni\u1e25\u015breyasa",
-        "#d\u0101s\u0101nud\u0101sa",
+        "#niḥśreyasa",
+        "#dāsānudāsa",
         "#yogaSutra",
         "#devotionalService"
       ],
@@ -221,5 +240,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-05-14"
+  "lastUpdated": "2026-05-15"
 }
