@@ -1,6 +1,111 @@
 {
-  "lastUpdated": "2026-05-12",
+  "lastUpdated": "2026-05-14",
   "terms": [
+    {
+      "term": "Brahmani",
+      "transliteration": "brahmani",
+      "type": "noun",
+      "definition": "In Kṛṣṇa consciousness; operating within the frequency of the Divine rather than the ego.",
+      "roots": "from brahman (the Absolute)",
+      "references": [
+        "BG 5.10"
+      ],
+      "themes": [
+        "detachment",
+        "surrender",
+        "karma-yoga"
+      ]
+    },
+    {
+      "term": "Saṅga",
+      "transliteration": "saṅga",
+      "type": "noun",
+      "definition": "Attachment; the \"sticky\" quality of the mind that binds the soul to the results of action.",
+      "roots": "from saṅj (to join)",
+      "references": [
+        "BG 5.10"
+      ],
+      "themes": [
+        "attachment",
+        "bondage",
+        "karma"
+      ]
+    },
+    {
+      "term": "Pāpena",
+      "transliteration": "pāpena",
+      "type": "noun",
+      "definition": "By sinful action; here referring to any action performed with the intent of personal gain (ego-driven), which creates binding karma.",
+      "roots": "from pāp (sin)",
+      "references": [
+        "BG 5.10"
+      ],
+      "themes": [
+        "sin",
+        "action",
+        "karma"
+      ]
+    },
+    {
+      "term": "Saṁyama",
+      "transliteration": "saṁyama",
+      "type": "noun",
+      "definition": "Integration; the combined state of concentration, meditation, and absorption that allows the yogi to see through the illusion of proprietorship.",
+      "roots": "from saṁ (together) + yama (restraint)",
+      "references": [
+        "BG 5.10"
+      ],
+      "themes": [
+        "integration",
+        "concentration",
+        "absorption"
+      ]
+    },
+    {
+      "term": "asakta",
+      "transliteration": "asakta",
+      "type": "adjective",
+      "definition": "Not attached, unattached. In BG 5.21, asakta-ātmā refers to one whose mind is not attached to external sense objects.",
+      "roots": "from sak (to be attached)",
+      "references": [
+        "BG 5.21"
+      ],
+      "themes": [
+        "sense-control",
+        "vairagya",
+        "pratyahara"
+      ]
+    },
+    {
+      "term": "brahma-yoga",
+      "transliteration": "brahma-yoga",
+      "type": "noun",
+      "definition": "Union with the Absolute through concentration. The state where the mind is fixed on Brahman, leading to inner satisfaction.",
+      "roots": "from brahma (the Absolute) + yoga (union)",
+      "references": [
+        "BG 5.21"
+      ],
+      "themes": [
+        "brahma-yoga",
+        "sense-control",
+        "ekadashi"
+      ]
+    },
+    {
+      "term": "akṣaya",
+      "transliteration": "akṣaya",
+      "type": "adjective",
+      "definition": "Imperishable, unlimited, undiminishing. The happiness of the self-realized person never decreases.",
+      "roots": "from kṣay (to decay)",
+      "references": [
+        "BG 5.21"
+      ],
+      "themes": [
+        "sense-control",
+        "ekadashi",
+        "brahma-yoga"
+      ]
+    },
     {
       "term": "saṁsparśa",
       "transliteration": "saṁsparśa",
