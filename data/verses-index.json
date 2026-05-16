@@ -1,144 +1,77 @@
 {
   "verses": [
     {
-      "date": "2026-05-15",
-      "source": "BG 5.15",
-      "chapter": 5,
-      "verse": 15,
-      "title": "Lotus-Leaf Detachment on Amavasya Eve",
-      "yogaSutraConnection": "YS 2.3",
+      "date": "2026-05-05",
+      "source": "BG X.Y",
+      "chapter": "X",
+      "verse": "Y",
+      "title": "",
+      "yogaSutraConnection": "YS II.33",
       "tags": [
-        "non-doership",
-        "karma-yoga",
-        "amavasya",
-        "detached-action"
+        "cosmic",
+        "panchanga",
+        "sankhya"
       ],
       "themes": [
-        "detached-action",
-        "pure-consciousness",
+        "detachment",
+        "purification",
         "surrender"
       ]
     },
     {
-      "date": "2026-05-14",
+      "date": "2026-05-06",
+      "source": "BG X.Y",
+      "chapter": "X",
+      "verse": "Y",
+      "title": "",
+      "yogaSutraConnection": "YS II.33",
+      "tags": [
+        "cosmic",
+        "panchanga",
+        "sankhya"
+      ],
+      "themes": [
+        "detachment",
+        "purification",
+        "surrender"
+      ]
+    },
+    {
+      "date": "2026-05-07",
       "source": "BG 5.10",
       "chapter": 5,
       "verse": 10,
-      "title": "The Lotus-Leaf Protocol",
-      "yogaSutraConnection": "YS I.23",
+      "title": "Lotus Leaf Kernel",
+      "yogaSutraConnection": "YS II.33",
       "tags": [
-        "#Detachment",
-        "#Surrender",
-        "#Shivaratri",
-        "#KarmaYoga"
+        "LotisLeaf",
+        "NonStick",
+        "DetachedAction"
       ],
       "themes": [
-        "Detached Action",
-        "Surrender",
-        "Lotus Leaf"
-      ],
-      "tithi": "Krishna Paksha Trayodashi",
-      "nakshatra": "Revati/Ashwini",
-      "yoga": "Prithi/Ayushman"
-    },
-    {
-      "date": "2026-05-14",
-      "source": "BG 5.10",
-      "chapter": 5,
-      "verse": 10,
-      "title": "The Lotus-Leaf Protocol",
-      "yogaSutraConnection": "YS I.23",
-      "tags": [
-        "#Detachment",
-        "#Surrender",
-        "#Shivaratri",
-        "#KarmaYoga"
-      ],
-      "themes": [
-        "Detached Action",
-        "Surrender",
-        "Lotus Leaf"
-      ],
-      "tithi": "Krishna Paksha Trayodashi",
-      "nakshatra": "Revati/Ashwini",
-      "yoga": "Prithi/Ayushman"
-    },
-    {
-      "date": "2026-05-13",
-      "source": "BG 5.21",
-      "chapter": 5,
-      "verse": 21,
-      "title": "Sense Control on Ekadashi",
-      "yogaSutraConnection": "YS 2.54",
-      "tags": [
-        "sense-control",
-        "ekadashi",
-        "vairagya",
-        "pratyahara",
-        "buddhiman"
-      ],
-      "themes": [
-        "detached-action",
-        "pure-consciousness",
-        "surrender"
-      ]
-    },
-    {
-      "date": "2026-05-12",
-      "source": "BG 5.22",
-      "chapter": 5,
-      "verse": 22,
-      "title": "Apara Ekadashi: Sense-Control Protocol",
-      "yogaSutraConnection": "YS 1.15, 2.54",
-      "tags": [
-        "sense-control",
-        "ekadashi",
-        "vairagya",
-        "pratyahara"
-      ],
-      "themes": [
-        "detached-action",
-        "pure-consciousness",
-        "surrender"
-      ]
-    },
-    {
-      "date": "2026-05-11",
-      "source": "BG 5.2",
-      "chapter": 5,
-      "verse": 2,
-      "title": "The Healing Power of Action",
-      "yogaSutraConnection": "YS 1.23",
-      "tags": [
-        "#karmaYoga",
-        "#sannyasa",
-        "#niḥśreyasa",
-        "#dāsānudāsa",
-        "#yogaSutra",
-        "#devotionalService"
-      ],
-      "themes": [
-        "Detached Action",
-        "Healing through Service",
-        "Liberation"
-      ]
-    },
-    {
-      "date": "2026-05-10",
-      "source": "BG 5.7",
-      "chapter": 5,
-      "verse": 7,
-      "title": "Karma Yoga in Divine Leadership",
-      "yogaSutraConnection": "YS II.1, II.54-55",
-      "tags": [
+        "detachment",
         "karma-yoga",
-        "devotion",
-        "sense-control"
+        "surrender"
+      ]
+    },
+    {
+      "date": "2026-05-08",
+      "source": "BG 5.11",
+      "chapter": 5,
+      "verse": 11,
+      "title": "The Purification Fire",
+      "yogaSutraConnection": "YS II.33",
+      "tags": [
+        "Purification",
+        "ZeroState",
+        "Vasudeva",
+        "KarmicFirewall"
       ],
       "themes": [
-        "detached-action",
-        "pure-consciousness",
-        "surrender"
+        "purification",
+        "detachment",
+        "surrender",
+        "transcendence"
       ]
     },
     {
@@ -166,78 +99,150 @@
       "yoga": "Sukla/Brahma"
     },
     {
-      "date": "2026-05-08",
-      "source": "BG 5.11",
+      "date": "2026-05-10",
+      "source": "BG 5.7",
       "chapter": 5,
-      "verse": 11,
-      "title": "The Purification Fire",
-      "yogaSutraConnection": "YS II.33",
+      "verse": 7,
+      "title": "Karma Yoga in Divine Leadership",
+      "yogaSutraConnection": "YS II.1, II.54-55",
       "tags": [
-        "Purification",
-        "ZeroState",
-        "Vasudeva",
-        "KarmicFirewall"
+        "karma-yoga",
+        "devotion",
+        "sense-control"
       ],
       "themes": [
-        "purification",
-        "detachment",
-        "surrender",
-        "transcendence"
+        "detached-action",
+        "pure-consciousness",
+        "surrender"
       ]
     },
     {
-      "date": "2026-05-07",
+      "date": "2026-05-11",
+      "source": "BG 5.2",
+      "chapter": 5,
+      "verse": 2,
+      "title": "The Healing Power of Action",
+      "yogaSutraConnection": "YS 1.23",
+      "tags": [
+        "#karmaYoga",
+        "#sannyasa",
+        "#ni\u1e25\u015breyasa",
+        "#d\u0101s\u0101nud\u0101sa",
+        "#yogaSutra",
+        "#devotionalService"
+      ],
+      "themes": [
+        "Detached Action",
+        "Healing through Service",
+        "Liberation"
+      ]
+    },
+    {
+      "date": "2026-05-12",
+      "source": "BG 5.22",
+      "chapter": 5,
+      "verse": 22,
+      "title": "Apara Ekadashi: Sense-Control Protocol",
+      "yogaSutraConnection": "YS 1.15, 2.54",
+      "tags": [
+        "sense-control",
+        "ekadashi",
+        "vairagya",
+        "pratyahara"
+      ],
+      "themes": [
+        "detached-action",
+        "pure-consciousness",
+        "surrender"
+      ]
+    },
+    {
+      "date": "2026-05-13",
+      "source": "BG 5.21",
+      "chapter": 5,
+      "verse": 21,
+      "title": "Sense Control on Ekadashi",
+      "yogaSutraConnection": "YS 2.54",
+      "tags": [
+        "sense-control",
+        "ekadashi",
+        "vairagya",
+        "pratyahara",
+        "buddhiman"
+      ],
+      "themes": [
+        "detached-action",
+        "pure-consciousness",
+        "surrender"
+      ]
+    },
+    {
+      "date": "2026-05-14",
       "source": "BG 5.10",
       "chapter": 5,
       "verse": 10,
-      "title": "Lotus Leaf Kernel",
-      "yogaSutraConnection": "YS II.33",
+      "title": "The Lotus-Leaf Protocol",
+      "yogaSutraConnection": "YS I.23",
       "tags": [
-        "LotisLeaf",
-        "NonStick",
-        "DetachedAction"
+        "#Detachment",
+        "#Surrender",
+        "#Shivaratri",
+        "#KarmaYoga"
       ],
       "themes": [
-        "detachment",
+        "Detached Action",
+        "Surrender",
+        "Lotus Leaf"
+      ],
+      "tithi": "Krishna Paksha Trayodashi",
+      "nakshatra": "Revati/Ashwini",
+      "yoga": "Prithi/Ayushman"
+    },
+    {
+      "date": "2026-05-14",
+      "source": "BG 5.10",
+      "chapter": 5,
+      "verse": 10,
+      "title": "The Lotus-Leaf Protocol",
+      "yogaSutraConnection": "YS I.23",
+      "tags": [
+        "#Detachment",
+        "#Surrender",
+        "#Shivaratri",
+        "#KarmaYoga"
+      ],
+      "themes": [
+        "Detached Action",
+        "Surrender",
+        "Lotus Leaf"
+      ],
+      "tithi": "Krishna Paksha Trayodashi",
+      "nakshatra": "Revati/Ashwini",
+      "yoga": "Prithi/Ayushman"
+    },
+    {
+      "date": "2026-05-15",
+      "source": "BG 5.15",
+      "chapter": 5,
+      "verse": 15,
+      "title": "Lotus-Leaf Detachment on Amavasya Eve",
+      "yogaSutraConnection": "YS 2.3",
+      "tags": [
+        "non-doership",
         "karma-yoga",
+        "amavasya",
+        "detached-action"
+      ],
+      "themes": [
+        "detached-action",
+        "pure-consciousness",
         "surrender"
       ]
     },
     {
-      "date": "2026-05-06",
-      "source": "BG X.Y",
-      "chapter": "X",
-      "verse": "Y",
-      "title": "",
-      "yogaSutraConnection": "YS II.33",
-      "tags": [
-        "cosmic",
-        "panchanga",
-        "sankhya"
-      ],
-      "themes": [
-        "detachment",
-        "purification",
-        "surrender"
-      ]
-    },
-    {
-      "date": "2026-05-05",
-      "source": "BG X.Y",
-      "chapter": "X",
-      "verse": "Y",
-      "title": "",
-      "yogaSutraConnection": "YS II.33",
-      "tags": [
-        "cosmic",
-        "panchanga",
-        "sankhya"
-      ],
-      "themes": [
-        "detachment",
-        "purification",
-        "surrender"
-      ]
+      "date": "2026-05-16",
+      "chapter": 5,
+      "verse": 19
     }
   ],
   "lastUpdated": "2026-05-15"
