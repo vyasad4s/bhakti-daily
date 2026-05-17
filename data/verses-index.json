@@ -1,6 +1,38 @@
 {
   "verses": [
     {
+      "date": "2026-05-17",
+      "source": "BG 5.1",
+      "chapter": 5,
+      "verse": 1,
+      "title": "New Beginnings, Chandra Darshan",
+      "tithi": "Sukla Paksha Pratipada",
+      "nakshatra": "Rohini",
+      "yoga": "Atiganda",
+      "themes": [
+        "new-beginnings",
+        "karma-yoga",
+        "renunciation"
+      ],
+      "tags": [
+        "#new-beginnings",
+        "#karma-yoga",
+        "#renunciation",
+        "#chandra-darshan"
+      ],
+      "yogaSutraConnection": "YS 2.1",
+      "sankhyaConcepts": [
+        "purusha",
+        "prakriti",
+        "non-doership"
+      ],
+      "keyTerms": [
+        "Sanny\u0101sa",
+        "Karma-Yoga",
+        "Shreya"
+      ]
+    },
+    {
       "date": "2026-05-05",
       "source": "BG X.Y",
       "chapter": "X",
@@ -268,5 +300,5 @@
       "verse": 1
     }
   ],
-  "lastUpdated": "2026-05-16"
+  "lastUpdated": "2026-05-17"
 }
