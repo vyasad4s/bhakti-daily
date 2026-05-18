@@ -1,6 +1,21 @@
 {
   "verses": [
     {
+      "date": "2026-05-18",
+      "source": "BG 6.1",
+      "chapter": 6,
+      "verse": 1,
+      "title": "The True Yogi, Somvar Vrat",
+      "tithi": "Śukla Pakşa Dvitīyā",
+      "nakshatra": "Mṛgaśīrṣa/Ārdrā",
+      "yoga": "Sukarman/Dhṛti",
+      "themes": ["dhyanayoga", "renunciation-redefined", "karma-yoga", "somvar-vrat", "zero-attachment"],
+      "tags": ["#dhyanayoga", "#renunciation-redefined", "#karma-yoga", "#somvar-vrat", "#zero-attachment"],
+      "yogaSutraConnection": "YS 1.28",
+      "sankhyaConcepts": ["purusha", "prakriti", "ahankara", "non-doership"],
+      "keyTerms": ["anāśritaḥ", "karma-phalam", "kāryam karma", "sannyāsī", "na niragniḥ"]
+    },
+    {
       "date": "2026-05-17",
       "source": "BG 5.1",
       "chapter": 5,
@@ -300,5 +315,5 @@
       "verse": 1
     }
   ],
-  "lastUpdated": "2026-05-17"
+  "lastUpdated": "2026-05-18"
 }
