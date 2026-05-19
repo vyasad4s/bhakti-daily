@@ -1,319 +1,259 @@
 {
   "verses": [
     {
-      "date": "2026-05-18",
-      "source": "BG 6.1",
+      "date": "2026-05-19",
+      "source": "BG 6.5",
       "chapter": 6,
-      "verse": 1,
-      "title": "The True Yogi, Somvar Vrat",
-      "tithi": "Śukla Pakşa Dvitīyā",
-      "nakshatra": "Mṛgaśīrṣa/Ārdrā",
-      "yoga": "Sukarman/Dhṛti",
-      "themes": ["dhyanayoga", "renunciation-redefined", "karma-yoga", "somvar-vrat", "zero-attachment"],
-      "tags": ["#dhyanayoga", "#renunciation-redefined", "#karma-yoga", "#somvar-vrat", "#zero-attachment"],
-      "yogaSutraConnection": "YS 1.28",
-      "sankhyaConcepts": ["purusha", "prakriti", "ahankara", "non-doership"],
-      "keyTerms": ["anāśritaḥ", "karma-phalam", "kāryam karma", "sannyāsī", "na niragniḥ"]
+      "verse": 5,
+      "text": "Bhagavad Gita",
+      "tithi": "Śukla Caturthī",
+      "nakshatra": "Ārdrā → Punarvasu",
+      "yoga": "Śūla → Gaṇḍa",
+      "themes": ["mind-as-weapon", "friend-or-enemy", "self-delivery", "abhyāsa-vairāgya", "ārdrā-portal"],
+      "tags": ["#mind-as-weapon", "#friend-or-enemy", "#ārdrā-portal", "#self-delivery", "#abhyāsa-vairāgya"],
+      "yogaSutraConnection": "YS I.12",
+      "sankhyaConcepts": ["puruṣa-prakṛti", "buddhi-governs-manas", "bandhu-vs-ripu", "abhyāsa", "vairāgya"],
+      "keyTerms": ["uddharet", "avasādayet", "bandhuḥ", "ripuḥ", "ātmā", "abhyāsa"]
     },
     {
-      "date": "2026-05-17",
-      "source": "BG 5.1",
-      "chapter": 5,
-      "verse": 1,
-      "title": "New Beginnings, Chandra Darshan",
-      "tithi": "Sukla Paksha Pratipada",
-      "nakshatra": "Rohini",
-      "yoga": "Atiganda",
+      "date": "2026-05-01",
+      "source": "BG 4.37",
+      "chapter": 4,
+      "verse": 37,
+      "text": "Bhagavad Gita",
+      "tithi": "Purnima",
+      "nakshatra": "Swati",
+      "yoga": "Siddhi",
       "themes": [
-        "new-beginnings",
-        "karma-yoga",
-        "renunciation"
+        "jnana-yoga",
+        "karmic-purge",
+        "illumination",
+        "root-deletion",
+        "discrimination"
       ],
       "tags": [
-        "#new-beginnings",
-        "#karma-yoga",
-        "#renunciation",
-        "#chandra-darshan"
+        "#JnanaYoga",
+        "#KarmicPurge",
+        "#Sankhya",
+        "#Purnima",
+        "#RootPurge"
       ],
-      "yogaSutraConnection": "YS 2.1",
+      "yogaSutraConnection": "YS 1.23",
       "sankhyaConcepts": [
-        "purusha",
-        "prakriti",
-        "non-doership"
+        "purusa-prakriti",
+        "viveka",
+        "buddhi-sharpness",
+        "klesha-burning"
       ],
       "keyTerms": [
-        "Sanny\u0101sa",
-        "Karma-Yoga",
-        "Shreya"
+        "jnanagni",
+        "bhasma-sat",
+        "sarva-karmani"
       ]
     },
     {
-      "date": "2026-05-05",
-      "source": "BG X.Y",
-      "chapter": "X",
-      "verse": "Y",
-      "title": "",
-      "yogaSutraConnection": "YS II.33",
-      "tags": [
-        "cosmic",
-        "panchanga",
-        "sankhya"
-      ],
+      "date": "2026-04-14",
+      "source": "BG 3.8",
+      "chapter": 3,
+      "verse": 8,
+      "text": "Bhagavad Gita",
+      "tithi": "Dvitīya",
+      "nakshatra": "Pūrva Bhādrapāda → Uttara Bhādrapāda",
+      "yoga": "Raudra",
       "themes": [
-        "detachment",
-        "purification",
-        "surrender"
-      ]
-    },
-    {
-      "date": "2026-05-06",
-      "source": "BG X.Y",
-      "chapter": "X",
-      "verse": "Y",
-      "title": "",
-      "yogaSutraConnection": "YS II.33",
-      "tags": [
-        "cosmic",
-        "panchanga",
-        "sankhya"
-      ],
-      "themes": [
-        "detachment",
-        "purification",
-        "surrender"
-      ]
-    },
-    {
-      "date": "2026-05-07",
-      "source": "BG 5.10",
-      "chapter": 5,
-      "verse": 10,
-      "title": "Lotus Leaf Kernel",
-      "yogaSutraConnection": "YS II.33",
-      "tags": [
-        "LotisLeaf",
-        "NonStick",
-        "DetachedAction"
-      ],
-      "themes": [
-        "detachment",
         "karma-yoga",
-        "surrender"
-      ]
-    },
-    {
-      "date": "2026-05-08",
-      "source": "BG 5.11",
-      "chapter": 5,
-      "verse": 11,
-      "title": "The Purification Fire",
-      "yogaSutraConnection": "YS II.33",
-      "tags": [
-        "Purification",
-        "ZeroState",
-        "Vasudeva",
-        "KarmicFirewall"
-      ],
-      "themes": [
-        "purification",
-        "detachment",
-        "surrender",
-        "transcendence"
-      ]
-    },
-    {
-      "date": "2026-05-09",
-      "source": "BG 5.21",
-      "chapter": 5,
-      "verse": 21,
-      "title": "Brahma-Bhuta: The Zero-Point",
-      "yogaSutraConnection": "YS II.34",
-      "tags": [
-        "BrahmaBhuta",
-        "SelfAbsorption",
-        "AtmaTattva",
-        "SvaSthaya",
-        "Yoga"
-      ],
-      "themes": [
-        "self-realization",
-        "absorption",
-        "transcendence",
+        "action-over-inaction",
+        "kriya-yoga",
+        "prescribed-duty",
         "discipline"
       ],
-      "nakshatra": "Shravana/Dhanishta",
-      "tithi": "Krishna Paksha Ashtami",
-      "yoga": "Sukla/Brahma"
+      "tags": [
+        "#karma-yoga",
+        "#action-over-inaction",
+        "#kriya-yoga",
+        "#discipline",
+        "#tapas",
+        "#prescribed-duty"
+      ],
+      "yogaSutraConnection": "YS II.1",
+      "sankhyaConcepts": [
+        "karma",
+        "prakriti-action",
+        "prescribed-duty",
+        "kleśas"
+      ],
+      "keyTerms": [
+        "niyatam",
+        "karma",
+        "akarmanah",
+        "kriya-yoga",
+        "tapas"
+      ]
     },
     {
-      "date": "2026-05-10",
-      "source": "BG 5.7",
-      "chapter": 5,
-      "verse": 7,
-      "title": "Karma Yoga in Divine Leadership",
-      "yogaSutraConnection": "YS II.1, II.54-55",
+      "date": "2026-03-25",
+      "source": "BG 2.17",
+      "chapter": 2,
+      "verse": 17,
+      "text": "Bhagavad Gita",
+      "tithi": "\u015aukla A\u1e63\u1e6dam\u012b",
+      "nakshatra": "K\u1e5bttik\u0101 \u2192 Rohi\u1e47\u012b",
+      "yoga": "\u015aukha",
+      "themes": [
+        "pervasion",
+        "indestructibility",
+        "consciousness",
+        "viveka",
+        "soul"
+      ],
       "tags": [
-        "karma-yoga",
-        "devotion",
+        "#avin\u0101\u015bi",
+        "#pervasion",
+        "#consciousness",
+        "#krittika",
+        "#sankhya",
+        "#discrimination",
+        "#soul-nature"
+      ],
+      "yogaSutraConnection": "YS I.3",
+      "sankhyaConcepts": [
+        "puru\u1e63a-prak\u1e5bti",
+        "tatam",
+        "avyaya",
+        "viveka"
+      ],
+      "keyTerms": [
+        "avin\u0101\u015bi",
+        "tatam",
+        "avyaya",
+        "viddhi",
+        "sarvagata"
+      ]
+    },
+    {
+      "date": "2026-03-24",
+      "source": "BG 2.29",
+      "chapter": 2,
+      "verse": 29,
+      "text": "Bhagavad Gita",
+      "tithi": "\u015aukla Saptam\u012b",
+      "nakshatra": "Mrigash\u012br\u1e63a",
+      "yoga": "Saubh\u0101gya",
+      "themes": [
+        "knowledge-levels",
+        "perception",
+        "seeking",
+        "grace",
+        "soul"
+      ],
+      "tags": [
+        "#knowledge-levels",
+        "#perception",
+        "#mrgasira",
+        "#soul",
+        "#sankhya",
+        "#discrimination",
+        "#grace"
+      ],
+      "yogaSutraConnection": "YS I.7",
+      "sankhyaConcepts": [
+        "puru\u1e63a-prak\u1e5bti",
+        "viveka",
+        "pram\u0101\u1e47a"
+      ],
+      "keyTerms": [
+        "\u0101\u015bcarya",
+        "pa\u015byati",
+        "vadati",
+        "\u015b\u1e5b\u1e47oti",
+        "veda"
+      ]
+    },
+    {
+      "date": "2026-03-18",
+      "source": "BG 2.70",
+      "chapter": 2,
+      "verse": 70,
+      "text": "Bhagavad Gita",
+      "tithi": "Am\u0101v\u0101sy\u0101 (New Moon)",
+      "nakshatra": "P\u016brva Bh\u0101drapad\u0101 \u2192 Uttara Bh\u0101drapad\u0101",
+      "yoga": "\u015aubha \u2192 \u015aukla",
+      "themes": [
+        "vair\u0101gya",
+        "\u015b\u0101nti",
+        "completion",
+        "stillness",
+        "surrender"
+      ],
+      "tags": [
+        "#vairagya",
+        "#detachment",
+        "#inner-peace",
+        "#krishna-consciousness",
+        "#puru\u1e63a-prak\u1e5bti",
+        "#desire-management",
+        "#ocean-metaphor",
+        "#santi",
+        "#nirodha"
+      ],
+      "yogaSutraConnection": "YS I.15",
+      "sankhyaConcepts": [
+        "puru\u1e63a-prak\u1e5bti",
+        "acala-prati\u1e63\u1e6dha",
+        "\u0101p\u016bryam\u0101\u1e47am",
+        "va\u015b\u012bk\u0101ra"
+      ],
+      "keyTerms": [
+        "\u0101p\u016bryam\u0101\u1e47am",
+        "acala-prati\u1e63\u1e6dham",
+        "samudra",
+        "va\u015b\u012bk\u0101ra",
+        "\u015b\u0101nti",
+        "ap\u0101paviddha\u1e25"
+      ]
+    },
+    {
+      "date": "2026-03-09",
+      "source": "BG 2.14",
+      "chapter": 2,
+      "verse": 14,
+      "text": "Bhagavad Gita",
+      "tithi": "\u1e62a\u1e63\u1e6dh\u012b \u2192 Saptam\u012b",
+      "nakshatra": "Anur\u0101dh\u0101",
+      "yoga": "Har\u1e63a\u1e47a \u2192 Vajra",
+      "themes": [
+        "titik\u1e63\u0101",
+        "tolerance",
+        "impermanence",
+        "duty",
         "sense-control"
       ],
-      "themes": [
-        "detached-action",
-        "pure-consciousness",
-        "surrender"
+      "tags": [
+        "#titik\u1e63\u0101",
+        "#tolerance",
+        "#duty",
+        "#anitya",
+        "#impermanence",
+        "#m\u0101tr\u0101-spar\u015ba",
+        "#sense-control",
+        "#s\u0101\u1e45khya",
+        "#prak\u1e5bti",
+        "#discernment"
+      ],
+      "yogaSutraConnection": "YS II.1",
+      "sankhyaConcepts": [
+        "puru\u1e63a-prak\u1e5bti dualism",
+        "gu\u1e47a-v\u1e5bttis",
+        "anitya"
+      ],
+      "keyTerms": [
+        "titik\u1e63asva",
+        "m\u0101tr\u0101-spar\u015ba\u1e25",
+        "anity\u0101\u1e25",
+        "\u0101gama-ap\u0101yina\u1e25",
+        "\u015b\u012bta-u\u1e63\u1e도a"
       ]
-    },
-    {
-      "date": "2026-05-11",
-      "source": "BG 5.2",
-      "chapter": 5,
-      "verse": 2,
-      "title": "The Healing Power of Action",
-      "yogaSutraConnection": "YS 1.23",
-      "tags": [
-        "#karmaYoga",
-        "#sannyasa",
-        "#ni\u1e25\u015breyasa",
-        "#d\u0101s\u0101nud\u0101sa",
-        "#yogaSutra",
-        "#devotionalService"
-      ],
-      "themes": [
-        "Detached Action",
-        "Healing through Service",
-        "Liberation"
-      ]
-    },
-    {
-      "date": "2026-05-12",
-      "source": "BG 5.22",
-      "chapter": 5,
-      "verse": 22,
-      "title": "Apara Ekadashi: Sense-Control Protocol",
-      "yogaSutraConnection": "YS 1.15, 2.54",
-      "tags": [
-        "sense-control",
-        "ekadashi",
-        "vairagya",
-        "pratyahara"
-      ],
-      "themes": [
-        "detached-action",
-        "pure-consciousness",
-        "surrender"
-      ]
-    },
-    {
-      "date": "2026-05-13",
-      "source": "BG 5.21",
-      "chapter": 5,
-      "verse": 21,
-      "title": "Sense Control on Ekadashi",
-      "yogaSutraConnection": "YS 2.54",
-      "tags": [
-        "sense-control",
-        "ekadashi",
-        "vairagya",
-        "pratyahara",
-        "buddhiman"
-      ],
-      "themes": [
-        "detached-action",
-        "pure-consciousness",
-        "surrender"
-      ]
-    },
-    {
-      "date": "2026-05-14",
-      "source": "BG 5.10",
-      "chapter": 5,
-      "verse": 10,
-      "title": "The Lotus-Leaf Protocol",
-      "yogaSutraConnection": "YS I.23",
-      "tags": [
-        "#Detachment",
-        "#Surrender",
-        "#Shivaratri",
-        "#KarmaYoga"
-      ],
-      "themes": [
-        "Detached Action",
-        "Surrender",
-        "Lotus Leaf"
-      ],
-      "tithi": "Krishna Paksha Trayodashi",
-      "nakshatra": "Revati/Ashwini",
-      "yoga": "Prithi/Ayushman"
-    },
-    {
-      "date": "2026-05-14",
-      "source": "BG 5.10",
-      "chapter": 5,
-      "verse": 10,
-      "title": "The Lotus-Leaf Protocol",
-      "yogaSutraConnection": "YS I.23",
-      "tags": [
-        "#Detachment",
-        "#Surrender",
-        "#Shivaratri",
-        "#KarmaYoga"
-      ],
-      "themes": [
-        "Detached Action",
-        "Surrender",
-        "Lotus Leaf"
-      ],
-      "tithi": "Krishna Paksha Trayodashi",
-      "nakshatra": "Revati/Ashwini",
-      "yoga": "Prithi/Ayushman"
-    },
-    {
-      "date": "2026-05-15",
-      "source": "BG 5.15",
-      "chapter": 5,
-      "verse": 15,
-      "title": "Lotus-Leaf Detachment on Amavasya Eve",
-      "yogaSutraConnection": "YS 2.3",
-      "tags": [
-        "non-doership",
-        "karma-yoga",
-        "amavasya",
-        "detached-action"
-      ],
-      "themes": [
-        "detached-action",
-        "pure-consciousness",
-        "surrender"
-      ]
-    },
-    {
-      "date": "2026-05-16",
-      "source": "BG 5.29",
-      "chapter": 5,
-      "verse": 29,
-      "title": "The Supreme Benefactor",
-      "yogaSutraConnection": "YS 1.23",
-      "tags": [
-        "#detachment",
-        "#surrender",
-        "#root-access",
-        "#peace",
-        "#divine-provision"
-      ],
-      "themes": [
-        "divine-provision",
-        "peace",
-        "surrender"
-      ],
-      "tithi": "Krishna Paksha Chaturdashi",
-      "nakshatra": "Rohini",
-      "yoga": "Shubh"
-    },
-    {
-      "date": "2026-05-17",
-      "chapter": 5,
-      "verse": 1
     }
   ],
-  "lastUpdated": "2026-05-18"
+  "lastUpdated": "2026-05-19"
 }
