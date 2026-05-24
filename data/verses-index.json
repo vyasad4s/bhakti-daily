@@ -1,6 +1,49 @@
 {
   "verses": [
     {
+      "date": "2026-05-23",
+      "source": "BG 6.35-36",
+      "chapter": 6,
+      "verse": "35-36",
+      "text": "Bhagavad Gita",
+      "tithi": "Śukla Aṣṭamī",
+      "nakshatra": "Maghā → Pūrva Phalgunī",
+      "yoga": "Vyaghaṭa → Harṣaṇa",
+      "themes": [
+        "mind-control",
+        "abhyāsa",
+        "vairāgya",
+        "durgā-aṣṭamī",
+        "flickering-mind",
+        "collision-as-method"
+      ],
+      "tags": [
+        "#abhyāsa",
+        "#vairāgya",
+        "#durgā-aṣṭamī",
+        "#vyaghaṭa-yoga",
+        "#maghā→pūrva-phalgunī",
+        "#ys-i.12"
+      ],
+      "yogaSutraConnection": "YS I.12",
+      "sankhyaConcepts": [
+        "citta-vṛtti-nirodha",
+        "abhyāsa",
+        "vairāgya",
+        "puruṣa-khyāti",
+        "manas",
+        "buddhi"
+      ],
+      "keyTerms": [
+        "abhyāsa",
+        "vairāgya",
+        "durnigraham",
+        "calam",
+        "gṛhyate",
+        "upāyataḥ"
+      ]
+    },
+    {
       "date": "2026-05-22",
       "source": "BG 6.9",
       "chapter": 6,
@@ -401,5 +444,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-05-22"
+  "lastUpdated": "2026-05-23"
 }
