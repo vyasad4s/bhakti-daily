@@ -1,6 +1,52 @@
 {
   "verses": [
     {
+      "date": "2026-05-24",
+      "source": "BG 6.25-26",
+      "chapter": 6,
+      "verse": "25-26",
+      "text": "Bhagavad Gita",
+      "tithi": "Śukla Navamī → Dashamī",
+      "nakshatra": "Pūrva Phalgunī → Uttara Phalgunī",
+      "yoga": "Harṣaṇa → Vajra",
+      "themes": [
+        "mind-return",
+        "gradual-withdrawal",
+        "pratyāhāra",
+        "navamī-fulfillment",
+        "phalgunī-portal",
+        "cañcala-mind"
+      ],
+      "tags": [
+        "#śanaiḥ-śanaiḥ",
+        "#yataḥ-yataḥ",
+        "#ātma-saṁstha",
+        "#pratyāhāra",
+        "#dhṛti",
+        "#navamī",
+        "#phalgunī-portal",
+        "#sarvartha-siddhi"
+      ],
+      "yogaSutraConnection": "YS II.54-55",
+      "sankhyaConcepts": [
+        "pratyāhāra",
+        "buddhi",
+        "manas",
+        "puruṣa-witness",
+        "prakṛti-evolute",
+        "viṣaya",
+        "indriyas"
+      ],
+      "keyTerms": [
+        "śanaiḥ śanaiḥ",
+        "dhṛti-gṛhītayā",
+        "ātma-saṁstha",
+        "cañcalam",
+        "niyamya",
+        "vaśaṁ nayet"
+      ]
+    },
+    {
       "date": "2026-05-23",
       "source": "BG 6.35-36",
       "chapter": 6,
@@ -444,5 +490,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-05-23"
+  "lastUpdated": "2026-05-24"
 }
