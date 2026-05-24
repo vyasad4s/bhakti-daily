@@ -1,0 +1,448 @@
+{
+  "verses": [
+    {
+      "date": "2026-05-23",
+      "source": "BG 6.35-36",
+      "chapter": 6,
+      "verse": "35-36",
+      "text": "Bhagavad Gita",
+      "tithi": "Śukla Aṣṭamī",
+      "nakshatra": "Maghā → Pūrva Phalgunī",
+      "yoga": "Vyaghaṭa → Harṣaṇa",
+      "themes": [
+        "mind-control",
+        "abhyāsa",
+        "vairāgya",
+        "durgā-aṣṭamī",
+        "flickering-mind",
+        "collision-as-method"
+      ],
+      "tags": [
+        "#abhyāsa",
+        "#vairāgya",
+        "#durgā-aṣṭamī",
+        "#vyaghaṭa-yoga",
+        "#maghā→pūrva-phalgunī",
+        "#ys-i.12"
+      ],
+      "yogaSutraConnection": "YS I.12",
+      "sankhyaConcepts": [
+        "citta-vṛtti-nirodha",
+        "abhyāsa",
+        "vairāgya",
+        "puruṣa-khyāti",
+        "manas",
+        "buddhi"
+      ],
+      "keyTerms": [
+        "abhyāsa",
+        "vairāgya",
+        "durnigraham",
+        "calam",
+        "gṛhyate",
+        "upāyataḥ"
+      ]
+    },
+    {
+      "date": "2026-05-22",
+      "source": "BG 6.9",
+      "chapter": 6,
+      "verse": 9,
+      "text": "Bhagavad Gita",
+      "tithi": "Śukla Saptami",
+      "nakshatra": "Āśleṣā → Maghā",
+      "yoga": "Dhruva",
+      "themes": [
+        "sama-buddhi",
+        "equal-intelligence",
+        "āśleṣā-maghā-threshold",
+        "dhruva-steadiness",
+        "citta-prasādanam"
+      ],
+      "tags": [
+        "#sama-buddhi",
+        "#equal-intelligence",
+        "#āśleṣā→maghā",
+        "#dhruva-steadiness",
+        "#ys-i.33",
+        "#citta-prasādanam"
+      ],
+      "yogaSutraConnection": "YS I.33",
+      "sankhyaConcepts": [
+        "sama-buddhi",
+        "rāga-dveṣa",
+        "buddhi-restructuring",
+        "guṇa-categorization",
+        "citta-prasādanam"
+      ],
+      "keyTerms": [
+        "sama-buddhi",
+        "su-hṛt",
+        "madhya-stha",
+        "dveṣya",
+        "viśiṣyate",
+        "upekṣā"
+      ]
+    },
+    {
+      "date": "2026-05-21",
+      "source": "BG 6.29",
+      "chapter": 6,
+      "verse": 29,
+      "text": "Bhagavad Gita",
+      "tithi": "Śukla Ṣaṣṭhī",
+      "nakshatra": "Puṣya → Āśleṣā",
+      "yoga": "Vṛddhi",
+      "themes": [
+        "sama-darśana",
+        "guru-puṣya-illumination",
+        "equal-vision",
+        "paramātmā-everywhere",
+        "dhyāna-fruition"
+      ],
+      "tags": [
+        "#sama-darśana",
+        "#guru-puṣya-illumination",
+        "#equal-vision",
+        "#paramātmā-everywhere",
+        "#dhyāna-fruition"
+      ],
+      "yogaSutraConnection": "YS I.45",
+      "sankhyaConcepts": [
+        "puruṣa-prakṛti",
+        "paramātmā-omnipresence",
+        "sama-darśana",
+        "jīva-vs-paramātmā",
+        "sabīja-samādhi"
+      ],
+      "keyTerms": [
+        "sarva-bhūta-stha",
+        "yoga-yukta-ātmā",
+        "sama-darśana",
+        "īkṣate",
+        "paramātmā",
+        "darśana"
+      ]
+    },
+    {
+      "date": "2026-05-20",
+      "source": "BG 6.17",
+      "chapter": 6,
+      "verse": 17,
+      "text": "Bhagavad Gita",
+      "tithi": "Śukla Pañcamī",
+      "nakshatra": "Punarvasu → Puṣya",
+      "yoga": "Gaṇḍa",
+      "themes": [
+        "yukta-protocol",
+        "regulated-freedom",
+        "puṣya-nourishment",
+        "duḥkha-hā",
+        "kriyā-yoga"
+      ],
+      "tags": [
+        "#yukta-protocol",
+        "#regulated-freedom",
+        "#puṣya-nourishment",
+        "#duḥkha-hā",
+        "#kriyā-yoga"
+      ],
+      "yogaSutraConnection": "YS II.1",
+      "sankhyaConcepts": [
+        "yukta-regulation",
+        "kriyā-yoga",
+        "tapas-svādhyāya-praṇidhāna",
+        "duḥkha-nirodha",
+        "sattva-dominance"
+      ],
+      "keyTerms": [
+        "yukta",
+        "āhāra",
+        "vihāra",
+        "ceṣṭā",
+        "svapna-avabodha",
+        "duḥkha-hā"
+      ]
+    },
+    {
+      "date": "2026-05-19",
+      "source": "BG 6.5",
+      "chapter": 6,
+      "verse": 5,
+      "text": "Bhagavad Gita",
+      "tithi": "Śukla Caturthī",
+      "nakshatra": "Ārdrā → Punarvasu",
+      "yoga": "Śūla → Gaṇḍa",
+      "themes": [
+        "mind-as-weapon",
+        "friend-or-enemy",
+        "self-delivery",
+        "abhyāsa-vairāgya",
+        "ārdrā-portal"
+      ],
+      "tags": [
+        "#mind-as-weapon",
+        "#friend-or-enemy",
+        "#ārdrā-portal",
+        "#self-delivery",
+        "#abhyāsa-vairāgya"
+      ],
+      "yogaSutraConnection": "YS I.12",
+      "sankhyaConcepts": [
+        "puruṣa-prakṛti",
+        "buddhi-governs-manas",
+        "bandhu-vs-ripu",
+        "abhyāsa",
+        "vairāgya"
+      ],
+      "keyTerms": [
+        "uddharet",
+        "avasādayet",
+        "bandhuḥ",
+        "ripuḥ",
+        "ātmā",
+        "abhyāsa"
+      ]
+    },
+    {
+      "date": "2026-05-01",
+      "source": "BG 4.37",
+      "chapter": 4,
+      "verse": 37,
+      "text": "Bhagavad Gita",
+      "tithi": "Purnima",
+      "nakshatra": "Swati",
+      "yoga": "Siddhi",
+      "themes": [
+        "jnana-yoga",
+        "karmic-purge",
+        "illumination",
+        "root-deletion",
+        "discrimination"
+      ],
+      "tags": [
+        "#JnanaYoga",
+        "#KarmicPurge",
+        "#Sankhya",
+        "#Purnima",
+        "#RootPurge"
+      ],
+      "yogaSutraConnection": "YS 1.23",
+      "sankhyaConcepts": [
+        "purusa-prakriti",
+        "viveka",
+        "buddhi-sharpness",
+        "klesha-burning"
+      ],
+      "keyTerms": [
+        "jnanagni",
+        "bhasma-sat",
+        "sarva-karmani"
+      ]
+    },
+    {
+      "date": "2026-04-14",
+      "source": "BG 3.8",
+      "chapter": 3,
+      "verse": 8,
+      "text": "Bhagavad Gita",
+      "tithi": "Dvitīya",
+      "nakshatra": "Pūrva Bhādrapāda → Uttara Bhādrapāda",
+      "yoga": "Raudra",
+      "themes": [
+        "karma-yoga",
+        "action-over-inaction",
+        "kriya-yoga",
+        "prescribed-duty",
+        "discipline"
+      ],
+      "tags": [
+        "#karma-yoga",
+        "#action-over-inaction",
+        "#kriya-yoga",
+        "#discipline",
+        "#tapas",
+        "#prescribed-duty"
+      ],
+      "yogaSutraConnection": "YS II.1",
+      "sankhyaConcepts": [
+        "karma",
+        "prakriti-action",
+        "prescribed-duty",
+        "kleśas"
+      ],
+      "keyTerms": [
+        "niyatam",
+        "karma",
+        "akarmanah",
+        "kriya-yoga",
+        "tapas"
+      ]
+    },
+    {
+      "date": "2026-03-25",
+      "source": "BG 2.17",
+      "chapter": 2,
+      "verse": 17,
+      "text": "Bhagavad Gita",
+      "tithi": "Śukla Aṣṭamī",
+      "nakshatra": "Kṛttikā → Rohiṇī",
+      "yoga": "Śukha",
+      "themes": [
+        "pervasion",
+        "indestructibility",
+        "consciousness",
+        "viveka",
+        "soul"
+      ],
+      "tags": [
+        "#avināśi",
+        "#pervasion",
+        "#consciousness",
+        "#krittika",
+        "#sankhya",
+        "#discrimination",
+        "#soul-nature"
+      ],
+      "yogaSutraConnection": "YS I.3",
+      "sankhyaConcepts": [
+        "puruṣa-prakṛti",
+        "tatam",
+        "avyaya",
+        "viveka"
+      ],
+      "keyTerms": [
+        "avināśi",
+        "tatam",
+        "avyaya",
+        "viddhi",
+        "sarvagata"
+      ]
+    },
+    {
+      "date": "2026-03-24",
+      "source": "BG 2.29",
+      "chapter": 2,
+      "verse": 29,
+      "text": "Bhagavad Gita",
+      "tithi": "Śukla Saptamī",
+      "nakshatra": "Mrigashīrṣa",
+      "yoga": "Saubhāgya",
+      "themes": [
+        "knowledge-levels",
+        "perception",
+        "seeking",
+        "grace",
+        "soul"
+      ],
+      "tags": [
+        "#knowledge-levels",
+        "#perception",
+        "#mrgasira",
+        "#soul",
+        "#sankhya",
+        "#discrimination",
+        "#grace"
+      ],
+      "yogaSutraConnection": "YS I.7",
+      "sankhyaConcepts": [
+        "puruṣa-prakṛti",
+        "viveka",
+        "pramāṇa"
+      ],
+      "keyTerms": [
+        "āścarya",
+        "paśyati",
+        "vadati",
+        "śṛṇoti",
+        "veda"
+      ]
+    },
+    {
+      "date": "2026-03-18",
+      "source": "BG 2.70",
+      "chapter": 2,
+      "verse": 70,
+      "text": "Bhagavad Gita",
+      "tithi": "Amāvāsyā (New Moon)",
+      "nakshatra": "Pūrva Bhādrapadā → Uttara Bhādrapadā",
+      "yoga": "Śubha → Śukla",
+      "themes": [
+        "vairāgya",
+        "śānti",
+        "completion",
+        "stillness",
+        "surrender"
+      ],
+      "tags": [
+        "#vairagya",
+        "#detachment",
+        "#inner-peace",
+        "#krishna-consciousness",
+        "#puruṣa-prakṛti",
+        "#desire-management",
+        "#ocean-metaphor",
+        "#santi",
+        "#nirodha"
+      ],
+      "yogaSutraConnection": "YS I.15",
+      "sankhyaConcepts": [
+        "puruṣa-prakṛti",
+        "acala-pratiṣṭha",
+        "āpūryamāṇam",
+        "vaśīkāra"
+      ],
+      "keyTerms": [
+        "āpūryamāṇam",
+        "acala-pratiṣṭham",
+        "samudra",
+        "vaśīkāra",
+        "śānti",
+        "apāpaviddhaḥ"
+      ]
+    },
+    {
+      "date": "2026-03-09",
+      "source": "BG 2.14",
+      "chapter": 2,
+      "verse": 14,
+      "text": "Bhagavad Gita",
+      "tithi": "Ṣaṣṭhī → Saptamī",
+      "nakshatra": "Anurādhā",
+      "yoga": "Harṣaṇa → Vajra",
+      "themes": [
+        "titikṣā",
+        "tolerance",
+        "impermanence",
+        "duty",
+        "sense-control"
+      ],
+      "tags": [
+        "#titikṣā",
+        "#tolerance",
+        "#duty",
+        "#anitya",
+        "#impermanence",
+        "#mātrā-sparśa",
+        "#sense-control",
+        "#sāṅkhya",
+        "#prakṛti",
+        "#discernment"
+      ],
+      "yogaSutraConnection": "YS II.1",
+      "sankhyaConcepts": [
+        "puruṣa-prakṛti dualism",
+        "guṇa-vṛttis",
+        "anitya"
+      ],
+      "keyTerms": [
+        "titikṣasva",
+        "mātrā-sparśaḥ",
+        "anityāḥ",
+        "āgama-apāyinaḥ",
+        "śīta-uṣṣa"
+      ]
+    }
+  ],
+  "lastUpdated": "2026-05-23"
+}
