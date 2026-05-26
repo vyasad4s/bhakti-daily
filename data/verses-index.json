@@ -1,6 +1,52 @@
 {
   "verses": [
     {
+      "date": "2026-05-26",
+      "source": "BG 6.10",
+      "chapter": 6,
+      "verse": 10,
+      "text": "Bhagavad Gita",
+      "tithi": "Śukla Ekādaśī → Dwādaśī",
+      "nakshatra": "Hasta → Chitrā",
+      "yoga": "Siddhi → Vyatipāta",
+      "themes": [
+        "solitary-practice",
+        "constant-engagement",
+        "ekadashi-fire",
+        "hasta-skill",
+        "padmini-lotus",
+        "nirasih-fulfillment",
+        "aparigraha-ownership"
+      ],
+      "tags": [
+        "#yuñjīta",
+        "#satatam",
+        "#rahasi",
+        "#ekākī",
+        "#nirāśīḥ",
+        "#aparigrahaḥ",
+        "#īśvara-praṇidhāna",
+        "#padmini-ekādaśī"
+      ],
+      "yogaSutraConnection": "YS II.45",
+      "sankhyaConcepts": [
+        "buddhi-oriented-toward-puruṣa",
+        "five-movements-of-discernment",
+        "vairāgya",
+        "abhyāsa",
+        "īśvara-praṇidhāna",
+        "sattvic-buddhi"
+      ],
+      "keyTerms": [
+        "yuñjīta",
+        "satatam",
+        "rahasi",
+        "ekākī",
+        "nirāśīḥ",
+        "aparigrahaḥ"
+      ]
+    },
+    {
       "date": "2026-05-25",
       "source": "BG 6.47",
       "chapter": 6,
