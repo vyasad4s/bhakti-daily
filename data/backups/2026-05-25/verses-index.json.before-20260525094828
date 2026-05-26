@@ -1,92 +1,6 @@
 {
   "verses": [
     {
-      "date": "2026-05-26",
-      "source": "BG 6.10",
-      "chapter": 6,
-      "verse": 10,
-      "text": "Bhagavad Gita",
-      "tithi": "Śukla Ekādaśī → Dwādaśī",
-      "nakshatra": "Hasta → Chitrā",
-      "yoga": "Siddhi → Vyatipāta",
-      "themes": [
-        "solitary-practice",
-        "constant-engagement",
-        "ekadashi-fire",
-        "hasta-skill",
-        "padmini-lotus",
-        "nirasih-fulfillment",
-        "aparigraha-ownership"
-      ],
-      "tags": [
-        "#yuñjīta",
-        "#satatam",
-        "#rahasi",
-        "#ekākī",
-        "#nirāśīḥ",
-        "#aparigrahaḥ",
-        "#īśvara-praṇidhāna",
-        "#padmini-ekādaśī"
-      ],
-      "yogaSutraConnection": "YS II.45",
-      "sankhyaConcepts": [
-        "buddhi-oriented-toward-puruṣa",
-        "five-movements-of-discernment",
-        "vairāgya",
-        "abhyāsa",
-        "īśvara-praṇidhāna",
-        "sattvic-buddhi"
-      ],
-      "keyTerms": [
-        "yuñjīta",
-        "satatam",
-        "rahasi",
-        "ekākī",
-        "nirāśīḥ",
-        "aparigrahaḥ"
-      ]
-    },
-    {
-      "date": "2026-05-25",
-      "source": "BG 6.47",
-      "chapter": 6,
-      "verse": "47",
-      "text": "Bhagavad Gita",
-      "tithi": "Śukla Daśamī → Ekādaśī",
-      "nakshatra": "Uttara Phalgunī → Hasta",
-      "yoga": "Vajra → Siddhi",
-      "themes": [
-        "culmination",
-        "bhakti-as-highest",
-        "ganga-dussehra",
-        "dashami-fulfillment",
-        "siddhi-yoga",
-        "yukta-tamah"
-      ],
-      "tags": [
-        "#yukta-tamaḥ",
-        "#bhajate",
-        "#śraddhā-vān",
-        "#mad-gatena",
-        "#īśvara-praṇidhāna",
-        "#ganga-dussehra",
-        "#daśamī"
-      ],
-      "yogaSutraConnection": "YS I.23",
-      "sankhyaConcepts": [
-        "puruṣa-prakṛti-circuit",
-        "guṇa-transcendence-through-offering",
-        "buddhi-alignment"
-      ],
-      "keyTerms": [
-        "yukta-tamaḥ",
-        "bhajate",
-        "mad-gatena",
-        "śraddhā-vān",
-        "antar-ātmanā"
-      ]
-    },
-    {
       "date": "2026-05-24",
       "source": "BG 6.25-26",
       "chapter": 6,
@@ -576,5 +490,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-05-26"
+  "lastUpdated": "2026-05-24"
 }
