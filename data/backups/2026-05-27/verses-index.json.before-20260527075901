@@ -1,46 +1,6 @@
 {
   "verses": [
     {
-      "date": "2026-05-27",
-      "source": "BG 6.27",
-      "chapter": 6,
-      "verse": 27,
-      "text": "Bhagavad Gita",
-      "tithi": "Śukla Dwādaśī",
-      "nakshatra": "Chitrā → Svātī",
-      "yoga": "Vyatipāta → Variyan",
-      "themes": [
-        "settled-mind",
-        "supreme-happiness",
-        "brahma-bhūta",
-        "contentment",
-        "vyatipāta-reversal"
-      ],
-      "tags": [
-        "#settled-mind",
-        "#supreme-happiness",
-        "#brahma-bhūta",
-        "#santoṣa",
-        "#vyatipāta-reversal",
-        "#chitrā-radiance",
-        "#dwādaśī-fulfillment"
-      ],
-      "yogaSutraConnection": "YS II.42",
-      "sankhyaConcepts": [
-        "sattva-self-revelation",
-        "buddhi-as-reflector",
-        "karmic-exhaust-mechanism"
-      ],
-      "keyTerms": [
-        "praśānta-manas",
-        "sukham uttamam",
-        "śānta-rajasaḥ",
-        "brahma-bhūtam",
-        "akalmaṣam",
-        "santoṣa"
-      ]
-    },
-    {
       "date": "2026-05-26",
       "source": "BG 6.10",
       "chapter": 6,
@@ -616,5 +576,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-05-27"
+  "lastUpdated": "2026-05-26"
 }
