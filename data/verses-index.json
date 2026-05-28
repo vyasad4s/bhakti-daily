@@ -1,6 +1,47 @@
 {
   "verses": [
     {
+      "date": "2026-05-28",
+      "source": "BG 6.30",
+      "chapter": 6,
+      "verse": 30,
+      "text": "Bhagavad Gita",
+      "tithi": "Śukla Trayodaśī",
+      "nakshatra": "Svātī → Viśākhā",
+      "yoga": "Variyan → Parigha",
+      "themes": [
+        "omnipresence",
+        "divine-vision",
+        "intimacy",
+        "praṇaśyati",
+        "svātī-independence",
+        "parigha-crossing"
+      ],
+      "tags": [
+        "#omnipresence",
+        "#divine-vision",
+        "#intimacy",
+        "#praṇaśyati",
+        "#svātī-independence",
+        "#parigha-crossing",
+        "#pradoṣa-vrat"
+      ],
+      "yogaSutraConnection": "YS I.36–I.37",
+      "sankhyaConcepts": [
+        "prakṛti-as-kṛṣṇa-energy",
+        "rāga-as-distortion-field",
+        "mutual-non-perishing"
+      ],
+      "keyTerms": [
+        "paśyati",
+        "sarvatra",
+        "praṇaśyāmi",
+        "sama-darśana",
+        "viśokā jyotiṣmatī",
+        "vīta-rāga"
+      ]
+    },
+    {
       "date": "2026-05-27",
       "source": "BG 6.27",
       "chapter": 6,
@@ -616,5 +657,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-05-27"
+  "lastUpdated": "2026-05-28"
 }
