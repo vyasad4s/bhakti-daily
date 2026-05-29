@@ -1,6 +1,48 @@
 {
   "verses": [
     {
+      "date": "2026-05-29",
+      "source": "BG 6.37-40",
+      "chapter": 6,
+      "verse": "37-40",
+      "text": "Bhagavad Gita",
+      "tithi": "Śukla Caturdaśī",
+      "nakshatra": "Viśākhā → Anurādhā",
+      "yoga": "Parigha → Śiva",
+      "themes": [
+        "failed-yogi",
+        "guarantee",
+        "grace",
+        "kalyāṇa-kṛt",
+        "Īśvara-praṇidhāna",
+        "buddhi-saṁyoga",
+        "no-effort-lost"
+      ],
+      "tags": [
+        "#failed-yogi",
+        "#guarantee",
+        "#kalyāṇa-kṛt",
+        "#Īśvara-praṇidhāna",
+        "#grace",
+        "#buddhi-saṁyoga",
+        "#no-effort-lost"
+      ],
+      "yogaSutraConnection": "YS I.23 + I.26",
+      "sankhyaConcepts": [
+        "buddhi-as-preservation-mechanism",
+        "Īśvara-as-transcendent-preserver",
+        "guṇas-never-destroy-sattvic-investment"
+      ],
+      "keyTerms": [
+        "yogāc calita-mānasaḥ",
+        "ubhaya-vibhraṣṭa",
+        "chinnābhram",
+        "kalyāṇa-kṛt",
+        "buddhi-saṁyoga",
+        "Īśvara-praṇidhāna"
+      ]
+    },
+    {
       "date": "2026-05-28",
       "source": "BG 6.30",
       "chapter": 6,
