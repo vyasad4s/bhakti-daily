@@ -1,6 +1,46 @@
 {
   "verses": [
     {
+      "date": "2026-05-30",
+      "source": "BG 6.28",
+      "chapter": 6,
+      "verse": 28,
+      "text": "Bhagavad Gita",
+      "tithi": "Śukla Pūrṇimā",
+      "nakshatra": "Anurādhā",
+      "yoga": "Śiva → Siddha",
+      "themes": [
+        "#purnima",
+        "#fulfillment",
+        "#brahma-samsparsha",
+        "#anuradha",
+        "#mitra",
+        "#completion"
+      ],
+      "tags": [
+        "#brahma-samsparsha",
+        "#purnima",
+        "#vigata-kalmasha",
+        "#supreme-happiness",
+        "#dhyana-yoga"
+      ],
+      "yogaSutraConnection": "YS II.28",
+      "sankhyaConcepts": [
+        "purusa-prakriti",
+        "vigata-kalmasha",
+        "brahma-samsparsha",
+        "jñāna-dīptiḥ"
+      ],
+      "keyTerms": [
+        "brahma-saṁsparśa",
+        "vigata-kalmaṣaḥ",
+        "yuñjan",
+        "sadā",
+        "atyantam sukham",
+        "aśuddhi-kṣaya"
+      ]
+    },
+    {
       "date": "2026-05-29",
       "source": "BG 6.37-40",
       "chapter": 6,
@@ -699,5 +739,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-05-28"
+  "lastUpdated": "2026-05-30"
 }
