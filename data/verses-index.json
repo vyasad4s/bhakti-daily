@@ -1,6 +1,48 @@
 {
   "verses": [
     {
+      "date": "2026-05-31",
+      "source": "BG 6.7",
+      "chapter": 6,
+      "verse": 7,
+      "text": "Bhagavad Gita",
+      "tithi": "Kṛṣṇa Pratipadā",
+      "nakshatra": "Anurādhā → Jyeṣṭhā",
+      "yoga": "Siddha → Sadhya",
+      "themes": [
+        "jitatman",
+        "paramatma",
+        "equanimity",
+        "dvandva",
+        "dhyana-yoga",
+        "mind-conquest",
+        "krishna-pratipada"
+      ],
+      "tags": [
+        "#jitatman",
+        "#paramatma",
+        "#equanimity",
+        "#dvandva",
+        "#dhyana-yoga",
+        "#mind-conquest"
+      ],
+      "yogaSutraConnection": "YS II.48",
+      "sankhyaConcepts": [
+        "buddhi-sattvika",
+        "dvandva",
+        "anabhighata",
+        "guna-oscillation"
+      ],
+      "keyTerms": [
+        "jitātman",
+        "praśānta",
+        "paramātmā",
+        "samāhitaḥ",
+        "dvandva",
+        "anabhighāta"
+      ]
+    },
+    {
       "date": "2026-05-30",
       "source": "BG 6.28",
       "chapter": 6,
@@ -10,12 +52,12 @@
       "nakshatra": "Anurādhā",
       "yoga": "Śiva → Siddha",
       "themes": [
-        "#purnima",
-        "#fulfillment",
-        "#brahma-samsparsha",
-        "#anuradha",
-        "#mitra",
-        "#completion"
+        "purnima",
+        "fulfillment",
+        "brahma-samsparsha",
+        "anuradha",
+        "mitra",
+        "completion"
       ],
       "tags": [
         "#brahma-samsparsha",
@@ -739,5 +781,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-05-30"
+  "lastUpdated": "2026-05-31"
 }
