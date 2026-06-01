@@ -1,6 +1,49 @@
 {
   "verses": [
     {
+      "date": "2026-06-01",
+      "source": "BG 6.20-23",
+      "chapter": 6,
+      "verse": "20-23",
+      "text": "Bhagavad Gita",
+      "tithi": "Kṛṣṇa Dwitiyā",
+      "nakshatra": "Jyeṣṭhā → Mūla",
+      "yoga": "Sādhya → Śubha",
+      "themes": [
+        "samadhi",
+        "kaivalya",
+        "citi-shakti",
+        "niruddha",
+        "duhkha-saṁyoga-viyoga",
+        "dhyana-yoga",
+        "atyantika-sukha"
+      ],
+      "tags": [
+        "#samadhi",
+        "#kaivalya",
+        "#citi-shakti",
+        "#niruddha",
+        "#dhyana-yoga",
+        "#duhkha-saṁyoga-viyoga"
+      ],
+      "yogaSutraConnection": "YS I.17 + IV.34",
+      "sankhyaConcepts": [
+        "puruṣa-prakṛti-viyoga",
+        "citi-śakti",
+        "guṇa-pratiprasava",
+        "kaivalya",
+        "svarūpa-pratiṣṭhā"
+      ],
+      "keyTerms": [
+        "samādhi",
+        "citi-śakti",
+        "kaivalya",
+        "duḥkha-saṁyoga-viyoga",
+        "niruddha",
+        "ātyantikam"
+      ]
+    },
+    {
       "date": "2026-05-31",
       "source": "BG 6.7",
       "chapter": 6,
@@ -781,5 +824,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-05-31"
+  "lastUpdated": "2026-06-01"
 }
