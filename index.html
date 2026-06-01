@@ -8,6 +8,9 @@
     <link rel="apple-touch-icon" href="images/d4s-favicon.png">
     <link rel="shortcut icon" type="image/png" href="images/d4s-favicon.png">
 
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;600;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="css/terminal.css">
 </head>
 <body>
@@ -16,13 +19,16 @@
             <div class="output" id="output">
                 <div class="terminal-header">
             <pre class="ascii-art">
-██╗   ██╗██╗   ██╗ █████╗ ███████╗ █████╗ ██████╗   ████╗ ███████╗
-██║   ██║╚██╗ ██╔╝██╔══██╗██╔════╝██╔══██╗██╔══██╗ ██╔██║ ██╔════╝
-██║   ██║ ╚████╔╝ ███████║███████╗███████║██║  ██║███████╗███████╗
-╚██╗ ██╔╝  ╚██╔╝  ██╔══██║╚════██║██╔══██║██║  ██║╚═══██╔╝╚════██║
- ╚████╔╝    ██║   ██║  ██║███████║██║  ██║██████╔╝    ██║ ███████║
-  ╚═══╝     ╚═╝   ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═════╝     ╚═╝ ╚══════╝   
-            </pre>
+░▒█▀▀▀▄ ░▒█░░▒█ ░▒█▀▀▀▄ ░▒█░▄▀░ ░▒▀▀█▀▀ ░▒▀▀█▀▀
+░▒█▀▀▀▄ ░▒█▀▀▀█ ░▒█▄▄▄█ ░▒█▀▄░░ ░░░▒█░░ ░░░▒█░░
+░▒█▄▄▄█ ░▒█░░▒█ ░▒█░░▒█ ░▒█░▒▀▄ ░░░▒█░░ ░▒▄▄█▄▄
+
+░▒█▀▀▀▄ ░▒█▀▀▀▄ ░▒▀▀█▀▀ ░▒█░░░░ ░▒█░░▒█    
+░▒█░░▒█ ░▒█▄▄▄█ ░░░▒█░░ ░▒█░░░░ ░▒▀▄▄▄▀
+░▒█▄▄▄█ ░▒█░░▒█ ░▒▄▄█▄▄ ░▒█▄▄▄█ ░░░▒█░░
+
+🦚 HARIBOL 🦚
+</pre>
             <div class="separator">================================================</div>
             <div class="subtitle"></div>
             <div class="separator">================================================</div>
@@ -31,13 +37,34 @@
             </div>
             
             <div class="input-line">
-                <span class="prompt">vyasad4s@vedic-kernel:~$ </span>
+                <span class="prompt">vyasa@bd:~$ </span>
                 <input type="text" id="command-input" class="command-input" placeholder="type 'help'" autofocus autocomplete="off" spellcheck="false">
                 <span class="cursor">█</span>
             </div>
 
-            <div style="text-align: center; margin-top: 10px; font-size: 12px; color: #66d9ef;">
-                Compiled by vyasad4s 🏹 | <a href="https://github.com/vyasad4s/bhakti-daily" target="_blank" style="color: #66d9ef; text-decoration: none;">View source on GitHub</a>
+            <div class="command-chip-line" aria-label="Quick commands" tabindex="0">
+                <span class="chip-prefix">∵ [sys_cmd]</span>
+                <span class="chip-accent" aria-hidden="true">🦚</span>
+                <span class="command-chip-shell">
+                    <span class="command-chip-hint" aria-hidden="true">// hover/hold to reveal cmds...</span>
+                    <span class="command-chip-list">
+                        <button type="button" class="command-chip" data-command="help">[help]</button>
+                        <button type="button" class="command-chip" data-command="about">[about]</button>
+                        <button type="button" class="command-chip" data-command="verses">[verses]</button>
+                        <button type="button" class="command-chip" data-command="cosmic">[cosmic]</button>
+                        <button type="button" class="command-chip" data-command="archive">[archive]</button>
+                        <button type="button" class="command-chip" data-command="glossary">[glossary]</button>
+                        <button type="button" class="command-chip" data-command="today">[today]</button>
+                        <button type="button" class="command-chip" data-command="yesterday">[yesterday]</button>
+                        <button type="button" class="command-chip" data-command="chant">[chant]</button>
+                    </span>
+                </span>
+            </div>
+
+            <div class="terminal-footer">
+                <span>lch3x🪓 × vyasad4s🏹</span>
+                <span aria-hidden="true">|</span>
+                <a href="https://github.com/vyasad4s/bhakti-daily" target="_blank">GitHub</a>
             </div>
         </div>
     </div>

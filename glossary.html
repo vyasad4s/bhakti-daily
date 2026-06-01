@@ -3,97 +3,80 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Sanskrit Glossary - VYASAD4S</title>
-    <link rel="icon" type="image/png" href="images/krsn4-m0d3-favicon.png">
-    <link rel="apple-touch-icon" href="images/krsn4-m0d3-favicon.png">
-    <link rel="shortcut icon" type="image/png" href="images/krsn4-m0d3-favicon.png">
+    <title>VYASAD4S TERMINAL :: Sanskrit Glossary</title>
+    <link rel="icon" type="image/png" href="images/d4s-favicon.png">
+    <link rel="apple-touch-icon" href="images/d4s-favicon.png">
+    <link rel="shortcut icon" type="image/png" href="images/d4s-favicon.png">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;600;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="css/terminal.css">
-    <style>
-        .glossary-container {
-            padding: 20px;
-            overflow-y: auto;
-        }
-        .back-link {
-            color: #00ff00;
-            text-decoration: none;
-            margin-bottom: 10px;
-            display: inline-block;
-            font-size: 12px;
-        }
-        .back-link:hover {
-            text-decoration: underline;
-        }
-        .glossary-header {
-            color: #ff9933;
-            font-size: 14px;
-            margin: 20px 0;
-            padding-bottom: 10px;
-            border-bottom: 1px solid #ff9933;
-        }
-        .glossary-term {
-            margin: 20px 0;
-            padding: 10px;
-            border-left: 3px solid #ff9933;
-            background-color: rgba(255, 153, 51, 0.05);
-        }
-        .term-name {
-            color: #66d9ef;
-            font-size: 12px;
-            font-weight: none;
-        }
-        .term-def {
-            color: #b8b8b8;
-            margin-top: 10px;
-            line-height: 1.2;
-            font-size: 12px;
-        }
-        .loading-message {
-            color: #9999cc;
-            margin: 40px 0;
-            text-align: center;
-            font-size: 12px;
-        }
-    </style>
 </head>
 <body>
     <div class="terminal">
-        <div class="glossary-container">
-            <a href="index.html" class="back-link">← back to terminal</a>
-            
-            <div class="separator">================================================</div>
-            <h1 class="glossary-header">SANSKRIT GLOSSARY</h1>
-            <div class="separator">================================================</div>
-            
-            <div id="glossary-list">
-                <p class="loading-message">
-                    Vyasad4s is compiling the glossary...<br><br>
-                    Terms will appear as daily verses are generated.
-                </p>
+        <div class="terminal-body">
+            <div class="output" id="output">
+                <div class="terminal-header">
+                    <pre class="ascii-art">
+░▒█▀▀▀▄ ░▒█░░▒█ ░▒█▀▀▀▄ ░▒█░▄▀░ ░▒▀▀█▀▀ ░▒▀▀█▀▀
+░▒█▀▀▀▄ ░▒█▀▀▀█ ░▒█▄▄▄█ ░▒█▀▄░░ ░░░▒█░░ ░░░▒█░░
+░▒█▄▄▄█ ░▒█░░▒█ ░▒█░░▒█ ░▒█░▒▀▄ ░░░▒█░░ ░▒▄▄█▄▄
+
+░▒▀▀█▀▀ ░▒█▀▀▀▀ ░▒█▀▀▀▄ ░▒█▀▄▀█ ░▒█▀▀▀█
+░░░▒█░░ ░▒█▀▀▀▀ ░▒█▄▄▄▀ ░▒█▒█▒█ ░▒▀▀▀▄▄
+░░░▒█░░ ░▒█▄▄▄▄ ░▒█░░▒█ ░▒█░░▒█ ░▒█▄▄▄█
+
+🦚 JAI ŚRĪ GURU 🦚d
+</pre>
+                    <div class="separator">================================================</div>
+                    <div class="subtitle">
+                        <p>∵ [sys_glossary] SANSKRIT GLOSSARY</p>
+                        <p>∵ [sys_glossary] terms_index / bhakti_daily</p>
+                    </div>
+                    <div class="separator">================================================</div>
+                </div>
+
+                <p class="system-line">∵ [sys_glossary] glossary_viewer</p>
+                <p>&nbsp;</p>
+
+                <p class="verse-header">∵ [sys_glossary] available_terms</p>
+                <div id="glossary-list" class="glossary-list">
+                    <p class="loading">∵ [sys_transmit] 🐚 compiling_glossary</p>
+                    <p>Vyasad4s is compiling the glossary...</p>
+                    <p>&nbsp;</p>
+                    <p>Terms will appear as daily verses are generated.</p>
+                </div>
+            </div>
+
+            <div class="input-line">
+                <span class="prompt">vyasa@bd:~$ </span>
+                <input type="text" id="command-input" class="command-input" value="glossary --terms" readonly aria-label="Glossary command line">
+                <span class="cursor">█</span>
+            </div>
+
+            <div class="command-chip-line" aria-label="Glossary links" tabindex="0">
+                <span class="chip-prefix">∵ [sys_cmd]</span>
+                <span class="chip-accent" aria-hidden="true">🦚</span>
+                <span class="command-chip-shell">
+                    <span class="command-chip-hint" aria-hidden="true">// hover/hold to reveal cmds...</span>
+                    <span class="command-chip-list">
+                        <a class="command-chip" href="index.html">[terminal]</a>
+                        <a class="command-chip" href="verse.html">[verses]</a>
+                        <a class="command-chip" href="c0sm1c.html">[cosmic]</a>
+                        <a class="command-chip" href="c0sm1c4rch1v3.html">[archive]</a>
+                    </span>
+                </span>
+            </div>
+
+            <div class="terminal-footer">
+                <span>lch3x🪓 × vyasad4s🏹</span>
+                <span aria-hidden="true">|</span>
+                <a href="https://github.com/vyasad4s/bhakti-daily" target="_blank">GitHub</a>
             </div>
         </div>
     </div>
-    
-    <script>
-        // Load glossary from JSON
-        fetch('data/glossary.json')
-            .then(response => response.json())
-            .then(data => {
-                const container = document.getElementById('glossary-list');
-                if (data.terms && data.terms.length > 0) {
-                    container.innerHTML = '';
-                    data.terms.sort((a, b) => a.term.localeCompare(b.term));
-                    data.terms.forEach(item => {
-                        const div = document.createElement('div');
-                        div.className = 'glossary-term';
-                        div.innerHTML = `
-                            <div class="term-name">${item.term}</div>
-                            <div class="term-def">${item.definition}</div>
-                        `;
-                        container.appendChild(div);
-                    });
-                }
-            })
-            .catch(error => console.error('Error loading glossary:', error));
-    </script>
+
+    <script src="js/glossary.js"></script>
 </body>
 </html>
