@@ -1,6 +1,50 @@
 {
   "verses": [
     {
+      "date": "2026-06-02",
+      "source": "BG 7.1",
+      "chapter": 7,
+      "verse": 1,
+      "text": "Bhagavad Gita",
+      "tithi": "Kṛṣṇa Tritiyā",
+      "nakshatra": "Mūla → Pūrvāṣāḍhā",
+      "yoga": "Śubha → Śukla",
+      "themes": [
+        "jnana-yoga",
+        "asakta-manah",
+        "mad-ashrayah",
+        "asamshayam",
+        "samagram",
+        "ishvara-pranidhana",
+        "chapter-7-opening"
+      ],
+      "tags": [
+        "#jnana-yoga",
+        "#asakta-manah",
+        "#mad-ashrayah",
+        "#asamshayam",
+        "#samagram",
+        "#ishvara-pranidhana",
+        "#chapter-7-opening"
+      ],
+      "yogaSutraConnection": "YS I.23",
+      "sankhyaConcepts": [
+        "puruṣa-āśraya",
+        "right-attachment",
+        "īśvara-praṇidhāna",
+        "bhakti-viśeṣa",
+        "guṇa-atīta"
+      ],
+      "keyTerms": [
+        "jñāna",
+        "āsakta-manāḥ",
+        "mad-āśrayaḥ",
+        "asaṁśayam",
+        "samagram",
+        "īśvara-praṇidhāna"
+      ]
+    },
+    {
       "date": "2026-06-01",
       "source": "BG 6.20-23",
       "chapter": 6,
@@ -824,5 +868,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-06-01"
+  "lastUpdated": "2026-06-02"
 }
