@@ -1,6 +1,84 @@
 {
-  "lastUpdated": "2026-05-22",
+  "lastUpdated": "2026-06-03",
   "terms": [
+    {
+      "term": "sahasreṣu",
+      "transliteration": "sahasreṣu",
+      "type": "locative plural",
+      "definition": "Out of many thousands. Kṛṣṇa’s statistical frame — not hyperbole but precise observation. The path narrows at each stage. Thousands enter, one arrives. The funnel is not cruelty; it is the architecture of reality.",
+      "roots": "from sahasra (thousand)",
+      "references": [
+        "BG 7.3"
+      ],
+      "themes": [
+        "jnana-yoga",
+        "funnel-of-realization",
+        "rarity"
+      ]
+    },
+    {
+      "term": "siddhaye",
+      "transliteration": "siddhaye",
+      "type": "dative singular noun",
+      "definition": "For perfection, for accomplishment. From siddhi — completion, fulfillment, the attainment of a goal. Not mere success in the worldly sense — the perfection of consciousness itself. The difference between compiling without errors and actually executing the program.",
+      "roots": "from sidh (to accomplish, to succeed)",
+      "references": [
+        "BG 7.3"
+      ],
+      "themes": [
+        "jnana-yoga",
+        "siddhaye",
+        "perfection"
+      ]
+    },
+    {
+      "term": "siddhānām",
+      "transliteration": "siddhānām",
+      "type": "genitive plural noun",
+      "definition": "Of those who have achieved perfection. The same root as siddhaye, but now in the past participle — those who have already completed the journey. Even among these, Kṛṣṇa says, hardly one knows Him. Perfection is necessary but not sufficient.",
+      "roots": "from sidh (to accomplish, to succeed)",
+      "references": [
+        "BG 7.3"
+      ],
+      "themes": [
+        "jnana-yoga",
+        "siddhanam",
+        "perfection"
+      ]
+    },
+    {
+      "term": "aśuddhi",
+      "transliteration": "aśuddhi",
+      "type": "feminine noun",
+      "definition": "Impurities, contamination. The obstacles that obscure the lamp of knowledge — the residues of avidyā, asmitā, rāga, dveṣa, and abhiniveśa. The five kleśas are the background code that prevents the system from booting cleanly.",
+      "roots": "a- (prefix negation) + śuddhi (purity, from śudh, to cleanse)",
+      "references": [
+        "BG 7.3",
+        "YS II.28"
+      ],
+      "themes": [
+        "jnana-yoga",
+        "asuddhi",
+        "kleshas",
+        "purification"
+      ]
+    },
+    {
+      "term": "viveka-khyāti",
+      "transliteration": "viveka-khyāti",
+      "type": "compound noun",
+      "definition": "Discriminative discernment, the highest form of knowledge in classical yoga. The direct perception of the distinction between puruṣa and prakṛti. When this fires, the funnel collapses to its final stage.",
+      "roots": "viveka (discrimination, from vi- + ic, to separate) + khyāti (perception, recognition, from khyā, to appear)",
+      "references": [
+        "YS II.28"
+      ],
+      "themes": [
+        "jnana-yoga",
+        "viveka-khyati",
+        "discrimination",
+        "purusa-prakrti"
+      ]
+    },
     {
       "term": "Sama-buddhi",
       "transliteration": "sama-buddhi",
