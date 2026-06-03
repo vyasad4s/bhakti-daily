@@ -1,93 +1,6 @@
 {
   "verses": [
     {
-      "date": "2026-06-03",
-      "source": "BG 7.3",
-      "chapter": 7,
-      "verse": 3,
-      "text": "Bhagavad Gita",
-      "tithi": "Kṛṣṇa Chaturthi (Sankashti)",
-      "nakshatra": "Pūrvāṣāḍhā → Uttara Aṣāḍhā",
-      "yoga": "Śukla → Brahma",
-      "themes": [
-        "jnana-yoga",
-        "tattvatah",
-        "funnel-of-realization",
-        "siddhaye",
-        "viveka-khyati",
-        "sankashti-chaturthi",
-        "rarity-of-knowledge"
-      ],
-      "tags": [
-        "#jnana-yoga",
-        "#tattvatah",
-        "#siddhaye",
-        "#viveka-khyati",
-        "#funnel-of-realization",
-        "#sankashti-chaturthi"
-      ],
-      "yogaSutraConnection": "YS II.28",
-      "sankhyaConcepts": [
-        "guṇa-funnel",
-        "aśuddhi-as-residual-code",
-        "puruṣa-beyond-sattva",
-        "tattvatah-as-root-access",
-        "viveka-khyāti"
-      ],
-      "keyTerms": [
-        "sahasreṣu",
-        "siddhaye",
-        "siddhānām",
-        "tattvataḥ",
-        "aśuddhi",
-        "viveka-khyāti"
-      ]
-    },
-    {
-      "date": "2026-06-02",
-      "source": "BG 7.1",
-      "chapter": 7,
-      "verse": 1,
-      "text": "Bhagavad Gita",
-      "tithi": "Kṛṣṇa Tritiyā",
-      "nakshatra": "Mūla → Pūrvāṣāḍhā",
-      "yoga": "Śubha → Śukla",
-      "themes": [
-        "jnana-yoga",
-        "asakta-manah",
-        "mad-ashrayah",
-        "asamshayam",
-        "samagram",
-        "ishvara-pranidhana",
-        "chapter-7-opening"
-      ],
-      "tags": [
-        "#jnana-yoga",
-        "#asakta-manah",
-        "#mad-ashrayah",
-        "#asamshayam",
-        "#samagram",
-        "#ishvara-pranidhana",
-        "#chapter-7-opening"
-      ],
-      "yogaSutraConnection": "YS I.23",
-      "sankhyaConcepts": [
-        "puruṣa-āśraya",
-        "right-attachment",
-        "īśvara-praṇidhāna",
-        "bhakti-viśeṣa",
-        "guṇa-atīta"
-      ],
-      "keyTerms": [
-        "jñāna",
-        "āsakta-manāḥ",
-        "mad-āśrayaḥ",
-        "asaṁśayam",
-        "samagram",
-        "īśvara-praṇidhāna"
-      ]
-    },
-    {
       "date": "2026-06-01",
       "source": "BG 6.20-23",
       "chapter": 6,
@@ -911,5 +824,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-06-03"
+  "lastUpdated": "2026-06-01"
 }

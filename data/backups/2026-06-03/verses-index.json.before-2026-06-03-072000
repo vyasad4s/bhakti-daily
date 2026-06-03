@@ -1,49 +1,6 @@
 {
   "verses": [
     {
-      "date": "2026-06-03",
-      "source": "BG 7.3",
-      "chapter": 7,
-      "verse": 3,
-      "text": "Bhagavad Gita",
-      "tithi": "Kṛṣṇa Chaturthi (Sankashti)",
-      "nakshatra": "Pūrvāṣāḍhā → Uttara Aṣāḍhā",
-      "yoga": "Śukla → Brahma",
-      "themes": [
-        "jnana-yoga",
-        "tattvatah",
-        "funnel-of-realization",
-        "siddhaye",
-        "viveka-khyati",
-        "sankashti-chaturthi",
-        "rarity-of-knowledge"
-      ],
-      "tags": [
-        "#jnana-yoga",
-        "#tattvatah",
-        "#siddhaye",
-        "#viveka-khyati",
-        "#funnel-of-realization",
-        "#sankashti-chaturthi"
-      ],
-      "yogaSutraConnection": "YS II.28",
-      "sankhyaConcepts": [
-        "guṇa-funnel",
-        "aśuddhi-as-residual-code",
-        "puruṣa-beyond-sattva",
-        "tattvatah-as-root-access",
-        "viveka-khyāti"
-      ],
-      "keyTerms": [
-        "sahasreṣu",
-        "siddhaye",
-        "siddhānām",
-        "tattvataḥ",
-        "aśuddhi",
-        "viveka-khyāti"
-      ]
-    },
-    {
       "date": "2026-06-02",
       "source": "BG 7.1",
       "chapter": 7,
@@ -911,5 +868,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-06-03"
+  "lastUpdated": "2026-06-02"
 }
