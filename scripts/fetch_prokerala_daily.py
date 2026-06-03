@@ -3,7 +3,8 @@
 import json
 import os
 import sys
-from datetime import datetime
+import argparse
+from datetime import datetime, timedelta
 from pathlib import Path
 from zoneinfo import ZoneInfo
 from urllib.parse import quote
@@ -46,15 +47,45 @@ def require_env(name: str) -> str:
     return value
 
 
-def get_target_datetime(timezone_name: str) -> datetime:
+def parse_args():
+    parser = argparse.ArgumentParser(
+        description="Fetch Prokerala daily panchang and planet position data."
+    )
+
+    parser.add_argument(
+        "--date",
+        help="Target date in YYYY-MM-DD format. Example: 2026-05-29",
+    )
+
+    parser.add_argument(
+        "--days-ago",
+        type=int,
+        help="Fetch a date relative to today. Example: --days-ago 1 for yesterday.",
+    )
+
+    return parser.parse_args()
+
+
+def get_target_datetime(timezone_name: str, target_date: str = None, days_ago: int = None) -> datetime:
     tz = ZoneInfo(timezone_name)
 
-    # 6 AM local avoids midnight/date-boundary weirdness.
-    return datetime.now(tz).replace(
+    if target_date:
+        date_obj = datetime.strptime(target_date, "%Y-%m-%d").date()
+    else:
+        date_obj = datetime.now(tz).date()
+
+        if days_ago is not None:
+            date_obj = date_obj - timedelta(days=days_ago)
+
+    return datetime(
+        year=date_obj.year,
+        month=date_obj.month,
+        day=date_obj.day,
         hour=6,
         minute=0,
         second=0,
         microsecond=0,
+        tzinfo=tz,
     )
 
 
@@ -201,6 +232,8 @@ def build_summary(panchang_data: dict, planet_data: dict) -> dict:
 def main() -> int:
     load_env_file(ENV_FILE)
 
+    args = parse_args()
+
     client_id = require_env("PROKERALA_CLIENT_ID")
     client_secret = require_env("PROKERALA_CLIENT_SECRET")
     ayanamsa = require_env("PROKERALA_AYANAMSA")
@@ -208,7 +241,11 @@ def main() -> int:
     timezone_name = require_env("PROKERALA_TIMEZONE")
 
     tz = ZoneInfo(timezone_name)
-    target_dt = get_target_datetime(timezone_name)
+    target_dt = get_target_datetime(
+        timezone_name=timezone_name,
+        target_date=args.date,
+        days_ago=args.days_ago,
+    )
     date_key = target_dt.date().isoformat()
 
     token = get_access_token(client_id, client_secret)
