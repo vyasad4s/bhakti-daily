@@ -797,6 +797,14 @@ a.command-chip {
         white-space: nowrap;
     }
 
+    input,
+    textarea,
+    select,
+    #command-input,
+    .command-input {
+        font-size: 16px;
+    }
+    
     .command-chip-line {
         flex-wrap: nowrap;
         gap: var(--grid-05);
