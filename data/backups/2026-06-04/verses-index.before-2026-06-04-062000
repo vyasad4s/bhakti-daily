@@ -1,21 +1,6 @@
 {
   "verses": [
     {
-      "date": "2026-06-04",
-      "source": "BG 7.4",
-      "chapter": 7,
-      "verse": 4,
-      "text": "Bhagavad Gita",
-      "tithi": "Kṛṣṇa Chaturthi → Pañcamī",
-      "nakshatra": "Uttarāṣāḍhā → Śravaṇa",
-      "yoga": "Brahma",
-      "themes": ["jnana-yoga", "bhinnā-prakṛti", "aṣṭadhā", "aparā-prakṛti", "draṣṭṛ-dṛśya", "saṁyogaḥ", "śravaṇa", "eight-energies"],
-      "tags": ["#jnana-yoga", "#bhinnā-prakṛti", "#aṣṭadhā", "#aparā-prakṛti", "#draṣṭṛ-dṛśya", "#saṁyogaḥ", "#śravaṇa"],
-      "yogaSutraConnection": "YS II.17",
-      "sankhyaConcepts": ["aparā-prakṛti", "bhinnā-as-separation", "eightfold-evolution", "draṣṭṛ-dṛśya", "saṁyogaḥ-as-mis-identification", "viyoga"],
-      "keyTerms": ["bhinnā", "prakṛti", "aṣṭadhā", "ahaṅkāra", "draṣṭṛ-dṛśya", "saṁyogaḥ"]
-    },
-    {
       "date": "2026-06-03",
       "source": "BG 7.3",
       "chapter": 7,
@@ -926,5 +911,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-06-04"
+  "lastUpdated": "2026-06-03"
 }
