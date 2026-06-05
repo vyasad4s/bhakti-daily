@@ -1,6 +1,50 @@
 {
   "verses": [
     {
+      "date": "2026-06-05",
+      "source": "BG 7.5",
+      "chapter": 7,
+      "verse": 5,
+      "text": "Bhagavad Gita",
+      "tithi": "Kṛṣṇa Pañcamī → Ṣaṣṭhī",
+      "nakshatra": "Śravaṇa → Dhaniṣṭhā",
+      "yoga": "Indra",
+      "themes": [
+        "parā-prakṛti",
+        "jīva-bhūtā",
+        "aparā-vs-parā",
+        "asmitā",
+        "superior-energy",
+        "consciousness"
+      ],
+      "tags": [
+        "#jnana-yoga",
+        "#parā-prakṛti",
+        "#jīva-bhūtā",
+        "#aparā-prakṛti",
+        "#asmitā",
+        "#dhāryate",
+        "#śravaṇa"
+      ],
+      "yogaSutraConnection": "YS II.6",
+      "sankhyaConcepts": [
+        "puruṣa-prakṛti",
+        "aparā-prakṛti",
+        "parā-prakṛti",
+        "puruṣottama",
+        "asmitā",
+        "tripartite-architecture"
+      ],
+      "keyTerms": [
+        "aparā",
+        "parā",
+        "jīva-bhūtā",
+        "dhāryate",
+        "asmitā",
+        "prakṛti"
+      ]
+    },
+    {
       "date": "2026-06-04",
       "source": "BG 7.4",
       "chapter": 7,
@@ -9,11 +53,42 @@
       "tithi": "Kṛṣṇa Chaturthi → Pañcamī",
       "nakshatra": "Uttarāṣāḍhā → Śravaṇa",
       "yoga": "Brahma",
-      "themes": ["jnana-yoga", "bhinnā-prakṛti", "aṣṭadhā", "aparā-prakṛti", "draṣṭṛ-dṛśya", "saṁyogaḥ", "śravaṇa", "eight-energies"],
-      "tags": ["#jnana-yoga", "#bhinnā-prakṛti", "#aṣṭadhā", "#aparā-prakṛti", "#draṣṭṛ-dṛśya", "#saṁyogaḥ", "#śravaṇa"],
+      "themes": [
+        "jnana-yoga",
+        "bhinnā-prakṛti",
+        "aṣṭadhā",
+        "aparā-prakṛti",
+        "draṣṭṛ-dṛśya",
+        "saṁyogaḥ",
+        "śravaṇa",
+        "eight-energies"
+      ],
+      "tags": [
+        "#jnana-yoga",
+        "#bhinnā-prakṛti",
+        "#aṣṭadhā",
+        "#aparā-prakṛti",
+        "#draṣṭṛ-dṛśya",
+        "#saṁyogaḥ",
+        "#śravaṇa"
+      ],
       "yogaSutraConnection": "YS II.17",
-      "sankhyaConcepts": ["aparā-prakṛti", "bhinnā-as-separation", "eightfold-evolution", "draṣṭṛ-dṛśya", "saṁyogaḥ-as-mis-identification", "viyoga"],
-      "keyTerms": ["bhinnā", "prakṛti", "aṣṭadhā", "ahaṅkāra", "draṣṭṛ-dṛśya", "saṁyogaḥ"]
+      "sankhyaConcepts": [
+        "aparā-prakṛti",
+        "bhinnā-as-separation",
+        "eightfold-evolution",
+        "draṣṭṛ-dṛśya",
+        "saṁyogaḥ-as-mis-identification",
+        "viyoga"
+      ],
+      "keyTerms": [
+        "bhinnā",
+        "prakṛti",
+        "aṣṭadhā",
+        "ahaṅkāra",
+        "draṣṭṛ-dṛśya",
+        "saṁyogaḥ"
+      ]
     },
     {
       "date": "2026-06-03",
@@ -926,5 +1001,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-06-04"
+  "lastUpdated": "2026-06-05"
 }
