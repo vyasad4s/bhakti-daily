@@ -1,6 +1,45 @@
 {
   "verses": [
     {
+      "date": "2026-06-06",
+      "source": "BG 7.7",
+      "chapter": 7,
+      "verse": 7,
+      "text": "Bhagavad Gita",
+      "tithi": "Kṛṣṇa Ṣaṣṭhī",
+      "nakshatra": "Dhaniṣṭhā → Śatabhiṣā",
+      "yoga": "Vaidhṛti",
+      "themes": [
+        "supreme-declaration",
+        "thread-of-existence",
+        "pearls-on-sūtra",
+        "īśvara-as-ground"
+      ],
+      "tags": [
+        "#jnana-yoga",
+        "#parataram",
+        "#sutra",
+        "#ishvara-pranidhana",
+        "#samadhi-siddhi",
+        "#supreme-declaration"
+      ],
+      "yogaSutraConnection": "YS II.45",
+      "sankhyaConcepts": [
+        "puruṣa-as-sūtra",
+        "prakṛti-as-maṇi",
+        "puruṣa-prakṛti-distinction"
+      ],
+      "keyTerms": [
+        "parataram",
+        "protam",
+        "sūtra",
+        "maṇi-gaṇāḥ",
+        "dhanañ-jaya",
+        "īśvara-praṇidhāna",
+        "samādhi-siddhi"
+      ]
+    },
+    {
       "date": "2026-06-05",
       "source": "BG 7.5",
       "chapter": 7,
@@ -1001,5 +1040,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-06-05"
+  "lastUpdated": "2026-06-06"
 }
