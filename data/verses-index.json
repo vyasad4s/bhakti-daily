@@ -1,6 +1,48 @@
 {
   "verses": [
     {
+      "date": "2026-06-07",
+      "source": "BG 7.8",
+      "chapter": 7,
+      "verse": 8,
+      "text": "Bhagavad Gita",
+      "tithi": "Kṛṣṇa Saptamī → Aṣṭamī",
+      "nakshatra": "Śatabhiṣā → Pūrvā Bhādrapadā",
+      "yoga": "Viṣkambha",
+      "themes": [
+        "essential-resonance",
+        "rasa",
+        "prabha",
+        "pranava",
+        "varuna",
+        "kalashtami",
+        "sound-in-ether"
+      ],
+      "tags": [
+        "#jnana-yoga",
+        "#rasa",
+        "#prabha",
+        "#pranava",
+        "#essential-resonance",
+        "#bg7-8",
+        "#shatabhisha"
+      ],
+      "yogaSutraConnection": "YS 2.49",
+      "sankhyaConcepts": [
+        "rasa-as-essence",
+        "prabha-as-effulgence",
+        "puruṣa-in-prakṛti",
+        "vibration-as-root"
+      ],
+      "keyTerms": [
+        "rasa",
+        "prabhā",
+        "praṇava",
+        "pauruṣam",
+        "śabdaḥ"
+      ]
+    },
+    {
       "date": "2026-06-06",
       "source": "BG 7.7",
       "chapter": 7,
@@ -1040,5 +1082,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-06-06"
+  "lastUpdated": "2026-06-07"
 }
