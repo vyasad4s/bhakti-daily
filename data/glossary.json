@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-03",
+  "lastUpdated": "2026-06-07",
   "terms": [
     {
       "term": "sahasreṣu",
@@ -5420,6 +5420,85 @@
       "themes": [
         "Knowledge",
         "Realization"
+      ]
+    },
+    {
+      "term": "rasa",
+      "transliteration": "rasa",
+      "type": "noun",
+      "definition": "Taste, essence, flavor. The intrinsic quality that makes an experience meaningful — not the chemical composition but the divine relish that permeates substance. When we taste water, we taste Kṛṣṇa's essence.",
+      "roots": "from √ras (to taste, to relish)",
+      "references": [
+        "BG 7.8"
+      ],
+      "themes": [
+        "essence",
+        "taste",
+        "jñana-yoga",
+        "bhakti"
+      ]
+    },
+    {
+      "term": "prabhā",
+      "transliteration": "prabhā",
+      "type": "noun",
+      "definition": "Effulgence, radiance, luminosity. The inherent light that emanates from the Divine — not just photons but the conscious illumination that makes perception possible. The light of sun and moon is Kṛṣṇa's prabhā.",
+      "roots": "from √prabhas (to shine forth)",
+      "references": [
+        "BG 7.8"
+      ],
+      "themes": [
+        "effulgence",
+        "light",
+        "jñana-yoga"
+      ]
+    },
+    {
+      "term": "praṇava",
+      "transliteration": "praṇava",
+      "type": "noun",
+      "definition": "The sacred syllable oṁ (a-u-m), the root vibration of all Vedic knowledge. The primordial sound from which all manifestation emerges, representing the triple aspect of creation, maintenance, and dissolution.",
+      "roots": "from praṇu (to hum, to sound) + suffix",
+      "references": [
+        "BG 7.8"
+      ],
+      "themes": [
+        "sound",
+        "vibration",
+        "oṁ",
+        "jñana-yoga"
+      ]
+    },
+    {
+      "term": "śabdaḥ",
+      "transliteration": "śabdaḥ",
+      "type": "noun",
+      "definition": "Sound vibration, particularly the subtle sound in ether (śabdaḥ khe). The all-pervading resonance that sustains the universe — the cosmic background radiation of consciousness.",
+      "roots": "from √sbhad (to sound, to pronounce)",
+      "references": [
+        "BG 7.8"
+      ],
+      "themes": [
+        "sound",
+        "vibration",
+        "ether",
+        "jñana-yoga"
+      ]
+    },
+    {
+      "term": "pauruṣam",
+      "transliteration": "pauruṣam",
+      "type": "noun",
+      "definition": "Human ability, prowess, capacity. Not biological function but the reflection of Divine power in every act of strength, intelligence, and will. Our abilities are loans from the Supreme.",
+      "roots": "from puruṣa (person, man) + suffix",
+      "references": [
+        "BG 7.8"
+      ],
+      "themes": [
+        "ability",
+        "prowess",
+        "human",
+        "jñana-yoga"
       ]
     }
   ]
