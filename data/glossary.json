@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-08",
+  "lastUpdated": "2026-06-10",
   "terms": [
     {
       "term": "Acala",
@@ -1572,6 +1572,10 @@
       "date": "2026-05-09"
     },
     {
+      "term": "abhij\u0101n\u0101ti",
+      "definition": "they interact with the surface, never the source."
+    },
+    {
       "term": "abhyutth\u0101nam (n. nom. sg.)",
       "transliteration": "",
       "type": "compound",
@@ -1984,6 +1988,10 @@
       ],
       "themes": [],
       "date": "2026-03-25"
+    },
+    {
+      "term": "avyayam",
+      "definition": "it is the source from which all system resources flow, and it is never diminished by what it powers."
     },
     {
       "term": "avyay\u0101tm\u0101",
@@ -2545,6 +2553,10 @@
       ],
       "themes": [],
       "date": "2026-04-16"
+    },
+    {
+      "term": "gu\u1e47a-mayai\u1e25",
+      "definition": "no file exists outside the read-write-execute triad. The entire filesystem is gu\u1e47a-maya."
     },
     {
       "term": "gu\u1e47amay\u012b",
@@ -3126,6 +3138,10 @@
       ],
       "themes": [],
       "date": "2026-04-13"
+    },
+    {
+      "term": "mohitam",
+      "definition": "it executes instructions but cannot see the shell that launched it. The loop feels like the whole system; it is not."
     },
     {
       "term": "mukta",
@@ -4601,6 +4617,10 @@
       ],
       "themes": [],
       "date": "2026-03-19"
+    },
+    {
+      "term": "tribhi\u1e25",
+      "definition": "sattva (read/execute), rajas (write/modify), tamas (sleep/hibernate) \u2014 that govern all processes in the cosmic operating system."
     },
     {
       "term": "tyaktv\u0101",
