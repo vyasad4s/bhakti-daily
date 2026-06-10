@@ -1,6 +1,36 @@
 {
   "verses": [
     {
+      "date": "2026-06-10",
+      "source": "7.13",
+      "chapter": 7.13,
+      "verse": 7.13,
+      "text": "Bhagavad Gita",
+      "tithi": "Kṛṣṇa Paksha Dashami → Ekādaśī | Dashami ends Jun 10 03:28 PM | Ekādaśī begins 03:28 PM – Jun 11 01:06 PM",
+      "nakshatra": "Revati → Ashwini | Revati ends Jun 10 10:46 PM | Ashwini begins Jun 10 10:46 PM – Jun 11 08:58 PM | Deity: Pushan → Ashwini Kumār | Ruler: Mercury",
+      "yoga": "Saubhagya → Sobhana | Saubhagya ends Jun 10 06:32 PM | Sobhana begins Jun 10 06:32 PM – Jun 11 03:29 PM",
+      "themes": [
+        ""
+      ],
+      "tags": [
+        ""
+      ],
+      "yogaSutraConnection": "II.18",
+      "sankhyaConcepts": [
+        "prakriti",
+        "purusha",
+        "gunas"
+      ],
+      "keyTerms": [
+        "tribhiḥ",
+        "guṇa-mayaiḥ",
+        "mohitam",
+        "abhijānāti",
+        "param",
+        "avyayam"
+      ]
+    },
+    {
       "date": "2026-06-08",
       "source": "BG 7.14",
       "chapter": 7,
