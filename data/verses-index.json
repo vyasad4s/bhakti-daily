@@ -1180,7 +1180,43 @@
         "#ishvara-pranidhana",
         "#samadhi-siddhi"
       ]
+    },
+    {
+      "date": "2026-06-11",
+      "source": "BG 7.9",
+      "chapter": 7,
+      "verse": 9,
+      "text": "Bhagavad Gita",
+      "tithi": "Kṛṣṇa Paksha Ekādashi | Jun 10 03:28 PM – Jun 11 01:06 PM",
+      "nakshatra": "Ashwini → Bharani | Ashwini ends Jun 11 08:58 PM | Bharani begins Jun 11 08:58 PM – Jun 12 06:35 PM | Deity: Ashwini Kumār → Yama | Ruler: Ketu → Venus",
+      "yoga": "Sobhana → Atiganda | Sobhana ends Jun 11 03:29 PM | Atiganda begins Jun 11 03:29 PM – Jun 12 11:55 AM",
+      "themes": [
+        "tapas",
+        "ekadashi"
+      ],
+      "tags": [
+        "#tapas",
+        "#ekadashi",
+        "#ashwini",
+        "#bharani",
+        "#kriya-yoga"
+      ],
+      "yogaSutraConnection": "YS II.1",
+      "sankhyaConcepts": [
+        "prakriti",
+        "purusha",
+        "gunas",
+        "tapas"
+      ],
+      "keyTerms": [
+        "puṇyaḥ",
+        "gandhaḥ",
+        "tejaḥ",
+        "vibhāvasu",
+        "jīvanam",
+        "tapaḥ"
+      ]
     }
   ],
-  "lastUpdated": "2026-06-09"
+  "lastUpdated": "2026-06-11"
 }
