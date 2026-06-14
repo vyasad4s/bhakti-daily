@@ -1,6 +1,45 @@
 {
   "verses": [
     {
+      "date": "2026-06-14",
+      "source": "BG 7.16",
+      "chapter": 7,
+      "verse": 16,
+      "text": "Bhagavad Gita",
+      "tithi": "Krishna Paksha Amavasya (until 10:53 PM IST), then Sukla Paksha Pratipada",
+      "nakshatra": "Rohini (until 12:43 PM IST), then Mrigashirsha (after 12:43 PM IST)",
+      "yoga": "Soola (until 11:25 PM IST), then Ganda (after 11:25 PM IST)",
+      "themes": [
+        "Four Kinds",
+        "Amavasya",
+        "Devotion",
+        "Yoga Sutra",
+        "TaurusGemini"
+      ],
+      "tags": [
+        "#FourKinds",
+        "#Amavasya",
+        "#Devotion",
+        "#YogaSutra",
+        "#TaurusGemini"
+      ],
+      "yogaSutraConnection": "YS 1.23",
+      "sankhyaConcepts": [
+        "prakriti-purusha",
+        "four types as modifications",
+        "liberation through devotion"
+      ],
+      "keyTerms": [
+        "catur-vidh\u0101",
+        "bhajante",
+        "\u0101rt\u0101",
+        "jij\u00f1\u0101su",
+        "arth\u0101rth\u012b",
+        "j\u00f1\u0101n\u012b",
+        "su-k\u1e5btina\u1e25"
+      ]
+    },
+    {
       "date": "2026-06-13",
       "source": "BG 7.22",
       "chapter": 7,
@@ -1329,5 +1368,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-06-13"
+  "lastUpdated": "2026-06-14"
 }
