@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-15",
+  "lastUpdated": "2026-06-16",
   "terms": [
     {
       "term": "Acala",
@@ -1450,21 +1450,6 @@
     },
     {
       "term": "Viśiṣyate",
-      "transliteration": "viśiṣyate",
-      "type": "verb, passive",
-      "definition": "Is distinguished, surpasses, excels; from viśiṣ (to distinguish); the yogī doesn’t merely achieve equanimity — he surpasses the entire framework of comparison; the verb is passive because this surpassing is not the ego’s achievement but the natural consequence of buddhi’s restructuring.",
-      "roots": "from viśiṣ (to distinguish)",
-      "references": [
-        "BG 6.9"
-      ],
-      "themes": [
-        "equal-intelligence",
-        "sama-buddhi",
-        "transcendence"
-      ]
-    },
-    {
-      "term": "Viśiṣyate",
       "transliteration": "",
       "type": "noun",
       "definition": "is by far superior; distinguished",
@@ -1610,21 +1595,6 @@
       ],
       "themes": [],
       "date": "2026-04-17"
-    },
-    {
-      "term": "acala",
-      "transliteration": "acala",
-      "type": "adjective",
-      "definition": "Steady, unmoving, firm. Like a stable load balancer that never drops connections.",
-      "roots": "",
-      "references": [
-        "BG 7.21"
-      ],
-      "themes": [
-        "steadyfaith",
-        "supersoul",
-        "demigodworship"
-      ]
     },
     {
       "term": "acala",
@@ -2307,6 +2277,26 @@
       "date": "2026-04-03"
     },
     {
+      "term": "buddhimatām",
+      "definition": "of the intelligent; hacker metaphor: the privileged processes with read access",
+      "transliteration": "buddhimatām",
+      "type": "noun (plural)",
+      "references": [
+        "BG 7.10"
+      ],
+      "date": "2026-06-16"
+    },
+    {
+      "term": "buddhir",
+      "definition": "intelligence; hacker metaphor: the debugger that reveals true state",
+      "transliteration": "buddhir",
+      "type": "noun",
+      "references": [
+        "BG 7.10"
+      ],
+      "date": "2026-06-16"
+    },
+    {
       "term": "buddhiḥ (f., nominative)",
       "transliteration": "",
       "type": "compound",
@@ -2354,6 +2344,16 @@
       "themes": [
         "sense-control"
       ]
+    },
+    {
+      "term": "bījaṁ",
+      "definition": "the seed; hacker metaphor: the init() function that spawns all processes",
+      "transliteration": "bījaṁ",
+      "type": "noun",
+      "references": [
+        "BG 7.10"
+      ],
+      "date": "2026-06-16"
     },
     {
       "term": "catur-vidhā",
@@ -4449,6 +4449,16 @@
       "date": "2026-04-11"
     },
     {
+      "term": "sanātanam",
+      "definition": "original, eternal; hacker metaphor: the immutable baseline",
+      "transliteration": "sanātanam",
+      "type": "adjective",
+      "references": [
+        "BG 7.10"
+      ],
+      "date": "2026-06-16"
+    },
+    {
       "term": "sanātanaḥ (adj.)",
       "transliteration": "",
       "type": "compound",
@@ -4471,6 +4481,16 @@
       ],
       "themes": [],
       "date": "2026-03-03"
+    },
+    {
+      "term": "sarva-bhūtānām",
+      "definition": "of all living entities; hacker metaphor: the global scope encompassing all variables",
+      "transliteration": "sarva-bhūtānām",
+      "type": "noun (plural)",
+      "references": [
+        "BG 7.10"
+      ],
+      "date": "2026-06-16"
     },
     {
       "term": "satatam (adv.)",
@@ -4877,6 +4897,26 @@
       "date": "2026-04-18"
     },
     {
+      "term": "tejas",
+      "definition": "prowess; hacker metaphor: the CPU cycles allocated to critical tasks",
+      "transliteration": "tejas",
+      "type": "noun",
+      "references": [
+        "BG 7.10"
+      ],
+      "date": "2026-06-16"
+    },
+    {
+      "term": "tejasvinām",
+      "definition": "of the powerful; hacker metaphor: the high-priority threads",
+      "transliteration": "tejasvinām",
+      "type": "noun (plural)",
+      "references": [
+        "BG 7.10"
+      ],
+      "date": "2026-06-16"
+    },
+    {
       "term": "tejaḥ",
       "transliteration": "teja",
       "type": "noun",
@@ -5073,6 +5113,16 @@
         "kriya-yoga"
       ],
       "date": "2026-06-11"
+    },
+    {
+      "term": "viddhi",
+      "definition": "know for certain, realize; hacker metaphor: the breakpoint that reveals the true state",
+      "transliteration": "viddhi",
+      "type": "verb (imperative)",
+      "references": [
+        "BG 7.10"
+      ],
+      "date": "2026-06-16"
     },
     {
       "term": "viddhi (verb, impv.)",
@@ -5741,21 +5791,6 @@
         "steadyfaith",
         "demigodworship",
         "shivaratri"
-      ]
-    },
-    {
-      "term": "īśvara",
-      "transliteration": "īśvara",
-      "type": "noun",
-      "definition": "Supreme Lord, controller. Like the hypervisor that manages all virtual machines.",
-      "roots": "",
-      "references": [
-        "BG 7.21"
-      ],
-      "themes": [
-        "steadyfaith",
-        "supersoul",
-        "demigodworship"
       ]
     },
     {
