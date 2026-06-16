@@ -1,6 +1,282 @@
 {
-  "lastUpdated": "2026-06-15",
+  "lastUpdated": "2026-05-22",
   "terms": [
+    {
+      "term": "Sama-buddhi",
+      "transliteration": "sama-buddhi",
+      "type": "feminine noun compound",
+      "definition": "Equal intelligence; sama (equal/same) + buddhi (intelligence/discriminative faculty); not \"equal feeling\" — feelings can lie; buddhi is the discriminative faculty that precedes feeling; when buddhi holds all categories as one, feeling follows; the yogī doesn’t suppress emotion — he restructures the cognitive architecture that generates it.",
+      "roots": "sama (equal/same) + buddhi (intelligence/discriminative faculty)",
+      "references": [
+        "BG 6.9"
+      ],
+      "themes": [
+        "equal-intelligence",
+        "sama-buddhi",
+        "dhyana-yoga"
+      ]
+    },
+    {
+      "term": "Su-hṛt",
+      "transliteration": "su-hṛt",
+      "type": "masculine noun",
+      "definition": "Well-wisher by nature; su (good) + hṛt (heart); the person whose heart naturally wishes you well — not through obligation or contract but through disposition; this is the deepest category of ally because it operates below consciousness.",
+      "roots": "su (good) + hṛt (heart)",
+      "references": [
+        "BG 6.9"
+      ],
+      "themes": [
+        "equal-intelligence",
+        "sama-buddhi",
+        "relationships"
+      ]
+    },
+    {
+      "term": "Madhya-stha",
+      "transliteration": "madhya-stha",
+      "type": "masculine noun",
+      "definition": "Mediator, neutral party; madhya (middle) + stha (standing); the one who stands in the middle; not passive but positioned — the mediator chooses the center, which is itself a stance; the yogī’s sama-buddhi mirrors this position: standing at the center of all polarities without being pulled to either pole.",
+      "roots": "madhya (middle) + stha (standing)",
+      "references": [
+        "BG 6.9"
+      ],
+      "themes": [
+        "equal-intelligence",
+        "sama-buddhi",
+        "neutrality"
+      ]
+    },
+    {
+      "term": "Dveṣya",
+      "transliteration": "dveṣya",
+      "type": "adjective, used as noun",
+      "definition": "The envious, the hateful; from dveṣa (hatred/aversion); those who direct rāga-dveṣa at you; the critical test of sama-buddhi is not how you treat the su-hṛt but how you regard the dveṣya — the mind’s default is retaliation; the yogī’s override is equanimity.",
+      "roots": "from dveṣa (hatred/aversion)",
+      "references": [
+        "BG 6.9"
+      ],
+      "themes": [
+        "equal-intelligence",
+        "raga-dvesa",
+        "equanimity"
+      ]
+    },
+    {
+      "term": "Viśiṣyate",
+      "transliteration": "viśiṣyate",
+      "type": "verb, passive",
+      "definition": "Is distinguished, surpasses, excels; from viśiṣ (to distinguish); the yogī doesn’t merely achieve equanimity — he surpasses the entire framework of comparison; the verb is passive because this surpassing is not the ego’s achievement but the natural consequence of buddhi’s restructuring.",
+      "roots": "from viśiṣ (to distinguish)",
+      "references": [
+        "BG 6.9"
+      ],
+      "themes": [
+        "equal-intelligence",
+        "sama-buddhi",
+        "transcendence"
+      ]
+    },
+    {
+      "term": "Upekṣā",
+      "transliteration": "upekṣā",
+      "type": "feminine noun",
+      "definition": "Equanimity, overlooking, non-reactive awareness; from upa (near) + īkṣ (to look at); to look closely at something without reacting; not avoidance — attentive neutrality; you see the non-virtuous person clearly, you understand their condition, and you withhold the reactive judgment that would destabilize your own citta.",
+      "roots": "from upa (near) + īkṣ (to look at)",
+      "references": [
+        "BG 6.9",
+        "YS I.33"
+      ],
+      "themes": [
+        "equal-intelligence",
+        "citta-prasadanam",
+        "equanimity"
+      ]
+    },
+    {
+      "term": "Brahmani",
+      "transliteration": "brahmani",
+      "type": "noun",
+      "definition": "In Kṛṣṇa consciousness; operating within the frequency of the Divine rather than the ego.",
+      "roots": "from brahman (the Absolute)",
+      "references": [
+        "BG 5.10"
+      ],
+      "themes": [
+        "detachment",
+        "surrender",
+        "karma-yoga"
+      ]
+    },
+    {
+      "term": "Saṅga",
+      "transliteration": "saṅga",
+      "type": "noun",
+      "definition": "Attachment; the \"sticky\" quality of the mind that binds the soul to the results of action.",
+      "roots": "from saṅj (to join)",
+      "references": [
+        "BG 5.10"
+      ],
+      "themes": [
+        "attachment",
+        "bondage",
+        "karma"
+      ]
+    },
+    {
+      "term": "Pāpena",
+      "transliteration": "pāpena",
+      "type": "noun",
+      "definition": "By sinful action; here referring to any action performed with the intent of personal gain (ego-driven), which creates binding karma.",
+      "roots": "from pāp (sin)",
+      "references": [
+        "BG 5.10"
+      ],
+      "themes": [
+        "sin",
+        "action",
+        "karma"
+      ]
+    },
+    {
+      "term": "Saṁyama",
+      "transliteration": "saṁyama",
+      "type": "noun",
+      "definition": "Integration; the combined state of concentration, meditation, and absorption that allows the yogi to see through the illusion of proprietorship.",
+      "roots": "from saṁ (together) + yama (restraint)",
+      "references": [
+        "BG 5.10"
+      ],
+      "themes": [
+        "integration",
+        "concentration",
+        "absorption"
+      ]
+    },
+    {
+      "term": "asakta",
+      "transliteration": "asakta",
+      "type": "adjective",
+      "definition": "Not attached, unattached. In BG 5.21, asakta-ātmā refers to one whose mind is not attached to external sense objects.",
+      "roots": "from sak (to be attached)",
+      "references": [
+        "BG 5.21"
+      ],
+      "themes": [
+        "sense-control",
+        "vairagya",
+        "pratyahara"
+      ]
+    },
+    {
+      "term": "brahma-yoga",
+      "transliteration": "brahma-yoga",
+      "type": "noun",
+      "definition": "Union with the Absolute through concentration. The state where the mind is fixed on Brahman, leading to inner satisfaction.",
+      "roots": "from brahma (the Absolute) + yoga (union)",
+      "references": [
+        "BG 5.21"
+      ],
+      "themes": [
+        "brahma-yoga",
+        "sense-control",
+        "ekadashi"
+      ]
+    },
+    {
+      "term": "akṣaya",
+      "transliteration": "akṣaya",
+      "type": "adjective",
+      "definition": "Imperishable, unlimited, undiminishing. The happiness of the self-realized person never decreases.",
+      "roots": "from kṣay (to decay)",
+      "references": [
+        "BG 5.21"
+      ],
+      "themes": [
+        "sense-control",
+        "ekadashi",
+        "brahma-yoga"
+      ]
+    },
+    {
+      "term": "saṁsparśa",
+      "transliteration": "saṁsparśa",
+      "type": "noun",
+      "definition": "The interface between a sense organ and a material object; the \"input\" that triggers a sensory reaction",
+      "roots": "from [root]",
+      "references": [
+        "BG 5.22"
+      ],
+      "themes": [
+        "sense-control"
+      ]
+    },
+    {
+      "term": "bhogāḥ",
+      "transliteration": "bhogāḥ",
+      "type": "noun",
+      "definition": "The outputs of sensory stimulation; the temporary \"highs\" produced by material interaction",
+      "roots": "from [root]",
+      "references": [
+        "BG 5.22"
+      ],
+      "themes": [
+        "sense-control"
+      ]
+    },
+    {
+      "term": "budhaḥ",
+      "transliteration": "budhaḥ",
+      "type": "noun",
+      "definition": "One who possesses Viveka (discernment) and can debug the illusion of temporary pleasure",
+      "roots": "from [root]",
+      "references": [
+        "BG 5.22"
+      ],
+      "themes": [
+        "sense-control"
+      ]
+    },
+    {
+      "term": "ekādaśī",
+      "transliteration": "ekādaśī",
+      "type": "noun",
+      "definition": "The eleventh day of the lunar fortnight, a day prescribed for fasting and increased devotion",
+      "roots": "from [root]",
+      "references": [
+        "BG 5.22"
+      ],
+      "themes": [
+        "ekadashi"
+      ]
+    },
+    {
+      "term": "pratyāhāra",
+      "transliteration": "pratyāhāra",
+      "type": "noun",
+      "definition": "The withdrawal of the senses from their objects; the fifth limb of aṣṭāṅga yoga",
+      "roots": "from [root]",
+      "references": [
+        "BG 5.22"
+      ],
+      "themes": [
+        "pratyahara",
+        "sense-control"
+      ]
+    },
+    {
+      "term": "vairāgyam",
+      "transliteration": "vairāgyam",
+      "type": "noun",
+      "definition": "Dispassion or non-attachment; freedom from craving for sense objects",
+      "roots": "from [root]",
+      "references": [
+        "BG 5.22"
+      ],
+      "themes": [
+        "vairagya",
+        "sense-control"
+      ]
+    },
     {
       "term": "Acala",
       "transliteration": "",
@@ -146,20 +422,6 @@
       "date": "2026-05-02"
     },
     {
-      "term": "Bhoktāram",
-      "transliteration": "bhoktāram",
-      "type": "noun",
-      "definition": "the ultimate beneficiary/enjoyer; the Root User who owns all processes and their outputs.",
-      "roots": "",
-      "references": [
-        "BG 5.29"
-      ],
-      "themes": [
-        "Root Access",
-        "Beneficiary"
-      ]
-    },
-    {
       "term": "Bhūtāni (neuter plural noun)",
       "transliteration": "",
       "type": "compound",
@@ -170,21 +432,6 @@
       ],
       "themes": [],
       "date": "2026-02-20"
-    },
-    {
-      "term": "Brahmani",
-      "transliteration": "brahmani",
-      "type": "noun",
-      "definition": "In Kṛṣṇa consciousness; operating within the frequency of the Divine rather than the ego.",
-      "roots": "from brahman (the Absolute)",
-      "references": [
-        "BG 5.10"
-      ],
-      "themes": [
-        "detachment",
-        "surrender",
-        "karma-yoga"
-      ]
     },
     {
       "term": "Brāhmī (adj.)",
@@ -269,21 +516,6 @@
       ],
       "themes": [],
       "date": "2026-02-15"
-    },
-    {
-      "term": "Dveṣya",
-      "transliteration": "dveṣya",
-      "type": "adjective, used as noun",
-      "definition": "The envious, the hateful; from dveṣa (hatred/aversion); those who direct rāga-dveṣa at you; the critical test of sama-buddhi is not how you treat the su-hṛt but how you regard the dveṣya — the mind’s default is retaliation; the yogī’s override is equanimity.",
-      "roots": "from dveṣa (hatred/aversion)",
-      "references": [
-        "BG 6.9"
-      ],
-      "themes": [
-        "equal-intelligence",
-        "raga-dvesa",
-        "equanimity"
-      ]
     },
     {
       "term": "Dvi",
@@ -416,20 +648,6 @@
       ],
       "themes": [],
       "date": "2026-05-02"
-    },
-    {
-      "term": "Jñātvā",
-      "transliteration": "jñātvā",
-      "type": "verb",
-      "definition": "having known/understood; the debug output that reveals the true system architecture.",
-      "roots": "",
-      "references": [
-        "BG 5.29"
-      ],
-      "themes": [
-        "Knowledge",
-        "Realization"
-      ]
     },
     {
       "term": "Jāgarti (verb, 3rd person singular)",
@@ -565,35 +783,6 @@
       ],
       "themes": [],
       "date": "2026-02-28"
-    },
-    {
-      "term": "Madhya-stha",
-      "transliteration": "madhya-stha",
-      "type": "masculine noun",
-      "definition": "Mediator, neutral party; madhya (middle) + stha (standing); the one who stands in the middle; not passive but positioned — the mediator chooses the center, which is itself a stance; the yogī’s sama-buddhi mirrors this position: standing at the center of all polarities without being pulled to either pole.",
-      "roots": "madhya (middle) + stha (standing)",
-      "references": [
-        "BG 6.9"
-      ],
-      "themes": [
-        "equal-intelligence",
-        "sama-buddhi",
-        "neutrality"
-      ]
-    },
-    {
-      "term": "Mahā-īśvaram",
-      "transliteration": "mahā-īśvaram",
-      "type": "noun",
-      "definition": "the Supreme Lord; the kernel-level process that manages all system resources.",
-      "roots": "",
-      "references": [
-        "BG 5.29"
-      ],
-      "themes": [
-        "Root Access",
-        "Supremacy"
-      ]
     },
     {
       "term": "Manasā",
@@ -1006,21 +1195,6 @@
       "date": "2026-02-27"
     },
     {
-      "term": "Pāpena",
-      "transliteration": "pāpena",
-      "type": "noun",
-      "definition": "By sinful action; here referring to any action performed with the intent of personal gain (ego-driven), which creates binding karma.",
-      "roots": "from pāp (sin)",
-      "references": [
-        "BG 5.10"
-      ],
-      "themes": [
-        "sin",
-        "action",
-        "karma"
-      ]
-    },
-    {
       "term": "Pūrva Phālgunī",
       "transliteration": "",
       "type": "compound",
@@ -1067,21 +1241,6 @@
       ],
       "themes": [],
       "date": "2026-03-02"
-    },
-    {
-      "term": "Sama-buddhi",
-      "transliteration": "sama-buddhi",
-      "type": "feminine noun compound",
-      "definition": "Equal intelligence; sama (equal/same) + buddhi (intelligence/discriminative faculty); not \"equal feeling\" — feelings can lie; buddhi is the discriminative faculty that precedes feeling; when buddhi holds all categories as one, feeling follows; the yogī doesn’t suppress emotion — he restructures the cognitive architecture that generates it.",
-      "roots": "sama (equal/same) + buddhi (intelligence/discriminative faculty)",
-      "references": [
-        "BG 6.9"
-      ],
-      "themes": [
-        "equal-intelligence",
-        "sama-buddhi",
-        "dhyana-yoga"
-      ]
     },
     {
       "term": "Samadhigacchati (verb, 3rd person singular)",
@@ -1158,21 +1317,6 @@
       "date": "2026-02-19"
     },
     {
-      "term": "Saṁyama",
-      "transliteration": "saṁyama",
-      "type": "noun",
-      "definition": "Integration; the combined state of concentration, meditation, and absorption that allows the yogi to see through the illusion of proprietorship.",
-      "roots": "from saṁ (together) + yama (restraint)",
-      "references": [
-        "BG 5.10"
-      ],
-      "themes": [
-        "integration",
-        "concentration",
-        "absorption"
-      ]
-    },
-    {
       "term": "Saṁyamya",
       "transliteration": "",
       "type": "noun",
@@ -1207,21 +1351,6 @@
       ],
       "themes": [],
       "date": "2026-02-20"
-    },
-    {
-      "term": "Saṅga",
-      "transliteration": "saṅga",
-      "type": "noun",
-      "definition": "Attachment; the \"sticky\" quality of the mind that binds the soul to the results of action.",
-      "roots": "from saṅj (to join)",
-      "references": [
-        "BG 5.10"
-      ],
-      "themes": [
-        "attachment",
-        "bondage",
-        "karma"
-      ]
     },
     {
       "term": "Saṅgaḥ (masc. noun)",
@@ -1284,35 +1413,6 @@
       "date": "2026-02-23"
     },
     {
-      "term": "Su-hṛdam",
-      "transliteration": "suhṛdam",
-      "type": "noun",
-      "definition": "the benefactor/well-wisher; the system administrator who ensures the environment is stable for all processes to run.",
-      "roots": "",
-      "references": [
-        "BG 5.29"
-      ],
-      "themes": [
-        "Divine Provision",
-        "Suhṛd"
-      ]
-    },
-    {
-      "term": "Su-hṛt",
-      "transliteration": "su-hṛt",
-      "type": "masculine noun",
-      "definition": "Well-wisher by nature; su (good) + hṛt (heart); the person whose heart naturally wishes you well — not through obligation or contract but through disposition; this is the deepest category of ally because it operates below consciousness.",
-      "roots": "su (good) + hṛt (heart)",
-      "references": [
-        "BG 6.9"
-      ],
-      "themes": [
-        "equal-intelligence",
-        "sama-buddhi",
-        "relationships"
-      ]
-    },
-    {
       "term": "Sāṅkhyānām (genitive plural)",
       "transliteration": "",
       "type": "compound",
@@ -1359,22 +1459,6 @@
       ],
       "themes": [],
       "date": "2026-03-01"
-    },
-    {
-      "term": "Upekṣā",
-      "transliteration": "upekṣā",
-      "type": "feminine noun",
-      "definition": "Equanimity, overlooking, non-reactive awareness; from upa (near) + īkṣ (to look at); to look closely at something without reacting; not avoidance — attentive neutrality; you see the non-virtuous person clearly, you understand their condition, and you withhold the reactive judgment that would destabilize your own citta.",
-      "roots": "from upa (near) + īkṣ (to look at)",
-      "references": [
-        "BG 6.9",
-        "YS I.33"
-      ],
-      "themes": [
-        "equal-intelligence",
-        "citta-prasadanam",
-        "equanimity"
-      ]
     },
     {
       "term": "Vahāmi (verb)",
@@ -1447,21 +1531,6 @@
       ],
       "themes": [],
       "date": "2026-02-11"
-    },
-    {
-      "term": "Viśiṣyate",
-      "transliteration": "viśiṣyate",
-      "type": "verb, passive",
-      "definition": "Is distinguished, surpasses, excels; from viśiṣ (to distinguish); the yogī doesn’t merely achieve equanimity — he surpasses the entire framework of comparison; the verb is passive because this surpassing is not the ego’s achievement but the natural consequence of buddhi’s restructuring.",
-      "roots": "from viśiṣ (to distinguish)",
-      "references": [
-        "BG 6.9"
-      ],
-      "themes": [
-        "equal-intelligence",
-        "sama-buddhi",
-        "transcendence"
-      ]
     },
     {
       "term": "Viśiṣyate",
@@ -1572,10 +1641,6 @@
       "date": "2026-05-09"
     },
     {
-      "term": "abhijānāti",
-      "definition": "Does not know, does not recognize. Like a user who runs applications daily but has no idea what the kernel does — they interact with the surface, never the source."
-    },
-    {
       "term": "abhyutthānam (n. nom. sg.)",
       "transliteration": "",
       "type": "compound",
@@ -1610,21 +1675,6 @@
       ],
       "themes": [],
       "date": "2026-04-17"
-    },
-    {
-      "term": "acala",
-      "transliteration": "acala",
-      "type": "adjective",
-      "definition": "Steady, unmoving, firm. Like a stable load balancer that never drops connections.",
-      "roots": "",
-      "references": [
-        "BG 7.21"
-      ],
-      "themes": [
-        "steadyfaith",
-        "supersoul",
-        "demigodworship"
-      ]
     },
     {
       "term": "acala",
@@ -1783,21 +1833,6 @@
       "date": "2026-03-04"
     },
     {
-      "term": "akṣaya",
-      "transliteration": "akṣaya",
-      "type": "adjective",
-      "definition": "Imperishable, unlimited, undiminishing. The happiness of the self-realized person never decreases.",
-      "roots": "from kṣay (to decay)",
-      "references": [
-        "BG 5.21"
-      ],
-      "themes": [
-        "sense-control",
-        "ekadashi",
-        "brahma-yoga"
-      ]
-    },
-    {
       "term": "amṛtatva (n.)",
       "transliteration": "",
       "type": "compound",
@@ -1892,38 +1927,6 @@
       ],
       "themes": [],
       "date": "2026-03-25"
-    },
-    {
-      "term": "arthārthī",
-      "transliteration": "arthārthī",
-      "type": "adjective",
-      "definition": "desiring material gain, wealth-seeking. Like a process requesting resources for profit.",
-      "roots": "",
-      "references": [
-        "BG 7.16"
-      ],
-      "themes": [
-        "fourkinds",
-        "amavasya",
-        "devotion",
-        "yogasutra",
-        "taurusgemini"
-      ]
-    },
-    {
-      "term": "asakta",
-      "transliteration": "asakta",
-      "type": "adjective",
-      "definition": "Not attached, unattached. In BG 5.21, asakta-ātmā refers to one whose mind is not attached to external sense objects.",
-      "roots": "from sak (to be attached)",
-      "references": [
-        "BG 5.21"
-      ],
-      "themes": [
-        "sense-control",
-        "vairagya",
-        "pratyahara"
-      ]
     },
     {
       "term": "asaktaḥ",
@@ -2022,10 +2025,6 @@
       "date": "2026-03-25"
     },
     {
-      "term": "avyayam",
-      "definition": "Inexhaustible, imperishable. Like the power supply that never drains — it is the source from which all system resources flow, and it is never diminished by what it powers."
-    },
-    {
       "term": "avyayātmā",
       "transliteration": "",
       "type": "noun",
@@ -2062,23 +2061,6 @@
       "date": "2026-03-23"
     },
     {
-      "term": "aśuddhi",
-      "transliteration": "aśuddhi",
-      "type": "feminine noun",
-      "definition": "Impurities, contamination. The obstacles that obscure the lamp of knowledge — the residues of avidyā, asmitā, rāga, dveṣa, and abhiniveśa. The five kleśas are the background code that prevents the system from booting cleanly.",
-      "roots": "a- (prefix negation) + śuddhi (purity, from śudh, to cleanse)",
-      "references": [
-        "BG 7.3",
-        "YS II.28"
-      ],
-      "themes": [
-        "jnana-yoga",
-        "asuddhi",
-        "kleshas",
-        "purification"
-      ]
-    },
-    {
       "term": "bandhāt pramucyate",
       "transliteration": "",
       "type": "compound",
@@ -2091,23 +2073,6 @@
       "date": "2026-05-06"
     },
     {
-      "term": "bhajante",
-      "transliteration": "bhajante",
-      "type": "verb",
-      "definition": "render services, worship, honor. Like a service running continuously in devotion.",
-      "roots": "",
-      "references": [
-        "BG 7.16"
-      ],
-      "themes": [
-        "fourkinds",
-        "amavasya",
-        "devotion",
-        "yogasutra",
-        "taurusgemini"
-      ]
-    },
-    {
       "term": "bhajanti (vb., 3rd pl. pres.)",
       "transliteration": "",
       "type": "compound",
@@ -2118,21 +2083,6 @@
       ],
       "themes": [],
       "date": "2026-03-03"
-    },
-    {
-      "term": "bhakta",
-      "transliteration": "bhakta",
-      "type": "noun",
-      "definition": "Devotee, one who engages in devotional service. Like a dedicated process that runs continuously in service to the kernel.",
-      "roots": "",
-      "references": [
-        "BG 7.21"
-      ],
-      "themes": [
-        "steadyfaith",
-        "supersoul",
-        "demigodworship"
-      ]
     },
     {
       "term": "bhaktaḥ",
@@ -2181,19 +2131,6 @@
       ],
       "themes": [],
       "date": "2026-04-19"
-    },
-    {
-      "term": "bhogāḥ",
-      "transliteration": "bhogāḥ",
-      "type": "noun",
-      "definition": "The outputs of sensory stimulation; the temporary \"highs\" produced by material interaction",
-      "roots": "from [root]",
-      "references": [
-        "BG 5.22"
-      ],
-      "themes": [
-        "sense-control"
-      ]
     },
     {
       "term": "bhoktāraṁ",
@@ -2254,21 +2191,6 @@
       ],
       "themes": [],
       "date": "2026-05-09"
-    },
-    {
-      "term": "brahma-yoga",
-      "transliteration": "brahma-yoga",
-      "type": "noun",
-      "definition": "Union with the Absolute through concentration. The state where the mind is fixed on Brahman, leading to inner satisfaction.",
-      "roots": "from brahma (the Absolute) + yoga (union)",
-      "references": [
-        "BG 5.21"
-      ],
-      "themes": [
-        "brahma-yoga",
-        "sense-control",
-        "ekadashi"
-      ]
     },
     {
       "term": "brahmaṇy ādhāya",
@@ -2343,36 +2265,6 @@
       "date": "2026-03-11"
     },
     {
-      "term": "budhaḥ",
-      "transliteration": "budhaḥ",
-      "type": "noun",
-      "definition": "One who possesses Viveka (discernment) and can debug the illusion of temporary pleasure",
-      "roots": "from [root]",
-      "references": [
-        "BG 5.22"
-      ],
-      "themes": [
-        "sense-control"
-      ]
-    },
-    {
-      "term": "catur-vidhā",
-      "transliteration": "catur-vidhā",
-      "type": "adjective",
-      "definition": "four kinds, types. Like a system with four distinct user profiles.",
-      "roots": "",
-      "references": [
-        "BG 7.16"
-      ],
-      "themes": [
-        "fourkinds",
-        "amavasya",
-        "devotion",
-        "yogasutra",
-        "taurusgemini"
-      ]
-    },
-    {
       "term": "chindanti (verb, 3rd pl. pres. act. of √chid)",
       "transliteration": "",
       "type": "compound",
@@ -2395,11 +2287,6 @@
       ],
       "themes": [],
       "date": "2026-03-14"
-    },
-    {
-      "term": "daivī",
-      "translit": "daivī",
-      "definition": "Divine, belonging to the gods. The energy that is transcendental and governing."
     },
     {
       "term": "dehī (noun)",
@@ -2498,11 +2385,6 @@
       "date": "2026-04-18"
     },
     {
-      "term": "duratyayā",
-      "translit": "duratyayā",
-      "definition": "Difficult to overcome, cross, or traverse. That which is hard to conquer or pass beyond."
-    },
-    {
       "term": "duḥkha (n.)",
       "transliteration": "",
       "type": "compound",
@@ -2575,37 +2457,6 @@
       "date": "2026-03-03"
     },
     {
-      "term": "ekādaśī",
-      "transliteration": "ekādaśī",
-      "type": "noun",
-      "definition": "The eleventh day of the lunar fortnight, a day prescribed for fasting and increased devotion",
-      "roots": "from [root]",
-      "references": [
-        "BG 5.22"
-      ],
-      "themes": [
-        "ekadashi"
-      ]
-    },
-    {
-      "term": "gandhaḥ",
-      "transliteration": "gandha",
-      "type": "noun",
-      "definition": "Fragrance, scent. Like the cryptographic hash of a file — an invisible signature that permeates and verifies integrity without being consumed.",
-      "roots": "",
-      "references": [
-        "BG 7.9"
-      ],
-      "themes": [
-        "tapas",
-        "ekadashi",
-        "ashwini",
-        "bharani",
-        "kriya-yoga"
-      ],
-      "date": "2026-06-11"
-    },
-    {
       "term": "gatāsūn (noun)",
       "transliteration": "",
       "type": "compound",
@@ -2652,15 +2503,6 @@
       ],
       "themes": [],
       "date": "2026-04-16"
-    },
-    {
-      "term": "guṇa-mayaiḥ",
-      "definition": "Consisting of the modes of nature. Like the three permission layers that compose every file in the system — no file exists outside the read-write-execute triad. The entire filesystem is guṇa-maya."
-    },
-    {
-      "term": "guṇamayī",
-      "translit": "guṇamayī",
-      "definition": "Consisting of the three modes (sattva, rajas, tamas). The material nature in its conditioned state."
     },
     {
       "term": "hanyamāne śarīre",
@@ -2757,23 +2599,6 @@
       ],
       "themes": [],
       "date": "2026-04-22"
-    },
-    {
-      "term": "jijñāsu",
-      "transliteration": "jijñāsu",
-      "type": "adjective",
-      "definition": "inquisitive, desiring to know. Like a debug mode actively seeking information.",
-      "roots": "",
-      "references": [
-        "BG 7.16"
-      ],
-      "themes": [
-        "fourkinds",
-        "amavasya",
-        "devotion",
-        "yogasutra",
-        "taurusgemini"
-      ]
     },
     {
       "term": "jitendriyaḥ",
@@ -2884,23 +2709,6 @@
       "date": "2026-04-30"
     },
     {
-      "term": "jñānī",
-      "transliteration": "jñānī",
-      "type": "adjective",
-      "definition": "one who knows things as they are, wise. Like a system in optimal state with clear visibility.",
-      "roots": "",
-      "references": [
-        "BG 7.16"
-      ],
-      "themes": [
-        "fourkinds",
-        "amavasya",
-        "devotion",
-        "yogasutra",
-        "taurusgemini"
-      ]
-    },
-    {
       "term": "jñātvā (gerund)",
       "transliteration": "",
       "type": "compound",
@@ -2947,24 +2755,6 @@
       ],
       "themes": [],
       "date": "2026-03-20"
-    },
-    {
-      "term": "jīvanam",
-      "transliteration": "jivanam",
-      "type": "noun",
-      "definition": "Life, vital principle. Like the kernel’s scheduler — the invisible process that allocates time to all tasks, making multitasking possible.",
-      "roots": "",
-      "references": [
-        "BG 7.9"
-      ],
-      "themes": [
-        "tapas",
-        "ekadashi",
-        "ashwini",
-        "bharani",
-        "kriya-yoga"
-      ],
-      "date": "2026-06-11"
     },
     {
       "term": "kadācit",
@@ -3159,21 +2949,6 @@
       "date": "2026-03-12"
     },
     {
-      "term": "kāmān",
-      "transliteration": "kāmān",
-      "type": "noun",
-      "definition": "Desires, wishes, longings. Like user inputs that drive system behavior.",
-      "roots": "",
-      "references": [
-        "BG 7.22"
-      ],
-      "themes": [
-        "steadyfaith",
-        "demigodworship",
-        "shivaratri"
-      ]
-    },
-    {
       "term": "kāryam (n.)",
       "transliteration": "",
       "type": "compound",
@@ -3220,21 +2995,6 @@
       ],
       "themes": [],
       "date": "2026-03-14"
-    },
-    {
-      "term": "labhate",
-      "transliteration": "labhate",
-      "type": "verb",
-      "definition": "Obtains, attains, receives. Like a process that successfully acquires its target.",
-      "roots": "",
-      "references": [
-        "BG 7.22"
-      ],
-      "themes": [
-        "steadyfaith",
-        "demigodworship",
-        "shivaratri"
-      ]
     },
     {
       "term": "mad",
@@ -3309,21 +3069,6 @@
       "date": "2026-04-16"
     },
     {
-      "term": "mayā",
-      "transliteration": "mayā",
-      "type": "noun",
-      "definition": "By Me (the Lord). Like the divine kernel that enables all operations.",
-      "roots": "",
-      "references": [
-        "BG 7.22"
-      ],
-      "themes": [
-        "steadyfaith",
-        "demigodworship",
-        "shivaratri"
-      ]
-    },
-    {
       "term": "mithyā",
       "transliteration": "",
       "type": "noun",
@@ -3334,10 +3079,6 @@
       ],
       "themes": [],
       "date": "2026-04-13"
-    },
-    {
-      "term": "mohitam",
-      "definition": "Deluded, bewildered, enchanted. Like a process trapped in an infinite loop — it executes instructions but cannot see the shell that launched it. The loop feels like the whole system; it is not."
     },
     {
       "term": "mukta",
@@ -3398,11 +3139,6 @@
       ],
       "themes": [],
       "date": "2026-03-09"
-    },
-    {
-      "term": "māyā",
-      "translit": "māyā",
-      "definition": "The Lord's divine energy that manifests the material world. Often translated as \"illusion\" but more accurately as the divine energy that appears as duality."
     },
     {
       "term": "mṛtyu (m.)",
@@ -3600,7 +3336,7 @@
       "term": "param",
       "transliteration": "",
       "type": "noun",
-      "definition": "Supreme, beyond, transcendental. Like the hypervisor that sits above all virtual machines — it is not subject to any guest OS's rules or states.",
+      "definition": "The Supreme: For the bhakta, the Personality of Godhead; for the jñānī, liberation. The destination reached when attachment to results is traded for connection to source.",
       "roots": "",
       "references": [
         "BG ?.?"
@@ -3741,22 +3477,6 @@
       "date": "2026-04-26"
     },
     {
-      "term": "pauruṣam",
-      "transliteration": "pauruṣam",
-      "type": "noun",
-      "definition": "Human ability, prowess, capacity. Not biological function but the reflection of Divine power in every act of strength, intelligence, and will. Our abilities are loans from the Supreme.",
-      "roots": "from puruṣa (person, man) + suffix",
-      "references": [
-        "BG 7.8"
-      ],
-      "themes": [
-        "ability",
-        "prowess",
-        "human",
-        "jñana-yoga"
-      ]
-    },
-    {
       "term": "paśyati (verb)",
       "transliteration": "",
       "type": "compound",
@@ -3779,21 +3499,6 @@
       ],
       "themes": [],
       "date": "2026-03-23"
-    },
-    {
-      "term": "prabhā",
-      "transliteration": "prabhā",
-      "type": "noun",
-      "definition": "Effulgence, radiance, luminosity. The inherent light that emanates from the Divine — not just photons but the conscious illumination that makes perception possible. The light of sun and moon is Kṛṣṇa's prabhā.",
-      "roots": "from √prabhas (to shine forth)",
-      "references": [
-        "BG 7.8"
-      ],
-      "themes": [
-        "effulgence",
-        "light",
-        "jñana-yoga"
-      ]
     },
     {
       "term": "prajñā",
@@ -3866,11 +3571,6 @@
       ],
       "themes": [],
       "date": "2026-04-16"
-    },
-    {
-      "term": "prapadyante",
-      "translit": "prapadyante",
-      "definition": "Those who have surrendered, submitted, or taken refuge. The act of complete surrender to the Divine."
     },
     {
       "term": "prasanna",
@@ -3981,20 +3681,6 @@
       "date": "2026-03-17"
     },
     {
-      "term": "pratyāhāra",
-      "transliteration": "pratyāhāra",
-      "type": "noun",
-      "definition": "The withdrawal of the senses from their objects; the fifth limb of aṣṭāṅga yoga",
-      "roots": "from [root]",
-      "references": [
-        "BG 5.22"
-      ],
-      "themes": [
-        "pratyahara",
-        "sense-control"
-      ]
-    },
-    {
       "term": "pratyāhāra (m. noun)",
       "transliteration": "",
       "type": "compound",
@@ -4029,22 +3715,6 @@
       ],
       "themes": [],
       "date": "2026-04-13"
-    },
-    {
-      "term": "praṇava",
-      "transliteration": "praṇava",
-      "type": "noun",
-      "definition": "The sacred syllable oṁ (a-u-m), the root vibration of all Vedic knowledge. The primordial sound from which all manifestation emerges, representing the triple aspect of creation, maintenance, and dissolution.",
-      "roots": "from praṇu (to hum, to sound) + suffix",
-      "references": [
-        "BG 7.8"
-      ],
-      "themes": [
-        "sound",
-        "vibration",
-        "oṁ",
-        "jñana-yoga"
-      ]
     },
     {
       "term": "praṇaśyati (verb)",
@@ -4155,24 +3825,6 @@
       "date": "2026-03-31"
     },
     {
-      "term": "puṇyaḥ",
-      "transliteration": "punyah",
-      "type": "adjective",
-      "definition": "Original, uncontaminated, pure. Like the root filesystem image that remains untouched by runtime modifications — the clean source from which all clean instances are spawned.",
-      "roots": "",
-      "references": [
-        "BG 7.9"
-      ],
-      "themes": [
-        "tapas",
-        "ekadashi",
-        "ashwini",
-        "bharani",
-        "kriya-yoga"
-      ],
-      "date": "2026-06-11"
-    },
-    {
       "term": "pāvakaḥ (noun)",
       "transliteration": "",
       "type": "compound",
@@ -4219,22 +3871,6 @@
       ],
       "themes": [],
       "date": "2026-04-29"
-    },
-    {
-      "term": "rasa",
-      "transliteration": "rasa",
-      "type": "noun",
-      "definition": "Taste, essence, flavor. The intrinsic quality that makes an experience meaningful — not the chemical composition but the divine relish that permeates substance. When we taste water, we taste Kṛṣṇa's essence.",
-      "roots": "from √ras (to taste, to relish)",
-      "references": [
-        "BG 7.8"
-      ],
-      "themes": [
-        "essence",
-        "taste",
-        "jñana-yoga",
-        "bhakti"
-      ]
     },
     {
       "term": "rāga",
@@ -4307,21 +3943,6 @@
       ],
       "themes": [],
       "date": "2026-04-14"
-    },
-    {
-      "term": "sahasreṣu",
-      "transliteration": "sahasreṣu",
-      "type": "locative plural",
-      "definition": "Out of many thousands. Kṛṣṇa’s statistical frame — not hyperbole but precise observation. The path narrows at each stage. Thousands enter, one arrives. The funnel is not cruelty; it is the architecture of reality.",
-      "roots": "from sahasra (thousand)",
-      "references": [
-        "BG 7.3"
-      ],
-      "themes": [
-        "jnana-yoga",
-        "funnel-of-realization",
-        "rarity"
-      ]
     },
     {
       "term": "sakhā",
@@ -4432,11 +4053,6 @@
       "date": "2026-04-04"
     },
     {
-      "term": "samādhi-siddhi",
-      "translit": "samādhi-siddhi",
-      "definition": "The perfection of samādhi, the complete absorption of consciousness in the object of meditation. The fruit of surrender: not a technique achieved, but a state revealed when the practitioner stops grasping at fluctuations and rests in the Divine."
-    },
-    {
       "term": "sannyasya",
       "transliteration": "",
       "type": "noun",
@@ -4521,19 +4137,6 @@
       "date": "2026-03-28"
     },
     {
-      "term": "saṁsparśa",
-      "transliteration": "saṁsparśa",
-      "type": "noun",
-      "definition": "The interface between a sense organ and a material object; the \"input\" that triggers a sensory reaction",
-      "roots": "from [root]",
-      "references": [
-        "BG 5.22"
-      ],
-      "themes": [
-        "sense-control"
-      ]
-    },
-    {
       "term": "saṁstabhya (ger.)",
       "transliteration": "",
       "type": "compound",
@@ -4606,36 +4209,6 @@
       "date": "2026-04-23"
     },
     {
-      "term": "siddhaye",
-      "transliteration": "siddhaye",
-      "type": "dative singular noun",
-      "definition": "For perfection, for accomplishment. From siddhi — completion, fulfillment, the attainment of a goal. Not mere success in the worldly sense — the perfection of consciousness itself. The difference between compiling without errors and actually executing the program.",
-      "roots": "from sidh (to accomplish, to succeed)",
-      "references": [
-        "BG 7.3"
-      ],
-      "themes": [
-        "jnana-yoga",
-        "siddhaye",
-        "perfection"
-      ]
-    },
-    {
-      "term": "siddhānām",
-      "transliteration": "siddhānām",
-      "type": "genitive plural noun",
-      "definition": "Of those who have achieved perfection. The same root as siddhaye, but now in the past participle — those who have already completed the journey. Even among these, Kṛṣṇa says, hardly one knows Him. Perfection is necessary but not sufficient.",
-      "roots": "from sidh (to accomplish, to succeed)",
-      "references": [
-        "BG 7.3"
-      ],
-      "themes": [
-        "jnana-yoga",
-        "siddhanam",
-        "perfection"
-      ]
-    },
-    {
       "term": "smṛti (f. noun)",
       "transliteration": "",
       "type": "compound",
@@ -4658,23 +4231,6 @@
       ],
       "themes": [],
       "date": "2026-03-22"
-    },
-    {
-      "term": "su-kṛtinoḥ",
-      "transliteration": "su-kṛtinoḥ",
-      "type": "adjective",
-      "definition": "those who are pious, obedient to righteousness. Like a system running with integrity and compliance.",
-      "roots": "",
-      "references": [
-        "BG 7.16"
-      ],
-      "themes": [
-        "fourkinds",
-        "amavasya",
-        "devotion",
-        "yogasutra",
-        "taurusgemini"
-      ]
     },
     {
       "term": "suciḥ (adj)",
@@ -4773,62 +4329,6 @@
       "date": "2026-04-14"
     },
     {
-      "term": "tapasviṣu",
-      "transliteration": "tapasvisu",
-      "type": "noun",
-      "definition": "Those who practice tapas, ascetics. Like the system administrators who enforce security policies — they undergo discomfort to maintain the integrity of the whole.",
-      "roots": "",
-      "references": [
-        "BG 7.9"
-      ],
-      "themes": [
-        "tapas",
-        "ekadashi",
-        "ashwini",
-        "bharani",
-        "kriya-yoga"
-      ],
-      "date": "2026-06-11"
-    },
-    {
-      "term": "tapaḥ",
-      "transliteration": "tapa",
-      "type": "noun",
-      "definition": "Discipline, austerity, inner heat. Like the CPU’s boost clock — a temporary increase in performance driven by controlled effort, not sustainable indefinitely but critical for peak performance.",
-      "roots": "",
-      "references": [
-        "BG 7.9"
-      ],
-      "themes": [
-        "tapas",
-        "ekadashi",
-        "ashwini",
-        "bharani",
-        "kriya-yoga"
-      ],
-      "date": "2026-06-11"
-    },
-    {
-      "term": "taranti",
-      "translit": "taranti",
-      "definition": "They cross over, traverse, or go beyond. To surpass or transcend an obstacle."
-    },
-    {
-      "term": "tasmāt",
-      "transliteration": "tasmāt",
-      "type": "adverb",
-      "definition": "From that, therefore. Like a logical implication that follows inevitably from a premise.",
-      "roots": "",
-      "references": [
-        "BG 7.21"
-      ],
-      "themes": [
-        "steadyfaith",
-        "supersoul",
-        "demigodworship"
-      ]
-    },
-    {
       "term": "tatam (adj.)",
       "transliteration": "",
       "type": "compound",
@@ -4877,24 +4377,6 @@
       "date": "2026-04-18"
     },
     {
-      "term": "tejaḥ",
-      "transliteration": "teja",
-      "type": "noun",
-      "definition": "Heat, radiance, prowess. Like the CPU’s thermal design power (TDP) — the measured capacity to perform work, not the work itself, yet enabling all computation.",
-      "roots": "",
-      "references": [
-        "BG 7.9"
-      ],
-      "themes": [
-        "tapas",
-        "ekadashi",
-        "ashwini",
-        "bharani",
-        "kriya-yoga"
-      ],
-      "date": "2026-06-11"
-    },
-    {
       "term": "titikṣasva (imperative, 2nd person sing.)",
       "transliteration": "",
       "type": "compound",
@@ -4917,10 +4399,6 @@
       ],
       "themes": [],
       "date": "2026-03-19"
-    },
-    {
-      "term": "tribhiḥ",
-      "definition": "By three. Like the three fundamental system states — sattva (read/execute), rajas (write/modify), tamas (sleep/hibernate) — that govern all processes in the cosmic operating system."
     },
     {
       "term": "tyaktvā",
@@ -5019,20 +4497,6 @@
       "date": "2026-04-17"
     },
     {
-      "term": "vairāgyam",
-      "transliteration": "vairāgyam",
-      "type": "noun",
-      "definition": "Dispassion or non-attachment; freedom from craving for sense objects",
-      "roots": "from [root]",
-      "references": [
-        "BG 5.22"
-      ],
-      "themes": [
-        "vairagya",
-        "sense-control"
-      ]
-    },
-    {
       "term": "vaśīkāra (masculine noun)",
       "transliteration": "",
       "type": "compound",
@@ -5055,24 +4519,6 @@
       ],
       "themes": [],
       "date": "2026-03-24"
-    },
-    {
-      "term": "vibhāvasu",
-      "transliteration": "vibhavasu",
-      "type": "noun",
-      "definition": "Fire, specifically the sacred fire of ritual. Like the power supply unit that converts raw energy into stable voltages — unseen but essential for all components to function.",
-      "roots": "",
-      "references": [
-        "BG 7.9"
-      ],
-      "themes": [
-        "tapas",
-        "ekadashi",
-        "ashwini",
-        "bharani",
-        "kriya-yoga"
-      ],
-      "date": "2026-06-11"
     },
     {
       "term": "viddhi (verb, impv.)",
@@ -5145,21 +4591,6 @@
       ],
       "themes": [],
       "date": "2026-04-11"
-    },
-    {
-      "term": "vihitān",
-      "transliteration": "vihitān",
-      "type": "adjective",
-      "definition": "Arranged, ordained, disposed. Like a configuration that orchestrates outcomes.",
-      "roots": "",
-      "references": [
-        "BG 7.22"
-      ],
-      "themes": [
-        "steadyfaith",
-        "demigodworship",
-        "shivaratri"
-      ]
     },
     {
       "term": "vihāya (gerund)",
@@ -5268,22 +4699,6 @@
       ],
       "themes": [],
       "date": "2026-04-27"
-    },
-    {
-      "term": "viveka-khyāti",
-      "transliteration": "viveka-khyāti",
-      "type": "compound noun",
-      "definition": "Discriminative discernment, the highest form of knowledge in classical yoga. The direct perception of the distinction between puruṣa and prakṛti. When this fires, the funnel collapses to its final stage.",
-      "roots": "viveka (discrimination, from vi- + ic, to separate) + khyāti (perception, recognition, from khyā, to appear)",
-      "references": [
-        "YS II.28"
-      ],
-      "themes": [
-        "jnana-yoga",
-        "viveka-khyati",
-        "discrimination",
-        "purusa-prakrti"
-      ]
     },
     {
       "term": "viśiṣyate (pass. 3rd sg.)",
@@ -5502,21 +4917,6 @@
       "date": "2026-04-20"
     },
     {
-      "term": "yukta",
-      "transliteration": "yukta",
-      "type": "adjective",
-      "definition": "Endowed, united, equipped. Like a well-configured system ready for operation.",
-      "roots": "",
-      "references": [
-        "BG 7.22"
-      ],
-      "themes": [
-        "steadyfaith",
-        "demigodworship",
-        "shivaratri"
-      ]
-    },
-    {
       "term": "yukta (adj., past passive participle from yuj)",
       "transliteration": "",
       "type": "compound",
@@ -5625,38 +5025,6 @@
       "date": "2026-03-18"
     },
     {
-      "term": "ārtā",
-      "transliteration": "ārtā",
-      "type": "adjective",
-      "definition": "distressed, suffering, afflicted. Like a process in error state seeking intervention.",
-      "roots": "",
-      "references": [
-        "BG 7.16"
-      ],
-      "themes": [
-        "fourkinds",
-        "amavasya",
-        "devotion",
-        "yogasutra",
-        "taurusgemini"
-      ]
-    },
-    {
-      "term": "ārādhanam",
-      "transliteration": "ārādhanam",
-      "type": "noun",
-      "definition": "Worship, reverent service. Like a dedicated service running continuously in devotion.",
-      "roots": "",
-      "references": [
-        "BG 7.22"
-      ],
-      "themes": [
-        "steadyfaith",
-        "demigodworship",
-        "shivaratri"
-      ]
-    },
-    {
       "term": "ātma",
       "transliteration": "",
       "type": "noun",
@@ -5729,36 +5097,6 @@
       "date": "2026-03-15"
     },
     {
-      "term": "īhate",
-      "transliteration": "īhate",
-      "type": "verb",
-      "definition": "Aspires, desires, longs for. Like a process that continuously requests a resource.",
-      "roots": "",
-      "references": [
-        "BG 7.22"
-      ],
-      "themes": [
-        "steadyfaith",
-        "demigodworship",
-        "shivaratri"
-      ]
-    },
-    {
-      "term": "īśvara",
-      "transliteration": "īśvara",
-      "type": "noun",
-      "definition": "Supreme Lord, controller. Like the hypervisor that manages all virtual machines.",
-      "roots": "",
-      "references": [
-        "BG 7.21"
-      ],
-      "themes": [
-        "steadyfaith",
-        "supersoul",
-        "demigodworship"
-      ]
-    },
-    {
       "term": "īśvara",
       "transliteration": "",
       "type": "noun",
@@ -5769,11 +5107,6 @@
       ],
       "themes": [],
       "date": "2026-04-20"
-    },
-    {
-      "term": "īśvara-praṇidhāna",
-      "translit": "īśvara-praṇidhāna",
-      "definition": "Surrender, devotion, and offering of all actions to the Lord. Patañjali's term for the bhakti path within yoga."
     },
     {
       "term": "īśvarapraṇidhāna",
@@ -5824,22 +5157,6 @@
       "date": "2026-02-21"
     },
     {
-      "term": "śabdaḥ",
-      "transliteration": "śabdaḥ",
-      "type": "noun",
-      "definition": "Sound vibration, particularly the subtle sound in ether (śabdaḥ khe). The all-pervading resonance that sustains the universe — the cosmic background radiation of consciousness.",
-      "roots": "from √sbhad (to sound, to pronounce)",
-      "references": [
-        "BG 7.8"
-      ],
-      "themes": [
-        "sound",
-        "vibration",
-        "ether",
-        "jñana-yoga"
-      ]
-    },
-    {
       "term": "śarīra",
       "transliteration": "",
       "type": "noun",
@@ -5886,21 +5203,6 @@
       ],
       "themes": [],
       "date": "2026-03-29"
-    },
-    {
-      "term": "śraddhā",
-      "transliteration": "śraddhā",
-      "type": "noun",
-      "definition": "Faith, trust, conviction. Like the root certificate authority that establishes trust in a secure system.",
-      "roots": "",
-      "references": [
-        "BG 7.21"
-      ],
-      "themes": [
-        "steadyfaith",
-        "supersoul",
-        "demigodworship"
-      ]
     },
     {
       "term": "śraddhā (noun)",
@@ -5987,81 +5289,59 @@
       "date": "2026-03-24"
     },
     {
-      "term": "उपधारय",
-      "transliteration": "upadhāraya",
-      "type": "verb",
-      "definition": "know for certain, realize; hacker metaphor: the breakpoint that reveals the true state",
-      "references": [
-        "BG 7.6"
-      ]
-    },
-    {
-      "term": "एतद्योनीनि",
-      "transliteration": "etad-yonīni",
+      "term": "Bhoktāram",
+      "transliteration": "bhoktāram",
       "type": "noun",
-      "definition": "these two natures (material and spiritual); hacker metaphor: the dualistic foundation of the simulation",
-      "references": [
-        "BG 7.6"
-      ]
-    },
-    {
-      "term": "कृत्स्नस्य",
-      "transliteration": "kṛtsnasya",
-      "type": "adjective",
-      "definition": "all-inclusive, total; hacker metaphor: the global scope that encompasses all variables",
-      "references": [
-        "BG 7.6"
-      ]
-    },
-    {
-      "term": "जगत:",
-      "transliteration": "jagataḥ",
-      "type": "noun",
-      "definition": "the world, cosmic manifestation; hacker metaphor: the entire runtime environment",
-      "references": [
-        "BG 7.6"
-      ]
-    },
-    {
-      "term": "प्रभव:",
-      "transliteration": "prabhavaḥ",
-      "type": "noun",
-      "definition": "source of manifestation, origin; hacker metaphor: the init() function that spawns all processes",
-      "references": [
-        "BG 7.6"
-      ]
-    },
-    {
-      "term": "प्रलय:",
-      "transliteration": "pralayaḥ",
-      "type": "noun",
-      "definition": "annihilation, dissolution; hacker metaphor: the garbage collector that reclaims memory",
-      "references": [
-        "BG 7.6"
-      ]
-    },
-    {
-      "term": "भूतानि",
-      "transliteration": "bhūtāni",
-      "type": "noun",
-      "definition": "all created beings, elements; hacker metaphor: the rendered objects in the game engine",
-      "references": [
-        "BG 7.6"
-      ]
-    },
-    {
-      "term": "सुकृतिनः",
-      "transliteration": "su-kṛtinaḥ",
-      "type": "noun",
-      "definition": "those who are pious, obedient to righteousness. Like a system running with integrity and compliance.",
+      "definition": "the ultimate beneficiary/enjoyer; the Root User who owns all processes and their outputs.",
       "roots": "",
       "references": [
-        "BG 7.16"
+        "BG 5.29"
       ],
       "themes": [
-        "fourkinds",
-        "amavasya",
-        "yogasutra"
+        "Root Access",
+        "Beneficiary"
+      ]
+    },
+    {
+      "term": "Su-hṛdam",
+      "transliteration": "suhṛdam",
+      "type": "noun",
+      "definition": "the benefactor/well-wisher; the system administrator who ensures the environment is stable for all processes to run.",
+      "roots": "",
+      "references": [
+        "BG 5.29"
+      ],
+      "themes": [
+        "Divine Provision",
+        "Suhṛd"
+      ]
+    },
+    {
+      "term": "Mahā-īśvaram",
+      "transliteration": "mahā-īśvaram",
+      "type": "noun",
+      "definition": "the Supreme Lord; the kernel-level process that manages all system resources.",
+      "roots": "",
+      "references": [
+        "BG 5.29"
+      ],
+      "themes": [
+        "Root Access",
+        "Supremacy"
+      ]
+    },
+    {
+      "term": "Jñātvā",
+      "transliteration": "jñātvā",
+      "type": "verb",
+      "definition": "having known/understood; the debug output that reveals the true system architecture.",
+      "roots": "",
+      "references": [
+        "BG 5.29"
+      ],
+      "themes": [
+        "Knowledge",
+        "Realization"
       ]
     }
   ]

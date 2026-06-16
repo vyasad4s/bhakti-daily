@@ -1,90 +1,6 @@
 {
   "verses": [
     {
-      "date": "2026-06-16",
-      "source": "BG 7.6",
-      "chapter": 7,
-      "verse": 6,
-      "text": "Bhagavad Gita",
-      "tithi": "Sukla Paksha Dwitiya",
-      "nakshatra": "Ardra",
-      "yoga": "Vriddhi",
-      "themes": [
-        "Origin and Dissolution",
-        "Dwitiya",
-        "Ardra",
-        "Vriddhi"
-      ],
-      "tags": [
-        "#OriginDissolution",
-        "#Dwitiya",
-        "#Ardra",
-        "#Vriddhi",
-        "#BG76",
-        "#JnanaYoga",
-        "#Sankhya"
-      ],
-      "yogaSutraConnection": "YS II.28",
-      "sankhyaConcepts": [
-        "purusha-prakriti dualism",
-        "prabhava-pralaya (origin-dissolution)",
-        "prakriti as modification",
-        "purusha as unchanging witness"
-      ],
-      "keyTerms": [
-        "etad-yon\u012bni",
-        "bh\u016bt\u0101ni",
-        "upadh\u0101raya",
-        "prabhava\u1e25",
-        "pralaya\u1e25",
-        "jagata\u1e25",
-        "k\u1e5btsnasya"
-      ]
-    },
-    {
-      "date": "2026-06-15",
-      "source": "BG 7.6",
-      "chapter": 7,
-      "verse": 6,
-      "text": "Bhagavad Gita",
-      "tithi": "Sukla Paksha Pratipada (until 7:01 PM EDT), then Sukla Paksha Dwitiya",
-      "nakshatra": "Mrigashirsha (until 9:38 AM EDT), then Ardra",
-      "yoga": "Ganda (until 7:08 PM EDT), then Vridhi",
-      "themes": [
-        "Origin and Dissolution",
-        "Chandra Darshan",
-        "Ardra Transformation",
-        "Mithuna Sankranti",
-        "Somvar Vrat"
-      ],
-      "tags": [
-        "#OriginDissolution",
-        "#ChandraDarshan",
-        "#Ardra",
-        "#MithunaSankranti",
-        "#SomvarVrat",
-        "#BG76",
-        "#JnanaYoga",
-        "#Sankhya"
-      ],
-      "yogaSutraConnection": "YS I.3",
-      "sankhyaConcepts": [
-        "purusha-prakriti dualism",
-        "prabhava-pralaya (origin-dissolution)",
-        "maya as divine energy",
-        "the two natures as superior and inferior prakriti"
-      ],
-      "keyTerms": [
-        "etad-yon\u012bni",
-        "bh\u016bt\u0101ni",
-        "prabhava\u1e25",
-        "pralaya\u1e25",
-        "jagata\u1e25",
-        "k\u1e5btsnasya",
-        "upadh\u0101raya"
-      ]
-    },
-    {
       "date": "2026-06-14",
       "source": "BG 7.16",
       "chapter": 7,
@@ -1452,5 +1368,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-06-16"
+  "lastUpdated": "2026-06-14"
 }

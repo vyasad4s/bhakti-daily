@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-15",
+  "lastUpdated": "2026-06-10",
   "terms": [
     {
       "term": "Acala",
@@ -1613,21 +1613,6 @@
     },
     {
       "term": "acala",
-      "transliteration": "acala",
-      "type": "adjective",
-      "definition": "Steady, unmoving, firm. Like a stable load balancer that never drops connections.",
-      "roots": "",
-      "references": [
-        "BG 7.21"
-      ],
-      "themes": [
-        "steadyfaith",
-        "supersoul",
-        "demigodworship"
-      ]
-    },
-    {
-      "term": "acala",
       "transliteration": "",
       "type": "noun",
       "definition": "pratiṣṭham (compound adjective) – \"immovable foundation\" – acala (unmoving) + pratiṣṭha (standing firm). The root access of consciousness that no prakṛtic process can revoke.",
@@ -1894,23 +1879,6 @@
       "date": "2026-03-25"
     },
     {
-      "term": "arthārthī",
-      "transliteration": "arthārthī",
-      "type": "adjective",
-      "definition": "desiring material gain, wealth-seeking. Like a process requesting resources for profit.",
-      "roots": "",
-      "references": [
-        "BG 7.16"
-      ],
-      "themes": [
-        "fourkinds",
-        "amavasya",
-        "devotion",
-        "yogasutra",
-        "taurusgemini"
-      ]
-    },
-    {
       "term": "asakta",
       "transliteration": "asakta",
       "type": "adjective",
@@ -2091,23 +2059,6 @@
       "date": "2026-05-06"
     },
     {
-      "term": "bhajante",
-      "transliteration": "bhajante",
-      "type": "verb",
-      "definition": "render services, worship, honor. Like a service running continuously in devotion.",
-      "roots": "",
-      "references": [
-        "BG 7.16"
-      ],
-      "themes": [
-        "fourkinds",
-        "amavasya",
-        "devotion",
-        "yogasutra",
-        "taurusgemini"
-      ]
-    },
-    {
       "term": "bhajanti (vb., 3rd pl. pres.)",
       "transliteration": "",
       "type": "compound",
@@ -2118,21 +2069,6 @@
       ],
       "themes": [],
       "date": "2026-03-03"
-    },
-    {
-      "term": "bhakta",
-      "transliteration": "bhakta",
-      "type": "noun",
-      "definition": "Devotee, one who engages in devotional service. Like a dedicated process that runs continuously in service to the kernel.",
-      "roots": "",
-      "references": [
-        "BG 7.21"
-      ],
-      "themes": [
-        "steadyfaith",
-        "supersoul",
-        "demigodworship"
-      ]
     },
     {
       "term": "bhaktaḥ",
@@ -2356,23 +2292,6 @@
       ]
     },
     {
-      "term": "catur-vidhā",
-      "transliteration": "catur-vidhā",
-      "type": "adjective",
-      "definition": "four kinds, types. Like a system with four distinct user profiles.",
-      "roots": "",
-      "references": [
-        "BG 7.16"
-      ],
-      "themes": [
-        "fourkinds",
-        "amavasya",
-        "devotion",
-        "yogasutra",
-        "taurusgemini"
-      ]
-    },
-    {
       "term": "chindanti (verb, 3rd pl. pres. act. of √chid)",
       "transliteration": "",
       "type": "compound",
@@ -2588,24 +2507,6 @@
       ]
     },
     {
-      "term": "gandhaḥ",
-      "transliteration": "gandha",
-      "type": "noun",
-      "definition": "Fragrance, scent. Like the cryptographic hash of a file — an invisible signature that permeates and verifies integrity without being consumed.",
-      "roots": "",
-      "references": [
-        "BG 7.9"
-      ],
-      "themes": [
-        "tapas",
-        "ekadashi",
-        "ashwini",
-        "bharani",
-        "kriya-yoga"
-      ],
-      "date": "2026-06-11"
-    },
-    {
       "term": "gatāsūn (noun)",
       "transliteration": "",
       "type": "compound",
@@ -2759,23 +2660,6 @@
       "date": "2026-04-22"
     },
     {
-      "term": "jijñāsu",
-      "transliteration": "jijñāsu",
-      "type": "adjective",
-      "definition": "inquisitive, desiring to know. Like a debug mode actively seeking information.",
-      "roots": "",
-      "references": [
-        "BG 7.16"
-      ],
-      "themes": [
-        "fourkinds",
-        "amavasya",
-        "devotion",
-        "yogasutra",
-        "taurusgemini"
-      ]
-    },
-    {
       "term": "jitendriyaḥ",
       "transliteration": "",
       "type": "noun",
@@ -2884,23 +2768,6 @@
       "date": "2026-04-30"
     },
     {
-      "term": "jñānī",
-      "transliteration": "jñānī",
-      "type": "adjective",
-      "definition": "one who knows things as they are, wise. Like a system in optimal state with clear visibility.",
-      "roots": "",
-      "references": [
-        "BG 7.16"
-      ],
-      "themes": [
-        "fourkinds",
-        "amavasya",
-        "devotion",
-        "yogasutra",
-        "taurusgemini"
-      ]
-    },
-    {
       "term": "jñātvā (gerund)",
       "transliteration": "",
       "type": "compound",
@@ -2947,24 +2814,6 @@
       ],
       "themes": [],
       "date": "2026-03-20"
-    },
-    {
-      "term": "jīvanam",
-      "transliteration": "jivanam",
-      "type": "noun",
-      "definition": "Life, vital principle. Like the kernel’s scheduler — the invisible process that allocates time to all tasks, making multitasking possible.",
-      "roots": "",
-      "references": [
-        "BG 7.9"
-      ],
-      "themes": [
-        "tapas",
-        "ekadashi",
-        "ashwini",
-        "bharani",
-        "kriya-yoga"
-      ],
-      "date": "2026-06-11"
     },
     {
       "term": "kadācit",
@@ -3159,21 +3008,6 @@
       "date": "2026-03-12"
     },
     {
-      "term": "kāmān",
-      "transliteration": "kāmān",
-      "type": "noun",
-      "definition": "Desires, wishes, longings. Like user inputs that drive system behavior.",
-      "roots": "",
-      "references": [
-        "BG 7.22"
-      ],
-      "themes": [
-        "steadyfaith",
-        "demigodworship",
-        "shivaratri"
-      ]
-    },
-    {
       "term": "kāryam (n.)",
       "transliteration": "",
       "type": "compound",
@@ -3220,21 +3054,6 @@
       ],
       "themes": [],
       "date": "2026-03-14"
-    },
-    {
-      "term": "labhate",
-      "transliteration": "labhate",
-      "type": "verb",
-      "definition": "Obtains, attains, receives. Like a process that successfully acquires its target.",
-      "roots": "",
-      "references": [
-        "BG 7.22"
-      ],
-      "themes": [
-        "steadyfaith",
-        "demigodworship",
-        "shivaratri"
-      ]
     },
     {
       "term": "mad",
@@ -3307,21 +3126,6 @@
       ],
       "themes": [],
       "date": "2026-04-16"
-    },
-    {
-      "term": "mayā",
-      "transliteration": "mayā",
-      "type": "noun",
-      "definition": "By Me (the Lord). Like the divine kernel that enables all operations.",
-      "roots": "",
-      "references": [
-        "BG 7.22"
-      ],
-      "themes": [
-        "steadyfaith",
-        "demigodworship",
-        "shivaratri"
-      ]
     },
     {
       "term": "mithyā",
@@ -4155,24 +3959,6 @@
       "date": "2026-03-31"
     },
     {
-      "term": "puṇyaḥ",
-      "transliteration": "punyah",
-      "type": "adjective",
-      "definition": "Original, uncontaminated, pure. Like the root filesystem image that remains untouched by runtime modifications — the clean source from which all clean instances are spawned.",
-      "roots": "",
-      "references": [
-        "BG 7.9"
-      ],
-      "themes": [
-        "tapas",
-        "ekadashi",
-        "ashwini",
-        "bharani",
-        "kriya-yoga"
-      ],
-      "date": "2026-06-11"
-    },
-    {
       "term": "pāvakaḥ (noun)",
       "transliteration": "",
       "type": "compound",
@@ -4660,23 +4446,6 @@
       "date": "2026-03-22"
     },
     {
-      "term": "su-kṛtinoḥ",
-      "transliteration": "su-kṛtinoḥ",
-      "type": "adjective",
-      "definition": "those who are pious, obedient to righteousness. Like a system running with integrity and compliance.",
-      "roots": "",
-      "references": [
-        "BG 7.16"
-      ],
-      "themes": [
-        "fourkinds",
-        "amavasya",
-        "devotion",
-        "yogasutra",
-        "taurusgemini"
-      ]
-    },
-    {
       "term": "suciḥ (adj)",
       "transliteration": "",
       "type": "compound",
@@ -4773,60 +4542,9 @@
       "date": "2026-04-14"
     },
     {
-      "term": "tapasviṣu",
-      "transliteration": "tapasvisu",
-      "type": "noun",
-      "definition": "Those who practice tapas, ascetics. Like the system administrators who enforce security policies — they undergo discomfort to maintain the integrity of the whole.",
-      "roots": "",
-      "references": [
-        "BG 7.9"
-      ],
-      "themes": [
-        "tapas",
-        "ekadashi",
-        "ashwini",
-        "bharani",
-        "kriya-yoga"
-      ],
-      "date": "2026-06-11"
-    },
-    {
-      "term": "tapaḥ",
-      "transliteration": "tapa",
-      "type": "noun",
-      "definition": "Discipline, austerity, inner heat. Like the CPU’s boost clock — a temporary increase in performance driven by controlled effort, not sustainable indefinitely but critical for peak performance.",
-      "roots": "",
-      "references": [
-        "BG 7.9"
-      ],
-      "themes": [
-        "tapas",
-        "ekadashi",
-        "ashwini",
-        "bharani",
-        "kriya-yoga"
-      ],
-      "date": "2026-06-11"
-    },
-    {
       "term": "taranti",
       "translit": "taranti",
       "definition": "They cross over, traverse, or go beyond. To surpass or transcend an obstacle."
-    },
-    {
-      "term": "tasmāt",
-      "transliteration": "tasmāt",
-      "type": "adverb",
-      "definition": "From that, therefore. Like a logical implication that follows inevitably from a premise.",
-      "roots": "",
-      "references": [
-        "BG 7.21"
-      ],
-      "themes": [
-        "steadyfaith",
-        "supersoul",
-        "demigodworship"
-      ]
     },
     {
       "term": "tatam (adj.)",
@@ -4875,24 +4593,6 @@
       ],
       "themes": [],
       "date": "2026-04-18"
-    },
-    {
-      "term": "tejaḥ",
-      "transliteration": "teja",
-      "type": "noun",
-      "definition": "Heat, radiance, prowess. Like the CPU’s thermal design power (TDP) — the measured capacity to perform work, not the work itself, yet enabling all computation.",
-      "roots": "",
-      "references": [
-        "BG 7.9"
-      ],
-      "themes": [
-        "tapas",
-        "ekadashi",
-        "ashwini",
-        "bharani",
-        "kriya-yoga"
-      ],
-      "date": "2026-06-11"
     },
     {
       "term": "titikṣasva (imperative, 2nd person sing.)",
@@ -5057,24 +4757,6 @@
       "date": "2026-03-24"
     },
     {
-      "term": "vibhāvasu",
-      "transliteration": "vibhavasu",
-      "type": "noun",
-      "definition": "Fire, specifically the sacred fire of ritual. Like the power supply unit that converts raw energy into stable voltages — unseen but essential for all components to function.",
-      "roots": "",
-      "references": [
-        "BG 7.9"
-      ],
-      "themes": [
-        "tapas",
-        "ekadashi",
-        "ashwini",
-        "bharani",
-        "kriya-yoga"
-      ],
-      "date": "2026-06-11"
-    },
-    {
       "term": "viddhi (verb, impv.)",
       "transliteration": "",
       "type": "compound",
@@ -5145,21 +4827,6 @@
       ],
       "themes": [],
       "date": "2026-04-11"
-    },
-    {
-      "term": "vihitān",
-      "transliteration": "vihitān",
-      "type": "adjective",
-      "definition": "Arranged, ordained, disposed. Like a configuration that orchestrates outcomes.",
-      "roots": "",
-      "references": [
-        "BG 7.22"
-      ],
-      "themes": [
-        "steadyfaith",
-        "demigodworship",
-        "shivaratri"
-      ]
     },
     {
       "term": "vihāya (gerund)",
@@ -5502,21 +5169,6 @@
       "date": "2026-04-20"
     },
     {
-      "term": "yukta",
-      "transliteration": "yukta",
-      "type": "adjective",
-      "definition": "Endowed, united, equipped. Like a well-configured system ready for operation.",
-      "roots": "",
-      "references": [
-        "BG 7.22"
-      ],
-      "themes": [
-        "steadyfaith",
-        "demigodworship",
-        "shivaratri"
-      ]
-    },
-    {
       "term": "yukta (adj., past passive participle from yuj)",
       "transliteration": "",
       "type": "compound",
@@ -5625,38 +5277,6 @@
       "date": "2026-03-18"
     },
     {
-      "term": "ārtā",
-      "transliteration": "ārtā",
-      "type": "adjective",
-      "definition": "distressed, suffering, afflicted. Like a process in error state seeking intervention.",
-      "roots": "",
-      "references": [
-        "BG 7.16"
-      ],
-      "themes": [
-        "fourkinds",
-        "amavasya",
-        "devotion",
-        "yogasutra",
-        "taurusgemini"
-      ]
-    },
-    {
-      "term": "ārādhanam",
-      "transliteration": "ārādhanam",
-      "type": "noun",
-      "definition": "Worship, reverent service. Like a dedicated service running continuously in devotion.",
-      "roots": "",
-      "references": [
-        "BG 7.22"
-      ],
-      "themes": [
-        "steadyfaith",
-        "demigodworship",
-        "shivaratri"
-      ]
-    },
-    {
       "term": "ātma",
       "transliteration": "",
       "type": "noun",
@@ -5727,36 +5347,6 @@
       ],
       "themes": [],
       "date": "2026-03-15"
-    },
-    {
-      "term": "īhate",
-      "transliteration": "īhate",
-      "type": "verb",
-      "definition": "Aspires, desires, longs for. Like a process that continuously requests a resource.",
-      "roots": "",
-      "references": [
-        "BG 7.22"
-      ],
-      "themes": [
-        "steadyfaith",
-        "demigodworship",
-        "shivaratri"
-      ]
-    },
-    {
-      "term": "īśvara",
-      "transliteration": "īśvara",
-      "type": "noun",
-      "definition": "Supreme Lord, controller. Like the hypervisor that manages all virtual machines.",
-      "roots": "",
-      "references": [
-        "BG 7.21"
-      ],
-      "themes": [
-        "steadyfaith",
-        "supersoul",
-        "demigodworship"
-      ]
     },
     {
       "term": "īśvara",
@@ -5888,21 +5478,6 @@
       "date": "2026-03-29"
     },
     {
-      "term": "śraddhā",
-      "transliteration": "śraddhā",
-      "type": "noun",
-      "definition": "Faith, trust, conviction. Like the root certificate authority that establishes trust in a secure system.",
-      "roots": "",
-      "references": [
-        "BG 7.21"
-      ],
-      "themes": [
-        "steadyfaith",
-        "supersoul",
-        "demigodworship"
-      ]
-    },
-    {
       "term": "śraddhā (noun)",
       "transliteration": "",
       "type": "compound",
@@ -5985,84 +5560,6 @@
       ],
       "themes": [],
       "date": "2026-03-24"
-    },
-    {
-      "term": "उपधारय",
-      "transliteration": "upadhāraya",
-      "type": "verb",
-      "definition": "know for certain, realize; hacker metaphor: the breakpoint that reveals the true state",
-      "references": [
-        "BG 7.6"
-      ]
-    },
-    {
-      "term": "एतद्योनीनि",
-      "transliteration": "etad-yonīni",
-      "type": "noun",
-      "definition": "these two natures (material and spiritual); hacker metaphor: the dualistic foundation of the simulation",
-      "references": [
-        "BG 7.6"
-      ]
-    },
-    {
-      "term": "कृत्स्नस्य",
-      "transliteration": "kṛtsnasya",
-      "type": "adjective",
-      "definition": "all-inclusive, total; hacker metaphor: the global scope that encompasses all variables",
-      "references": [
-        "BG 7.6"
-      ]
-    },
-    {
-      "term": "जगत:",
-      "transliteration": "jagataḥ",
-      "type": "noun",
-      "definition": "the world, cosmic manifestation; hacker metaphor: the entire runtime environment",
-      "references": [
-        "BG 7.6"
-      ]
-    },
-    {
-      "term": "प्रभव:",
-      "transliteration": "prabhavaḥ",
-      "type": "noun",
-      "definition": "source of manifestation, origin; hacker metaphor: the init() function that spawns all processes",
-      "references": [
-        "BG 7.6"
-      ]
-    },
-    {
-      "term": "प्रलय:",
-      "transliteration": "pralayaḥ",
-      "type": "noun",
-      "definition": "annihilation, dissolution; hacker metaphor: the garbage collector that reclaims memory",
-      "references": [
-        "BG 7.6"
-      ]
-    },
-    {
-      "term": "भूतानि",
-      "transliteration": "bhūtāni",
-      "type": "noun",
-      "definition": "all created beings, elements; hacker metaphor: the rendered objects in the game engine",
-      "references": [
-        "BG 7.6"
-      ]
-    },
-    {
-      "term": "सुकृतिनः",
-      "transliteration": "su-kṛtinaḥ",
-      "type": "noun",
-      "definition": "those who are pious, obedient to righteousness. Like a system running with integrity and compliance.",
-      "roots": "",
-      "references": [
-        "BG 7.16"
-      ],
-      "themes": [
-        "fourkinds",
-        "amavasya",
-        "yogasutra"
-      ]
     }
   ]
 }
