@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-16",
+  "lastUpdated": "2026-06-17",
   "terms": [
     {
       "term": "Acala",
@@ -1621,6 +1621,16 @@
       "date": "2026-03-22"
     },
     {
+      "term": "acintya-rūpam",
+      "definition": "inconceivable form; hacker metaphor: root-level operations beyond user space",
+      "transliteration": "acintya-rūpam",
+      "type": "noun",
+      "references": [
+        "BG 8.9"
+      ],
+      "date": "2026-06-17"
+    },
+    {
       "term": "acireṇa (adv)",
       "transliteration": "",
       "type": "compound",
@@ -1814,6 +1824,26 @@
       ],
       "themes": [],
       "date": "2026-03-09"
+    },
+    {
+      "term": "anusmared",
+      "definition": "should meditate upon, always think of; hacker metaphor: the continuous polling loop for divine signals",
+      "transliteration": "anusmared",
+      "type": "verb",
+      "references": [
+        "BG 8.9"
+      ],
+      "date": "2026-06-17"
+    },
+    {
+      "term": "anuśāsitāram",
+      "definition": "the controller; hacker metaphor: the kernel scheduler",
+      "transliteration": "anuśāsitāram",
+      "type": "noun",
+      "references": [
+        "BG 8.9"
+      ],
+      "date": "2026-06-17"
     },
     {
       "term": "anvaśocaḥ (verb)",
@@ -2047,6 +2077,16 @@
         "kleshas",
         "purification"
       ]
+    },
+    {
+      "term": "aṇor aṇīyāṁsam",
+      "definition": "smaller than the smallest; hacker metaphor: the smallest possible process ID",
+      "transliteration": "aṇor aṇīyāṁsam",
+      "type": "noun phrase",
+      "references": [
+        "BG 8.9"
+      ],
+      "date": "2026-06-17"
     },
     {
       "term": "bandhāt pramucyate",
@@ -3085,6 +3125,16 @@
       ],
       "themes": [],
       "date": "2026-03-09"
+    },
+    {
+      "term": "kavim",
+      "definition": "the one who knows everything; hacker metaphor: the omniscient debugger",
+      "transliteration": "kavim",
+      "type": "noun",
+      "references": [
+        "BG 8.9"
+      ],
+      "date": "2026-06-17"
     },
     {
       "term": "kledayanti (verb, causative of √klid)",
@@ -4143,6 +4193,16 @@
       "date": "2026-04-01"
     },
     {
+      "term": "purāṇam",
+      "definition": "the oldest; hacker metaphor: the immutable root commit",
+      "transliteration": "purāṇam",
+      "type": "noun",
+      "references": [
+        "BG 8.9"
+      ],
+      "date": "2026-06-17"
+    },
+    {
       "term": "purāṇaḥ",
       "transliteration": "",
       "type": "noun",
@@ -4493,6 +4553,16 @@
       "date": "2026-06-16"
     },
     {
+      "term": "sarvasya dhātāram",
+      "definition": "the maintainer of everything; hacker metaphor: the init system that sustains all services",
+      "transliteration": "sarvasya dhātāram",
+      "type": "noun phrase",
+      "references": [
+        "BG 8.9"
+      ],
+      "date": "2026-06-17"
+    },
+    {
       "term": "satatam (adv.)",
       "transliteration": "",
       "type": "compound",
@@ -4791,6 +4861,16 @@
       ],
       "themes": [],
       "date": "2026-04-14"
+    },
+    {
+      "term": "tamasaḥ parastāt",
+      "definition": "transcendental beyond darkness; hacker metaphor: the hardware layer beneath the OS",
+      "transliteration": "tamasaḥ parastāt",
+      "type": "noun phrase",
+      "references": [
+        "BG 8.9"
+      ],
+      "date": "2026-06-17"
     },
     {
       "term": "tapasviṣu",
@@ -5649,6 +5729,16 @@
       ],
       "themes": [],
       "date": "2026-03-01"
+    },
+    {
+      "term": "āditya-varṇam",
+      "definition": "luminous like the sun; hacker metaphor: the clock source that drives all cycles",
+      "transliteration": "āditya-varṇam",
+      "type": "noun",
+      "references": [
+        "BG 8.9"
+      ],
+      "date": "2026-06-17"
     },
     {
       "term": "āgama",
