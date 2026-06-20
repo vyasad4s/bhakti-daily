@@ -1,6 +1,59 @@
 {
   "verses": [
     {
+      "date": "2026-06-20",
+      "source": "BG 8.15",
+      "chapter": 8,
+      "verse": 15,
+      "text": "Bhagavad Gita",
+      "tithi": "Sukla Paksha Shashthi (until 06:16 AM EDT), then Sukla Paksha Saptami",
+      "nakshatra": "Purva Phalguni (until 12:01 AM EDT on Jun 21), then Uttara Phalguni",
+      "yoga": "Siddhi (until 01:51 AM EDT on Jun 21), then Vyatipata",
+      "themes": [
+        "UnmanifestGoal",
+        "Shashthi",
+        "Saptami",
+        "PurvaPhalguni",
+        "Siddhi",
+        "Vyatipata",
+        "BG815",
+        "JnanaYoga",
+        "Sankhya"
+      ],
+      "tags": [
+        "#UnmanifestGoal",
+        "#Shashthi",
+        "#Saptami",
+        "#PurvaPhalguni",
+        "#Siddhi",
+        "#Vyatipata",
+        "#BG815",
+        "#JnanaYoga",
+        "#Sankhya"
+      ],
+      "yogaSutraConnection": "YS I.12\u2011I.16",
+      "sankhyaConcepts": [
+        "puru\u1e63a-prak\u1e5bti dualism",
+        "the material world as du\u1e25kh\u0101layam (place of misery)",
+        "the Supreme\u2019s abode as param\u0101 gati (ultimate destination)",
+        "the living entity\u2019s bondage to punar janma (repeated birth)",
+        "liberation as sa\u1e41siddhi (highest perfection)"
+      ],
+      "keyTerms": [
+        "\u0101-brahma-bhuvan\u0101l",
+        "lok\u0101\u1e25",
+        "punar \u0101vartino",
+        "m\u0101m",
+        "upetya",
+        "punar janma",
+        "du\u1e25kh\u0101layam",
+        "a\u015b\u0101\u015bvatam",
+        "mah\u0101tm\u0101na\u1e25",
+        "sa\u1e41siddhi\u1e41",
+        "param\u0101\u1e41 gat\u0101\u1e25"
+      ]
+    },
+    {
       "date": "2026-06-19",
       "source": "BG 8.21",
       "chapter": 8,
@@ -1562,5 +1615,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-06-19"
+  "lastUpdated": "2026-06-20"
 }
