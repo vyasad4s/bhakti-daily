@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-17",
+  "lastUpdated": "2026-06-21",
   "terms": [
     {
       "term": "Acala",
@@ -1788,6 +1788,21 @@
       ],
       "themes": [],
       "date": "2026-04-01"
+    },
+    {
+      "term": "ananya-cetāḥ",
+      "transliteration": "",
+      "type": "noun",
+      "definition": "without deviation of the mind; hacker metaphor: a single-threaded process locked on the divine service interrupt",
+      "roots": "",
+      "references": [
+        "BG 8.14"
+      ],
+      "themes": [
+        "BhaktiYoga",
+        "Sankhya"
+      ],
+      "date": "2026-06-21"
     },
     {
       "term": "ananyāḥ (nom. pl.)",
@@ -3611,6 +3626,36 @@
       "date": "2026-03-14"
     },
     {
+      "term": "nitya-yuktasya",
+      "transliteration": "",
+      "type": "noun",
+      "definition": "constantly engaged; hacker metaphor: a daemon process perpetually serving the divine kernel",
+      "roots": "",
+      "references": [
+        "BG 8.14"
+      ],
+      "themes": [
+        "BhaktiYoga",
+        "Sankhya"
+      ],
+      "date": "2026-06-21"
+    },
+    {
+      "term": "nityaśaḥ",
+      "transliteration": "",
+      "type": "noun",
+      "definition": "regularly; hacker metaphor: a cron job running with perfect periodicity",
+      "roots": "",
+      "references": [
+        "BG 8.14"
+      ],
+      "themes": [
+        "BhaktiYoga",
+        "Sankhya"
+      ],
+      "date": "2026-06-21"
+    },
+    {
       "term": "niyamya (gerund)",
       "transliteration": "",
       "type": "compound",
@@ -4726,6 +4771,21 @@
       ]
     },
     {
+      "term": "smarati",
+      "transliteration": "",
+      "type": "noun",
+      "definition": "remembers; hacker metaphor: a persistent cache hit for the Supreme Personality",
+      "roots": "",
+      "references": [
+        "BG 8.14"
+      ],
+      "themes": [
+        "BhaktiYoga",
+        "Sankhya"
+      ],
+      "date": "2026-06-21"
+    },
+    {
       "term": "smṛti (f. noun)",
       "transliteration": "",
       "type": "compound",
@@ -4765,6 +4825,21 @@
         "yogasutra",
         "taurusgemini"
       ]
+    },
+    {
+      "term": "su-labhaḥ",
+      "transliteration": "",
+      "type": "noun",
+      "definition": "easy to obtain; hacker metaphor: a root shell with no password required",
+      "roots": "",
+      "references": [
+        "BG 8.14"
+      ],
+      "themes": [
+        "BhaktiYoga",
+        "Sankhya"
+      ],
+      "date": "2026-06-21"
     },
     {
       "term": "suciḥ (adj)",
@@ -5618,6 +5693,21 @@
       ],
       "themes": [],
       "date": "2026-03-14"
+    },
+    {
+      "term": "yoginaḥ",
+      "transliteration": "",
+      "type": "noun",
+      "definition": "of the devotee; hacker metaphor: a privileged user with access to the transcendental filesystem",
+      "roots": "",
+      "references": [
+        "BG 8.14"
+      ],
+      "themes": [
+        "BhaktiYoga",
+        "Sankhya"
+      ],
+      "date": "2026-06-21"
     },
     {
       "term": "yuge yuge",
