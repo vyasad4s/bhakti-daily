@@ -1,6 +1,64 @@
 {
   "verses": [
     {
+      "date": "2026-06-24",
+      "source": "BG 8.8",
+      "chapter": 8,
+      "verse": 8,
+      "text": "Bhagavad Gita",
+      "tithi": "Sukla Paksha Dashami (until 08:42 AM EDT), then Sukla Paksha Ekadashi",
+      "nakshatra": "Swati (until 06:59 AM EDT on Jun 25)",
+      "yoga": "Siva (until 01:23 AM EDT on Jun 25), then Siddha",
+      "themes": [
+        "ConstantRemembrance",
+        "Dashami",
+        "Ekadashi",
+        "Swati",
+        "Siva",
+        "Siddha",
+        "BG88",
+        "BhaktiYoga",
+        "Sankhya"
+      ],
+      "tags": [
+        "#ConstantRemembrance",
+        "#Dashami",
+        "#Ekadashi",
+        "#Swati",
+        "#Siva",
+        "#Siddha",
+        "#BG88",
+        "#BhaktiYoga",
+        "#Sankhya",
+        "#YogaSutra"
+      ],
+      "yogaSutraConnection": "YS I.12, I.23",
+      "sankhyaConcepts": [
+        "puruṣa‑prakṛti dualism",
+        "manas (mind) as an evolute of prakṛti",
+        "the three guṇas (sattva, rajas, tamas) as mental modulators",
+        "vṛttis (thought‑waves) as modifications of citta",
+        "abhyāsa (practice) as the method to still vṛttis",
+        "vairāgya (dispassion) as withdrawal from sense‑object craving",
+        "bhakti (devotion) as the offering of actions to the puruṣa",
+        "ananya‑cetā (undiverted mind) as ekatā (one‑pointedness)",
+        "puruṣa‑prāpti (attainment of the puruṣa) as the goal of yoga"
+      ],
+      "keyTerms": [
+        "abhyāsa‑yoga",
+        "cetasā",
+        "anya‑gāminā",
+        "paramaṁ puruṣaṁ",
+        "divyam",
+        "yāti",
+        "pārtha",
+        "anucintayan",
+        "puruṣam",
+        "marginal energy",
+        "supreme enjoyer"
+      ]
+    },
+    {
       "date": "2026-06-23",
       "source": "BG 8.14",
       "chapter": 8,
@@ -1771,5 +1829,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-06-23"
+  "lastUpdated": "2026-06-24"
 }

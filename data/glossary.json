@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-22",
+  "lastUpdated": "2026-06-24",
   "terms": [
     {
       "term": "Acala",
@@ -6416,6 +6416,116 @@
         "amavasya",
         "yogasutra"
       ]
+    },
+    {
+      "term": "abhy\u0101sa\u2011yoga",
+      "transliteration": "",
+      "type": "noun",
+      "definition": "practice of meditation/yoga; hacker metaphor: a daemon process configured with respawn=always, continuously respawning if it dies",
+      "references": [
+        "BG 8.8"
+      ],
+      "themes": [],
+      "date": "2026-06-24"
+    },
+    {
+      "term": "cetas\u0101",
+      "transliteration": "",
+      "type": "noun",
+      "definition": "by the mind and intelligence; hacker metaphor: the CPU registers that hold the instruction pointer and accumulator",
+      "references": [
+        "BG 8.8"
+      ],
+      "themes": [],
+      "date": "2026-06-24"
+    },
+    {
+      "term": "anya\u2011g\u0101min\u0101",
+      "transliteration": "",
+      "type": "noun",
+      "definition": "undeviated, not straying; hacker metaphor: a process with CPU affinity locked to a single core, never migrating or being preempted",
+      "references": [
+        "BG 8.8"
+      ],
+      "themes": [],
+      "date": "2026-06-24"
+    },
+    {
+      "term": "parama\u1e41 puru\u1e63a\u1e41",
+      "transliteration": "",
+      "type": "noun",
+      "definition": "the Supreme Personality; hacker metaphor: the root user (UID 0) that owns the system and all processes",
+      "references": [
+        "BG 8.8"
+      ],
+      "themes": [],
+      "date": "2026-06-24"
+    },
+    {
+      "term": "y\u0101ti",
+      "transliteration": "",
+      "type": "verb",
+      "definition": "one reaches, attains; hacker metaphor: the successful completion of a system call that returns the expected value",
+      "references": [
+        "BG 8.8"
+      ],
+      "themes": [],
+      "date": "2026-06-24"
+    },
+    {
+      "term": "p\u0101rtha",
+      "transliteration": "",
+      "type": "noun",
+      "definition": "O son of P\u1e5bth\u0101 (Arjuna); hacker metaphor: the root user seeking guidance from the kernel maintainer",
+      "references": [
+        "BG 8.8"
+      ],
+      "themes": [],
+      "date": "2026-06-24"
+    },
+    {
+      "term": "anucintayan",
+      "transliteration": "",
+      "type": "verb",
+      "definition": "constantly thinking, remembering; hacker metaphor: a infinite loop that polls a device file (/dev/k\u1e5b\u1e63\u1e47a) without yielding",
+      "references": [
+        "BG 8.8"
+      ],
+      "themes": [],
+      "date": "2026-06-24"
+    },
+    {
+      "term": "puru\u1e63am",
+      "transliteration": "",
+      "type": "noun",
+      "definition": "enjoyer; hacker metaphor: a user-space application that consumes system services",
+      "references": [
+        "BG 8.8"
+      ],
+      "themes": [],
+      "date": "2026-06-24"
+    },
+    {
+      "term": "marginal energy",
+      "transliteration": "",
+      "type": "noun",
+      "definition": "the living entity\u2019s subordinate energy; hacker metaphor: a process running with low nice value, subject to the scheduler\u2019s whims",
+      "references": [
+        "BG 8.8"
+      ],
+      "themes": [],
+      "date": "2026-06-24"
+    },
+    {
+      "term": "supreme enjoyer",
+      "transliteration": "",
+      "type": "noun",
+      "definition": "the Supreme Personality of Godhead; hacker metaphor: the scheduler itself, which determines the fate of all processes",
+      "references": [
+        "BG 8.8"
+      ],
+      "themes": [],
+      "date": "2026-06-24"
     }
   ]
 }
