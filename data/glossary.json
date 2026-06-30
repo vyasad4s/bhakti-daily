@@ -1,291 +1,6 @@
 {
-  "lastUpdated": "2026-06-25",
+  "lastUpdated": "2026-06-30",
   "terms": [
-    {
-      "term": "vedeṣu",
-      "transliteration": "vedeṣu",
-      "type": "indeclinable",
-      "definition": "in the study of the Vedas; hacker metaphor: accessing the root documentation of divine knowledge",
-      "roots": "",
-      "references": [
-        "BG 8.28"
-      ],
-      "themes": [
-        "study",
-        "knowledge"
-      ],
-      "date": "2026-06-25"
-    },
-    {
-      "term": "yajñeṣu",
-      "transliteration": "yajñeṣu",
-      "type": "indeclinable",
-      "definition": "in the performances of yajña, sacrifice; hacker metaphor: executing system-level rituals that maintain cosmic order",
-      "roots": "",
-      "references": [
-        "BG 8.28"
-      ],
-      "themes": [
-        "sacrifice",
-        "ritual"
-      ],
-      "date": "2026-06-25"
-    },
-    {
-      "term": "tapaḥsu",
-      "transliteration": "tapaḥsu",
-      "type": "indeclinable",
-      "definition": "in undergoing different types of austerities; hacker metaphor: running intensive security patches and system hardening protocols",
-      "roots": "",
-      "references": [
-        "BG 8.28"
-      ],
-      "themes": [
-        "austerity",
-        "discipline"
-      ],
-      "date": "2026-06-25"
-    },
-    {
-      "term": "ca",
-      "transliteration": "ca",
-      "type": "indeclinable",
-      "definition": "also; hacker metaphor: logical AND operator combining multiple spiritual processes",
-      "roots": "",
-      "references": [
-        "BG 8.28"
-      ],
-      "themes": [
-        "logic",
-        "combination"
-      ],
-      "date": "2026-06-25"
-    },
-    {
-      "term": "eva",
-      "transliteration": "eva",
-      "type": "indeclinable",
-      "definition": "certainly; hacker metaphor: boolean true value confirming the certainty of spiritual principles",
-      "roots": "",
-      "references": [
-        "BG 8.28"
-      ],
-      "themes": [
-        "certainty",
-        "truth"
-      ],
-      "date": "2026-06-25"
-    },
-    {
-      "term": "dāneṣu",
-      "transliteration": "dāneṣu",
-      "type": "indeclinable",
-      "definition": "in giving charities; hacker metaphor: allocating resources to processes that benefit the entire system",
-      "roots": "",
-      "references": [
-        "BG 8.28"
-      ],
-      "themes": [
-        "charity",
-        "giving"
-      ],
-      "date": "2026-06-25"
-    },
-    {
-      "term": "yat",
-      "transliteration": "yat",
-      "type": "indeclinable pronoun",
-      "definition": "that which; hacker metaphor: wildcard selector capturing all beneficial outcomes",
-      "roots": "",
-      "references": [
-        "BG 8.28"
-      ],
-      "themes": [
-        "selection",
-        "outcome"
-      ],
-      "date": "2026-06-25"
-    },
-    {
-      "term": "puṇya-phalam",
-      "transliteration": "puṇya-phalam",
-      "type": "neuter noun",
-      "definition": "result of pious work; hacker metaphor: return on investment from righteous system operations",
-      "roots": "",
-      "references": [
-        "BG 8.28"
-      ],
-      "themes": [
-        "pious work",
-        "reward"
-      ],
-      "date": "2026-06-25"
-    },
-    {
-      "term": "pradiṣṭam",
-      "transliteration": "pradiṣṭam",
-      "type": "neuter noun",
-      "definition": "indicated; hacker metaphor: predefined configuration specifying expected outputs",
-      "roots": "",
-      "references": [
-        "BG 8.28"
-      ],
-      "themes": [
-        "configuration",
-        "output"
-      ],
-      "date": "2026-06-25"
-    },
-    {
-      "term": "atyeti",
-      "transliteration": "atyeti",
-      "type": "verb",
-      "definition": "surpasses; hacker metaphor: exceeding performance benchmarks through optimized divine service",
-      "roots": "",
-      "references": [
-        "BG 8.28"
-      ],
-      "themes": [
-        "surpass",
-        "benchmark"
-      ],
-      "date": "2026-06-25"
-    },
-    {
-      "term": "tat sarvam",
-      "transliteration": "tat sarvam",
-      "type": "phrase",
-      "definition": "all those; hacker metaphor: complete set of spiritual achievements accessible through bhakti",
-      "roots": "",
-      "references": [
-        "BG 8.28"
-      ],
-      "themes": [
-        "all",
-        "achievements"
-      ],
-      "date": "2026-06-25"
-    },
-    {
-      "term": "idam",
-      "transliteration": "idam",
-      "type": "pronoun",
-      "definition": "this; hacker metaphor: the current process of devotional service being executed",
-      "roots": "",
-      "references": [
-        "BG 8.28"
-      ],
-      "themes": [
-        "this",
-        "process"
-      ],
-      "date": "2026-06-25"
-    },
-    {
-      "term": "viditvā",
-      "transliteration": "viditvā",
-      "type": "absolutive participle",
-      "definition": "knowing; hacker metaphor: achieving root-level understanding through direct experience",
-      "roots": "",
-      "references": [
-        "BG 8.28"
-      ],
-      "themes": [
-        "knowing",
-        "understanding"
-      ],
-      "date": "2026-06-25"
-    },
-    {
-      "term": "yogī",
-      "transliteration": "yogī",
-      "type": "masculine noun",
-      "definition": "the devotee; hacker metaphor: a privileged process with uninterrupted access to divine resources",
-      "roots": "",
-      "references": [
-        "BG 8.28"
-      ],
-      "themes": [
-        "devotee",
-        "devotion"
-      ],
-      "date": "2026-06-25"
-    },
-    {
-      "term": "paraṁ",
-      "transliteration": "paraṁ",
-      "type": "indeclinable",
-      "definition": "supreme; hacker metaphor: the highest privilege level (root access) in the cosmic hierarchy",
-      "roots": "",
-      "references": [
-        "BG 8.28"
-      ],
-      "themes": [
-        "supreme",
-        "privilege"
-      ],
-      "date": "2026-06-25"
-    },
-    {
-      "term": "sthānam",
-      "transliteration": "sthānam",
-      "type": "masculine noun",
-      "definition": "abode; hacker metaphor: the permanent storage location for the enlightened consciousness",
-      "roots": "",
-      "references": [
-        "BG 8.28"
-      ],
-      "themes": [
-        "abode",
-        "location"
-      ],
-      "date": "2026-06-25"
-    },
-    {
-      "term": "upaiti",
-      "transliteration": "upaiti",
-      "type": "verb",
-      "definition": "achieves; hacker metaphor: successfully completing a process that returns the desired spiritual state",
-      "roots": "",
-      "references": [
-        "BG 8.28"
-      ],
-      "themes": [
-        "achieves",
-        "completion"
-      ],
-      "date": "2026-06-25"
-    },
-    {
-      "term": "ca",
-      "transliteration": "ca",
-      "type": "indeclinable",
-      "definition": "also; hacker metaphor: additional benefit confirming the completeness of the achievement",
-      "roots": "",
-      "references": [
-        "BG 8.28"
-      ],
-      "themes": [
-        "also",
-        "and"
-      ],
-      "date": "2026-06-25"
-    },
-    {
-      "term": "ādyam",
-      "transliteration": "ādyam",
-      "type": "neuter noun",
-      "definition": "original; hacker metaphor: the immutable, eternal source code of existence itself",
-      "roots": "",
-      "references": [
-        "BG 8.28"
-      ],
-      "themes": [
-        "original",
-        "source"
-      ],
-      "date": "2026-06-25"
-    },
     {
       "term": "Acala",
       "transliteration": "",
@@ -1882,6 +1597,17 @@
       "date": "2026-04-17"
     },
     {
+      "term": "abhyāsa‑yoga",
+      "transliteration": "",
+      "type": "noun",
+      "definition": "practice of meditation/yoga; hacker metaphor: a daemon process configured with respawn=always, continuously respawning if it dies",
+      "references": [
+        "BG 8.8"
+      ],
+      "themes": [],
+      "date": "2026-06-24"
+    },
+    {
       "term": "acala",
       "transliteration": "",
       "type": "noun",
@@ -2012,6 +1738,28 @@
       "date": "2026-03-23"
     },
     {
+      "term": "agni",
+      "transliteration": "agni",
+      "type": "",
+      "definition": "fire; hacker metaphor: the transformative process that purifies system state, like a garbage collector clearing memory leaks",
+      "references": [
+        "BG 8.24"
+      ],
+      "themes": [],
+      "date": "2026-06-27"
+    },
+    {
+      "term": "ahah",
+      "transliteration": "ahah",
+      "type": "",
+      "definition": "day; hacker metaphor: the CPU cycle, the fundamental unit of computational time",
+      "references": [
+        "BG 8.24"
+      ],
+      "themes": [],
+      "date": "2026-06-27"
+    },
+    {
       "term": "ahaṅkāra",
       "transliteration": "",
       "type": "noun",
@@ -2126,6 +1874,17 @@
       "date": "2026-03-09"
     },
     {
+      "term": "anucintayan",
+      "transliteration": "",
+      "type": "verb",
+      "definition": "constantly thinking, remembering; hacker metaphor: a infinite loop that polls a device file (/dev/kṛṣṇa) without yielding",
+      "references": [
+        "BG 8.8"
+      ],
+      "themes": [],
+      "date": "2026-06-24"
+    },
+    {
       "term": "anusmared",
       "definition": "should meditate upon, always think of; hacker metaphor: the continuous polling loop for divine signals",
       "transliteration": "anusmared",
@@ -2156,6 +1915,17 @@
       ],
       "themes": [],
       "date": "2026-03-23"
+    },
+    {
+      "term": "anya‑gāminā",
+      "transliteration": "",
+      "type": "noun",
+      "definition": "undeviated, not straying; hacker metaphor: a process with CPU affinity locked to a single core, never migrating or being preempted",
+      "references": [
+        "BG 8.8"
+      ],
+      "themes": [],
+      "date": "2026-06-24"
     },
     {
       "term": "aparihārya (adj.)",
@@ -2272,6 +2042,21 @@
       ],
       "themes": [],
       "date": "2026-03-26"
+    },
+    {
+      "term": "atyeti",
+      "transliteration": "atyeti",
+      "type": "verb",
+      "definition": "surpasses; hacker metaphor: exceeding performance benchmarks through optimized divine service",
+      "roots": "",
+      "references": [
+        "BG 8.28"
+      ],
+      "themes": [
+        "surpass",
+        "benchmark"
+      ],
+      "date": "2026-06-25"
     },
     {
       "term": "avaśiṣyate (verb)",
@@ -2596,6 +2381,17 @@
       ]
     },
     {
+      "term": "brahmavit",
+      "transliteration": "brahmavit",
+      "type": "",
+      "definition": "knower of Brahman; hacker metaphor: the root user (UID 0) with complete system awareness and control",
+      "references": [
+        "BG 8.24"
+      ],
+      "themes": [],
+      "date": "2026-06-27"
+    },
+    {
       "term": "brahmaṇy ādhāya",
       "transliteration": "",
       "type": "compound",
@@ -2711,6 +2507,21 @@
       "date": "2026-06-16"
     },
     {
+      "term": "ca",
+      "transliteration": "ca",
+      "type": "indeclinable",
+      "definition": "also; hacker metaphor: logical AND operator combining multiple spiritual processes",
+      "roots": "",
+      "references": [
+        "BG 8.28"
+      ],
+      "themes": [
+        "logic",
+        "combination"
+      ],
+      "date": "2026-06-25"
+    },
+    {
       "term": "catur-vidhā",
       "transliteration": "catur-vidhā",
       "type": "adjective",
@@ -2726,6 +2537,17 @@
         "yogasutra",
         "taurusgemini"
       ]
+    },
+    {
+      "term": "cetasā",
+      "transliteration": "",
+      "type": "noun",
+      "definition": "by the mind and intelligence; hacker metaphor: the CPU registers that hold the instruction pointer and accumulator",
+      "references": [
+        "BG 8.8"
+      ],
+      "themes": [],
+      "date": "2026-06-24"
     },
     {
       "term": "chindanti (verb, 3rd pl. pres. act. of √chid)",
@@ -2945,6 +2767,21 @@
       "date": "2026-03-03"
     },
     {
+      "term": "dāneṣu",
+      "transliteration": "dāneṣu",
+      "type": "indeclinable",
+      "definition": "in giving charities; hacker metaphor: allocating resources to processes that benefit the entire system",
+      "roots": "",
+      "references": [
+        "BG 8.28"
+      ],
+      "themes": [
+        "charity",
+        "giving"
+      ],
+      "date": "2026-06-25"
+    },
+    {
       "term": "ekādaśī",
       "transliteration": "ekādaśī",
       "type": "noun",
@@ -2956,6 +2793,21 @@
       "themes": [
         "ekadashi"
       ]
+    },
+    {
+      "term": "eva",
+      "transliteration": "eva",
+      "type": "indeclinable",
+      "definition": "certainly; hacker metaphor: boolean true value confirming the certainty of spiritual principles",
+      "roots": "",
+      "references": [
+        "BG 8.28"
+      ],
+      "themes": [
+        "certainty",
+        "truth"
+      ],
+      "date": "2026-06-25"
     },
     {
       "term": "gandhaḥ",
@@ -3084,6 +2936,21 @@
       "date": "2026-03-11"
     },
     {
+      "term": "idam",
+      "transliteration": "idam",
+      "type": "pronoun",
+      "definition": "this; hacker metaphor: the current process of devotional service being executed",
+      "roots": "",
+      "references": [
+        "BG 8.28"
+      ],
+      "themes": [
+        "this",
+        "process"
+      ],
+      "date": "2026-06-25"
+    },
+    {
       "term": "indriyaiḥ (inst. pl.)",
       "transliteration": "",
       "type": "compound",
@@ -3171,6 +3038,17 @@
       ],
       "themes": [],
       "date": "2026-05-10"
+    },
+    {
+      "term": "jyoti",
+      "transliteration": "jyoti",
+      "type": "",
+      "definition": "light; hacker metaphor: the clock signal that synchronizes all processes, enabling coherent operation",
+      "references": [
+        "BG 8.24"
+      ],
+      "themes": [],
+      "date": "2026-06-27"
     },
     {
       "term": "jyāyasī (adj., comparative)",
@@ -3719,6 +3597,17 @@
       "date": "2026-04-16"
     },
     {
+      "term": "marginal energy",
+      "transliteration": "",
+      "type": "noun",
+      "definition": "the living entity’s subordinate energy; hacker metaphor: a process running with low nice value, subject to the scheduler’s whims",
+      "references": [
+        "BG 8.8"
+      ],
+      "themes": [],
+      "date": "2026-06-24"
+    },
+    {
       "term": "mayā",
       "transliteration": "mayā",
       "type": "noun",
@@ -4079,6 +3968,17 @@
       "date": "2026-04-06"
     },
     {
+      "term": "paramaṁ puruṣaṁ",
+      "transliteration": "",
+      "type": "noun",
+      "definition": "the Supreme Personality; hacker metaphor: the root user (UID 0) that owns the system and all processes",
+      "references": [
+        "BG 8.8"
+      ],
+      "themes": [],
+      "date": "2026-06-24"
+    },
+    {
       "term": "paramparā",
       "transliteration": "",
       "type": "noun",
@@ -4128,6 +4028,21 @@
       ],
       "themes": [],
       "date": "2026-04-25"
+    },
+    {
+      "term": "paraṁ",
+      "transliteration": "paraṁ",
+      "type": "indeclinable",
+      "definition": "supreme; hacker metaphor: the highest privilege level (root access) in the cosmic hierarchy",
+      "roots": "",
+      "references": [
+        "BG 8.28"
+      ],
+      "themes": [
+        "supreme",
+        "privilege"
+      ],
+      "date": "2026-06-25"
     },
     {
       "term": "paridevanā (f.)",
@@ -4279,6 +4194,21 @@
         "light",
         "jñana-yoga"
       ]
+    },
+    {
+      "term": "pradiṣṭam",
+      "transliteration": "pradiṣṭam",
+      "type": "neuter noun",
+      "definition": "indicated; hacker metaphor: predefined configuration specifying expected outputs",
+      "roots": "",
+      "references": [
+        "BG 8.28"
+      ],
+      "themes": [
+        "configuration",
+        "output"
+      ],
+      "date": "2026-06-25"
     },
     {
       "term": "prajñā",
@@ -4631,6 +4561,17 @@
       "date": "2026-04-01"
     },
     {
+      "term": "puruṣam",
+      "transliteration": "",
+      "type": "noun",
+      "definition": "enjoyer; hacker metaphor: a user-space application that consumes system services",
+      "references": [
+        "BG 8.8"
+      ],
+      "themes": [],
+      "date": "2026-06-24"
+    },
+    {
       "term": "purāṇam",
       "definition": "the oldest; hacker metaphor: the immutable root commit",
       "transliteration": "purāṇam",
@@ -4653,6 +4594,21 @@
       "date": "2026-03-31"
     },
     {
+      "term": "puṇya-phalam",
+      "transliteration": "puṇya-phalam",
+      "type": "neuter noun",
+      "definition": "result of pious work; hacker metaphor: return on investment from righteous system operations",
+      "roots": "",
+      "references": [
+        "BG 8.28"
+      ],
+      "themes": [
+        "pious work",
+        "reward"
+      ],
+      "date": "2026-06-25"
+    },
+    {
       "term": "puṇyaḥ",
       "transliteration": "punyah",
       "type": "adjective",
@@ -4669,6 +4625,17 @@
         "kriya-yoga"
       ],
       "date": "2026-06-11"
+    },
+    {
+      "term": "pārtha",
+      "transliteration": "",
+      "type": "noun",
+      "definition": "O son of Pṛthā (Arjuna); hacker metaphor: the root user seeking guidance from the kernel maintainer",
+      "references": [
+        "BG 8.8"
+      ],
+      "themes": [],
+      "date": "2026-06-24"
     },
     {
       "term": "pāvakaḥ (noun)",
@@ -5206,6 +5173,21 @@
       "date": "2026-03-12"
     },
     {
+      "term": "sthānam",
+      "transliteration": "sthānam",
+      "type": "masculine noun",
+      "definition": "abode; hacker metaphor: the permanent storage location for the enlightened consciousness",
+      "roots": "",
+      "references": [
+        "BG 8.28"
+      ],
+      "themes": [
+        "abode",
+        "location"
+      ],
+      "date": "2026-06-25"
+    },
+    {
       "term": "sthāṇuḥ (adj.)",
       "transliteration": "",
       "type": "compound",
@@ -5284,6 +5266,17 @@
       ],
       "themes": [],
       "date": "2026-04-01"
+    },
+    {
+      "term": "supreme enjoyer",
+      "transliteration": "",
+      "type": "noun",
+      "definition": "the Supreme Personality of Godhead; hacker metaphor: the scheduler itself, which determines the fate of all processes",
+      "references": [
+        "BG 8.8"
+      ],
+      "themes": [],
+      "date": "2026-06-24"
     },
     {
       "term": "sva",
@@ -5392,6 +5385,21 @@
       "date": "2026-06-11"
     },
     {
+      "term": "tapaḥsu",
+      "transliteration": "tapaḥsu",
+      "type": "indeclinable",
+      "definition": "in undergoing different types of austerities; hacker metaphor: running intensive security patches and system hardening protocols",
+      "roots": "",
+      "references": [
+        "BG 8.28"
+      ],
+      "themes": [
+        "austerity",
+        "discipline"
+      ],
+      "date": "2026-06-25"
+    },
+    {
       "term": "taranti",
       "translit": "taranti",
       "definition": "They cross over, traverse, or go beyond. To surpass or transcend an obstacle."
@@ -5410,6 +5418,21 @@
         "supersoul",
         "demigodworship"
       ]
+    },
+    {
+      "term": "tat sarvam",
+      "transliteration": "tat sarvam",
+      "type": "phrase",
+      "definition": "all those; hacker metaphor: complete set of spiritual achievements accessible through bhakti",
+      "roots": "",
+      "references": [
+        "BG 8.28"
+      ],
+      "themes": [
+        "all",
+        "achievements"
+      ],
+      "date": "2026-06-25"
     },
     {
       "term": "tatam (adj.)",
@@ -5550,6 +5573,21 @@
       "date": "2026-04-23"
     },
     {
+      "term": "upaiti",
+      "transliteration": "upaiti",
+      "type": "verb",
+      "definition": "achieves; hacker metaphor: successfully completing a process that returns the desired spiritual state",
+      "roots": "",
+      "references": [
+        "BG 8.28"
+      ],
+      "themes": [
+        "achieves",
+        "completion"
+      ],
+      "date": "2026-06-25"
+    },
+    {
       "term": "upekṣā (f.)",
       "transliteration": "",
       "type": "compound",
@@ -5599,6 +5637,17 @@
       ],
       "themes": [],
       "date": "2026-04-29"
+    },
+    {
+      "term": "uttarāyaṇa",
+      "transliteration": "uttarāyaṇa",
+      "type": "",
+      "definition": "the sun’s northern course; hacker metaphor: the load balancer directing traffic to optimal servers for peak performance",
+      "references": [
+        "BG 8.24"
+      ],
+      "themes": [],
+      "date": "2026-06-27"
     },
     {
       "term": "vadati (verb)",
@@ -5675,6 +5724,21 @@
       "date": "2026-03-24"
     },
     {
+      "term": "vedeṣu",
+      "transliteration": "vedeṣu",
+      "type": "indeclinable",
+      "definition": "in the study of the Vedas; hacker metaphor: accessing the root documentation of divine knowledge",
+      "roots": "",
+      "references": [
+        "BG 8.28"
+      ],
+      "themes": [
+        "study",
+        "knowledge"
+      ],
+      "date": "2026-06-25"
+    },
+    {
       "term": "vibhāvasu",
       "transliteration": "vibhavasu",
       "type": "noun",
@@ -5737,6 +5801,21 @@
       ],
       "themes": [],
       "date": "2026-03-13"
+    },
+    {
+      "term": "viditvā",
+      "transliteration": "viditvā",
+      "type": "absolutive participle",
+      "definition": "knowing; hacker metaphor: achieving root-level understanding through direct experience",
+      "roots": "",
+      "references": [
+        "BG 8.28"
+      ],
+      "themes": [
+        "knowing",
+        "understanding"
+      ],
+      "date": "2026-06-25"
     },
     {
       "term": "viduḥ",
@@ -6094,6 +6173,36 @@
       "date": "2026-04-09"
     },
     {
+      "term": "yajñeṣu",
+      "transliteration": "yajñeṣu",
+      "type": "indeclinable",
+      "definition": "in the performances of yajña, sacrifice; hacker metaphor: executing system-level rituals that maintain cosmic order",
+      "roots": "",
+      "references": [
+        "BG 8.28"
+      ],
+      "themes": [
+        "sacrifice",
+        "ritual"
+      ],
+      "date": "2026-06-25"
+    },
+    {
+      "term": "yat",
+      "transliteration": "yat",
+      "type": "indeclinable pronoun",
+      "definition": "that which; hacker metaphor: wildcard selector capturing all beneficial outcomes",
+      "roots": "",
+      "references": [
+        "BG 8.28"
+      ],
+      "themes": [
+        "selection",
+        "outcome"
+      ],
+      "date": "2026-06-25"
+    },
+    {
       "term": "yoga",
       "transliteration": "",
       "type": "noun",
@@ -6133,6 +6242,21 @@
       "date": "2026-06-21"
     },
     {
+      "term": "yogī",
+      "transliteration": "yogī",
+      "type": "masculine noun",
+      "definition": "the devotee; hacker metaphor: a privileged process with uninterrupted access to divine resources",
+      "roots": "",
+      "references": [
+        "BG 8.28"
+      ],
+      "themes": [
+        "devotee",
+        "devotion"
+      ],
+      "date": "2026-06-25"
+    },
+    {
       "term": "yuge yuge",
       "transliteration": "",
       "type": "compound",
@@ -6170,6 +6294,17 @@
       ],
       "themes": [],
       "date": "2026-03-16"
+    },
+    {
+      "term": "yāti",
+      "transliteration": "",
+      "type": "verb",
+      "definition": "one reaches, attains; hacker metaphor: the successful completion of a system call that returns the expected value",
+      "references": [
+        "BG 8.8"
+      ],
+      "themes": [],
+      "date": "2026-06-24"
     },
     {
       "term": "Āpnuyām (verb, optative first person singular)",
@@ -6252,6 +6387,21 @@
         "BG 8.9"
       ],
       "date": "2026-06-17"
+    },
+    {
+      "term": "ādyam",
+      "transliteration": "ādyam",
+      "type": "neuter noun",
+      "definition": "original; hacker metaphor: the immutable, eternal source code of existence itself",
+      "roots": "",
+      "references": [
+        "BG 8.28"
+      ],
+      "themes": [
+        "original",
+        "source"
+      ],
+      "date": "2026-06-25"
     },
     {
       "term": "āgama",
@@ -6553,6 +6703,17 @@
       "date": "2026-04-26"
     },
     {
+      "term": "śukla",
+      "transliteration": "śukla",
+      "type": "",
+      "definition": "the bright/waxing fortnight; hacker metaphor: the ascending cycle of a system metric, indicating positive growth and improvement",
+      "references": [
+        "BG 8.24"
+      ],
+      "themes": [],
+      "date": "2026-06-27"
+    },
+    {
       "term": "śānti (feminine noun)",
       "transliteration": "",
       "type": "compound",
@@ -6703,114 +6864,123 @@
       ]
     },
     {
-      "term": "abhyāsa‑yoga",
-      "transliteration": "",
-      "type": "noun",
-      "definition": "practice of meditation/yoga; hacker metaphor: a daemon process configured with respawn=always, continuously respawning if it dies",
+      "term": "ṣaṇ-māsa",
+      "transliteration": "ṣaṇ-māsa",
+      "type": "",
+      "definition": "six months; hacker metaphor: a semi-annual maintenance window when critical upgrades are applied",
       "references": [
-        "BG 8.8"
+        "BG 8.24"
       ],
       "themes": [],
-      "date": "2026-06-24"
+      "date": "2026-06-27"
     },
     {
-      "term": "cetasā",
+      "term": "ete",
       "transliteration": "",
-      "type": "noun",
-      "definition": "by the mind and intelligence; hacker metaphor: the CPU registers that hold the instruction pointer and accumulator",
+      "type": "pronoun",
+      "definition": "these two; referring to the two paths (śukla and kṛṣṇa) of departure from the material world",
+      "roots": "",
       "references": [
-        "BG 8.8"
+        "BG 8.27"
       ],
       "themes": [],
-      "date": "2026-06-24"
+      "date": "2026-06-30"
     },
     {
-      "term": "anya‑gāminā",
+      "term": "sṛtī",
       "transliteration": "",
       "type": "noun",
-      "definition": "undeviated, not straying; hacker metaphor: a process with CPU affinity locked to a single core, never migrating or being preempted",
+      "definition": "paths, ways; execution branches in a conditional statement",
+      "roots": "",
       "references": [
-        "BG 8.8"
+        "BG 8.27"
       ],
       "themes": [],
-      "date": "2026-06-24"
+      "date": "2026-06-30"
     },
     {
-      "term": "paramaṁ puruṣaṁ",
-      "transliteration": "",
-      "type": "noun",
-      "definition": "the Supreme Personality; hacker metaphor: the root user (UID 0) that owns the system and all processes",
-      "references": [
-        "BG 8.8"
-      ],
-      "themes": [],
-      "date": "2026-06-24"
-    },
-    {
-      "term": "yāti",
+      "term": "jānan",
       "transliteration": "",
       "type": "verb",
-      "definition": "one reaches, attains; hacker metaphor: the successful completion of a system call that returns the expected value",
+      "definition": "even if he knows; a process that has read‑only access to the truth yet remains unaffected",
+      "roots": "",
       "references": [
-        "BG 8.8"
+        "BG 8.27"
       ],
       "themes": [],
-      "date": "2026-06-24"
+      "date": "2026-06-30"
     },
     {
-      "term": "pārtha",
-      "transliteration": "",
-      "type": "noun",
-      "definition": "O son of Pṛthā (Arjuna); hacker metaphor: the root user seeking guidance from the kernel maintainer",
-      "references": [
-        "BG 8.8"
-      ],
-      "themes": [],
-      "date": "2026-06-24"
-    },
-    {
-      "term": "anucintayan",
+      "term": "muhyati",
       "transliteration": "",
       "type": "verb",
-      "definition": "constantly thinking, remembering; hacker metaphor: a infinite loop that polls a device file (/dev/kṛṣṇa) without yielding",
+      "definition": "is bewildered; a segmentation fault (SIGSEGV) caused by accessing invalid memory",
+      "roots": "",
       "references": [
-        "BG 8.8"
+        "BG 8.27"
       ],
       "themes": [],
-      "date": "2026-06-24"
+      "date": "2026-06-30"
     },
     {
-      "term": "puruṣam",
+      "term": "kaścana",
       "transliteration": "",
       "type": "noun",
-      "definition": "enjoyer; hacker metaphor: a user-space application that consumes system services",
+      "definition": "any; a wildcard that matches any possible interrupt or signal",
+      "roots": "",
       "references": [
-        "BG 8.8"
+        "BG 8.27"
       ],
       "themes": [],
-      "date": "2026-06-24"
+      "date": "2026-06-30"
     },
     {
-      "term": "marginal energy",
+      "term": "sarveṣu",
       "transliteration": "",
       "type": "noun",
-      "definition": "the living entity’s subordinate energy; hacker metaphor: a process running with low nice value, subject to the scheduler’s whims",
+      "definition": "at all times; a daemon process that runs continuously without interruption",
+      "roots": "",
       "references": [
-        "BG 8.8"
+        "BG 8.27"
       ],
       "themes": [],
-      "date": "2026-06-24"
+      "date": "2026-06-30"
     },
     {
-      "term": "supreme enjoyer",
+      "term": "kāleṣu",
       "transliteration": "",
       "type": "noun",
-      "definition": "the Supreme Personality of Godhead; hacker metaphor: the scheduler itself, which determines the fate of all processes",
+      "definition": "times; instances of kāla (time)",
+      "roots": "",
       "references": [
-        "BG 8.8"
+        "BG 8.27"
       ],
       "themes": [],
-      "date": "2026-06-24"
+      "date": "2026-06-30"
+    },
+    {
+      "term": "yoga‑yuktaḥ",
+      "transliteration": "",
+      "type": "adjective",
+      "definition": "engaged in yoga (Kṛṣṇa consciousness); a process with CPU affinity locked to a single core (the Divine)",
+      "roots": "",
+      "references": [
+        "BG 8.27"
+      ],
+      "themes": [],
+      "date": "2026-06-30"
+    },
+    {
+      "term": "bhavārjuna",
+      "transliteration": "",
+      "type": "verb",
+      "definition": "become, O Arjuna; the fork‑exec system call that creates a child process devoted to the Divine",
+      "roots": "",
+      "references": [
+        "BG 8.27"
+      ],
+      "themes": [],
+      "date": "2026-06-30"
     }
   ]
 }
