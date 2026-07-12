@@ -1,6 +1,43 @@
 {
   "verses": [
     {
+      "date": "2026-07-12",
+      "source": "BG 9.23",
+      "chapter": 9,
+      "verse": 23,
+      "text": "Bhagavad Gita",
+      "tithi": "Krishna Paksha Trayodashi (until 01:00 PM), then Krishna Paksha Chaturdashi",
+      "nakshatra": "Mrigashirsha (until 08:11 AM), then Ardra",
+      "yoga": "Vridhi (until 10:35 AM), then Dhruva",
+      "themes": [
+        "UniversalObjectOfAllWorship",
+        "Shivaratri",
+        "Vidhi"
+      ],
+      "tags": [
+        "#BhaktiYoga",
+        "#Shivaratri",
+        "#UniversalWorship",
+        "#Vidhi",
+        "#BG923"
+      ],
+      "yogaSutraConnection": "YS I.23",
+      "sankhyaConcepts": [
+        "puruṣa-prakṛti dualism",
+        "devotion without vidhi leads to avidhi-pūrvakam (improper method)",
+        "the regulative principles (vidhi) are the guidance system for bhakti",
+        "all deities are different officers/directors in the Supreme Lord's government",
+        "worship must be offered to the Supreme Lord only to satisfy all divine authorities"
+      ],
+      "keyTerms": [
+        "anya-devatā-bhakta ─ devotee of other gods; hacker metaphor: someone using unauthorized plugins",
+        "śraddhā ─ faith, conviction; hacker metaphor: root access certificate",
+        "avidhi-pūrvakam ─ not according to rule; hacker metaphor: improper system call",
+        "eva ─ indeed, only; hacker metaphor: strict equality operator (===)",
+        "yajante ─ they worship; hacker metaphor: they execute the worship process"
+      ]
+    },
+    {
       "date": "2026-07-03",
       "source": "BG 9.1",
       "chapter": 9,
@@ -2045,7 +2082,7 @@
       ]
     }
   ],
-  "lastUpdated": "2026-07-03",
+  "lastUpdated": "2026-07-12",
   "versers": [
     {
       "date": "2026-06-30",
