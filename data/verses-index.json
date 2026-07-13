@@ -1,6 +1,38 @@
 {
   "verses": [
     {
+      "date": "2026-07-09",
+      "source": "BG 9.3",
+      "chapter": 9,
+      "verse": 3,
+      "text": "Bhagavad Gita",
+      "tithi": "Kṛṣṇa Pakṣa Daśamī (until 22:46), then Ekādaśī",
+      "nakshatra": "Bhāraṇī (until 10:45 AM next day), then Kṛttikā",
+      "yoga": "Dhṛti (until 21:44), then Śūla",
+      "themes": [
+        "FaithEssential",
+        "DoubtBlocksDevotion",
+        "SystemBootFlag"
+      ],
+      "tags": [
+        "#FaithEssential",
+        "#DoubtBlocksDevotion",
+        "#SystemBootFlag"
+      ],
+      "yogaSutraConnection": "YS I.20",
+      "sankhyaConcepts": [
+        "Prakṛti's transformations: guṇas fluctuate with nakṣatra/yoga; puruṣa as steady witness",
+        "Inner mechanism: bhakti buddhi discriminates transient prakṛti from permanent puruṣa, increasing sattva and stabilizing antahkaraṇa, allowing divine grace to flow"
+      ],
+      "keyTerms": [
+        "śraddhā",
+        "dharma",
+        "mṛtyu-saṁsāra",
+        "parantapa",
+        "nivartante"
+      ]
+    },
+    {
       "date": "2026-07-13",
       "source": "BG 9.22",
       "chapter": 9,

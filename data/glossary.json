@@ -7586,6 +7586,48 @@
         "praṇidhānā",
         "yoga sutra"
       ]
+    },
+    {
+      "term": "dharma",
+      "transliteration": "dharma",
+      "type": "noun",
+      "definition": "here, devotional service; the prescribed duty of the soul",
+      "references": [
+        "BG 9.3"
+      ],
+      "themes": [
+        "duty",
+        "devotion",
+        "service"
+      ]
+    },
+    {
+      "term": "mṛtyu-saṁsāra",
+      "transliteration": "mṛtyu-saṁsāra",
+      "type": "noun",
+      "definition": "cycle of birth and death; the endless loop of material existence",
+      "references": [
+        "BG 9.3"
+      ],
+      "themes": [
+        "samsara",
+        "cycle",
+        "liberation"
+      ]
+    },
+    {
+      "term": "nivartante",
+      "transliteration": "nivartante",
+      "type": "verb",
+      "definition": "they return, turn back; the soul’s regression to material cycles",
+      "references": [
+        "BG 9.3"
+      ],
+      "themes": [
+        "return",
+        "material",
+        "cycle"
+      ]
     }
   ]
 }
