@@ -1,39 +1,6 @@
 {
   "verses": [
     {
-      "date": "2026-07-13",
-      "source": "BG 9.22",
-      "chapter": 9,
-      "verse": 22,
-      "text": "Bhagavad Gita",
-      "tithi": "Kṛṣṇa Pakṣa Caturdaśī (until 09:19 AM), then Amāvāsyā",
-      "nakshatra": "Ārdrā (until 05:21 PM), then Punarvasu",
-      "yoga": "Dhruva (until 06:30 AM), then Vyāghāta (until 02:26 AM next day), then Harshana",
-      "themes": [
-        "ReciprocalGrace",
-        "ExclusiveDevotion",
-        "PanchangaAlignment"
-      ],
-      "tags": [
-        "#ReciprocalGrace",
-        "#ExclusiveDevotion",
-        "#PanchangaAlignment"
-      ],
-      "yogaSutraConnection": "YS 1.23",
-      "sankhyaConcepts": [
-        "Prakṛti's transformations: sattva, rajas, tamas fluctuations mirroring nakṣatra/yoga changes; puruṣa as steady witness",
-        "Inner mechanism: bhakti buddhi discriminates between transient prakṛti and permanent puruṣa, increasing sattva and stabilizing antahkaraṇa, allowing divine grace to flow"
-      ],
-      "keyTerms": [
-        "ananya",
-        "yoga",
-        "kṣema",
-        "bhakti",
-        "īśvara",
-        "praṇidhānā"
-      ]
-    },
-    {
       "date": "2026-07-10",
       "source": "BG 9.4",
       "chapter": 9,
@@ -2195,7 +2162,7 @@
       ]
     }
   ],
-  "lastUpdated": "2026-07-13",
+  "lastUpdated": "2026-07-10",
   "versers": [
     {
       "date": "2026-06-30",

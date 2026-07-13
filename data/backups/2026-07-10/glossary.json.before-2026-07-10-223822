@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-13",
+  "lastUpdated": "2026-07-10",
   "terms": [
     {
       "term": "avyakta-mūrtinā",
@@ -7528,64 +7528,6 @@
       ],
       "themes": [],
       "date": "2026-06-30"
-    },
-    {
-      "term": "ananya",
-      "transliteration": "ananya",
-      "type": "noun",
-      "definition": "exclusive, undivided devotion; like a single-threaded process with no distractions",
-      "references": [
-        "BG 9.22"
-      ],
-      "themes": [
-        "bhakti",
-        "devotion",
-        "exclusivity"
-      ]
-    },
-    {
-      "term": "kṣema",
-      "transliteration": "kṣema",
-      "type": "noun",
-      "definition": "well‑being, safety, preservation; divine protection of what has already been attained",
-      "references": [
-        "BG 9.22"
-      ],
-      "themes": [
-        "protection",
-        "preservation",
-        "kṣema"
-      ]
-    },
-    {
-      "term": "bhakti",
-      "transliteration": "bhakti",
-      "type": "noun",
-      "definition": "devotional service, the loving link between soul and Supreme",
-      "references": [
-        "BG 9.22"
-      ],
-      "themes": [
-        "devotion",
-        "bhakti",
-        "service"
-      ]
-    },
-    {
-      "term": "praṇidhānā",
-      "transliteration": "praṇidhānā",
-      "type": "noun",
-      "definition": "surrender, dedicated offering of the self; committing your code to the divine repository",
-      "references": [
-        "BG 9.22",
-        "YS 1.23",
-        "YS 2.1"
-      ],
-      "themes": [
-        "surrender",
-        "praṇidhānā",
-        "yoga sutra"
-      ]
     }
   ]
 }
