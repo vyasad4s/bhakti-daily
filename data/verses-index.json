@@ -1,6 +1,38 @@
 {
   "verses": [
     {
+      "date": "2026-07-08",
+      "source": "BG 9.22",
+      "chapter": 9,
+      "verse": 22,
+      "text": "Bhagavad Gita",
+      "tithi": "Kṛṣṇa Pakṣa Aṣṭamī (until 12:21 PM), then Navamī",
+      "nakshatra": "Revati (until 16:00), then Ashwini",
+      "yoga": "Atiganda (obstacle) until 12:38 PM), then Sukarma (virtuous)",
+      "themes": [
+        "DivineNourishment",
+        "ExclusiveDevotion",
+        "SustainerGrace"
+      ],
+      "tags": [
+        "#DivineNourishment",
+        "#ExclusiveDevotion",
+        "#SustainerGrace"
+      ],
+      "yogaSutraConnection": "YS I.23",
+      "sankhyaConcepts": [
+        "Prakṛti's transformations: guṇas fluctuate with nakṣatra/yoga; puruṣa as steady witness",
+        "Inner mechanism: bhakti buddhi discriminates transient prakṛti from permanent puruṣa, increasing sattva and stabilizing antahkaraṇa, allowing divine grace to flow"
+      ],
+      "keyTerms": [
+        "ananya",
+        "yoga",
+        "kṣema",
+        "īśvara",
+        "praṇidhānā"
+      ]
+    },
+    {
       "date": "2026-07-09",
       "source": "BG 9.3",
       "chapter": 9,
