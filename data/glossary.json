@@ -7628,6 +7628,62 @@
         "material",
         "cycle"
       ]
+    },
+    {
+      "term": "yaj",
+      "transliteration": "yaj",
+      "type": "noun",
+      "definition": "sacrifice, offering; like a syscall that sends data to the divine kernel",
+      "references": [
+        "BG 9.27"
+      ],
+      "themes": [
+        "offering",
+        "devotion",
+        "syscall"
+      ]
+    },
+    {
+      "term": "dadāsi",
+      "transliteration": "dadāsi",
+      "type": "verb",
+      "definition": "you give away; the act of relinquishing possession for the divine",
+      "references": [
+        "BG 9.27"
+      ],
+      "themes": [
+        "giving",
+        "relinquishment",
+        "devotion"
+      ]
+    },
+    {
+      "term": "tapasyasi",
+      "transliteration": "tapasyasi",
+      "type": "verb",
+      "definition": "you perform austerities; disciplined system‑level maintenance for the soul",
+      "references": [
+        "BG 9.27"
+      ],
+      "themes": [
+        "austerity",
+        "discipline",
+        "maintenance"
+      ]
+    },
+    {
+      "term": "arpaṇam",
+      "transliteration": "arpaṇam",
+      "type": "noun",
+      "definition": "offering, devotion; the dedicated IPC message to the Supreme",
+      "references": [
+        "BG 9.27"
+      ],
+      "themes": [
+        "offering",
+        "devotion",
+        "IPC"
+      ]
     }
   ]
 }

@@ -1,6 +1,39 @@
 {
   "verses": [
     {
+      "date": "2026-07-07",
+      "source": "BG 9.27",
+      "chapter": 9,
+      "verse": 27,
+      "text": "Bhagavad Gita",
+      "tithi": "Kṛṣṇa Pakṣa Aṣṭamī (until 02:51 AM July 8), then Navamī",
+      "nakshatra": "Uttara Bhadrapada (until 06:54 AM July 7), then Revati (until 06:30 AM July 8)",
+      "yoga": "Atiganda (obstacle-removing) until 03:07 AM July 8), then Sukarman (virtuous)",
+      "themes": [
+        "EverythingAsOffering",
+        "DevotionalConsciousness",
+        "SurrenderInAction"
+      ],
+      "tags": [
+        "#EverythingAsOffering",
+        "#DevotionalConsciousness",
+        "#SurrenderInAction"
+      ],
+      "yogaSutraConnection": "YS I.23",
+      "sankhyaConcepts": [
+        "Prakṛti's transformations: guṇas fluctuate with nakṣatra/yoga; puruṣa as steady witness",
+        "Inner mechanism: bhakti buddhi discriminates transient prakṛti from permanent puruṣa, increasing sattva and stabilizing antahkaraṇa, allowing divine grace to flow"
+      ],
+      "keyTerms": [
+        "yaj",
+        "dadāsi",
+        "tapasyasi",
+        "arpaṇam",
+        "īśvara",
+        "praṇidhānā"
+      ]
+    },
+    {
       "date": "2026-07-08",
       "source": "BG 9.22",
       "chapter": 9,
