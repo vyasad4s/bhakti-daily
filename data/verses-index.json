@@ -1,6 +1,45 @@
 {
   "verses": [
     {
+      "date": "2026-07-10",
+      "source": "BG 9.4",
+      "chapter": 9,
+      "verse": 4,
+      "text": "Bhagavad Gita",
+      "tithi": "Krishna Paksha Dashami until 08:16 AM, then Krishna Paksha Ekadashi (Yogini Ekadashi)",
+      "nakshatra": "Bharani until 01:15 PM, then Krittika",
+      "yoga": "Dhriti Yoga until 07:15 AM, then Shula Yoga",
+      "themes": [
+        "AllPervasive",
+        "PersonalTranscendent",
+        "YoginiEkadashi"
+      ],
+      "tags": [
+        "#BhaktiYoga",
+        "#AllPervasive",
+        "#PersonalTranscendent",
+        "#YoginiEkadashi"
+      ],
+      "yogaSutraConnection": "YS II.52",
+      "sankhyaConcepts": [
+        "puruṣa-prakṛti dualism",
+        "simultaneous immanence and transcendence",
+        "the Lord pervades all through His energy yet remains distinct",
+        "realization comes through pure devotional service",
+        "avoids both impersonalism and anthropomorphism"
+      ],
+      "keyTerms": [
+        "avyakta-mūrtinā ─ by the unmanifested form; hacker metaphor: running a process in background mode without visible UI.",
+        "mat-sthāni ─ situated in Me; hacker metaphor: processes running under a privileged user account.",
+        "sarva-bhūtāni ─ all living beings; hacker metaphor: all system processes and services.",
+        "avasthitaḥ ─ situated, located, existing; hacker metaphor: a process bound to a specific resource or namespace.",
+        "mayā ─ by Me; hacker metaphor: executed with root privileges and system-level access.",
+        "tatam ─ pervaded, spread throughout; hacker metaphor: a daemon service listening on all interfaces (0.0.0.0).",
+        "sarvaṁ ─ all, everything; hacker metaphor: the entire filesystem or network scope.",
+        "jagat ─ universe, world, cosmic manifestation; hacker metaphor: the production environment or global system state."
+      ]
+    },
+    {
       "date": "2026-07-11",
       "source": "BG 9.26",
       "chapter": 9,
@@ -2123,7 +2162,7 @@
       ]
     }
   ],
-  "lastUpdated": "2026-07-11",
+  "lastUpdated": "2026-07-10",
   "versers": [
     {
       "date": "2026-06-30",

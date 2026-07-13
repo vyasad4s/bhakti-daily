@@ -1,6 +1,111 @@
 {
-  "lastUpdated": "2026-07-11",
+  "lastUpdated": "2026-07-10",
   "terms": [
+    {
+      "term": "avyakta-mūrtinā",
+      "transliteration": "avyakta-mūrtinā",
+      "type": "adverb",
+      "definition": "by the unmanifested form",
+      "roots": "from avyakta (unmanifested) + mūrti (form)",
+      "references": [
+        "BG 9.4"
+      ],
+      "themes": [
+        "transcendent",
+        "immanent",
+        "energy"
+      ]
+    },
+    {
+      "term": "mat-sthāni",
+      "transliteration": "mat-sthāni",
+      "type": "neuter plural participle",
+      "definition": "situated in Me",
+      "roots": "from mat (Me) + sthāna (position, place)",
+      "references": [
+        "BG 9.4"
+      ],
+      "themes": [
+        "relationship",
+        "devotion",
+        "existence"
+      ]
+    },
+    {
+      "term": "sarva-bhūtāni",
+      "transliteration": "sarva-bhūtāni",
+      "type": "neuter plural noun",
+      "definition": "all living beings",
+      "roots": "from sarva (all) + bhūta (being, creature)",
+      "references": [
+        "BG 9.4"
+      ],
+      "themes": [
+        "universality",
+        "life",
+        "creation"
+      ]
+    },
+    {
+      "term": "avasthitaḥ",
+      "transliteration": "avasthitaḥ",
+      "type": "masculine singular participle",
+      "definition": "situated, located, existing",
+      "roots": "from avasthā (state, condition)",
+      "references": [
+        "BG 9.4"
+      ],
+      "themes": [
+        "existence",
+        "position",
+        "state"
+      ]
+    },
+    {
+      "term": "tatam",
+      "transliteration": "tatam",
+      "type": "past participate",
+      "definition": "pervaded, spread throughout",
+      "roots": "from tan (to stretch, spread, extend)",
+      "references": [
+        "BG 9.4"
+      ],
+      "themes": [
+        "pervasion",
+        "extension",
+        "spread"
+      ]
+    },
+    {
+      "term": "sarvaṁ",
+      "transliteration": "sarvaṁ",
+      "type": "neuter accusative singular",
+      "definition": "all, everything",
+      "roots": "from sarva (all)",
+      "references": [
+        "BG 9.4"
+      ],
+      "themes": [
+        "totality",
+        "completeness",
+        "wholeness"
+      ]
+    },
+    {
+      "term": "jagat",
+      "transliteration": "jagat",
+      "type": "neuter noun",
+      "definition": "universe, world, cosmic manifestation",
+      "roots": "from gam (to go, to move)",
+      "references": [
+        "BG 9.4"
+      ],
+      "themes": [
+        "creation",
+        "universe",
+        "manifestation"
+      ]
+    },
     {
       "term": "patram",
       "transliteration": "patram",
