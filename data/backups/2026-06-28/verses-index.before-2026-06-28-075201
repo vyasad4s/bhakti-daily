@@ -644,9 +644,9 @@
       "chapter": 8,
       "verse": 13,
       "text": "Bhagavad Gita",
-      "tithi": "Śukla Pakṣa Pūrṇimā (Full Moon) — begins at 17:36 EDT",
-      "nakshatra": "Jyeṣṭhā (until 15:38 EDT), then Mūla",
-      "yoga": "Śukla (Purity) from 03:59 EDT to 04:55 EDT; then Brahma (Sacred) from 04:55 EDT to 05:48 EDT",
+      "tithi": "Śukla Pakṣa Pūrṇimā",
+      "nakshatra": "Jyeṣṭhā/Mūla",
+      "yoga": "Brahma",
       "themes": [
         "Om",
         "Liberation",
@@ -658,20 +658,14 @@
         "#FullMoon",
         "#BG813"
       ],
-      "yogaSutraConnection": "YS I.27",
+      "yogaSutraConnection": "YS I.2",
       "sankhyaConcepts": [
-        "The vibration of oṁ as a resonant frequency that disrupts citta‑vṛtti",
-        "Liberation (kaivalya) as realizing puruṣa’s complete separation from prakṛti"
+        "Purusa",
+        "Prakriti",
+        "Om vibration"
       ],
       "keyTerms": [
-        "oṁ",
-        "praṇava",
-        "brahma",
-        "anusmaraṇa",
-        "prayāti",
-        "tyajan",
-        "dehaṁ",
-        "paramāṁ gatim"
+        "praṇava — the sacred syllable Om"
       ]
     },
     {
