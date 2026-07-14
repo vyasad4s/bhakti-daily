@@ -41,42 +41,6 @@
       ]
     },
     {
-      "date": "2026-07-04",
-      "source": "BG 9.30",
-      "chapter": 9,
-      "verse": 30,
-      "text": "Bhagavad Gita",
-      "tithi": "Krishna Paksha Panchami (Waning Moon 5th) — Jul 04 03:10 AM – Jul 05 04:01 AM",
-      "nakshatra": "Shatabhisha (until 05:42 AM)",
-      "yoga": "Prithi (until 07:31 AM), then Ayushman",
-      "themes": [
-        "DivineReset",
-        "KarmaBypass",
-        "PurificationThroughBhakti"
-      ],
-      "tags": [
-        "#divinereset",
-        "#karmabypass",
-        "#pavitrata",
-        "#bhakti",
-        "#sudurachara",
-        "#ananyabhakti"
-      ],
-      "yogaSutraConnection": "YS I.33",
-      "sankhyaConcepts": [
-        "Bhakti-yoga as a \"kernel override\" that supersedes karmic programming",
-        "Purity (pavitratā) as a top-down purification granted by divine grace"
-      ],
-      "keyTerms": [
-        "sudurācāra",
-        "ananya-bhakti",
-        "pavitra",
-        "jñāna-vīra",
-        "darśana",
-        "bhakti-yoga"
-      ]
-    },
-    {
       "date": "2026-07-14",
       "source": "BG 9.7",
       "chapter": 9,
@@ -2473,7 +2437,7 @@
       ]
     }
   ],
-  "lastUpdated": "2026-07-14",
+  "lastUpdated": "2026-07-05",
   "versers": [
     {
       "date": "2026-06-30",
