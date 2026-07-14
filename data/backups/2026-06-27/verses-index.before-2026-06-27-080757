@@ -322,6 +322,46 @@
       "chapter": 9,
       "verse": 2,
       "text": "Bhagavad Gita",
+      "tithi": "Krishna Paksha Shashthi (04:01 AM – 04:17 AM next day)",
+      "nakshatra": "Shatabhisha (until 05:42 AM), then Purva Bhadrapada",
+      "yoga": "Ayushman (until 07:09 AM), then Saubhagya",
+      "themes": [
+        "KingOfEducation",
+        "ConfidentialKnowledge",
+        "EverlastingJoy"
+      ],
+      "tags": [
+        "#rajavidya",
+        "#rajaguhya",
+        "#pavitram",
+        "#uttamam",
+        "#pratyaksha",
+        "#dharmya",
+        "#sussukha",
+        "#avyayam"
+      ],
+      "yogaSutraConnection": "YS I.49",
+      "sankhyaConcepts": [
+        "Buddhi as sovereign discriminating purusha from prakriti",
+        "Direct perception (pratyakṣāvagamaṁ) arises when buddhi rests as witness"
+      ],
+      "keyTerms": [
+        "rāja-vidyā",
+        "rāja-guhyaṁ",
+        "pavitram",
+        "uttamam",
+        "pratyakṣāvagamaṁ",
+        "dharmyaṁ",
+        "su-sukhaṁ",
+        "avyayam"
+      ]
+    },
+    {
+      "date": "2026-07-05",
+      "source": "BG 9.2",
+      "chapter": 9,
+      "verse": 2,
+      "text": "Bhagavad Gita",
       "tithi": "Krishna Paksha Shashthi (Waning Moon 6th) — Jul 05 04:01 AM – Jul 06 04:17 AM",
       "nakshatra": "Shatabhisha (until 05:42 AM), then Purva Bhadrapada",
       "yoga": "Ayushman (until 07:09 AM), then Saubhagya",
@@ -386,6 +426,47 @@
         "jñāna-vīra",
         "darśana",
         "bhakti-yoga"
+      ]
+    },
+    {
+      "date": "2026-07-03",
+      "source": "BG 9.1",
+      "chapter": 9,
+      "verse": 1,
+      "text": "Bhagavad Gita",
+      "tithi": "Krishna Paksha Chaturthi (Waning Moon's 4th Day) - Sankashti Chaturthi",
+      "nakshatra": "Dhanishta (until 04:13 AM July 4)",
+      "yoga": "Vishkambha (until 07:29 AM) then Priti",
+      "themes": [
+        "MostConfidentialKnowledge",
+        "EnvyFree",
+        "SankashtiChaturthi"
+      ],
+      "tags": [
+        "#MostConfidentialKnowledge",
+        "#EnvyFree",
+        "#SankashtiChaturthi",
+        "#BG91",
+        "#JnanaYoga",
+        "#Sankhya",
+        "#YogaSutra"
+      ],
+      "yogaSutraConnection": "YS I.2",
+      "sankhyaConcepts": [
+        "puruṣa‑prakṛti dualism",
+        "the material world as duḥkhālayam (place of misery)",
+        "bondage from false identification as enjoyer",
+        "liberation through envy-free consciousness",
+        "the steady mind (sthira citta) as sattva‑prakṛti harmony"
+      ],
+      "keyTerms": [
+        "śrī-bhagavān uvāca — the Supreme Personality of Godhead said; hacker metaphor: kernel maintainer granting access based on intent",
+        "idaṁ tu te guhya-tamaṁ — this most confidential knowledge; hacker metaphor: root access to divine mainframe",
+        "pravakṣyāmy anasūyave — I will speak to the non-envious; hacker metaphor: security clearance based on intent",
+        "jñānaṁ vijñāna-sahitam — knowledge combined with realized knowledge; hacker metaphor: read-only access plus root execution",
+        "yaj jñātvā mokṣyase — by knowing which you will be liberated; hacker metaphor: segmentation fault resolved by correcting false identification",
+        "śubhāt — from misery; hacker metaphor: segmentation fault (SIGSEGV) from invalid memory access",
+        "anasūyave — without envy; hacker metaphor: absence of malicious intent (envy) as the 'password'"
       ]
     },
     {
@@ -591,44 +672,6 @@
         "tyajan",
         "dehaṁ",
         "paramāṁ gatim"
-      ]
-    },
-    {
-      "date": "2026-06-27",
-      "source": "BG 8.24",
-      "chapter": 8,
-      "verse": 24,
-      "text": "Bhagavad Gita",
-      "tithi": "Śukla Pakṣa Dvādaśī (until 15:13 EDT), then Trayodaśī",
-      "nakshatra": "Anurādhā (until 12:41 EDT), then Jyeṣṭhā",
-      "yoga": "Śubha (until 03:59 EDT Jun 28), then Śukla",
-      "themes": [
-        "AuspiciousDeath",
-        "TranscendenceOfTime",
-        "BhaktiBeyondAstrology"
-      ],
-      "tags": [
-        "#agni",
-        "#jyoti",
-        "#uttarayana",
-        "#brahman",
-        "#liberation",
-        "#bhakti",
-        "#jnana",
-        "#tapas"
-      ],
-      "yogaSutraConnection": "YS I.3",
-      "sankhyaConcepts": [
-        "Puruṣa operating independently of prakṛti configurations at death",
-        "Bhakta as kernel-level process bypassing material scheduling constraints"
-      ],
-      "keyTerms": [
-        "agni",
-        "jyoti",
-        "śukla",
-        "uttarāyaṇam",
-        "brahma",
-        "brahma-vit"
       ]
     },
     {
@@ -1224,6 +1267,43 @@
         "labhate",
         "mayā",
         "vihitān"
+      ]
+    },
+    {
+      "date": "2026-06-12",
+      "source": "BG 7.21",
+      "chapter": 7,
+      "verse": 21,
+      "text": "Bhagavad Gita",
+      "tithi": "Dwadashi (until 10:06 AM IST), Trayodashi (Pradosh Vrat) thereafter",
+      "nakshatra": "Bharani (until 18:35 IST), Krittika thereafter",
+      "yoga": "Atiganda (until 11:55 IST), Sukarman thereafter",
+      "themes": [
+        "steady faith",
+        "supersoul",
+        "demigod worship",
+        "yoga sutra",
+        "pradosh vrat"
+      ],
+      "tags": [
+        "#SteadyFaith",
+        "#Supersoul",
+        "#DemigodWorship",
+        "#YogaSutra",
+        "#PradoshVrat"
+      ],
+      "yogaSutraConnection": "YS I.23",
+      "sankhyaConcepts": [
+        "puruṣa-prakṛti",
+        "steady faith as sattva enhancement",
+        "supersoul as inner controller"
+      ],
+      "keyTerms": [
+        "bhakta",
+        "śraddhā",
+        "acala",
+        "īśvara",
+        "tasmāt"
       ]
     },
     {
