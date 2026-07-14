@@ -1,140 +1,6 @@
 {
   "verses": [
     {
-      "date": "2026-07-14",
-      "source": "BG 9.7",
-      "chapter": 9,
-      "verse": 7,
-      "text": "Bhagavad Gita",
-      "tithi": "Amāvāsyā (New Moon) — Bhaumvati Amavasya",
-      "nakshatra": "Punarvasu (until 02:39 PM), then Pushya",
-      "yoga": "Harshana (until 10:34 PM), then Vajra",
-      "themes": [
-        "CosmicDissolution",
-        "PrakritiReturn",
-        "KalpaCycle"
-      ],
-      "tags": [
-        "#amavasya",
-        "#dissolution",
-        "#kalpa",
-        "#prakriti",
-        "#cosmiccycle",
-        "#sankhya"
-      ],
-      "yogaSutraConnection": "YS 3.9-3.12",
-      "sankhyaConcepts": [
-        "Prakṛti cyclical rest (pralaya) and activation (sṛṣṭi): guṇas in equilibrium then re-manifest by Divine will",
-        "Nirodha-pariṇāma as microcosmic dissolution: outgoing saṁskāras dissolve, restraining saṁskāras arise"
-      ],
-      "keyTerms": [
-        "prakṛti",
-        "kalpa",
-        "kalpa-kṣaya",
-        "visṛjāmi",
-        "sarva-bhūtāni",
-        "māmikām"
-      ]
-    },
-    {
-      "date": "2026-07-06",
-      "source": "BG 9.19",
-      "chapter": 9,
-      "verse": 19,
-      "text": "Bhagavad Gita",
-      "tithi": "Kṛṣṇa Pakṣa Saptamī (Waning Moon 7th) - Ruled by Surya",
-      "nakshatra": "Uttara Bhadrapada (from 06:37 AM) - Ruled by Ahirbudhnya",
-      "yoga": "Sobhana (until 06:20 AM) then Atiganda (from 06:20 AM)",
-      "themes": [
-        "HeatRainImmortalityDeath",
-        "TranscendingDualities",
-        "DivineUnity"
-      ],
-      "tags": [
-        "#HeatRainImmortalityDeath",
-        "#TranscendingDualities",
-        "#DivineUnity"
-      ],
-      "yogaSutraConnection": "YS II.48",
-      "sankhyaConcepts": [
-        "Prakṛti's transformations: guṇas fluctuate with nakṣatra/yoga; puruṣa as steady witness",
-        "Inner mechanism: bhakti buddhi discriminates transient prakṛti from permanent puruṣa, increasing sattva and stabilizing antahkaraṇa, allowing divine grace to flow"
-      ],
-      "keyTerms": [
-        "tapā",
-        "varṣa",
-        "amṛta",
-        "mṛtyu",
-        "sat",
-        "asat"
-      ]
-    },
-    {
-      "date": "2026-07-07",
-      "source": "BG 9.27",
-      "chapter": 9,
-      "verse": 27,
-      "text": "Bhagavad Gita",
-      "tithi": "Kṛṣṇa Pakṣa Aṣṭamī (until 02:51 AM July 8), then Navamī",
-      "nakshatra": "Uttara Bhadrapada (until 06:54 AM July 7), then Revati (until 06:30 AM July 8)",
-      "yoga": "Atiganda (obstacle-removing) until 03:07 AM July 8), then Sukarman (virtuous)",
-      "themes": [
-        "EverythingAsOffering",
-        "DevotionalConsciousness",
-        "SurrenderInAction"
-      ],
-      "tags": [
-        "#EverythingAsOffering",
-        "#DevotionalConsciousness",
-        "#SurrenderInAction"
-      ],
-      "yogaSutraConnection": "YS I.23",
-      "sankhyaConcepts": [
-        "Prakṛti's transformations: guṇas fluctuate with nakṣatra/yoga; puruṣa as steady witness",
-        "Inner mechanism: bhakti buddhi discriminates transient prakṛti from permanent puruṣa, increasing sattva and stabilizing antahkaraṇa, allowing divine grace to flow"
-      ],
-      "keyTerms": [
-        "yaj",
-        "dadāsi",
-        "tapasyasi",
-        "arpaṇam",
-        "īśvara",
-        "praṇidhānā"
-      ]
-    },
-    {
-      "date": "2026-07-08",
-      "source": "BG 9.22",
-      "chapter": 9,
-      "verse": 22,
-      "text": "Bhagavad Gita",
-      "tithi": "Kṛṣṇa Pakṣa Aṣṭamī (until 12:21 PM), then Navamī",
-      "nakshatra": "Revati (until 16:00), then Ashwini",
-      "yoga": "Atiganda (obstacle) until 12:38 PM), then Sukarma (virtuous)",
-      "themes": [
-        "DivineNourishment",
-        "ExclusiveDevotion",
-        "SustainerGrace"
-      ],
-      "tags": [
-        "#DivineNourishment",
-        "#ExclusiveDevotion",
-        "#SustainerGrace"
-      ],
-      "yogaSutraConnection": "YS I.23",
-      "sankhyaConcepts": [
-        "Prakṛti's transformations: guṇas fluctuate with nakṣatra/yoga; puruṣa as steady witness",
-        "Inner mechanism: bhakti buddhi discriminates transient prakṛti from permanent puruṣa, increasing sattva and stabilizing antahkaraṇa, allowing divine grace to flow"
-      ],
-      "keyTerms": [
-        "ananya",
-        "yoga",
-        "kṣema",
-        "īśvara",
-        "praṇidhānā"
-      ]
-    },
-    {
       "date": "2026-07-09",
       "source": "BG 9.3",
       "chapter": 9,
@@ -2361,7 +2227,7 @@
       ]
     }
   ],
-  "lastUpdated": "2026-07-14",
+  "lastUpdated": "2026-07-13",
   "versers": [
     {
       "date": "2026-06-30",
