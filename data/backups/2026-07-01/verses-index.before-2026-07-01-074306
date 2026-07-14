@@ -1,6 +1,122 @@
 {
   "verses": [
     {
+      "date": "2026-07-05",
+      "source": "BG 9.2",
+      "chapter": 9,
+      "verse": 2,
+      "text": "Bhagavad Gita",
+      "tithi": "Krishna Paksha Shashthi (04:01 AM – 04:17 AM next day)",
+      "nakshatra": "Shatabhisha (until 05:42 AM), then Purva Bhadrapada",
+      "yoga": "Ayushman (until 07:09 AM), then Saubhagya",
+      "themes": [
+        "KingOfEducation",
+        "ConfidentialKnowledge",
+        "EverlastingJoy"
+      ],
+      "tags": [
+        "#rajavidya",
+        "#rajaguhya",
+        "#pavitram",
+        "#uttamam",
+        "#pratyaksha",
+        "#dharmya",
+        "#sussukha",
+        "#avyayam"
+      ],
+      "yogaSutraConnection": "YS I.49",
+      "sankhyaConcepts": [
+        "Buddhi as sovereign discriminating purusha from prakriti",
+        "Direct perception (pratyakṣāvagamaṁ) arises when buddhi rests as witness"
+      ],
+      "keyTerms": [
+        "rāja-vidyā",
+        "rāja-guhyaṁ",
+        "pavitram",
+        "uttamam",
+        "pratyakṣāvagamaṁ",
+        "dharmyaṁ",
+        "su-sukhaṁ",
+        "avyayam"
+      ]
+    },
+    {
+      "date": "2026-07-02",
+      "source": "BG 9.2",
+      "chapter": 9,
+      "verse": 2,
+      "text": "Bhagavad Gita",
+      "tithi": "Krishna Paksha Tritiya (12:08 AM – 01:50 AM)",
+      "nakshatra": "Śravaṇa (until 02:16 AM), then Dhaniṣṭha",
+      "yoga": "Vaidhṛti (until 07:08 AM), then Viṣkambha",
+      "themes": [
+        "KingOfEducation",
+        "ConfidentialKnowledge",
+        "EverlastingJoy"
+      ],
+      "tags": [
+        "#rajavidya",
+        "#rajaguhya",
+        "#pavitram",
+        "#uttamam",
+        "#pratyaksha",
+        "#dharmya",
+        "#sussukha",
+        "#avyayam"
+      ],
+      "yogaSutraConnection": "YS I.1",
+      "sankhyaConcepts": [
+        "Buddhi as sovereign discriminating purusha from prakriti",
+        "Direct perception (pratyakṣāvagamaṁ) arises when buddhi rests as witness"
+      ],
+      "keyTerms": [
+        "rāja-vidyā",
+        "rāja-guhyaṁ",
+        "pavitram",
+        "uttamam",
+        "pratyakṣāvagamaṁ",
+        "dharmyaṁ",
+        "su-sukhaṁ",
+        "avyayam"
+      ]
+    },
+    {
+      "date": "2026-07-04",
+      "source": "BG 9.30",
+      "chapter": 9,
+      "verse": 30,
+      "text": "Bhagavad Gita",
+      "tithi": "Krishna Paksha Panchami (Waning Moon 5th) — Jul 04 03:10 AM – Jul 05 04:01 AM",
+      "nakshatra": "Shatabhisha (until 05:42 AM)",
+      "yoga": "Prithi (until 07:31 AM), then Ayushman",
+      "themes": [
+        "DivineReset",
+        "KarmaBypass",
+        "PurificationThroughBhakti"
+      ],
+      "tags": [
+        "#divinereset",
+        "#karmabypass",
+        "#pavitrata",
+        "#bhakti",
+        "#sudurachara",
+        "#ananyabhakti"
+      ],
+      "yogaSutraConnection": "YS I.33",
+      "sankhyaConcepts": [
+        "Bhakti-yoga as a \"kernel override\" that supersedes karmic programming",
+        "Purity (pavitratā) as a top-down purification granted by divine grace"
+      ],
+      "keyTerms": [
+        "sudurācāra",
+        "ananya-bhakti",
+        "pavitra",
+        "jñāna-vīra",
+        "darśana",
+        "bhakti-yoga"
+      ]
+    },
+    {
       "date": "2026-07-14",
       "source": "BG 9.7",
       "chapter": 9,
@@ -37,6 +153,172 @@
       ]
     },
     {
+      "date": "2026-07-06",
+      "source": "BG 9.19",
+      "chapter": 9,
+      "verse": 19,
+      "text": "Bhagavad Gita",
+      "tithi": "Kṛṣṇa Pakṣa Saptamī (Waning Moon 7th) - Ruled by Surya",
+      "nakshatra": "Uttara Bhadrapada (from 06:37 AM) - Ruled by Ahirbudhnya",
+      "yoga": "Sobhana (until 06:20 AM) then Atiganda (from 06:20 AM)",
+      "themes": [
+        "HeatRainImmortalityDeath",
+        "TranscendingDualities",
+        "DivineUnity"
+      ],
+      "tags": [
+        "#HeatRainImmortalityDeath",
+        "#TranscendingDualities",
+        "#DivineUnity"
+      ],
+      "yogaSutraConnection": "YS II.48",
+      "sankhyaConcepts": [
+        "Prakṛti's transformations: guṇas fluctuate with nakṣatra/yoga; puruṣa as steady witness",
+        "Inner mechanism: bhakti buddhi discriminates transient prakṛti from permanent puruṣa, increasing sattva and stabilizing antahkaraṇa, allowing divine grace to flow"
+      ],
+      "keyTerms": [
+        "tapā",
+        "varṣa",
+        "amṛta",
+        "mṛtyu",
+        "sat",
+        "asat"
+      ]
+    },
+    {
+      "date": "2026-07-05",
+      "source": "BG 9.2",
+      "chapter": 9,
+      "verse": 2,
+      "text": "Bhagavad Gita",
+      "tithi": "Krishna Paksha Shashthi (Waning Moon 6th) — Jul 05 04:01 AM – Jul 06 04:17 AM",
+      "nakshatra": "Shatabhisha (until 05:42 AM), then Purva Bhadrapada",
+      "yoga": "Ayushman (until 07:09 AM), then Saubhagya",
+      "themes": [
+        "KingOfEducation",
+        "ConfidentialKnowledge",
+        "EverlastingKnowledge"
+      ],
+      "tags": [
+        "#raja-vidya",
+        "#raja-guhya",
+        "#pavitram",
+        "#uttamam",
+        "#pratyaksha",
+        "#avyayam"
+      ],
+      "yogaSutraConnection": "YS I.49",
+      "sankhyaConcepts": [
+        "Buddhi as sovereign discriminating purusha from prakriti",
+        "Direct perception (pratyakṣāvagamaṁ) arises when buddhi rests in its true nature"
+      ],
+      "keyTerms": [
+        "rāja-vidyā",
+        "rāja-guhyam",
+        "pavitram",
+        "uttamam",
+        "pratyakṣāvagamaṁ",
+        "avyayam"
+      ]
+    },
+    {
+      "date": "2026-07-07",
+      "source": "BG 9.27",
+      "chapter": 9,
+      "verse": 27,
+      "text": "Bhagavad Gita",
+      "tithi": "Kṛṣṇa Pakṣa Aṣṭamī (until 02:51 AM July 8), then Navamī",
+      "nakshatra": "Uttara Bhadrapada (until 06:54 AM July 7), then Revati (until 06:30 AM July 8)",
+      "yoga": "Atiganda (obstacle-removing) until 03:07 AM July 8), then Sukarman (virtuous)",
+      "themes": [
+        "EverythingAsOffering",
+        "DevotionalConsciousness",
+        "SurrenderInAction"
+      ],
+      "tags": [
+        "#EverythingAsOffering",
+        "#DevotionalConsciousness",
+        "#SurrenderInAction"
+      ],
+      "yogaSutraConnection": "YS I.23",
+      "sankhyaConcepts": [
+        "Prakṛti's transformations: guṇas fluctuate with nakṣatra/yoga; puruṣa as steady witness",
+        "Inner mechanism: bhakti buddhi discriminates transient prakṛti from permanent puruṣa, increasing sattva and stabilizing antahkaraṇa, allowing divine grace to flow"
+      ],
+      "keyTerms": [
+        "yaj",
+        "dadāsi",
+        "tapasyasi",
+        "arpaṇam",
+        "īśvara",
+        "praṇidhānā"
+      ]
+    },
+    {
+      "date": "2026-07-08",
+      "source": "BG 9.22",
+      "chapter": 9,
+      "verse": 22,
+      "text": "Bhagavad Gita",
+      "tithi": "Kṛṣṇa Pakṣa Aṣṭamī (until 12:21 PM), then Navamī",
+      "nakshatra": "Revati (until 16:00), then Ashwini",
+      "yoga": "Atiganda (obstacle) until 12:38 PM), then Sukarma (virtuous)",
+      "themes": [
+        "DivineNourishment",
+        "ExclusiveDevotion",
+        "SustainerGrace"
+      ],
+      "tags": [
+        "#DivineNourishment",
+        "#ExclusiveDevotion",
+        "#SustainerGrace"
+      ],
+      "yogaSutraConnection": "YS I.23",
+      "sankhyaConcepts": [
+        "Prakṛti's transformations: guṇas fluctuate with nakṣatra/yoga; puruṣa as steady witness",
+        "Inner mechanism: bhakti buddhi discriminates transient prakṛti from permanent puruṣa, increasing sattva and stabilizing antahkaraṇa, allowing divine grace to flow"
+      ],
+      "keyTerms": [
+        "ananya",
+        "yoga",
+        "kṣema",
+        "īśvara",
+        "praṇidhānā"
+      ]
+    },
+    {
+      "date": "2026-07-09",
+      "source": "BG 9.3",
+      "chapter": 9,
+      "verse": 3,
+      "text": "Bhagavad Gita",
+      "tithi": "Kṛṣṇa Pakṣa Daśamī (until 22:46), then Ekādaśī",
+      "nakshatra": "Bhāraṇī (until 10:45 AM next day), then Kṛttikā",
+      "yoga": "Dhṛti (until 21:44), then Śūla",
+      "themes": [
+        "FaithEssential",
+        "DoubtBlocksDevotion",
+        "SystemBootFlag"
+      ],
+      "tags": [
+        "#FaithEssential",
+        "#DoubtBlocksDevotion",
+        "#SystemBootFlag"
+      ],
+      "yogaSutraConnection": "YS I.20",
+      "sankhyaConcepts": [
+        "Prakṛti's transformations: guṇas fluctuate with nakṣatra/yoga; puruṣa as steady witness",
+        "Inner mechanism: bhakti buddhi discriminates transient prakṛti from permanent puruṣa, increasing sattva and stabilizing antahkaraṇa, allowing divine grace to flow"
+      ],
+      "keyTerms": [
+        "śraddhā",
+        "dharma",
+        "mṛtyu-saṁsāra",
+        "parantapa",
+        "nivartante"
+      ]
+    },
+    {
       "date": "2026-07-13",
       "source": "BG 9.22",
       "chapter": 9,
@@ -70,40 +352,42 @@
       ]
     },
     {
-      "date": "2026-07-12",
-      "source": "BG 9.23",
+      "date": "2026-07-10",
+      "source": "BG 9.4",
       "chapter": 9,
-      "verse": 23,
+      "verse": 4,
       "text": "Bhagavad Gita",
-      "tithi": "Krishna Paksha Trayodashi (until 01:00 PM), then Krishna Paksha Chaturdashi",
-      "nakshatra": "Mrigashirsha (until 08:11 AM), then Ardra",
-      "yoga": "Vridhi (until 10:35 AM), then Dhruva",
+      "tithi": "Krishna Paksha Dashami until 08:16 AM, then Krishna Paksha Ekadashi (Yogini Ekadashi)",
+      "nakshatra": "Bharani until 01:15 PM, then Krittika",
+      "yoga": "Dhriti Yoga until 07:15 AM, then Shula Yoga",
       "themes": [
-        "UniversalObjectOfAllWorship",
-        "Shivaratri",
-        "Vidhi"
+        "AllPervasive",
+        "PersonalTranscendent",
+        "YoginiEkadashi"
       ],
       "tags": [
         "#BhaktiYoga",
-        "#Shivaratri",
-        "#UniversalWorship",
-        "#Vidhi",
-        "#BG923"
+        "#AllPervasive",
+        "#PersonalTranscendent",
+        "#YoginiEkadashi"
       ],
-      "yogaSutraConnection": "YS I.23",
+      "yogaSutraConnection": "YS II.52",
       "sankhyaConcepts": [
         "puruṣa-prakṛti dualism",
-        "devotion without vidhi leads to avidhi-pūrvakam (improper method)",
-        "the regulative principles (vidhi) are the guidance system for bhakti",
-        "all deities are different officers/directors in the Supreme Lord's government",
-        "worship must be offered to the Supreme Lord only to satisfy all divine authorities"
+        "simultaneous immanence and transcendence",
+        "the Lord pervades all through His energy yet remains distinct",
+        "realization comes through pure devotional service",
+        "avoids both impersonalism and anthropomorphism"
       ],
       "keyTerms": [
-        "anya-devatā-bhakta ─ devotee of other gods; hacker metaphor: someone using unauthorized plugins",
-        "śraddhā ─ faith, conviction; hacker metaphor: root access certificate",
-        "avidhi-pūrvakam ─ not according to rule; hacker metaphor: improper system call",
-        "eva ─ indeed, only; hacker metaphor: strict equality operator (===)",
-        "yajante ─ they worship; hacker metaphor: they execute the worship process"
+        "avyakta-mūrtinā ─ by the unmanifested form; hacker metaphor: running a process in background mode without visible UI.",
+        "mat-sthāni ─ situated in Me; hacker metaphor: processes running under a privileged user account.",
+        "sarva-bhūtāni ─ all living beings; hacker metaphor: all system processes and services.",
+        "avasthitaḥ ─ situated, located, existing; hacker metaphor: a process bound to a specific resource or namespace.",
+        "mayā ─ by Me; hacker metaphor: executed with root privileges and system-level access.",
+        "tatam ─ pervaded, spread throughout; hacker metaphor: a daemon service listening on all interfaces (0.0.0.0).",
+        "sarvaṁ ─ all, everything; hacker metaphor: the entire filesystem or network scope.",
+        "jagat ─ universe, world, cosmic manifestation; hacker metaphor: the production environment or global system state."
       ]
     },
     {
@@ -148,284 +432,40 @@
       ]
     },
     {
-      "date": "2026-07-10",
-      "source": "BG 9.4",
+      "date": "2026-07-12",
+      "source": "BG 9.23",
       "chapter": 9,
-      "verse": 4,
+      "verse": 23,
       "text": "Bhagavad Gita",
-      "tithi": "Krishna Paksha Dashami until 08:16 AM, then Krishna Paksha Ekadashi (Yogini Ekadashi)",
-      "nakshatra": "Bharani until 01:15 PM, then Krittika",
-      "yoga": "Dhriti Yoga until 07:15 AM, then Shula Yoga",
+      "tithi": "Krishna Paksha Trayodashi (until 01:00 PM), then Krishna Paksha Chaturdashi",
+      "nakshatra": "Mrigashirsha (until 08:11 AM), then Ardra",
+      "yoga": "Vridhi (until 10:35 AM), then Dhruva",
       "themes": [
-        "AllPervasive",
-        "PersonalTranscendent",
-        "YoginiEkadashi"
+        "UniversalObjectOfAllWorship",
+        "Shivaratri",
+        "Vidhi"
       ],
       "tags": [
         "#BhaktiYoga",
-        "#AllPervasive",
-        "#PersonalTranscendent",
-        "#YoginiEkadashi"
+        "#Shivaratri",
+        "#UniversalWorship",
+        "#Vidhi",
+        "#BG923"
       ],
-      "yogaSutraConnection": "YS II.52",
+      "yogaSutraConnection": "YS I.23",
       "sankhyaConcepts": [
         "puruṣa-prakṛti dualism",
-        "simultaneous immanence and transcendence",
-        "the Lord pervades all through His energy yet remains distinct",
-        "realization comes through pure devotional service",
-        "avoids both impersonalism and anthropomorphism"
+        "devotion without vidhi leads to avidhi-pūrvakam (improper method)",
+        "the regulative principles (vidhi) are the guidance system for bhakti",
+        "all deities are different officers/directors in the Supreme Lord's government",
+        "worship must be offered to the Supreme Lord only to satisfy all divine authorities"
       ],
       "keyTerms": [
-        "avyakta-mūrtinā ─ by the unmanifested form; hacker metaphor: running a process in background mode without visible UI.",
-        "mat-sthāni ─ situated in Me; hacker metaphor: processes running under a privileged user account.",
-        "sarva-bhūtāni ─ all living beings; hacker metaphor: all system processes and services.",
-        "avasthitaḥ ─ situated, located, existing; hacker metaphor: a process bound to a specific resource or namespace.",
-        "mayā ─ by Me; hacker metaphor: executed with root privileges and system-level access.",
-        "tatam ─ pervaded, spread throughout; hacker metaphor: a daemon service listening on all interfaces (0.0.0.0).",
-        "sarvaṁ ─ all, everything; hacker metaphor: the entire filesystem or network scope.",
-        "jagat ─ universe, world, cosmic manifestation; hacker metaphor: the production environment or global system state."
-      ]
-    },
-    {
-      "date": "2026-07-09",
-      "source": "BG 9.3",
-      "chapter": 9,
-      "verse": 3,
-      "text": "Bhagavad Gita",
-      "tithi": "Kṛṣṇa Pakṣa Daśamī (until 22:46), then Ekādaśī",
-      "nakshatra": "Bhāraṇī (until 10:45 AM next day), then Kṛttikā",
-      "yoga": "Dhṛti (until 21:44), then Śūla",
-      "themes": [
-        "FaithEssential",
-        "DoubtBlocksDevotion",
-        "SystemBootFlag"
-      ],
-      "tags": [
-        "#FaithEssential",
-        "#DoubtBlocksDevotion",
-        "#SystemBootFlag"
-      ],
-      "yogaSutraConnection": "YS I.20",
-      "sankhyaConcepts": [
-        "Prakṛti's transformations: guṇas fluctuate with nakṣatra/yoga; puruṣa as steady witness",
-        "Inner mechanism: bhakti buddhi discriminates transient prakṛti from permanent puruṣa, increasing sattva and stabilizing antahkaraṇa, allowing divine grace to flow"
-      ],
-      "keyTerms": [
-        "śraddhā",
-        "dharma",
-        "mṛtyu-saṁsāra",
-        "parantapa",
-        "nivartante"
-      ]
-    },
-    {
-      "date": "2026-07-08",
-      "source": "BG 9.22",
-      "chapter": 9,
-      "verse": 22,
-      "text": "Bhagavad Gita",
-      "tithi": "Kṛṣṇa Pakṣa Aṣṭamī (until 12:21 PM), then Navamī",
-      "nakshatra": "Revati (until 16:00), then Ashwini",
-      "yoga": "Atiganda (obstacle) until 12:38 PM), then Sukarma (virtuous)",
-      "themes": [
-        "DivineNourishment",
-        "ExclusiveDevotion",
-        "SustainerGrace"
-      ],
-      "tags": [
-        "#DivineNourishment",
-        "#ExclusiveDevotion",
-        "#SustainerGrace"
-      ],
-      "yogaSutraConnection": "YS I.23",
-      "sankhyaConcepts": [
-        "Prakṛti's transformations: guṇas fluctuate with nakṣatra/yoga; puruṣa as steady witness",
-        "Inner mechanism: bhakti buddhi discriminates transient prakṛti from permanent puruṣa, increasing sattva and stabilizing antahkaraṇa, allowing divine grace to flow"
-      ],
-      "keyTerms": [
-        "ananya",
-        "yoga",
-        "kṣema",
-        "īśvara",
-        "praṇidhānā"
-      ]
-    },
-    {
-      "date": "2026-07-07",
-      "source": "BG 9.27",
-      "chapter": 9,
-      "verse": 27,
-      "text": "Bhagavad Gita",
-      "tithi": "Kṛṣṇa Pakṣa Aṣṭamī (until 02:51 AM July 8), then Navamī",
-      "nakshatra": "Uttara Bhadrapada (until 06:54 AM July 7), then Revati (until 06:30 AM July 8)",
-      "yoga": "Atiganda (obstacle-removing) until 03:07 AM July 8), then Sukarman (virtuous)",
-      "themes": [
-        "EverythingAsOffering",
-        "DevotionalConsciousness",
-        "SurrenderInAction"
-      ],
-      "tags": [
-        "#EverythingAsOffering",
-        "#DevotionalConsciousness",
-        "#SurrenderInAction"
-      ],
-      "yogaSutraConnection": "YS I.23",
-      "sankhyaConcepts": [
-        "Prakṛti's transformations: guṇas fluctuate with nakṣatra/yoga; puruṣa as steady witness",
-        "Inner mechanism: bhakti buddhi discriminates transient prakṛti from permanent puruṣa, increasing sattva and stabilizing antahkaraṇa, allowing divine grace to flow"
-      ],
-      "keyTerms": [
-        "yaj",
-        "dadāsi",
-        "tapasyasi",
-        "arpaṇam",
-        "īśvara",
-        "praṇidhānā"
-      ]
-    },
-    {
-      "date": "2026-07-06",
-      "source": "BG 9.19",
-      "chapter": 9,
-      "verse": 19,
-      "text": "Bhagavad Gita",
-      "tithi": "Kṛṣṇa Pakṣa Saptamī (Waning Moon 7th) - Ruled by Surya",
-      "nakshatra": "Uttara Bhadrapada (from 06:37 AM) - Ruled by Ahirbudhnya",
-      "yoga": "Sobhana (until 06:20 AM) then Atiganda (from 06:20 AM)",
-      "themes": [
-        "HeatRainImmortalityDeath",
-        "TranscendingDualities",
-        "DivineUnity"
-      ],
-      "tags": [
-        "#HeatRainImmortalityDeath",
-        "#TranscendingDualities",
-        "#DivineUnity"
-      ],
-      "yogaSutraConnection": "YS II.48",
-      "sankhyaConcepts": [
-        "Prakṛti's transformations: guṇas fluctuate with nakṣatra/yoga; puruṣa as steady witness",
-        "Inner mechanism: bhakti buddhi discriminates transient prakṛti from permanent puruṣa, increasing sattva and stabilizing antahkaraṇa, allowing divine grace to flow"
-      ],
-      "keyTerms": [
-        "tapā",
-        "varṣa",
-        "amṛta",
-        "mṛtyu",
-        "sat",
-        "asat"
-      ]
-    },
-    {
-      "date": "2026-07-05",
-      "source": "BG 9.2",
-      "chapter": 9,
-      "verse": 2,
-      "text": "Bhagavad Gita",
-      "tithi": "Krishna Paksha Shashthi (04:01 AM – 04:17 AM next day)",
-      "nakshatra": "Shatabhisha (until 05:42 AM), then Purva Bhadrapada",
-      "yoga": "Ayushman (until 07:09 AM), then Saubhagya",
-      "themes": [
-        "KingOfEducation",
-        "ConfidentialKnowledge",
-        "EverlastingJoy"
-      ],
-      "tags": [
-        "#rajavidya",
-        "#rajaguhya",
-        "#pavitram",
-        "#uttamam",
-        "#pratyaksha",
-        "#dharmya",
-        "#sussukha",
-        "#avyayam"
-      ],
-      "yogaSutraConnection": "YS I.49",
-      "sankhyaConcepts": [
-        "Buddhi as sovereign discriminating purusha from prakriti",
-        "Direct perception (pratyakṣāvagamaṁ) arises when buddhi rests as witness"
-      ],
-      "keyTerms": [
-        "rāja-vidyā",
-        "rāja-guhyaṁ",
-        "pavitram",
-        "uttamam",
-        "pratyakṣāvagamaṁ",
-        "dharmyaṁ",
-        "su-sukhaṁ",
-        "avyayam"
-      ]
-    },
-    {
-      "date": "2026-07-05",
-      "source": "BG 9.2",
-      "chapter": 9,
-      "verse": 2,
-      "text": "Bhagavad Gita",
-      "tithi": "Krishna Paksha Shashthi (Waning Moon 6th) — Jul 05 04:01 AM – Jul 06 04:17 AM",
-      "nakshatra": "Shatabhisha (until 05:42 AM), then Purva Bhadrapada",
-      "yoga": "Ayushman (until 07:09 AM), then Saubhagya",
-      "themes": [
-        "KingOfEducation",
-        "ConfidentialKnowledge",
-        "EverlastingKnowledge"
-      ],
-      "tags": [
-        "#raja-vidya",
-        "#raja-guhya",
-        "#pavitram",
-        "#uttamam",
-        "#pratyaksha",
-        "#avyayam"
-      ],
-      "yogaSutraConnection": "YS I.49",
-      "sankhyaConcepts": [
-        "Buddhi as sovereign discriminating purusha from prakriti",
-        "Direct perception (pratyakṣāvagamaṁ) arises when buddhi rests in its true nature"
-      ],
-      "keyTerms": [
-        "rāja-vidyā",
-        "rāja-guhyam",
-        "pavitram",
-        "uttamam",
-        "pratyakṣāvagamaṁ",
-        "avyayam"
-      ]
-    },
-    {
-      "date": "2026-07-04",
-      "source": "BG 9.30",
-      "chapter": 9,
-      "verse": 30,
-      "text": "Bhagavad Gita",
-      "tithi": "Krishna Paksha Panchami (Waning Moon 5th) — Jul 04 03:10 AM – Jul 05 04:01 AM",
-      "nakshatra": "Shatabhisha (until 05:42 AM)",
-      "yoga": "Prithi (until 07:31 AM), then Ayushman",
-      "themes": [
-        "DivineReset",
-        "KarmaBypass",
-        "PurificationThroughBhakti"
-      ],
-      "tags": [
-        "#divinereset",
-        "#karmabypass",
-        "#pavitrata",
-        "#bhakti",
-        "#sudurachara",
-        "#ananyabhakti"
-      ],
-      "yogaSutraConnection": "YS I.33",
-      "sankhyaConcepts": [
-        "Bhakti-yoga as a \"kernel override\" that supersedes karmic programming",
-        "Purity (pavitratā) as a top-down purification granted by divine grace"
-      ],
-      "keyTerms": [
-        "sudurācāra",
-        "ananya-bhakti",
-        "pavitra",
-        "jñāna-vīra",
-        "darśana",
-        "bhakti-yoga"
+        "anya-devatā-bhakta ─ devotee of other gods; hacker metaphor: someone using unauthorized plugins",
+        "śraddhā ─ faith, conviction; hacker metaphor: root access certificate",
+        "avidhi-pūrvakam ─ not according to rule; hacker metaphor: improper system call",
+        "eva ─ indeed, only; hacker metaphor: strict equality operator (===)",
+        "yajante ─ they worship; hacker metaphor: they execute the worship process"
       ]
     },
     {
@@ -508,86 +548,6 @@
         "yaj jñātvā mokṣyase — by knowing which you will be liberated; hacker metaphor: segmentation fault resolved by correcting false identification",
         "śubhāt — from misery; hacker metaphor: segmentation fault (SIGSEGV) from invalid memory access",
         "anasūyave — without envy; hacker metaphor: absence of malicious intent (envy) as the 'password'"
-      ]
-    },
-    {
-      "date": "2026-07-02",
-      "source": "BG 9.2",
-      "chapter": 9,
-      "verse": 2,
-      "text": "Bhagavad Gita",
-      "tithi": "Krishna Paksha Tritiya (12:08 AM – 01:50 AM)",
-      "nakshatra": "Śravaṇa (until 02:16 AM), then Dhaniṣṭha",
-      "yoga": "Vaidhṛti (until 07:08 AM), then Viṣkambha",
-      "themes": [
-        "KingOfEducation",
-        "ConfidentialKnowledge",
-        "EverlastingJoy"
-      ],
-      "tags": [
-        "#rajavidya",
-        "#rajaguhya",
-        "#pavitram",
-        "#uttamam",
-        "#pratyaksha",
-        "#dharmya",
-        "#sussukha",
-        "#avyayam"
-      ],
-      "yogaSutraConnection": "YS I.1",
-      "sankhyaConcepts": [
-        "Buddhi as sovereign discriminating purusha from prakriti",
-        "Direct perception (pratyakṣāvagamaṁ) arises when buddhi rests as witness"
-      ],
-      "keyTerms": [
-        "rāja-vidyā",
-        "rāja-guhyaṁ",
-        "pavitram",
-        "uttamam",
-        "pratyakṣāvagamaṁ",
-        "dharmyaṁ",
-        "su-sukhaṁ",
-        "avyayam"
-      ]
-    },
-    {
-      "date": "2026-07-01",
-      "source": "BG 8.11",
-      "chapter": 8,
-      "verse": 11,
-      "text": "Bhagavad Gita",
-      "tithi": "Krishna Paksha Dwitiya (10:08 PM – 12:08 AM)",
-      "nakshatra": "Uttara Āṣāḍhā (until 11:57 AM), then Śravaṇa",
-      "yoga": "Indra (until 06:34 AM), then Vaidhṛti",
-      "themes": [
-        "OmAndBrahman",
-        "VedicKnowledge",
-        "RenunciationPath"
-      ],
-      "tags": [
-        "#om",
-        "#brahman",
-        "#veda",
-        "#brahmacarya",
-        "#renunciation",
-        "#yoga",
-        "#pranava"
-      ],
-      "yogaSutraConnection": "YS I.27",
-      "sankhyaConcepts": [
-        "Om as a kernel module reconfiguring consciousness to perceive puruṣa",
-        "Liberation (kaivalya) as realizing puruṣa’s complete separation from prakṛti"
-      ],
-      "keyTerms": [
-        "akṣara",
-        "veda-vit",
-        "oṁ-kāra",
-        "yatayaḥ",
-        "vīta-rāgāḥ",
-        "brahmacarya",
-        "pada",
-        "saṅgraheṇa",
-        "pravakṣye"
       ]
     },
     {
