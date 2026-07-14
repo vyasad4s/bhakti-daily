@@ -7684,6 +7684,90 @@
         "devotion",
         "IPC"
       ]
+    },
+    {
+      "term": "tapā",
+      "transliteration": "tapā",
+      "type": "noun",
+      "definition": "heat, thermal energy; like the CPU’s power draw that can be throttled up or down",
+      "references": [
+        "BG 9.19"
+      ],
+      "themes": [
+        "heat",
+        "energy",
+        "tapas"
+      ]
+    },
+    {
+      "term": "varṣa",
+      "transliteration": "varṣa",
+      "type": "noun",
+      "definition": "rain, precipitation; like a data packet burst that nourishes the system",
+      "references": [
+        "BG 9.19"
+      ],
+      "themes": [
+        "rain",
+        "water",
+        "nourishment"
+      ]
+    },
+    {
+      "term": "amṛta",
+      "transliteration": "amṛta",
+      "type": "noun",
+      "definition": "immortality, nectar; the eternal, unchanging core that never degrades",
+      "references": [
+        "BG 9.19"
+      ],
+      "themes": [
+        "immortality",
+        "nectar",
+        "eternal"
+      ]
+    },
+    {
+      "term": "mṛtyu",
+      "transliteration": "mṛtyu",
+      "type": "noun",
+      "definition": "death, dissolution; the recycle process that clears old states",
+      "references": [
+        "BG 9.19"
+      ],
+      "themes": [
+        "death",
+        "dissolution",
+        "recycle"
+      ]
+    },
+    {
+      "term": "sat",
+      "transliteration": "sat",
+      "type": "noun",
+      "definition": "manifest, existent; the allocated memory space currently in use",
+      "references": [
+        "BG 9.19"
+      ],
+      "themes": [
+        "existent",
+        "manifest",
+        "being"
+      ]
+    },
+    {
+      "term": "asat",
+      "transliteration": "asat",
+      "type": "noun",
+      "definition": "unmanifest, non‑existent; the free memory pool awaiting allocation",
+      "references": [
+        "BG 9.19"
+      ],
+      "themes": [
+        "non-existent",
+        "unmanifest",
+        "potential"
+      ]
     }
   ]
 }

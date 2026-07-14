@@ -1,6 +1,39 @@
 {
   "verses": [
     {
+      "date": "2026-07-06",
+      "source": "BG 9.19",
+      "chapter": 9,
+      "verse": 19,
+      "text": "Bhagavad Gita",
+      "tithi": "Kṛṣṇa Pakṣa Saptamī (Waning Moon 7th) - Ruled by Surya",
+      "nakshatra": "Uttara Bhadrapada (from 06:37 AM) - Ruled by Ahirbudhnya",
+      "yoga": "Sobhana (until 06:20 AM) then Atiganda (from 06:20 AM)",
+      "themes": [
+        "HeatRainImmortalityDeath",
+        "TranscendingDualities",
+        "DivineUnity"
+      ],
+      "tags": [
+        "#HeatRainImmortalityDeath",
+        "#TranscendingDualities",
+        "#DivineUnity"
+      ],
+      "yogaSutraConnection": "YS II.48",
+      "sankhyaConcepts": [
+        "Prakṛti's transformations: guṇas fluctuate with nakṣatra/yoga; puruṣa as steady witness",
+        "Inner mechanism: bhakti buddhi discriminates transient prakṛti from permanent puruṣa, increasing sattva and stabilizing antahkaraṇa, allowing divine grace to flow"
+      ],
+      "keyTerms": [
+        "tapā",
+        "varṣa",
+        "amṛta",
+        "mṛtyu",
+        "sat",
+        "asat"
+      ]
+    },
+    {
       "date": "2026-07-07",
       "source": "BG 9.27",
       "chapter": 9,
