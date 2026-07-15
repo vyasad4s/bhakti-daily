@@ -1,44 +1,6 @@
 {
   "verses": [
     {
-      "date": "2026-07-15",
-      "source": "BG 9.26",
-      "chapter": 9,
-      "verse": 26,
-      "text": "Bhagavad Gita",
-      "tithi": "Sukla Paksha Dwitiya→Tritiya",
-      "nakshatra": "Pushya→Ashlesha",
-      "yoga": "Vajra→Siddhi",
-      "themes": [
-        "DivineAccessibility",
-        "SimpleOffering",
-        "BhaktiAsQualifier"
-      ],
-      "tags": [
-        "#bhakti",
-        "#offering",
-        "#simplicity",
-        "#devotion",
-        "#grace",
-        "#accessibility",
-        "#bg9"
-      ],
-      "yogaSutraConnection": "YS 1.23",
-      "sankhyaConcepts": [
-        "Bhakti as bridge between puruṣa and supreme puruṣa",
-        "Simple offerings as sattvic prakṛti vehicles for divine connection"
-      ],
-      "keyTerms": [
-        "bhakti",
-        "patraṁ",
-        "puṣpaṁ",
-        "phalaṁ",
-        "toyaṁ",
-        "prayacchati",
-        "aśnāmi"
-      ]
-    },
-    {
       "date": "2026-07-14",
       "source": "BG 9.7",
       "chapter": 9,
