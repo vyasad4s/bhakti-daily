@@ -1,6 +1,54 @@
 {
   "verses": [
     {
+      "date": "2026-07-18",
+      "source": "BG 9.13",
+      "chapter": 9,
+      "verse": 13,
+      "text": "Bhagavad Gita",
+      "sanskrit": "महात्मानस्तु मां पार्थ दैवीं प्रकृतिमाश्रिता: ।\n      भजन्त्यनन्यमनसो ज्ञात्वा भूतादिमव्ययम् ॥ १३ ॥",
+      "transliteration": "",
+      "translation": "O son of Pṛthā, those who are not deluded, the great souls, are under the protection of the divine nature. They are fully engaged in devotional service because they know Me as the Supreme Personality of Godhead, original and inexhaustible.",
+      "tithi": "Śukla Pakṣa Pañcamī (until 06:13 PM EDT), then Śukla Pakṣa Ṣaṣṭhī",
+      "nakshatra": "Pūrva Phalgunī (until 08:30 AM EDT), then Uttara Phalgunī",
+      "yoga": "Variyān (until 11:15 AM EDT), then Parigha",
+      "themes": [
+        "mahatma",
+        "divine-nature",
+        "warrior-devotion",
+        "excellent-action",
+        "obstacle-removal"
+      ],
+      "tags": [
+        "#ananyam",
+        "#avyayam",
+        "#bg9",
+        "#bhutadim",
+        "#daivi",
+        "#jnativa",
+        "#mahatma",
+        "#prakriti"
+      ],
+      "yogaSutraConnection": "YS I.23",
+      "sankhyaConcepts": [
+        "prakriti",
+        "purusha",
+        "gunas",
+        "liberation",
+        "divine-nature",
+        "sattva"
+      ],
+      "keyTerms": [
+        "mahatma",
+        "daivi",
+        "prakriti",
+        "ananyam",
+        "jnativa",
+        "bhutadim",
+        "avyayam"
+      ]
+    },
+    {
       "date": "2026-07-17",
       "source": "BG 9.17",
       "chapter": 9,
@@ -2671,7 +2719,7 @@
       ]
     }
   ],
-  "lastUpdated": "2026-07-17",
+  "lastUpdated": "2026-07-18",
   "versers": [
     {
       "date": "2026-06-30",
