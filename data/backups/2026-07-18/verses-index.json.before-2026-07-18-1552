@@ -1,80 +1,6 @@
 {
   "verses": [
     {
-      "date": "2026-07-20",
-      "source": "BG 10.21",
-      "chapter": 10,
-      "verse": 21,
-      "text": "Bhagavad Gita",
-      "sanskrit": "आदित्यानामहं विष्णुर्ज्योतिषां रविरंशुमान् \n मरीचिर्मरुतास्मि नक्षत्राणामहं शशी ॥ २१ ॥",
-      "transliteration": "ādityānām ahaṁ viṣṇur\n jyotiṣāṁ ravir aṁśumān\n marīcir marutām asmi\n nakṣatrāṇām ahaṁ śaśī",
-      "translation": "Of the Ādityas I am Viṣṇu, of lights I am the radiant sun, of the Maruts I am Marīci, and among the stars I am the moon.",
-      "tithi": "Śukla Pakṣa Saptami (until 6:33 PM EDT), then Śukla Pakṣa Aṣṭami",
-      "nakshatra": "Hasta (until 9:39 AM EDT), then Chitra",
-      "yoga": "Śiva (until 9:06 AM EDT), then Siddha",
-      "themes": [
-        "celestial-opulences",
-        "chitra-nakshatra",
-        "tvastar",
-        "siva-to-siddha-yoga",
-        "light-source-recognition"
-      ],
-      "tags": [
-        "#adityanam",
-        "#vishnu",
-        "#jyotisham",
-        "#ravi",
-        "#anshuman",
-        "#marici",
-        "#marutam",
-        "#nakshatranam",
-        "#sasi",
-        "#bg10"
-      ],
-      "yogaSutraConnection": "YS I.23 (īśvara-praṇidhānād vā)",
-      "sankhyaConcepts": [
-        "puruṣa-prakṛti-distinction",
-        "vibhūti-recognition",
-        "light-as-manifestation-of-consciousness"
-      ],
-      "keyTerms": [
-        "ādityānām",
-        "viṣṇuḥ",
-        "jyotiṣāṁ",
-        "raviḥ",
-        "aṁśumān",
-        "marīciḥ",
-        "marutām",
-        "asmi",
-        "nakṣatrāṇām",
-        "śaśī"
-      ]
-    },
-    {
-      "date": "2026-07-19",
-      "source": "BG 9.10",
-      "chapter": 9,
-      "verse": 10,
-      "text": "Bhagavad Gita",
-      "sanskrit": "मयाध्यक्षेण प्रकृति: सूयते सचराचरम् ।\n      हेतुनानेन कौन्तेय जगद्विपरिवर्तते ॥ १० ॥",
-      "transliteration": "mayādhyakṣeṇa prakṛtiḥ\n      sūyate sa-carācaram\n      hetunānena kaunteya\n      jagad viparivartate",
-      "translation": "This material nature, which is one of My energies, is working under My direction, O son of Kuntī, producing all moving and nonmoving beings. Under its rule this manifestation is created and annihilated again and again.",
-      "tithi": "Śukla Pakṣa Ṣaṣṭhī (until 6:00 PM EDT), then Śukla Pakṣa Saptami",
-      "nakshatra": "Uttara Phalgunī (until 8:41 AM EDT), then Hasta",
-      "yoga": "Parigha (until 9:52 AM EDT), then Śiva",
-      "themes": [
-        "divine-superintendence",
-        "hasta-nakshatra",
-        "savitri",
-        "siva-yoga",
-        "non-doer-recognition",
-        "mayadhyaksena",
-        "prakriti",
-        "adhyaksa",
-        "hetunana"
-      ]
-    },
-    {
       "date": "2026-07-18",
       "source": "BG 9.13",
       "chapter": 9,
@@ -2793,7 +2719,7 @@
       ]
     }
   ],
-  "lastUpdated": "2026-07-20",
+  "lastUpdated": "2026-07-18",
   "versers": [
     {
       "date": "2026-06-30",

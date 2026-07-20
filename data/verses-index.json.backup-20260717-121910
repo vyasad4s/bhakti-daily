@@ -1,228 +1,6 @@
 {
   "verses": [
     {
-      "date": "2026-07-20",
-      "source": "BG 10.21",
-      "chapter": 10,
-      "verse": 21,
-      "text": "Bhagavad Gita",
-      "sanskrit": "आदित्यानामहं विष्णुर्ज्योतिषां रविरंशुमान् \n मरीचिर्मरुतास्मि नक्षत्राणामहं शशी ॥ २१ ॥",
-      "transliteration": "ādityānām ahaṁ viṣṇur\n jyotiṣāṁ ravir aṁśumān\n marīcir marutām asmi\n nakṣatrāṇām ahaṁ śaśī",
-      "translation": "Of the Ādityas I am Viṣṇu, of lights I am the radiant sun, of the Maruts I am Marīci, and among the stars I am the moon.",
-      "tithi": "Śukla Pakṣa Saptami (until 6:33 PM EDT), then Śukla Pakṣa Aṣṭami",
-      "nakshatra": "Hasta (until 9:39 AM EDT), then Chitra",
-      "yoga": "Śiva (until 9:06 AM EDT), then Siddha",
-      "themes": [
-        "celestial-opulences",
-        "chitra-nakshatra",
-        "tvastar",
-        "siva-to-siddha-yoga",
-        "light-source-recognition"
-      ],
-      "tags": [
-        "#adityanam",
-        "#vishnu",
-        "#jyotisham",
-        "#ravi",
-        "#anshuman",
-        "#marici",
-        "#marutam",
-        "#nakshatranam",
-        "#sasi",
-        "#bg10"
-      ],
-      "yogaSutraConnection": "YS I.23 (īśvara-praṇidhānād vā)",
-      "sankhyaConcepts": [
-        "puruṣa-prakṛti-distinction",
-        "vibhūti-recognition",
-        "light-as-manifestation-of-consciousness"
-      ],
-      "keyTerms": [
-        "ādityānām",
-        "viṣṇuḥ",
-        "jyotiṣāṁ",
-        "raviḥ",
-        "aṁśumān",
-        "marīciḥ",
-        "marutām",
-        "asmi",
-        "nakṣatrāṇām",
-        "śaśī"
-      ]
-    },
-    {
-      "date": "2026-07-19",
-      "source": "BG 9.10",
-      "chapter": 9,
-      "verse": 10,
-      "text": "Bhagavad Gita",
-      "sanskrit": "मयाध्यक्षेण प्रकृति: सूयते सचराचरम् ।\n      हेतुनानेन कौन्तेय जगद्विपरिवर्तते ॥ १० ॥",
-      "transliteration": "mayādhyakṣeṇa prakṛtiḥ\n      sūyate sa-carācaram\n      hetunānena kaunteya\n      jagad viparivartate",
-      "translation": "This material nature, which is one of My energies, is working under My direction, O son of Kuntī, producing all moving and nonmoving beings. Under its rule this manifestation is created and annihilated again and again.",
-      "tithi": "Śukla Pakṣa Ṣaṣṭhī (until 6:00 PM EDT), then Śukla Pakṣa Saptami",
-      "nakshatra": "Uttara Phalgunī (until 8:41 AM EDT), then Hasta",
-      "yoga": "Parigha (until 9:52 AM EDT), then Śiva",
-      "themes": [
-        "divine-superintendence",
-        "hasta-nakshatra",
-        "savitri",
-        "siva-yoga",
-        "non-doer-recognition",
-        "mayadhyaksena",
-        "prakriti",
-        "adhyaksa",
-        "hetunana"
-      ]
-    },
-    {
-      "date": "2026-07-18",
-      "source": "BG 9.13",
-      "chapter": 9,
-      "verse": 13,
-      "text": "Bhagavad Gita",
-      "sanskrit": "महात्मानस्तु मां पार्थ दैवीं प्रकृतिमाश्रिता: ।\n      भजन्त्यनन्यमनसो ज्ञात्वा भूतादिमव्ययम् ॥ १३ ॥",
-      "transliteration": "",
-      "translation": "O son of Pṛthā, those who are not deluded, the great souls, are under the protection of the divine nature. They are fully engaged in devotional service because they know Me as the Supreme Personality of Godhead, original and inexhaustible.",
-      "tithi": "Śukla Pakṣa Pañcamī (until 06:13 PM EDT), then Śukla Pakṣa Ṣaṣṭhī",
-      "nakshatra": "Pūrva Phalgunī (until 08:30 AM EDT), then Uttara Phalgunī",
-      "yoga": "Variyān (until 11:15 AM EDT), then Parigha",
-      "themes": [
-        "mahatma",
-        "divine-nature",
-        "warrior-devotion",
-        "excellent-action",
-        "obstacle-removal"
-      ],
-      "tags": [
-        "#ananyam",
-        "#avyayam",
-        "#bg9",
-        "#bhutadim",
-        "#daivi",
-        "#jnativa",
-        "#mahatma",
-        "#prakriti"
-      ],
-      "yogaSutraConnection": "YS I.23",
-      "sankhyaConcepts": [
-        "prakriti",
-        "purusha",
-        "gunas",
-        "liberation",
-        "divine-nature",
-        "sattva"
-      ],
-      "keyTerms": [
-        "mahatma",
-        "daivi",
-        "prakriti",
-        "ananyam",
-        "jnativa",
-        "bhutadim",
-        "avyayam"
-      ]
-    },
-    {
-      "date": "2026-07-17",
-      "source": "BG 9.17",
-      "chapter": 9,
-      "verse": 17,
-      "text": "Bhagavad Gita",
-      "tithi": "Śukla Pakṣa Caturthī (until 07:12 PM EDT), then Śukla Pakṣa Pañcamī",
-      "nakshatra": "Maghā (until 09:04 AM EDT), then Pūrva Phalgunī",
-      "yoga": "Vyatipāta (until 01:15 PM EDT), then Variyan",
-      "themes": [
-        "fatherhood",
-        "motherhood",
-        "support",
-        "grandfatherly-wisdom",
-        "knowledge",
-        "purification",
-        "primordial-vibration",
-        "vedas"
-      ],
-      "tags": [
-        "#pita",
-        "#mata",
-        "#dhata",
-        "#pitamaha",
-        "#vedyam",
-        "#pavitram",
-        "#om",
-        "#vedas",
-        "#bg9"
-      ],
-      "yogaSutraConnection": "YS I.24, YS I.27",
-      "sankhyaConcepts": [
-        "puruṣa-prakṛti-non-duality",
-        "consciousness-in-relationship",
-        "ahaṅkāra-transcendence",
-        "buddhi-recognition"
-      ],
-      "keyTerms": [
-        "pitāham",
-        "mātā",
-        "dhātā",
-        "pitāmahaḥ",
-        "vedyam",
-        "pavitram",
-        "oṁ-kāra",
-        "ṛk",
-        "sāma",
-        "yajuḥ"
-      ]
-    },
-    {
-      "date": "2026-07-17",
-      "source": "BG 9.17",
-      "chapter": 9,
-      "verse": 17,
-      "text": "Bhagavad Gita",
-      "tithi": "Śukla Pakṣa Caturthī (until 07:12 PM EDT), then Śukla Pakṣa Pañcamī",
-      "nakshatra": "Maghā (until 09:04 AM EDT), then Pūrva Phalgunī",
-      "yoga": "Vyatipāta (until 01:15 PM EDT), then Variyan",
-      "themes": [
-        "fatherhood",
-        "motherhood",
-        "support",
-        "grandfather",
-        "knowledge",
-        "purification",
-        "om",
-        "vedas",
-        "relationships"
-      ],
-      "tags": [
-        "#pita",
-        "#mata",
-        "#dhata",
-        "#pitamaha",
-        "#vedyam",
-        "#pavitram",
-        "#om",
-        "#vedas",
-        "#bg9",
-        "#relationships"
-      ],
-      "yogaSutraConnection": "YS I.24, YS I.27",
-      "sankhyaConcepts": [
-        "puruṣa-prakṛti-samanvaya",
-        "ātma-bhūta-sambandha"
-      ],
-      "keyTerms": [
-        "pitāham",
-        "mātā",
-        "dhātā",
-        "pitāmahaḥ",
-        "vedyam",
-        "pavitram",
-        "oṁ-kāra",
-        "ṛk",
-        "sāma",
-        "yajuḥ"
-      ]
-    },
-    {
       "date": "2026-07-16",
       "source": "BG 9.5",
       "chapter": 9,
@@ -238,27 +16,27 @@
         "cosmic transit"
       ],
       "tags": [
-        "#aiśvaram",
+        "#ai\u015bvaram",
         "#pervasion",
         "#transcendence",
         "#paradox",
-        "#bhedābheda",
-        "#karkasankrānti",
+        "#bhed\u0101bheda",
+        "#karkasankr\u0101nti",
         "#bg9"
       ],
       "yogaSutraConnection": "YS I.24, YS I.40, YS I.26",
       "sankhyaConcepts": [
-        "puruṣa-viśeṣa",
-        "prakṛti",
-        "bhedābheda",
-        "aparāmṛṣṭa"
+        "puru\u1e63a-vi\u015be\u1e63a",
+        "prak\u1e5bti",
+        "bhed\u0101bheda",
+        "apar\u0101m\u1e5b\u1e63\u1e6da"
       ],
       "keyTerms": [
-        "yogam aiśvaram",
-        "bhūta-bhṛt",
-        "na bhūta-sthaḥ",
-        "bhūta-bhāvanaḥ",
-        "mamātmā"
+        "yogam ai\u015bvaram",
+        "bh\u016bta-bh\u1e5bt",
+        "na bh\u016bta-stha\u1e25",
+        "bh\u016bta-bh\u0101vana\u1e25",
+        "mam\u0101tm\u0101"
       ]
     },
     {
@@ -267,9 +45,9 @@
       "chapter": 9,
       "verse": 26,
       "text": "Bhagavad Gita",
-      "tithi": "Sukla Paksha Dwitiya→Tritiya",
-      "nakshatra": "Pushya→Ashlesha",
-      "yoga": "Vajra→Siddhi",
+      "tithi": "Sukla Paksha Dwitiya\u2192Tritiya",
+      "nakshatra": "Pushya\u2192Ashlesha",
+      "yoga": "Vajra\u2192Siddhi",
       "themes": [
         "DivineAccessibility",
         "SimpleOffering",
@@ -286,17 +64,17 @@
       ],
       "yogaSutraConnection": "YS 1.23",
       "sankhyaConcepts": [
-        "Bhakti as bridge between puruṣa and supreme puruṣa",
-        "Simple offerings as sattvic prakṛti vehicles for divine connection"
+        "Bhakti as bridge between puru\u1e63a and supreme puru\u1e63a",
+        "Simple offerings as sattvic prak\u1e5bti vehicles for divine connection"
       ],
       "keyTerms": [
         "bhakti",
-        "patraṁ",
-        "puṣpaṁ",
-        "phalaṁ",
-        "toyaṁ",
+        "patra\u1e41",
+        "pu\u1e63pa\u1e41",
+        "phala\u1e41",
+        "toya\u1e41",
         "prayacchati",
-        "aśnāmi"
+        "a\u015bn\u0101mi"
       ]
     },
     {
@@ -305,7 +83,7 @@
       "chapter": 9,
       "verse": 7,
       "text": "Bhagavad Gita",
-      "tithi": "Amāvāsyā (New Moon) — Bhaumvati Amavasya",
+      "tithi": "Am\u0101v\u0101sy\u0101 (New Moon) \u2014 Bhaumvati Amavasya",
       "nakshatra": "Punarvasu (until 02:39 PM), then Pushya",
       "yoga": "Harshana (until 10:34 PM), then Vajra",
       "themes": [
@@ -323,16 +101,16 @@
       ],
       "yogaSutraConnection": "YS 3.9-3.12",
       "sankhyaConcepts": [
-        "Prakṛti cyclical rest (pralaya) and activation (sṛṣṭi): guṇas in equilibrium then re-manifest by Divine will",
-        "Nirodha-pariṇāma as microcosmic dissolution: outgoing saṁskāras dissolve, restraining saṁskāras arise"
+        "Prak\u1e5bti cyclical rest (pralaya) and activation (s\u1e5b\u1e63\u1e6di): gu\u1e47as in equilibrium then re-manifest by Divine will",
+        "Nirodha-pari\u1e47\u0101ma as microcosmic dissolution: outgoing sa\u1e41sk\u0101ras dissolve, restraining sa\u1e41sk\u0101ras arise"
       ],
       "keyTerms": [
-        "prakṛti",
+        "prak\u1e5bti",
         "kalpa",
-        "kalpa-kṣaya",
-        "visṛjāmi",
-        "sarva-bhūtāni",
-        "māmikām"
+        "kalpa-k\u1e63aya",
+        "vis\u1e5bj\u0101mi",
+        "sarva-bh\u016bt\u0101ni",
+        "m\u0101mik\u0101m"
       ]
     },
     {
@@ -341,9 +119,9 @@
       "chapter": 9,
       "verse": 22,
       "text": "Bhagavad Gita",
-      "tithi": "Kṛṣṇa Pakṣa Caturdaśī (until 09:19 AM), then Amāvāsyā",
-      "nakshatra": "Ārdrā (until 05:21 PM), then Punarvasu",
-      "yoga": "Dhruva (until 06:30 AM), then Vyāghāta (until 02:26 AM next day), then Harshana",
+      "tithi": "K\u1e5b\u1e63\u1e47a Pak\u1e63a Caturda\u015b\u012b (until 09:19 AM), then Am\u0101v\u0101sy\u0101",
+      "nakshatra": "\u0100rdr\u0101 (until 05:21 PM), then Punarvasu",
+      "yoga": "Dhruva (until 06:30 AM), then Vy\u0101gh\u0101ta (until 02:26 AM next day), then Harshana",
       "themes": [
         "ReciprocalGrace",
         "ExclusiveDevotion",
@@ -356,16 +134,16 @@
       ],
       "yogaSutraConnection": "YS 1.23",
       "sankhyaConcepts": [
-        "Prakṛti's transformations: sattva, rajas, tamas fluctuations mirroring nakṣatra/yoga changes; puruṣa as steady witness",
-        "Inner mechanism: bhakti buddhi discriminates between transient prakṛti and permanent puruṣa, increasing sattva and stabilizing antahkaraṇa, allowing divine grace to flow"
+        "Prak\u1e5bti's transformations: sattva, rajas, tamas fluctuations mirroring nak\u1e63atra/yoga changes; puru\u1e63a as steady witness",
+        "Inner mechanism: bhakti buddhi discriminates between transient prak\u1e5bti and permanent puru\u1e63a, increasing sattva and stabilizing antahkara\u1e47a, allowing divine grace to flow"
       ],
       "keyTerms": [
         "ananya",
         "yoga",
-        "kṣema",
+        "k\u1e63ema",
         "bhakti",
-        "īśvara",
-        "praṇidhānā"
+        "\u012b\u015bvara",
+        "pra\u1e47idh\u0101n\u0101"
       ]
     },
     {
@@ -391,18 +169,18 @@
       ],
       "yogaSutraConnection": "YS I.23",
       "sankhyaConcepts": [
-        "puruṣa-prakṛti dualism",
-        "devotion without vidhi leads to avidhi-pūrvakam (improper method)",
+        "puru\u1e63a-prak\u1e5bti dualism",
+        "devotion without vidhi leads to avidhi-p\u016brvakam (improper method)",
         "the regulative principles (vidhi) are the guidance system for bhakti",
         "all deities are different officers/directors in the Supreme Lord's government",
         "worship must be offered to the Supreme Lord only to satisfy all divine authorities"
       ],
       "keyTerms": [
-        "anya-devatā-bhakta ─ devotee of other gods; hacker metaphor: someone using unauthorized plugins",
-        "śraddhā ─ faith, conviction; hacker metaphor: root access certificate",
-        "avidhi-pūrvakam ─ not according to rule; hacker metaphor: improper system call",
-        "eva ─ indeed, only; hacker metaphor: strict equality operator (===)",
-        "yajante ─ they worship; hacker metaphor: they execute the worship process"
+        "anya-devat\u0101-bhakta \u2500 devotee of other gods; hacker metaphor: someone using unauthorized plugins",
+        "\u015braddh\u0101 \u2500 faith, conviction; hacker metaphor: root access certificate",
+        "avidhi-p\u016brvakam \u2500 not according to rule; hacker metaphor: improper system call",
+        "eva \u2500 indeed, only; hacker metaphor: strict equality operator (===)",
+        "yajante \u2500 they worship; hacker metaphor: they execute the worship process"
       ]
     },
     {
@@ -428,22 +206,22 @@
       ],
       "yogaSutraConnection": "YS I.23",
       "sankhyaConcepts": [
-        "puruṣa-prakṛti dualism",
+        "puru\u1e63a-prak\u1e5bti dualism",
         "devotion as the means to accept simple offerings",
-        "the Lord accepts offerings based on bhāva (feeling), not material value",
+        "the Lord accepts offerings based on bh\u0101va (feeling), not material value",
         "all we possess is ultimately on loan from the divine",
         "returning a fraction with gratitude completes the bhakti cycle"
       ],
       "keyTerms": [
-        "patram ─ a leaf; hacker metaphor: the minimal viable product (MVP) of offering.",
-        "puṣpam ─ a flower; hacker metaphor: a beautiful but transient UI element.",
-        "phalam ─ a fruit; hacker metaphor: the usable output of a process.",
-        "toyam ─ water; hacker metaphor: the universal solvent that enables all reactions.",
-        "bhaktyā ─ with devotion; hacker metaphor: running a process with root privileges and pure intent.",
-        "prayacchati ─ offers; hacker metaphor: executing the transfer of ownership.",
-        "bhakti-upahṛtam ─ offered in devotion; hacker metaphor: a digitally signed package guaranteeing authenticity.",
-        "aśnāmi ─ I accept; hacker metaphor: the server accepting a valid request after authentication.",
-        "prayata-ātmanaḥ ─ from one in pure consciousness; hacker metaphor: a clean environment build with no contaminated dependencies."
+        "patram \u2500 a leaf; hacker metaphor: the minimal viable product (MVP) of offering.",
+        "pu\u1e63pam \u2500 a flower; hacker metaphor: a beautiful but transient UI element.",
+        "phalam \u2500 a fruit; hacker metaphor: the usable output of a process.",
+        "toyam \u2500 water; hacker metaphor: the universal solvent that enables all reactions.",
+        "bhakty\u0101 \u2500 with devotion; hacker metaphor: running a process with root privileges and pure intent.",
+        "prayacchati \u2500 offers; hacker metaphor: executing the transfer of ownership.",
+        "bhakti-upah\u1e5btam \u2500 offered in devotion; hacker metaphor: a digitally signed package guaranteeing authenticity.",
+        "a\u015bn\u0101mi \u2500 I accept; hacker metaphor: the server accepting a valid request after authentication.",
+        "prayata-\u0101tmana\u1e25 \u2500 from one in pure consciousness; hacker metaphor: a clean environment build with no contaminated dependencies."
       ]
     },
     {
@@ -468,21 +246,21 @@
       ],
       "yogaSutraConnection": "YS II.52",
       "sankhyaConcepts": [
-        "puruṣa-prakṛti dualism",
+        "puru\u1e63a-prak\u1e5bti dualism",
         "simultaneous immanence and transcendence",
         "the Lord pervades all through His energy yet remains distinct",
         "realization comes through pure devotional service",
         "avoids both impersonalism and anthropomorphism"
       ],
       "keyTerms": [
-        "avyakta-mūrtinā ─ by the unmanifested form; hacker metaphor: running a process in background mode without visible UI.",
-        "mat-sthāni ─ situated in Me; hacker metaphor: processes running under a privileged user account.",
-        "sarva-bhūtāni ─ all living beings; hacker metaphor: all system processes and services.",
-        "avasthitaḥ ─ situated, located, existing; hacker metaphor: a process bound to a specific resource or namespace.",
-        "mayā ─ by Me; hacker metaphor: executed with root privileges and system-level access.",
-        "tatam ─ pervaded, spread throughout; hacker metaphor: a daemon service listening on all interfaces (0.0.0.0).",
-        "sarvaṁ ─ all, everything; hacker metaphor: the entire filesystem or network scope.",
-        "jagat ─ universe, world, cosmic manifestation; hacker metaphor: the production environment or global system state."
+        "avyakta-m\u016brtin\u0101 \u2500 by the unmanifested form; hacker metaphor: running a process in background mode without visible UI.",
+        "mat-sth\u0101ni \u2500 situated in Me; hacker metaphor: processes running under a privileged user account.",
+        "sarva-bh\u016bt\u0101ni \u2500 all living beings; hacker metaphor: all system processes and services.",
+        "avasthita\u1e25 \u2500 situated, located, existing; hacker metaphor: a process bound to a specific resource or namespace.",
+        "may\u0101 \u2500 by Me; hacker metaphor: executed with root privileges and system-level access.",
+        "tatam \u2500 pervaded, spread throughout; hacker metaphor: a daemon service listening on all interfaces (0.0.0.0).",
+        "sarva\u1e41 \u2500 all, everything; hacker metaphor: the entire filesystem or network scope.",
+        "jagat \u2500 universe, world, cosmic manifestation; hacker metaphor: the production environment or global system state."
       ]
     },
     {
@@ -491,9 +269,9 @@
       "chapter": 9,
       "verse": 3,
       "text": "Bhagavad Gita",
-      "tithi": "Kṛṣṇa Pakṣa Daśamī (until 22:46), then Ekādaśī",
-      "nakshatra": "Bhāraṇī (until 10:45 AM next day), then Kṛttikā",
-      "yoga": "Dhṛti (until 21:44), then Śūla",
+      "tithi": "K\u1e5b\u1e63\u1e47a Pak\u1e63a Da\u015bam\u012b (until 22:46), then Ek\u0101da\u015b\u012b",
+      "nakshatra": "Bh\u0101ra\u1e47\u012b (until 10:45 AM next day), then K\u1e5bttik\u0101",
+      "yoga": "Dh\u1e5bti (until 21:44), then \u015a\u016bla",
       "themes": [
         "FaithEssential",
         "DoubtBlocksDevotion",
@@ -506,13 +284,13 @@
       ],
       "yogaSutraConnection": "YS I.20",
       "sankhyaConcepts": [
-        "Prakṛti's transformations: guṇas fluctuate with nakṣatra/yoga; puruṣa as steady witness",
-        "Inner mechanism: bhakti buddhi discriminates transient prakṛti from permanent puruṣa, increasing sattva and stabilizing antahkaraṇa, allowing divine grace to flow"
+        "Prak\u1e5bti's transformations: gu\u1e47as fluctuate with nak\u1e63atra/yoga; puru\u1e63a as steady witness",
+        "Inner mechanism: bhakti buddhi discriminates transient prak\u1e5bti from permanent puru\u1e63a, increasing sattva and stabilizing antahkara\u1e47a, allowing divine grace to flow"
       ],
       "keyTerms": [
-        "śraddhā",
+        "\u015braddh\u0101",
         "dharma",
-        "mṛtyu-saṁsāra",
+        "m\u1e5btyu-sa\u1e41s\u0101ra",
         "parantapa",
         "nivartante"
       ]
@@ -523,7 +301,7 @@
       "chapter": 9,
       "verse": 22,
       "text": "Bhagavad Gita",
-      "tithi": "Kṛṣṇa Pakṣa Aṣṭamī (until 12:21 PM), then Navamī",
+      "tithi": "K\u1e5b\u1e63\u1e47a Pak\u1e63a A\u1e63\u1e6dam\u012b (until 12:21 PM), then Navam\u012b",
       "nakshatra": "Revati (until 16:00), then Ashwini",
       "yoga": "Atiganda (obstacle) until 12:38 PM), then Sukarma (virtuous)",
       "themes": [
@@ -538,15 +316,15 @@
       ],
       "yogaSutraConnection": "YS I.23",
       "sankhyaConcepts": [
-        "Prakṛti's transformations: guṇas fluctuate with nakṣatra/yoga; puruṣa as steady witness",
-        "Inner mechanism: bhakti buddhi discriminates transient prakṛti from permanent puruṣa, increasing sattva and stabilizing antahkaraṇa, allowing divine grace to flow"
+        "Prak\u1e5bti's transformations: gu\u1e47as fluctuate with nak\u1e63atra/yoga; puru\u1e63a as steady witness",
+        "Inner mechanism: bhakti buddhi discriminates transient prak\u1e5bti from permanent puru\u1e63a, increasing sattva and stabilizing antahkara\u1e47a, allowing divine grace to flow"
       ],
       "keyTerms": [
         "ananya",
         "yoga",
-        "kṣema",
-        "īśvara",
-        "praṇidhānā"
+        "k\u1e63ema",
+        "\u012b\u015bvara",
+        "pra\u1e47idh\u0101n\u0101"
       ]
     },
     {
@@ -555,7 +333,7 @@
       "chapter": 9,
       "verse": 27,
       "text": "Bhagavad Gita",
-      "tithi": "Kṛṣṇa Pakṣa Aṣṭamī (until 02:51 AM July 8), then Navamī",
+      "tithi": "K\u1e5b\u1e63\u1e47a Pak\u1e63a A\u1e63\u1e6dam\u012b (until 02:51 AM July 8), then Navam\u012b",
       "nakshatra": "Uttara Bhadrapada (until 06:54 AM July 7), then Revati (until 06:30 AM July 8)",
       "yoga": "Atiganda (obstacle-removing) until 03:07 AM July 8), then Sukarman (virtuous)",
       "themes": [
@@ -570,16 +348,16 @@
       ],
       "yogaSutraConnection": "YS I.23",
       "sankhyaConcepts": [
-        "Prakṛti's transformations: guṇas fluctuate with nakṣatra/yoga; puruṣa as steady witness",
-        "Inner mechanism: bhakti buddhi discriminates transient prakṛti from permanent puruṣa, increasing sattva and stabilizing antahkaraṇa, allowing divine grace to flow"
+        "Prak\u1e5bti's transformations: gu\u1e47as fluctuate with nak\u1e63atra/yoga; puru\u1e63a as steady witness",
+        "Inner mechanism: bhakti buddhi discriminates transient prak\u1e5bti from permanent puru\u1e63a, increasing sattva and stabilizing antahkara\u1e47a, allowing divine grace to flow"
       ],
       "keyTerms": [
         "yaj",
-        "dadāsi",
+        "dad\u0101si",
         "tapasyasi",
-        "arpaṇam",
-        "īśvara",
-        "praṇidhānā"
+        "arpa\u1e47am",
+        "\u012b\u015bvara",
+        "pra\u1e47idh\u0101n\u0101"
       ]
     },
     {
@@ -588,7 +366,7 @@
       "chapter": 9,
       "verse": 19,
       "text": "Bhagavad Gita",
-      "tithi": "Kṛṣṇa Pakṣa Saptamī (Waning Moon 7th) - Ruled by Surya",
+      "tithi": "K\u1e5b\u1e63\u1e47a Pak\u1e63a Saptam\u012b (Waning Moon 7th) - Ruled by Surya",
       "nakshatra": "Uttara Bhadrapada (from 06:37 AM) - Ruled by Ahirbudhnya",
       "yoga": "Sobhana (until 06:20 AM) then Atiganda (from 06:20 AM)",
       "themes": [
@@ -603,14 +381,14 @@
       ],
       "yogaSutraConnection": "YS II.48",
       "sankhyaConcepts": [
-        "Prakṛti's transformations: guṇas fluctuate with nakṣatra/yoga; puruṣa as steady witness",
-        "Inner mechanism: bhakti buddhi discriminates transient prakṛti from permanent puruṣa, increasing sattva and stabilizing antahkaraṇa, allowing divine grace to flow"
+        "Prak\u1e5bti's transformations: gu\u1e47as fluctuate with nak\u1e63atra/yoga; puru\u1e63a as steady witness",
+        "Inner mechanism: bhakti buddhi discriminates transient prak\u1e5bti from permanent puru\u1e63a, increasing sattva and stabilizing antahkara\u1e47a, allowing divine grace to flow"
       ],
       "keyTerms": [
-        "tapā",
-        "varṣa",
-        "amṛta",
-        "mṛtyu",
+        "tap\u0101",
+        "var\u1e63a",
+        "am\u1e5bta",
+        "m\u1e5btyu",
         "sat",
         "asat"
       ]
@@ -621,7 +399,7 @@
       "chapter": 9,
       "verse": 2,
       "text": "Bhagavad Gita",
-      "tithi": "Krishna Paksha Shashthi (Waning Moon 6th) — Jul 05 04:01 AM – Jul 06 04:17 AM",
+      "tithi": "Krishna Paksha Shashthi (Waning Moon 6th) \u2014 Jul 05 04:01 AM \u2013 Jul 06 04:17 AM",
       "nakshatra": "Shatabhisha (until 05:42 AM), then Purva Bhadrapada",
       "yoga": "Ayushman (until 07:09 AM), then Saubhagya",
       "themes": [
@@ -640,14 +418,14 @@
       "yogaSutraConnection": "YS I.49",
       "sankhyaConcepts": [
         "Buddhi as sovereign discriminating purusha from prakriti",
-        "Direct perception (pratyakṣāvagamaṁ) arises when buddhi rests in its true nature"
+        "Direct perception (pratyak\u1e63\u0101vagama\u1e41) arises when buddhi rests in its true nature"
       ],
       "keyTerms": [
-        "rāja-vidyā",
-        "rāja-guhyam",
+        "r\u0101ja-vidy\u0101",
+        "r\u0101ja-guhyam",
         "pavitram",
         "uttamam",
-        "pratyakṣāvagamaṁ",
+        "pratyak\u1e63\u0101vagama\u1e41",
         "avyayam"
       ]
     },
@@ -657,7 +435,7 @@
       "chapter": 9,
       "verse": 30,
       "text": "Bhagavad Gita",
-      "tithi": "Krishna Paksha Panchami (Waning Moon 5th) — Jul 04 03:10 AM – Jul 05 04:01 AM",
+      "tithi": "Krishna Paksha Panchami (Waning Moon 5th) \u2014 Jul 04 03:10 AM \u2013 Jul 05 04:01 AM",
       "nakshatra": "Shatabhisha (until 05:42 AM)",
       "yoga": "Prithi (until 07:31 AM), then Ayushman",
       "themes": [
@@ -676,14 +454,14 @@
       "yogaSutraConnection": "YS I.33",
       "sankhyaConcepts": [
         "Bhakti-yoga as a \"kernel override\" that supersedes karmic programming",
-        "Purity (pavitratā) as a top-down purification granted by divine grace"
+        "Purity (pavitrat\u0101) as a top-down purification granted by divine grace"
       ],
       "keyTerms": [
-        "sudurācāra",
+        "sudur\u0101c\u0101ra",
         "ananya-bhakti",
         "pavitra",
-        "jñāna-vīra",
-        "darśana",
+        "j\u00f1\u0101na-v\u012bra",
+        "dar\u015bana",
         "bhakti-yoga"
       ]
     },
@@ -712,20 +490,20 @@
       ],
       "yogaSutraConnection": "YS I.2",
       "sankhyaConcepts": [
-        "puruṣa‑prakṛti dualism",
-        "the material world as duḥkhālayam (place of misery)",
+        "puru\u1e63a\u2011prak\u1e5bti dualism",
+        "the material world as du\u1e25kh\u0101layam (place of misery)",
         "bondage from false identification as enjoyer",
         "liberation through envy-free consciousness",
-        "the steady mind (sthira citta) as sattva‑prakṛti harmony"
+        "the steady mind (sthira citta) as sattva\u2011prak\u1e5bti harmony"
       ],
       "keyTerms": [
-        "śrī-bhagavān uvāca — the Supreme Personality of Godhead said; hacker metaphor: kernel maintainer granting access based on intent",
-        "idaṁ tu te guhya-tamaṁ — this most confidential knowledge; hacker metaphor: root access to divine mainframe",
-        "pravakṣyāmy anasūyave — I will speak to the non-envious; hacker metaphor: security clearance based on intent",
-        "jñānaṁ vijñāna-sahitam — knowledge combined with realized knowledge; hacker metaphor: read-only access plus root execution",
-        "yaj jñātvā mokṣyase — by knowing which you will be liberated; hacker metaphor: segmentation fault resolved by correcting false identification",
-        "śubhāt — from misery; hacker metaphor: segmentation fault (SIGSEGV) from invalid memory access",
-        "anasūyave — without envy; hacker metaphor: absence of malicious intent (envy) as the 'password'"
+        "\u015br\u012b-bhagav\u0101n uv\u0101ca \u2014 the Supreme Personality of Godhead said; hacker metaphor: kernel maintainer granting access based on intent",
+        "ida\u1e41 tu te guhya-tama\u1e41 \u2014 this most confidential knowledge; hacker metaphor: root access to divine mainframe",
+        "pravak\u1e63y\u0101my anas\u016byave \u2014 I will speak to the non-envious; hacker metaphor: security clearance based on intent",
+        "j\u00f1\u0101na\u1e41 vij\u00f1\u0101na-sahitam \u2014 knowledge combined with realized knowledge; hacker metaphor: read-only access plus root execution",
+        "yaj j\u00f1\u0101tv\u0101 mok\u1e63yase \u2014 by knowing which you will be liberated; hacker metaphor: segmentation fault resolved by correcting false identification",
+        "\u015bubh\u0101t \u2014 from misery; hacker metaphor: segmentation fault (SIGSEGV) from invalid memory access",
+        "anas\u016byave \u2014 without envy; hacker metaphor: absence of malicious intent (envy) as the 'password'"
       ]
     },
     {
@@ -734,9 +512,9 @@
       "chapter": 9,
       "verse": 2,
       "text": "Bhagavad Gita",
-      "tithi": "Krishna Paksha Tritiya (12:08 AM – 01:50 AM)",
-      "nakshatra": "Śravaṇa (until 02:16 AM), then Dhaniṣṭha",
-      "yoga": "Vaidhṛti (until 07:08 AM), then Viṣkambha",
+      "tithi": "Krishna Paksha Tritiya (12:08 AM \u2013 01:50 AM)",
+      "nakshatra": "\u015arava\u1e47a (until 02:16 AM), then Dhani\u1e63\u1e6dha",
+      "yoga": "Vaidh\u1e5bti (until 07:08 AM), then Vi\u1e63kambha",
       "themes": [
         "KingOfEducation",
         "ConfidentialKnowledge",
@@ -755,16 +533,16 @@
       "yogaSutraConnection": "YS I.1",
       "sankhyaConcepts": [
         "Buddhi as sovereign discriminating purusha from prakriti",
-        "Direct perception (pratyakṣāvagamaṁ) arises when buddhi rests as witness"
+        "Direct perception (pratyak\u1e63\u0101vagama\u1e41) arises when buddhi rests as witness"
       ],
       "keyTerms": [
-        "rāja-vidyā",
-        "rāja-guhyaṁ",
+        "r\u0101ja-vidy\u0101",
+        "r\u0101ja-guhya\u1e41",
         "pavitram",
         "uttamam",
-        "pratyakṣāvagamaṁ",
-        "dharmyaṁ",
-        "su-sukhaṁ",
+        "pratyak\u1e63\u0101vagama\u1e41",
+        "dharmya\u1e41",
+        "su-sukha\u1e41",
         "avyayam"
       ]
     },
@@ -774,9 +552,9 @@
       "chapter": 8,
       "verse": 11,
       "text": "Bhagavad Gita",
-      "tithi": "Krishna Paksha Dwitiya (10:08 PM – 12:08 AM)",
-      "nakshatra": "Uttara Āṣāḍhā (until 11:57 AM), then Śravaṇa",
-      "yoga": "Indra (until 06:34 AM), then Vaidhṛti",
+      "tithi": "Krishna Paksha Dwitiya (10:08 PM \u2013 12:08 AM)",
+      "nakshatra": "Uttara \u0100\u1e63\u0101\u1e0dh\u0101 (until 11:57 AM), then \u015arava\u1e47a",
+      "yoga": "Indra (until 06:34 AM), then Vaidh\u1e5bti",
       "themes": [
         "OmAndBrahman",
         "VedicKnowledge",
@@ -793,19 +571,19 @@
       ],
       "yogaSutraConnection": "YS I.27",
       "sankhyaConcepts": [
-        "Om as a kernel module reconfiguring consciousness to perceive puruṣa",
-        "Liberation (kaivalya) as realizing puruṣa’s complete separation from prakṛti"
+        "Om as a kernel module reconfiguring consciousness to perceive puru\u1e63a",
+        "Liberation (kaivalya) as realizing puru\u1e63a\u2019s complete separation from prak\u1e5bti"
       ],
       "keyTerms": [
-        "akṣara",
+        "ak\u1e63ara",
         "veda-vit",
-        "oṁ-kāra",
-        "yatayaḥ",
-        "vīta-rāgāḥ",
+        "o\u1e41-k\u0101ra",
+        "yataya\u1e25",
+        "v\u012bta-r\u0101g\u0101\u1e25",
         "brahmacarya",
         "pada",
-        "saṅgraheṇa",
-        "pravakṣye"
+        "sa\u1e45grahe\u1e47a",
+        "pravak\u1e63ye"
       ]
     },
     {
@@ -835,25 +613,25 @@
       ],
       "yogaSutraConnection": "YS I.12",
       "sankhyaConcepts": [
-        "puruṣa‑prakṛti dualism",
-        "the material world as duḥkhālayam (place of misery)",
-        "the living entity’s bondage to punar janma (repeated birth)",
-        "liberation as kaivalya (isolation of puruṣa)",
-        "the steady mind (sthira citta) as sattva‑prakṛti harmony"
+        "puru\u1e63a\u2011prak\u1e5bti dualism",
+        "the material world as du\u1e25kh\u0101layam (place of misery)",
+        "the living entity\u2019s bondage to punar janma (repeated birth)",
+        "liberation as kaivalya (isolation of puru\u1e63a)",
+        "the steady mind (sthira citta) as sattva\u2011prak\u1e5bti harmony"
       ],
       "keyTerms": [
-        "na — never; hacker metaphor: logical NOT operator negating the possibility of bewilderment",
-        "ete — these two; hacker metaphor: a bitmask representing the two distinct paths (śukla and kṛṣṇa)",
-        "sṛtī — paths, ways; hacker metaphor: execution branches in a conditional statement",
-        "pārtha — O son of Pṛthā (Arjuna); hacker metaphor: the root user seeking guidance from the kernel maintainer",
-        "jānan — even if he knows; hacker metaphor: a process that has read‑only access to the truth yet remains unaffected",
-        "yogī — the devotee of the Lord; hacker metaphor: a process with nice=-20, running at highest priority",
-        "muhyati — is bewildered; hacker metaphor: a segmentation fault (SIGSEGV) caused by accessing invalid memory",
-        "kaścana — any; hacker metaphor: a wildcard that matches any possible interrupt or signal",
-        "tasmāt — therefore; hacker metaphor: the inevitable consequence (return code 0) of a well‑written program",
-        "sarveṣu kāleṣu — at all times; hacker metaphor: a daemon process that runs continuously without interruption",
-        "yoga‑yuktaḥ — engaged in yoga (Kṛṣṇa consciousness); hacker metaphor: a process with CPU affinity locked to a single core (the Divine)",
-        "bhavārjuna — become, O Arjuna; hacker metaphor: the fork‑exec system call that creates a child process devoted to the Divine"
+        "na \u2014 never; hacker metaphor: logical NOT operator negating the possibility of bewilderment",
+        "ete \u2014 these two; hacker metaphor: a bitmask representing the two distinct paths (\u015bukla and k\u1e5b\u1e63\u1e47a)",
+        "s\u1e5bt\u012b \u2014 paths, ways; hacker metaphor: execution branches in a conditional statement",
+        "p\u0101rtha \u2014 O son of P\u1e5bth\u0101 (Arjuna); hacker metaphor: the root user seeking guidance from the kernel maintainer",
+        "j\u0101nan \u2014 even if he knows; hacker metaphor: a process that has read\u2011only access to the truth yet remains unaffected",
+        "yog\u012b \u2014 the devotee of the Lord; hacker metaphor: a process with nice=-20, running at highest priority",
+        "muhyati \u2014 is bewildered; hacker metaphor: a segmentation fault (SIGSEGV) caused by accessing invalid memory",
+        "ka\u015bcana \u2014 any; hacker metaphor: a wildcard that matches any possible interrupt or signal",
+        "tasm\u0101t \u2014 therefore; hacker metaphor: the inevitable consequence (return code 0) of a well\u2011written program",
+        "sarve\u1e63u k\u0101le\u1e63u \u2014 at all times; hacker metaphor: a daemon process that runs continuously without interruption",
+        "yoga\u2011yukta\u1e25 \u2014 engaged in yoga (K\u1e5b\u1e63\u1e47a consciousness); hacker metaphor: a process with CPU affinity locked to a single core (the Divine)",
+        "bhav\u0101rjuna \u2014 become, O Arjuna; hacker metaphor: the fork\u2011exec system call that creates a child process devoted to the Divine"
       ]
     },
     {
@@ -862,9 +640,9 @@
       "chapter": 8,
       "verse": 20,
       "text": "Bhagavad Gita",
-      "tithi": "Śukla Pakṣa Pūrṇimā",
-      "nakshatra": "Mūla→Pūrva Āṣāḍha",
-      "yoga": "Brahma→Indra Yoga",
+      "tithi": "\u015aukla Pak\u1e63a P\u016br\u1e47im\u0101",
+      "nakshatra": "M\u016bla\u2192P\u016brva \u0100\u1e63\u0101\u1e0dha",
+      "yoga": "Brahma\u2192Indra Yoga",
       "themes": [
         "EternalNature",
         "Transcendence",
@@ -882,15 +660,15 @@
       ],
       "yogaSutraConnection": "None",
       "sankhyaConcepts": [
-        "Transcendental nature (paraṁ bhāvaḥ) beyond puruṣa and prakṛti",
-        "Immutability of cit-śakti during pralaya"
+        "Transcendental nature (para\u1e41 bh\u0101va\u1e25) beyond puru\u1e63a and prak\u1e5bti",
+        "Immutability of cit-\u015bakti during pralaya"
       ],
       "keyTerms": [
         "avyakta",
-        "sanātana",
-        "paraṁ bhāvaḥ",
-        "cit-śakti",
-        "jīva",
+        "san\u0101tana",
+        "para\u1e41 bh\u0101va\u1e25",
+        "cit-\u015bakti",
+        "j\u012bva",
         "pralaya"
       ]
     },
@@ -900,9 +678,9 @@
       "chapter": 8,
       "verse": 13,
       "text": "Bhagavad Gita",
-      "tithi": "Śukla Pakṣa Pūrṇimā (Full Moon) — begins at 17:36 EDT",
-      "nakshatra": "Jyeṣṭhā (until 15:38 EDT), then Mūla",
-      "yoga": "Śukla (Purity) from 03:59 EDT to 04:55 EDT; then Brahma (Sacred) from 04:55 EDT to 05:48 EDT",
+      "tithi": "\u015aukla Pak\u1e63a P\u016br\u1e47im\u0101 (Full Moon) \u2014 begins at 17:36 EDT",
+      "nakshatra": "Jye\u1e63\u1e6dh\u0101 (until 15:38 EDT), then M\u016bla",
+      "yoga": "\u015aukla (Purity) from 03:59 EDT to 04:55 EDT; then Brahma (Sacred) from 04:55 EDT to 05:48 EDT",
       "themes": [
         "Om",
         "Liberation",
@@ -916,18 +694,18 @@
       ],
       "yogaSutraConnection": "YS I.27",
       "sankhyaConcepts": [
-        "The vibration of oṁ as a resonant frequency that disrupts citta‑vṛtti",
-        "Liberation (kaivalya) as realizing puruṣa’s complete separation from prakṛti"
+        "The vibration of o\u1e41 as a resonant frequency that disrupts citta\u2011v\u1e5btti",
+        "Liberation (kaivalya) as realizing puru\u1e63a\u2019s complete separation from prak\u1e5bti"
       ],
       "keyTerms": [
-        "oṁ",
-        "praṇava",
+        "o\u1e41",
+        "pra\u1e47ava",
         "brahma",
-        "anusmaraṇa",
-        "prayāti",
+        "anusmara\u1e47a",
+        "pray\u0101ti",
         "tyajan",
-        "dehaṁ",
-        "paramāṁ gatim"
+        "deha\u1e41",
+        "param\u0101\u1e41 gatim"
       ]
     },
     {
@@ -936,9 +714,9 @@
       "chapter": 8,
       "verse": 24,
       "text": "Bhagavad Gita",
-      "tithi": "Śukla Pakṣa Dvādaśī (until 15:13 EDT), then Trayodaśī",
-      "nakshatra": "Anurādhā (until 12:41 EDT), then Jyeṣṭhā",
-      "yoga": "Śubha (until 03:59 EDT Jun 28), then Śukla",
+      "tithi": "\u015aukla Pak\u1e63a Dv\u0101da\u015b\u012b (until 15:13 EDT), then Trayoda\u015b\u012b",
+      "nakshatra": "Anur\u0101dh\u0101 (until 12:41 EDT), then Jye\u1e63\u1e6dh\u0101",
+      "yoga": "\u015aubha (until 03:59 EDT Jun 28), then \u015aukla",
       "themes": [
         "AuspiciousDeath",
         "TranscendenceOfTime",
@@ -956,14 +734,14 @@
       ],
       "yogaSutraConnection": "YS I.3",
       "sankhyaConcepts": [
-        "Puruṣa operating independently of prakṛti configurations at death",
+        "Puru\u1e63a operating independently of prak\u1e5bti configurations at death",
         "Bhakta as kernel-level process bypassing material scheduling constraints"
       ],
       "keyTerms": [
         "agni",
         "jyoti",
-        "śukla",
-        "uttarāyaṇam",
+        "\u015bukla",
+        "uttar\u0101ya\u1e47am",
         "brahma",
         "brahma-vit"
       ]
@@ -997,31 +775,31 @@
       ],
       "yogaSutraConnection": "YS I.23",
       "sankhyaConcepts": [
-        "puruṣa‑prakṛti dualism",
-        "the material world as duḥkhālayam (place of misery)",
-        "the Supreme’s abode as paramā gati (ultimate destination)",
-        "the living entity’s bondage to punar janma (repeated birth)",
-        "liberation as saṁsiddhi (highest perfection)"
+        "puru\u1e63a\u2011prak\u1e5bti dualism",
+        "the material world as du\u1e25kh\u0101layam (place of misery)",
+        "the Supreme\u2019s abode as param\u0101 gati (ultimate destination)",
+        "the living entity\u2019s bondage to punar janma (repeated birth)",
+        "liberation as sa\u1e41siddhi (highest perfection)"
       ],
       "keyTerms": [
-        "vedeṣu",
-        "yajñeṣu",
-        "tapaḥsu",
+        "vede\u1e63u",
+        "yaj\u00f1e\u1e63u",
+        "tapa\u1e25su",
         "ca",
         "eva",
-        "dāneṣu",
+        "d\u0101ne\u1e63u",
         "yat",
-        "puṇya-phalam",
-        "pradiṣṭam",
+        "pu\u1e47ya-phalam",
+        "pradi\u1e63\u1e6dam",
         "atyeti",
         "tat sarvam",
         "idam",
-        "viditvā",
-        "yogī",
-        "paraṁ",
-        "sthānam",
+        "viditv\u0101",
+        "yog\u012b",
+        "para\u1e41",
+        "sth\u0101nam",
         "upaiti",
-        "ādyam"
+        "\u0101dyam"
       ]
     },
     {
@@ -1030,9 +808,9 @@
       "chapter": 8,
       "verse": 8,
       "text": "Bhagavad Gita",
-      "tithi": "Sukla Paksha Dashami→Ekadashi",
+      "tithi": "Sukla Paksha Dashami\u2192Ekadashi",
       "nakshatra": "Swati",
-      "yoga": "Siva→Siddha",
+      "yoga": "Siva\u2192Siddha",
       "themes": [
         "ConstantRemembrance",
         "Abhyasa",
@@ -1049,14 +827,14 @@
       ],
       "yogaSutraConnection": "YS I.12",
       "sankhyaConcepts": [
-        "Manas as an evolute of prakṛti",
-        "Abhyāsa as the method to still vṛttis"
+        "Manas as an evolute of prak\u1e5bti",
+        "Abhy\u0101sa as the method to still v\u1e5bttis"
       ],
       "keyTerms": [
-        "abhyāsa-yoga",
-        "cetasā",
-        "anya-gāminā",
-        "paramaṁ puruṣaṁ"
+        "abhy\u0101sa-yoga",
+        "cetas\u0101",
+        "anya-g\u0101min\u0101",
+        "parama\u1e41 puru\u1e63a\u1e41"
       ]
     },
     {
@@ -1097,25 +875,25 @@
       ],
       "yogaSutraConnection": "YS I.12, I.23",
       "sankhyaConcepts": [
-        "puruṣa‑prakṛti dualism",
-        "manas (mind) as an evolute of prakṛti",
-        "the three guṇas (sattva, rajas, tamas) as mental modulators",
-        "vṛttis (thought‑waves) as modifications of citta",
-        "abhyāsa (practice) as the method to still vṛttis",
-        "vairāgya (dispassion) as withdrawal from sense‑object craving",
-        "bhakti (devotion) as the offering of actions to the puruṣa",
-        "ananya‑cetā (undiverted mind) as ekatā (one‑pointedness)",
-        "puruṣa‑prāpti (attainment of the puruṣa) as the goal of yoga"
+        "puru\u1e63a\u2011prak\u1e5bti dualism",
+        "manas (mind) as an evolute of prak\u1e5bti",
+        "the three gu\u1e47as (sattva, rajas, tamas) as mental modulators",
+        "v\u1e5bttis (thought\u2011waves) as modifications of citta",
+        "abhy\u0101sa (practice) as the method to still v\u1e5bttis",
+        "vair\u0101gya (dispassion) as withdrawal from sense\u2011object craving",
+        "bhakti (devotion) as the offering of actions to the puru\u1e63a",
+        "ananya\u2011cet\u0101 (undiverted mind) as ekat\u0101 (one\u2011pointedness)",
+        "puru\u1e63a\u2011pr\u0101pti (attainment of the puru\u1e63a) as the goal of yoga"
       ],
       "keyTerms": [
-        "ananya‑cetāḥ",
-        "satataṁ",
-        "yo māṁ smarati",
-        "nityaśaḥ",
-        "tasyaahaṁ su‑labhaḥ",
-        "pārtha",
-        "nitya‑yuktasya yoginaḥ",
-        "yogiḥ"
+        "ananya\u2011cet\u0101\u1e25",
+        "satata\u1e41",
+        "yo m\u0101\u1e41 smarati",
+        "nitya\u015ba\u1e25",
+        "tasyaaha\u1e41 su\u2011labha\u1e25",
+        "p\u0101rtha",
+        "nitya\u2011yuktasya yogina\u1e25",
+        "yogi\u1e25"
       ]
     },
     {
@@ -1149,23 +927,23 @@
       ],
       "yogaSutraConnection": "YS 1.23",
       "sankhyaConcepts": [
-        "puruṣa-prakṛti dualism",
-        "the material world as duḥkhālayam (place of misery)",
-        "the Supreme’s abode as paramā gati (ultimate destination)",
-        "the living entity’s bondage to punar janma (repeated birth)",
-        "liberation as saṁsiddhi (highest perfection)"
+        "puru\u1e63a-prak\u1e5bti dualism",
+        "the material world as du\u1e25kh\u0101layam (place of misery)",
+        "the Supreme\u2019s abode as param\u0101 gati (ultimate destination)",
+        "the living entity\u2019s bondage to punar janma (repeated birth)",
+        "liberation as sa\u1e41siddhi (highest perfection)"
       ],
       "keyTerms": [
-        "mām",
+        "m\u0101m",
         "upetya",
         "punar janma",
-        "duḥkhālayam",
-        "aśāśvatam",
-        "nāpnuvanti",
-        "mahātmānaḥ",
-        "saṁsiddhiṁ",
-        "paramāṁ",
-        "gatāḥ"
+        "du\u1e25kh\u0101layam",
+        "a\u015b\u0101\u015bvatam",
+        "n\u0101pnuvanti",
+        "mah\u0101tm\u0101na\u1e25",
+        "sa\u1e41siddhi\u1e41",
+        "param\u0101\u1e41",
+        "gat\u0101\u1e25"
       ]
     },
     {
@@ -1199,20 +977,20 @@
       ],
       "yogaSutraConnection": "YS 1.23",
       "sankhyaConcepts": [
-        "puruṣa-prakṛti dualism",
-        "the material world as duḥkhālayam (place of misery)",
-        "the Supreme’s abode as paramā gati (ultimate destination)",
-        "the living entity’s bondage to punar janma (repeated birth)",
-        "liberation as saṁsiddhi (highest perfection)"
+        "puru\u1e63a-prak\u1e5bti dualism",
+        "the material world as du\u1e25kh\u0101layam (place of misery)",
+        "the Supreme\u2019s abode as param\u0101 gati (ultimate destination)",
+        "the living entity\u2019s bondage to punar janma (repeated birth)",
+        "liberation as sa\u1e41siddhi (highest perfection)"
       ],
       "keyTerms": [
-        "ananya-cetāḥ",
-        "satataṁ",
+        "ananya-cet\u0101\u1e25",
+        "satata\u1e41",
         "smarati",
-        "nityaśaḥ",
-        "su-labhaḥ",
+        "nitya\u015ba\u1e25",
+        "su-labha\u1e25",
         "nitya-yuktasya",
-        "yoginaḥ"
+        "yogina\u1e25"
       ]
     },
     {
@@ -1246,26 +1024,26 @@
         "#JnanaYoga",
         "#Sankhya"
       ],
-      "yogaSutraConnection": "YS I.12‑I.16",
+      "yogaSutraConnection": "YS I.12\u2011I.16",
       "sankhyaConcepts": [
-        "puruṣa-prakṛti dualism",
-        "the material world as duḥkhālayam (place of misery)",
-        "the Supreme’s abode as paramā gati (ultimate destination)",
-        "the living entity’s bondage to punar janma (repeated birth)",
-        "liberation as saṁsiddhi (highest perfection)"
+        "puru\u1e63a-prak\u1e5bti dualism",
+        "the material world as du\u1e25kh\u0101layam (place of misery)",
+        "the Supreme\u2019s abode as param\u0101 gati (ultimate destination)",
+        "the living entity\u2019s bondage to punar janma (repeated birth)",
+        "liberation as sa\u1e41siddhi (highest perfection)"
       ],
       "keyTerms": [
-        "ā-brahma-bhuvanāl",
-        "lokāḥ",
-        "punar āvartino",
-        "mām",
+        "\u0101-brahma-bhuvan\u0101l",
+        "lok\u0101\u1e25",
+        "punar \u0101vartino",
+        "m\u0101m",
         "upetya",
         "punar janma",
-        "duḥkhālayam",
-        "aśāśvatam",
-        "mahātmānaḥ",
-        "saṁsiddhiṁ",
-        "paramāṁ gatāḥ"
+        "du\u1e25kh\u0101layam",
+        "a\u015b\u0101\u015bvatam",
+        "mah\u0101tm\u0101na\u1e25",
+        "sa\u1e41siddhi\u1e41",
+        "param\u0101\u1e41 gat\u0101\u1e25"
       ]
     },
     {
@@ -1301,23 +1079,23 @@
         "#JnanaYoga",
         "#Sankhya"
       ],
-      "yogaSutraConnection": "YS I.2‑I.3",
+      "yogaSutraConnection": "YS I.2\u2011I.3",
       "sankhyaConcepts": [
-        "puruṣa-prakṛti dualism",
-        "avyakta (unmanifest) as the eternal ground of puruṣa",
-        "akṣara (infallible) as the immutable nature of the supreme",
-        "the living entity as aṇor aṇīyāṁsam (smaller than the smallest)",
-        "the Supreme as sarvasya dhātāram (maintainer of all)"
+        "puru\u1e63a-prak\u1e5bti dualism",
+        "avyakta (unmanifest) as the eternal ground of puru\u1e63a",
+        "ak\u1e63ara (infallible) as the immutable nature of the supreme",
+        "the living entity as a\u1e47or a\u1e47\u012by\u0101\u1e41sam (smaller than the smallest)",
+        "the Supreme as sarvasya dh\u0101t\u0101ram (maintainer of all)"
       ],
       "keyTerms": [
-        "avyaktaḥ",
-        "akṣaraḥ",
-        "paramāṁ gatim",
-        "tad dhāma",
+        "avyakta\u1e25",
+        "ak\u1e63ara\u1e25",
+        "param\u0101\u1e41 gatim",
+        "tad dh\u0101ma",
         "mama",
-        "prāpya",
+        "pr\u0101pya",
         "na nivartante",
-        "sanātanaḥ"
+        "san\u0101tana\u1e25"
       ]
     },
     {
@@ -1327,7 +1105,7 @@
       "verse": 9,
       "text": "Bhagavad Gita",
       "tithi": "Sukla Paksha Tritiya (until 12:08 PM EDT), then Sukla Paksha Chaturthi",
-      "nakshatra": "Pushya (from 04:06 AM EDT on Jun 17 – 02:02 AM EDT on Jun 18)",
+      "nakshatra": "Pushya (from 04:06 AM EDT on Jun 17 \u2013 02:02 AM EDT on Jun 18)",
       "yoga": "Dhruva (until 11:20 AM EDT), then Vyaghata",
       "themes": [
         "Meditation on the Supreme",
@@ -1352,21 +1130,21 @@
       ],
       "yogaSutraConnection": "YS I.23",
       "sankhyaConcepts": [
-        "puruṣa-prakṛti dualism",
-        "Īśvara as distinct conscious entity (puruṣa viśeṣa)",
+        "puru\u1e63a-prak\u1e5bti dualism",
+        "\u012a\u015bvara as distinct conscious entity (puru\u1e63a vi\u015be\u1e63a)",
         "acintya (inconceivable) as transcendental nature",
-        "the living entity as aṇor aṇīyāṁsam (smaller than the smallest)",
-        "the Supreme as sarvasya dhātāram (maintainer of all)"
+        "the living entity as a\u1e47or a\u1e47\u012by\u0101\u1e41sam (smaller than the smallest)",
+        "the Supreme as sarvasya dh\u0101t\u0101ram (maintainer of all)"
       ],
       "keyTerms": [
         "kavim",
-        "purāṇam",
-        "anuśāsitāram",
-        "aṇor aṇīyāṁsam",
-        "sarvasya dhātāram",
-        "acintya-rūpam",
-        "āditya-varṇam",
-        "tamasaḥ parastāt",
+        "pur\u0101\u1e47am",
+        "anu\u015b\u0101sit\u0101ram",
+        "a\u1e47or a\u1e47\u012by\u0101\u1e41sam",
+        "sarvasya dh\u0101t\u0101ram",
+        "acintya-r\u016bpam",
+        "\u0101ditya-var\u1e47am",
+        "tamasa\u1e25 parast\u0101t",
         "anusmared"
       ]
     },
@@ -1402,20 +1180,20 @@
       ],
       "yogaSutraConnection": "YS I.3",
       "sankhyaConcepts": [
-        "puruṣa-prakṛti dualism",
-        "bīja (seed) as the origin",
+        "puru\u1e63a-prak\u1e5bti dualism",
+        "b\u012bja (seed) as the origin",
         "buddhi (intelligence) as discriminative faculty",
         "teja (prowess) as vitality",
         "the living entity as superior energy exploiting inferior nature (BG 7.5)"
       ],
       "keyTerms": [
-        "bījaṁ",
-        "sarva-bhūtānām",
-        "sanātanam",
+        "b\u012bja\u1e41",
+        "sarva-bh\u016bt\u0101n\u0101m",
+        "san\u0101tanam",
         "buddhir",
-        "buddhimatām",
+        "buddhimat\u0101m",
         "tejas",
-        "tejasvinām",
+        "tejasvin\u0101m",
         "viddhi"
       ]
     },
@@ -1453,13 +1231,13 @@
         "the two natures as superior and inferior prakriti"
       ],
       "keyTerms": [
-        "etad-yonīni",
-        "bhūtāni",
-        "prabhavaḥ",
-        "pralayaḥ",
-        "jagataḥ",
-        "kṛtsnasya",
-        "upadhāraya"
+        "etad-yon\u012bni",
+        "bh\u016bt\u0101ni",
+        "prabhava\u1e25",
+        "pralaya\u1e25",
+        "jagata\u1e25",
+        "k\u1e5btsnasya",
+        "upadh\u0101raya"
       ]
     },
     {
@@ -1492,13 +1270,13 @@
         "liberation through devotion"
       ],
       "keyTerms": [
-        "catur-vidhā",
+        "catur-vidh\u0101",
         "bhajante",
-        "ārtā",
-        "jijñāsu",
-        "arthārthī",
-        "jñānī",
-        "su-kṛtinaḥ"
+        "\u0101rt\u0101",
+        "jij\u00f1\u0101su",
+        "arth\u0101rth\u012b",
+        "j\u00f1\u0101n\u012b",
+        "su-k\u1e5btina\u1e25"
       ]
     },
     {
@@ -1526,18 +1304,18 @@
       ],
       "yogaSutraConnection": "YS I.23",
       "sankhyaConcepts": [
-        "puruṣa-prakṛti",
+        "puru\u1e63a-prak\u1e5bti",
         "steady faith as sattva enhancement",
         "supersoul as inner controller"
       ],
       "keyTerms": [
-        "śraddhā",
+        "\u015braddh\u0101",
         "yukta",
-        "ārādhanam",
-        "īhate",
+        "\u0101r\u0101dhanam",
+        "\u012bhate",
         "labhate",
-        "mayā",
-        "vihitān"
+        "may\u0101",
+        "vihit\u0101n"
       ]
     },
     {
@@ -1546,9 +1324,9 @@
       "chapter": 7,
       "verse": 21,
       "text": "Bhagavad Gita",
-      "tithi": "Kṛṣṇa Paksha Dwadashi → Trayodashi | Dwadashi ends Jun 12 10:06 AM | Trayodashi begins Jun 12 10:06 AM – Jun 13 06:38 AM",
-      "nakshatra": "Bharani → Krittika | Bharani ends Jun 12 06:35 PM | Krittika begins Jun 12 06:35 PM – Jun 13 03:46 PM | Deity: Yama → Agni | Ruler: Venus → Sun",
-      "yoga": "Atiganda → Sukarman | Atiganda ends Jun 12 11:55 AM | Sukarman begins Jun 12 11:55 AM – Jun 13 07:58 AM",
+      "tithi": "K\u1e5b\u1e63\u1e47a Paksha Dwadashi \u2192 Trayodashi | Dwadashi ends Jun 12 10:06 AM | Trayodashi begins Jun 12 10:06 AM \u2013 Jun 13 06:38 AM",
+      "nakshatra": "Bharani \u2192 Krittika | Bharani ends Jun 12 06:35 PM | Krittika begins Jun 12 06:35 PM \u2013 Jun 13 03:46 PM | Deity: Yama \u2192 Agni | Ruler: Venus \u2192 Sun",
+      "yoga": "Atiganda \u2192 Sukarman | Atiganda ends Jun 12 11:55 AM | Sukarman begins Jun 12 11:55 AM \u2013 Jun 13 07:58 AM",
       "themes": [
         "pradosh-vrat",
         "steady-faith"
@@ -1569,10 +1347,10 @@
       ],
       "keyTerms": [
         "bhakta",
-        "śraddhā",
+        "\u015braddh\u0101",
         "acala",
-        "īśvara",
-        "tasmāt"
+        "\u012b\u015bvara",
+        "tasm\u0101t"
       ]
     },
     {
@@ -1581,9 +1359,9 @@
       "chapter": 7,
       "verse": 9,
       "text": "Bhagavad Gita",
-      "tithi": "Kṛṣṇa Paksha Ekādashi | Jun 10 03:28 PM – Jun 11 01:06 PM",
-      "nakshatra": "Ashwini → Bharani | Ashwini ends Jun 11 08:58 PM | Bharani begins Jun 11 08:58 PM – Jun 12 06:35 PM | Deity: Ashwini Kumār → Yama | Ruler: Ketu → Venus",
-      "yoga": "Sobhana → Atiganda | Sobhana ends Jun 11 03:29 PM | Atiganda begins Jun 11 03:29 PM – Jun 12 11:55 AM",
+      "tithi": "K\u1e5b\u1e63\u1e47a Paksha Ek\u0101dashi | Jun 10 03:28 PM \u2013 Jun 11 01:06 PM",
+      "nakshatra": "Ashwini \u2192 Bharani | Ashwini ends Jun 11 08:58 PM | Bharani begins Jun 11 08:58 PM \u2013 Jun 12 06:35 PM | Deity: Ashwini Kum\u0101r \u2192 Yama | Ruler: Ketu \u2192 Venus",
+      "yoga": "Sobhana \u2192 Atiganda | Sobhana ends Jun 11 03:29 PM | Atiganda begins Jun 11 03:29 PM \u2013 Jun 12 11:55 AM",
       "themes": [
         "tapas",
         "ekadashi"
@@ -1603,12 +1381,12 @@
         "tapas"
       ],
       "keyTerms": [
-        "puṇyaḥ",
-        "gandhaḥ",
-        "tejaḥ",
-        "vibhāvasu",
-        "jīvanam",
-        "tapaḥ"
+        "pu\u1e47ya\u1e25",
+        "gandha\u1e25",
+        "teja\u1e25",
+        "vibh\u0101vasu",
+        "j\u012bvanam",
+        "tapa\u1e25"
       ]
     },
     {
@@ -1617,9 +1395,9 @@
       "chapter": 7.13,
       "verse": 7.13,
       "text": "Bhagavad Gita",
-      "tithi": "Kṛṣṇa Paksha Dashami → Ekādaśī | Dashami ends Jun 10 03:28 PM | Ekādaśī begins 03:28 PM – Jun 11 01:06 PM",
-      "nakshatra": "Revati → Ashwini | Revati ends Jun 10 10:46 PM | Ashwini begins Jun 10 10:46 PM – Jun 11 08:58 PM | Deity: Pushan → Ashwini Kumār | Ruler: Mercury",
-      "yoga": "Saubhagya → Sobhana | Saubhagya ends Jun 10 06:32 PM | Sobhana begins Jun 10 06:32 PM – Jun 11 03:29 PM",
+      "tithi": "K\u1e5b\u1e63\u1e47a Paksha Dashami \u2192 Ek\u0101da\u015b\u012b | Dashami ends Jun 10 03:28 PM | Ek\u0101da\u015b\u012b begins 03:28 PM \u2013 Jun 11 01:06 PM",
+      "nakshatra": "Revati \u2192 Ashwini | Revati ends Jun 10 10:46 PM | Ashwini begins Jun 10 10:46 PM \u2013 Jun 11 08:58 PM | Deity: Pushan \u2192 Ashwini Kum\u0101r | Ruler: Mercury",
+      "yoga": "Saubhagya \u2192 Sobhana | Saubhagya ends Jun 10 06:32 PM | Sobhana begins Jun 10 06:32 PM \u2013 Jun 11 03:29 PM",
       "themes": [
         ""
       ],
@@ -1633,10 +1411,10 @@
         "gunas"
       ],
       "keyTerms": [
-        "tribhiḥ",
-        "guṇa-mayaiḥ",
+        "tribhi\u1e25",
+        "gu\u1e47a-mayai\u1e25",
         "mohitam",
-        "abhijānāti",
+        "abhij\u0101n\u0101ti",
         "param",
         "avyayam"
       ]
@@ -1646,7 +1424,7 @@
       "chapter": "7",
       "verse": "29",
       "title": "Liberation through Refuge",
-      "sanskrit": "jarā-maraṇa-mokṣāya mām āśritya yatanti ye te brahma tad viduḥ kṛtsnam adhyātmaṁ karma cākhilam",
+      "sanskrit": "jar\u0101-mara\u1e47a-mok\u1e63\u0101ya m\u0101m \u0101\u015britya yatanti ye te brahma tad vidu\u1e25 k\u1e5btsnam adhy\u0101tma\u1e41 karma c\u0101khilam",
       "yogaSutra": "YS II.45",
       "tags": [
         "#moksha",
@@ -1666,9 +1444,9 @@
       "chapter": 7,
       "verse": 14,
       "text": "Bhagavad Gita",
-      "tithi": "Kṛṣṇa Paksha Ashtami → Navami | Ashtami ends Jun 08 05:53 PM | Navami begins 05:53 PM – Jun 09 05:05 PM",
-      "nakshatra": "Purva Bhadrapada → Uttara Bhadrapada | Purva Bhadrapada ends Jun 09 12:09 AM | Uttara Bhadrapada begins 12:09 AM – Jun 09 11:51 PM",
-      "yoga": "Prithi → Ayushman | Prithi ends Jun 08 10:48 PM | Ayushman begins Jun 08 10:48 PM – Jun 09 08:59 PM",
+      "tithi": "K\u1e5b\u1e63\u1e47a Paksha Ashtami \u2192 Navami | Ashtami ends Jun 08 05:53 PM | Navami begins 05:53 PM \u2013 Jun 09 05:05 PM",
+      "nakshatra": "Purva Bhadrapada \u2192 Uttara Bhadrapada | Purva Bhadrapada ends Jun 09 12:09 AM | Uttara Bhadrapada begins 12:09 AM \u2013 Jun 09 11:51 PM",
+      "yoga": "Prithi \u2192 Ayushman | Prithi ends Jun 08 10:48 PM | Ayushman begins Jun 08 10:48 PM \u2013 Jun 09 08:59 PM",
       "themes": [
         "jnana-yoga",
         "maya",
@@ -1695,20 +1473,20 @@
       ],
       "yogaSutraConnection": "YS II.45",
       "sankhyaConcepts": [
-        "māyā-as-the-veil-of-prakṛti",
-        "surrender-as-means-to-transcend-māyā",
+        "m\u0101y\u0101-as-the-veil-of-prak\u1e5bti",
+        "surrender-as-means-to-transcend-m\u0101y\u0101",
         "three-modes-binding-the-living-entity",
         "analogy-of-pearls-on-a-thread"
       ],
       "keyTerms": [
-        "daivī",
-        "guṇamayī",
-        "māyā",
-        "duratyayā",
+        "daiv\u012b",
+        "gu\u1e47amay\u012b",
+        "m\u0101y\u0101",
+        "duratyay\u0101",
         "prapadyante",
         "taranti",
-        "īśvara-praṇidhāna",
-        "samādhi-siddhi"
+        "\u012b\u015bvara-pra\u1e47idh\u0101na",
+        "sam\u0101dhi-siddhi"
       ]
     },
     {
@@ -1717,9 +1495,9 @@
       "chapter": 7,
       "verse": 8,
       "text": "Bhagavad Gita",
-      "tithi": "Kṛṣṇa Saptamī → Aṣṭamī",
-      "nakshatra": "Śatabhiṣā → Pūrvā Bhādrapadā",
-      "yoga": "Viṣkambha",
+      "tithi": "K\u1e5b\u1e63\u1e47a Saptam\u012b \u2192 A\u1e63\u1e6dam\u012b",
+      "nakshatra": "\u015aatabhi\u1e63\u0101 \u2192 P\u016brv\u0101 Bh\u0101drapad\u0101",
+      "yoga": "Vi\u1e63kambha",
       "themes": [
         "essential-resonance",
         "rasa",
@@ -1742,15 +1520,15 @@
       "sankhyaConcepts": [
         "rasa-as-essence",
         "prabha-as-effulgence",
-        "puruṣa-in-prakṛti",
+        "puru\u1e63a-in-prak\u1e5bti",
         "vibration-as-root"
       ],
       "keyTerms": [
         "rasa",
-        "prabhā",
-        "praṇava",
-        "pauruṣam",
-        "śabdaḥ"
+        "prabh\u0101",
+        "pra\u1e47ava",
+        "pauru\u1e63am",
+        "\u015babda\u1e25"
       ]
     },
     {
@@ -1759,14 +1537,14 @@
       "chapter": 7,
       "verse": 7,
       "text": "Bhagavad Gita",
-      "tithi": "Kṛṣṇa Ṣaṣṭhī",
-      "nakshatra": "Dhaniṣṭhā → Śatabhiṣā",
-      "yoga": "Vaidhṛti",
+      "tithi": "K\u1e5b\u1e63\u1e47a \u1e62a\u1e63\u1e6dh\u012b",
+      "nakshatra": "Dhani\u1e63\u1e6dh\u0101 \u2192 \u015aatabhi\u1e63\u0101",
+      "yoga": "Vaidh\u1e5bti",
       "themes": [
         "supreme-declaration",
         "thread-of-existence",
-        "pearls-on-sūtra",
-        "īśvara-as-ground"
+        "pearls-on-s\u016btra",
+        "\u012b\u015bvara-as-ground"
       ],
       "tags": [
         "#jnana-yoga",
@@ -1778,18 +1556,18 @@
       ],
       "yogaSutraConnection": "YS II.45",
       "sankhyaConcepts": [
-        "puruṣa-as-sūtra",
-        "prakṛti-as-maṇi",
-        "puruṣa-prakṛti-distinction"
+        "puru\u1e63a-as-s\u016btra",
+        "prak\u1e5bti-as-ma\u1e47i",
+        "puru\u1e63a-prak\u1e5bti-distinction"
       ],
       "keyTerms": [
         "parataram",
         "protam",
-        "sūtra",
-        "maṇi-gaṇāḥ",
-        "dhanañ-jaya",
-        "īśvara-praṇidhāna",
-        "samādhi-siddhi"
+        "s\u016btra",
+        "ma\u1e47i-ga\u1e47\u0101\u1e25",
+        "dhana\u00f1-jaya",
+        "\u012b\u015bvara-pra\u1e47idh\u0101na",
+        "sam\u0101dhi-siddhi"
       ]
     },
     {
@@ -1798,42 +1576,42 @@
       "chapter": 7,
       "verse": 5,
       "text": "Bhagavad Gita",
-      "tithi": "Kṛṣṇa Pañcamī → Ṣaṣṭhī",
-      "nakshatra": "Śravaṇa → Dhaniṣṭhā",
+      "tithi": "K\u1e5b\u1e63\u1e47a Pa\u00f1cam\u012b \u2192 \u1e62a\u1e63\u1e6dh\u012b",
+      "nakshatra": "\u015arava\u1e47a \u2192 Dhani\u1e63\u1e6dh\u0101",
       "yoga": "Indra",
       "themes": [
-        "parā-prakṛti",
-        "jīva-bhūtā",
-        "aparā-vs-parā",
-        "asmitā",
+        "par\u0101-prak\u1e5bti",
+        "j\u012bva-bh\u016bt\u0101",
+        "apar\u0101-vs-par\u0101",
+        "asmit\u0101",
         "superior-energy",
         "consciousness"
       ],
       "tags": [
         "#jnana-yoga",
-        "#parā-prakṛti",
-        "#jīva-bhūtā",
-        "#aparā-prakṛti",
-        "#asmitā",
-        "#dhāryate",
-        "#śravaṇa"
+        "#par\u0101-prak\u1e5bti",
+        "#j\u012bva-bh\u016bt\u0101",
+        "#apar\u0101-prak\u1e5bti",
+        "#asmit\u0101",
+        "#dh\u0101ryate",
+        "#\u015brava\u1e47a"
       ],
       "yogaSutraConnection": "YS II.6",
       "sankhyaConcepts": [
-        "puruṣa-prakṛti",
-        "aparā-prakṛti",
-        "parā-prakṛti",
-        "puruṣottama",
-        "asmitā",
+        "puru\u1e63a-prak\u1e5bti",
+        "apar\u0101-prak\u1e5bti",
+        "par\u0101-prak\u1e5bti",
+        "puru\u1e63ottama",
+        "asmit\u0101",
         "tripartite-architecture"
       ],
       "keyTerms": [
-        "aparā",
-        "parā",
-        "jīva-bhūtā",
-        "dhāryate",
-        "asmitā",
-        "prakṛti"
+        "apar\u0101",
+        "par\u0101",
+        "j\u012bva-bh\u016bt\u0101",
+        "dh\u0101ryate",
+        "asmit\u0101",
+        "prak\u1e5bti"
       ]
     },
     {
@@ -1842,44 +1620,44 @@
       "chapter": 7,
       "verse": 4,
       "text": "Bhagavad Gita",
-      "tithi": "Kṛṣṇa Chaturthi → Pañcamī",
-      "nakshatra": "Uttarāṣāḍhā → Śravaṇa",
+      "tithi": "K\u1e5b\u1e63\u1e47a Chaturthi \u2192 Pa\u00f1cam\u012b",
+      "nakshatra": "Uttar\u0101\u1e63\u0101\u1e0dh\u0101 \u2192 \u015arava\u1e47a",
       "yoga": "Brahma",
       "themes": [
         "jnana-yoga",
-        "bhinnā-prakṛti",
-        "aṣṭadhā",
-        "aparā-prakṛti",
-        "draṣṭṛ-dṛśya",
-        "saṁyogaḥ",
-        "śravaṇa",
+        "bhinn\u0101-prak\u1e5bti",
+        "a\u1e63\u1e6dadh\u0101",
+        "apar\u0101-prak\u1e5bti",
+        "dra\u1e63\u1e6d\u1e5b-d\u1e5b\u015bya",
+        "sa\u1e41yoga\u1e25",
+        "\u015brava\u1e47a",
         "eight-energies"
       ],
       "tags": [
         "#jnana-yoga",
-        "#bhinnā-prakṛti",
-        "#aṣṭadhā",
-        "#aparā-prakṛti",
-        "#draṣṭṛ-dṛśya",
-        "#saṁyogaḥ",
-        "#śravaṇa"
+        "#bhinn\u0101-prak\u1e5bti",
+        "#a\u1e63\u1e6dadh\u0101",
+        "#apar\u0101-prak\u1e5bti",
+        "#dra\u1e63\u1e6d\u1e5b-d\u1e5b\u015bya",
+        "#sa\u1e41yoga\u1e25",
+        "#\u015brava\u1e47a"
       ],
       "yogaSutraConnection": "YS II.17",
       "sankhyaConcepts": [
-        "aparā-prakṛti",
-        "bhinnā-as-separation",
+        "apar\u0101-prak\u1e5bti",
+        "bhinn\u0101-as-separation",
         "eightfold-evolution",
-        "draṣṭṛ-dṛśya",
-        "saṁyogaḥ-as-mis-identification",
+        "dra\u1e63\u1e6d\u1e5b-d\u1e5b\u015bya",
+        "sa\u1e41yoga\u1e25-as-mis-identification",
         "viyoga"
       ],
       "keyTerms": [
-        "bhinnā",
-        "prakṛti",
-        "aṣṭadhā",
-        "ahaṅkāra",
-        "draṣṭṛ-dṛśya",
-        "saṁyogaḥ"
+        "bhinn\u0101",
+        "prak\u1e5bti",
+        "a\u1e63\u1e6dadh\u0101",
+        "aha\u1e45k\u0101ra",
+        "dra\u1e63\u1e6d\u1e5b-d\u1e5b\u015bya",
+        "sa\u1e41yoga\u1e25"
       ]
     },
     {
@@ -1888,9 +1666,9 @@
       "chapter": 7,
       "verse": 3,
       "text": "Bhagavad Gita",
-      "tithi": "Kṛṣṇa Chaturthi (Sankashti)",
-      "nakshatra": "Pūrvāṣāḍhā → Uttara Aṣāḍhā",
-      "yoga": "Śukla → Brahma",
+      "tithi": "K\u1e5b\u1e63\u1e47a Chaturthi (Sankashti)",
+      "nakshatra": "P\u016brv\u0101\u1e63\u0101\u1e0dh\u0101 \u2192 Uttara A\u1e63\u0101\u1e0dh\u0101",
+      "yoga": "\u015aukla \u2192 Brahma",
       "themes": [
         "jnana-yoga",
         "tattvatah",
@@ -1910,19 +1688,19 @@
       ],
       "yogaSutraConnection": "YS II.28",
       "sankhyaConcepts": [
-        "guṇa-funnel",
-        "aśuddhi-as-residual-code",
-        "puruṣa-beyond-sattva",
+        "gu\u1e47a-funnel",
+        "a\u015buddhi-as-residual-code",
+        "puru\u1e63a-beyond-sattva",
         "tattvatah-as-root-access",
-        "viveka-khyāti"
+        "viveka-khy\u0101ti"
       ],
       "keyTerms": [
-        "sahasreṣu",
+        "sahasre\u1e63u",
         "siddhaye",
-        "siddhānām",
-        "tattvataḥ",
-        "aśuddhi",
-        "viveka-khyāti"
+        "siddh\u0101n\u0101m",
+        "tattvata\u1e25",
+        "a\u015buddhi",
+        "viveka-khy\u0101ti"
       ]
     },
     {
@@ -1931,9 +1709,9 @@
       "chapter": 7,
       "verse": 1,
       "text": "Bhagavad Gita",
-      "tithi": "Kṛṣṇa Tritiyā",
-      "nakshatra": "Mūla → Pūrvāṣāḍhā",
-      "yoga": "Śubha → Śukla",
+      "tithi": "K\u1e5b\u1e63\u1e47a Tritiy\u0101",
+      "nakshatra": "M\u016bla \u2192 P\u016brv\u0101\u1e63\u0101\u1e0dh\u0101",
+      "yoga": "\u015aubha \u2192 \u015aukla",
       "themes": [
         "jnana-yoga",
         "asakta-manah",
@@ -1954,19 +1732,19 @@
       ],
       "yogaSutraConnection": "YS I.23",
       "sankhyaConcepts": [
-        "puruṣa-āśraya",
+        "puru\u1e63a-\u0101\u015braya",
         "right-attachment",
-        "īśvara-praṇidhāna",
-        "bhakti-viśeṣa",
-        "guṇa-atīta"
+        "\u012b\u015bvara-pra\u1e47idh\u0101na",
+        "bhakti-vi\u015be\u1e63a",
+        "gu\u1e47a-at\u012bta"
       ],
       "keyTerms": [
-        "jñāna",
-        "āsakta-manāḥ",
-        "mad-āśrayaḥ",
-        "asaṁśayam",
+        "j\u00f1\u0101na",
+        "\u0101sakta-man\u0101\u1e25",
+        "mad-\u0101\u015braya\u1e25",
+        "asa\u1e41\u015bayam",
         "samagram",
-        "īśvara-praṇidhāna"
+        "\u012b\u015bvara-pra\u1e47idh\u0101na"
       ]
     },
     {
@@ -1975,15 +1753,15 @@
       "chapter": 6,
       "verse": "20-23",
       "text": "Bhagavad Gita",
-      "tithi": "Kṛṣṇa Dwitiyā",
-      "nakshatra": "Jyeṣṭhā → Mūla",
-      "yoga": "Sādhya → Śubha",
+      "tithi": "K\u1e5b\u1e63\u1e47a Dwitiy\u0101",
+      "nakshatra": "Jye\u1e63\u1e6dh\u0101 \u2192 M\u016bla",
+      "yoga": "S\u0101dhya \u2192 \u015aubha",
       "themes": [
         "samadhi",
         "kaivalya",
         "citi-shakti",
         "niruddha",
-        "duhkha-saṁyoga-viyoga",
+        "duhkha-sa\u1e41yoga-viyoga",
         "dhyana-yoga",
         "atyantika-sukha"
       ],
@@ -1993,23 +1771,23 @@
         "#citi-shakti",
         "#niruddha",
         "#dhyana-yoga",
-        "#duhkha-saṁyoga-viyoga"
+        "#duhkha-sa\u1e41yoga-viyoga"
       ],
       "yogaSutraConnection": "YS I.17 + IV.34",
       "sankhyaConcepts": [
-        "puruṣa-prakṛti-viyoga",
-        "citi-śakti",
-        "guṇa-pratiprasava",
+        "puru\u1e63a-prak\u1e5bti-viyoga",
+        "citi-\u015bakti",
+        "gu\u1e47a-pratiprasava",
         "kaivalya",
-        "svarūpa-pratiṣṭhā"
+        "svar\u016bpa-prati\u1e63\u1e6dh\u0101"
       ],
       "keyTerms": [
-        "samādhi",
-        "citi-śakti",
+        "sam\u0101dhi",
+        "citi-\u015bakti",
         "kaivalya",
-        "duḥkha-saṁyoga-viyoga",
+        "du\u1e25kha-sa\u1e41yoga-viyoga",
         "niruddha",
-        "ātyantikam"
+        "\u0101tyantikam"
       ]
     },
     {
@@ -2018,9 +1796,9 @@
       "chapter": 6,
       "verse": 7,
       "text": "Bhagavad Gita",
-      "tithi": "Kṛṣṇa Pratipadā",
-      "nakshatra": "Anurādhā → Jyeṣṭhā",
-      "yoga": "Siddha → Sadhya",
+      "tithi": "K\u1e5b\u1e63\u1e47a Pratipad\u0101",
+      "nakshatra": "Anur\u0101dh\u0101 \u2192 Jye\u1e63\u1e6dh\u0101",
+      "yoga": "Siddha \u2192 Sadhya",
       "themes": [
         "jitatman",
         "paramatma",
@@ -2046,12 +1824,12 @@
         "guna-oscillation"
       ],
       "keyTerms": [
-        "jitātman",
-        "praśānta",
-        "paramātmā",
-        "samāhitaḥ",
+        "jit\u0101tman",
+        "pra\u015b\u0101nta",
+        "param\u0101tm\u0101",
+        "sam\u0101hita\u1e25",
         "dvandva",
-        "anabhighāta"
+        "anabhigh\u0101ta"
       ]
     },
     {
@@ -2060,9 +1838,9 @@
       "chapter": 6,
       "verse": 28,
       "text": "Bhagavad Gita",
-      "tithi": "Śukla Pūrṇimā",
-      "nakshatra": "Anurādhā",
-      "yoga": "Śiva → Siddha",
+      "tithi": "\u015aukla P\u016br\u1e47im\u0101",
+      "nakshatra": "Anur\u0101dh\u0101",
+      "yoga": "\u015aiva \u2192 Siddha",
       "themes": [
         "purnima",
         "fulfillment",
@@ -2083,15 +1861,15 @@
         "purusa-prakriti",
         "vigata-kalmasha",
         "brahma-samsparsha",
-        "jñāna-dīptiḥ"
+        "j\u00f1\u0101na-d\u012bpti\u1e25"
       ],
       "keyTerms": [
-        "brahma-saṁsparśa",
-        "vigata-kalmaṣaḥ",
-        "yuñjan",
-        "sadā",
+        "brahma-sa\u1e41spar\u015ba",
+        "vigata-kalma\u1e63a\u1e25",
+        "yu\u00f1jan",
+        "sad\u0101",
         "atyantam sukham",
-        "aśuddhi-kṣaya"
+        "a\u015buddhi-k\u1e63aya"
       ]
     },
     {
@@ -2100,40 +1878,40 @@
       "chapter": 6,
       "verse": "37-40",
       "text": "Bhagavad Gita",
-      "tithi": "Śukla Caturdaśī",
-      "nakshatra": "Viśākhā → Anurādhā",
-      "yoga": "Parigha → Śiva",
+      "tithi": "\u015aukla Caturda\u015b\u012b",
+      "nakshatra": "Vi\u015b\u0101kh\u0101 \u2192 Anur\u0101dh\u0101",
+      "yoga": "Parigha \u2192 \u015aiva",
       "themes": [
         "failed-yogi",
         "guarantee",
         "grace",
-        "kalyāṇa-kṛt",
-        "Īśvara-praṇidhāna",
-        "buddhi-saṁyoga",
+        "kaly\u0101\u1e47a-k\u1e5bt",
+        "\u012a\u015bvara-pra\u1e47idh\u0101na",
+        "buddhi-sa\u1e41yoga",
         "no-effort-lost"
       ],
       "tags": [
         "#failed-yogi",
         "#guarantee",
-        "#kalyāṇa-kṛt",
-        "#Īśvara-praṇidhāna",
+        "#kaly\u0101\u1e47a-k\u1e5bt",
+        "#\u012a\u015bvara-pra\u1e47idh\u0101na",
         "#grace",
-        "#buddhi-saṁyoga",
+        "#buddhi-sa\u1e41yoga",
         "#no-effort-lost"
       ],
       "yogaSutraConnection": "YS I.23 + I.26",
       "sankhyaConcepts": [
         "buddhi-as-preservation-mechanism",
-        "Īśvara-as-transcendent-preserver",
-        "guṇas-never-destroy-sattvic-investment"
+        "\u012a\u015bvara-as-transcendent-preserver",
+        "gu\u1e47as-never-destroy-sattvic-investment"
       ],
       "keyTerms": [
-        "yogāc calita-mānasaḥ",
-        "ubhaya-vibhraṣṭa",
-        "chinnābhram",
-        "kalyāṇa-kṛt",
-        "buddhi-saṁyoga",
-        "Īśvara-praṇidhāna"
+        "yog\u0101c calita-m\u0101nasa\u1e25",
+        "ubhaya-vibhra\u1e63\u1e6da",
+        "chinn\u0101bhram",
+        "kaly\u0101\u1e47a-k\u1e5bt",
+        "buddhi-sa\u1e41yoga",
+        "\u012a\u015bvara-pra\u1e47idh\u0101na"
       ]
     },
     {
@@ -2142,39 +1920,39 @@
       "chapter": 6,
       "verse": 30,
       "text": "Bhagavad Gita",
-      "tithi": "Śukla Trayodaśī",
-      "nakshatra": "Svātī → Viśākhā",
-      "yoga": "Variyan → Parigha",
+      "tithi": "\u015aukla Trayoda\u015b\u012b",
+      "nakshatra": "Sv\u0101t\u012b \u2192 Vi\u015b\u0101kh\u0101",
+      "yoga": "Variyan \u2192 Parigha",
       "themes": [
         "omnipresence",
         "divine-vision",
         "intimacy",
-        "praṇaśyati",
-        "svātī-independence",
+        "pra\u1e47a\u015byati",
+        "sv\u0101t\u012b-independence",
         "parigha-crossing"
       ],
       "tags": [
         "#omnipresence",
         "#divine-vision",
         "#intimacy",
-        "#praṇaśyati",
-        "#svātī-independence",
+        "#pra\u1e47a\u015byati",
+        "#sv\u0101t\u012b-independence",
         "#parigha-crossing",
-        "#pradoṣa-vrat"
+        "#prado\u1e63a-vrat"
       ],
-      "yogaSutraConnection": "YS I.36–I.37",
+      "yogaSutraConnection": "YS I.36\u2013I.37",
       "sankhyaConcepts": [
-        "prakṛti-as-kṛṣṇa-energy",
-        "rāga-as-distortion-field",
+        "prak\u1e5bti-as-k\u1e5b\u1e63\u1e47a-energy",
+        "r\u0101ga-as-distortion-field",
         "mutual-non-perishing"
       ],
       "keyTerms": [
-        "paśyati",
+        "pa\u015byati",
         "sarvatra",
-        "praṇaśyāmi",
-        "sama-darśana",
-        "viśokā jyotiṣmatī",
-        "vīta-rāga"
+        "pra\u1e47a\u015by\u0101mi",
+        "sama-dar\u015bana",
+        "vi\u015bok\u0101 jyoti\u1e63mat\u012b",
+        "v\u012bta-r\u0101ga"
       ]
     },
     {
@@ -2183,24 +1961,24 @@
       "chapter": 6,
       "verse": 27,
       "text": "Bhagavad Gita",
-      "tithi": "Śukla Dwādaśī",
-      "nakshatra": "Chitrā → Svātī",
-      "yoga": "Vyatipāta → Variyan",
+      "tithi": "\u015aukla Dw\u0101da\u015b\u012b",
+      "nakshatra": "Chitr\u0101 \u2192 Sv\u0101t\u012b",
+      "yoga": "Vyatip\u0101ta \u2192 Variyan",
       "themes": [
         "settled-mind",
         "supreme-happiness",
-        "brahma-bhūta",
+        "brahma-bh\u016bta",
         "contentment",
-        "vyatipāta-reversal"
+        "vyatip\u0101ta-reversal"
       ],
       "tags": [
         "#settled-mind",
         "#supreme-happiness",
-        "#brahma-bhūta",
-        "#santoṣa",
-        "#vyatipāta-reversal",
-        "#chitrā-radiance",
-        "#dwādaśī-fulfillment"
+        "#brahma-bh\u016bta",
+        "#santo\u1e63a",
+        "#vyatip\u0101ta-reversal",
+        "#chitr\u0101-radiance",
+        "#dw\u0101da\u015b\u012b-fulfillment"
       ],
       "yogaSutraConnection": "YS II.42",
       "sankhyaConcepts": [
@@ -2209,12 +1987,12 @@
         "karmic-exhaust-mechanism"
       ],
       "keyTerms": [
-        "praśānta-manas",
+        "pra\u015b\u0101nta-manas",
         "sukham uttamam",
-        "śānta-rajasaḥ",
-        "brahma-bhūtam",
-        "akalmaṣam",
-        "santoṣa"
+        "\u015b\u0101nta-rajasa\u1e25",
+        "brahma-bh\u016btam",
+        "akalma\u1e63am",
+        "santo\u1e63a"
       ]
     },
     {
@@ -2223,9 +2001,9 @@
       "chapter": 6,
       "verse": 10,
       "text": "Bhagavad Gita",
-      "tithi": "Śukla Ekādaśī → Dwādaśī",
-      "nakshatra": "Hasta → Chitrā",
-      "yoga": "Siddhi → Vyatipāta",
+      "tithi": "\u015aukla Ek\u0101da\u015b\u012b \u2192 Dw\u0101da\u015b\u012b",
+      "nakshatra": "Hasta \u2192 Chitr\u0101",
+      "yoga": "Siddhi \u2192 Vyatip\u0101ta",
       "themes": [
         "solitary-practice",
         "constant-engagement",
@@ -2236,31 +2014,31 @@
         "aparigraha-ownership"
       ],
       "tags": [
-        "#yuñjīta",
+        "#yu\u00f1j\u012bta",
         "#satatam",
         "#rahasi",
-        "#ekākī",
-        "#nirāśīḥ",
-        "#aparigrahaḥ",
-        "#īśvara-praṇidhāna",
-        "#padmini-ekādaśī"
+        "#ek\u0101k\u012b",
+        "#nir\u0101\u015b\u012b\u1e25",
+        "#aparigraha\u1e25",
+        "#\u012b\u015bvara-pra\u1e47idh\u0101na",
+        "#padmini-ek\u0101da\u015b\u012b"
       ],
       "yogaSutraConnection": "YS II.45",
       "sankhyaConcepts": [
-        "buddhi-oriented-toward-puruṣa",
+        "buddhi-oriented-toward-puru\u1e63a",
         "five-movements-of-discernment",
-        "vairāgya",
-        "abhyāsa",
-        "īśvara-praṇidhāna",
+        "vair\u0101gya",
+        "abhy\u0101sa",
+        "\u012b\u015bvara-pra\u1e47idh\u0101na",
         "sattvic-buddhi"
       ],
       "keyTerms": [
-        "yuñjīta",
+        "yu\u00f1j\u012bta",
         "satatam",
         "rahasi",
-        "ekākī",
-        "nirāśīḥ",
-        "aparigrahaḥ"
+        "ek\u0101k\u012b",
+        "nir\u0101\u015b\u012b\u1e25",
+        "aparigraha\u1e25"
       ]
     },
     {
@@ -2269,9 +2047,9 @@
       "chapter": 6,
       "verse": "47",
       "text": "Bhagavad Gita",
-      "tithi": "Śukla Daśamī → Ekādaśī",
-      "nakshatra": "Uttara Phalgunī → Hasta",
-      "yoga": "Vajra → Siddhi",
+      "tithi": "\u015aukla Da\u015bam\u012b \u2192 Ek\u0101da\u015b\u012b",
+      "nakshatra": "Uttara Phalgun\u012b \u2192 Hasta",
+      "yoga": "Vajra \u2192 Siddhi",
       "themes": [
         "culmination",
         "bhakti-as-highest",
@@ -2281,26 +2059,26 @@
         "yukta-tamah"
       ],
       "tags": [
-        "#yukta-tamaḥ",
+        "#yukta-tama\u1e25",
         "#bhajate",
-        "#śraddhā-vān",
+        "#\u015braddh\u0101-v\u0101n",
         "#mad-gatena",
-        "#īśvara-praṇidhāna",
+        "#\u012b\u015bvara-pra\u1e47idh\u0101na",
         "#ganga-dussehra",
-        "#daśamī"
+        "#da\u015bam\u012b"
       ],
       "yogaSutraConnection": "YS I.23",
       "sankhyaConcepts": [
-        "puruṣa-prakṛti-circuit",
-        "guṇa-transcendence-through-offering",
+        "puru\u1e63a-prak\u1e5bti-circuit",
+        "gu\u1e47a-transcendence-through-offering",
         "buddhi-alignment"
       ],
       "keyTerms": [
-        "yukta-tamaḥ",
+        "yukta-tama\u1e25",
         "bhajate",
         "mad-gatena",
-        "śraddhā-vān",
-        "antar-ātmanā"
+        "\u015braddh\u0101-v\u0101n",
+        "antar-\u0101tman\u0101"
       ]
     },
     {
@@ -2309,44 +2087,44 @@
       "chapter": 6,
       "verse": "25-26",
       "text": "Bhagavad Gita",
-      "tithi": "Śukla Navamī → Dashamī",
-      "nakshatra": "Pūrva Phalgunī → Uttara Phalgunī",
-      "yoga": "Harṣaṇa → Vajra",
+      "tithi": "\u015aukla Navam\u012b \u2192 Dasham\u012b",
+      "nakshatra": "P\u016brva Phalgun\u012b \u2192 Uttara Phalgun\u012b",
+      "yoga": "Har\u1e63a\u1e47a \u2192 Vajra",
       "themes": [
         "mind-return",
         "gradual-withdrawal",
-        "pratyāhāra",
-        "navamī-fulfillment",
-        "phalgunī-portal",
-        "cañcala-mind"
+        "praty\u0101h\u0101ra",
+        "navam\u012b-fulfillment",
+        "phalgun\u012b-portal",
+        "ca\u00f1cala-mind"
       ],
       "tags": [
-        "#śanaiḥ-śanaiḥ",
-        "#yataḥ-yataḥ",
-        "#ātma-saṁstha",
-        "#pratyāhāra",
-        "#dhṛti",
-        "#navamī",
-        "#phalgunī-portal",
+        "#\u015banai\u1e25-\u015banai\u1e25",
+        "#yata\u1e25-yata\u1e25",
+        "#\u0101tma-sa\u1e41stha",
+        "#praty\u0101h\u0101ra",
+        "#dh\u1e5bti",
+        "#navam\u012b",
+        "#phalgun\u012b-portal",
         "#sarvartha-siddhi"
       ],
       "yogaSutraConnection": "YS II.54-55",
       "sankhyaConcepts": [
-        "pratyāhāra",
+        "praty\u0101h\u0101ra",
         "buddhi",
         "manas",
-        "puruṣa-witness",
-        "prakṛti-evolute",
-        "viṣaya",
+        "puru\u1e63a-witness",
+        "prak\u1e5bti-evolute",
+        "vi\u1e63aya",
         "indriyas"
       ],
       "keyTerms": [
-        "śanaiḥ śanaiḥ",
-        "dhṛti-gṛhītayā",
-        "ātma-saṁstha",
-        "cañcalam",
+        "\u015banai\u1e25 \u015banai\u1e25",
+        "dh\u1e5bti-g\u1e5bh\u012btay\u0101",
+        "\u0101tma-sa\u1e41stha",
+        "ca\u00f1calam",
         "niyamya",
-        "vaśaṁ nayet"
+        "va\u015ba\u1e41 nayet"
       ]
     },
     {
@@ -2355,41 +2133,41 @@
       "chapter": 6,
       "verse": "35-36",
       "text": "Bhagavad Gita",
-      "tithi": "Śukla Aṣṭamī",
-      "nakshatra": "Maghā → Pūrva Phalgunī",
-      "yoga": "Vyaghaṭa → Harṣaṇa",
+      "tithi": "\u015aukla A\u1e63\u1e6dam\u012b",
+      "nakshatra": "Magh\u0101 \u2192 P\u016brva Phalgun\u012b",
+      "yoga": "Vyagha\u1e6da \u2192 Har\u1e63a\u1e47a",
       "themes": [
         "mind-control",
-        "abhyāsa",
-        "vairāgya",
-        "durgā-aṣṭamī",
+        "abhy\u0101sa",
+        "vair\u0101gya",
+        "durg\u0101-a\u1e63\u1e6dam\u012b",
         "flickering-mind",
         "collision-as-method"
       ],
       "tags": [
-        "#abhyāsa",
-        "#vairāgya",
-        "#durgā-aṣṭamī",
-        "#vyaghaṭa-yoga",
-        "#maghā→pūrva-phalgunī",
+        "#abhy\u0101sa",
+        "#vair\u0101gya",
+        "#durg\u0101-a\u1e63\u1e6dam\u012b",
+        "#vyagha\u1e6da-yoga",
+        "#magh\u0101\u2192p\u016brva-phalgun\u012b",
         "#ys-i.12"
       ],
       "yogaSutraConnection": "YS I.12",
       "sankhyaConcepts": [
-        "citta-vṛtti-nirodha",
-        "abhyāsa",
-        "vairāgya",
-        "puruṣa-khyāti",
+        "citta-v\u1e5btti-nirodha",
+        "abhy\u0101sa",
+        "vair\u0101gya",
+        "puru\u1e63a-khy\u0101ti",
         "manas",
         "buddhi"
       ],
       "keyTerms": [
-        "abhyāsa",
-        "vairāgya",
+        "abhy\u0101sa",
+        "vair\u0101gya",
         "durnigraham",
         "calam",
-        "gṛhyate",
-        "upāyataḥ"
+        "g\u1e5bhyate",
+        "up\u0101yata\u1e25"
       ]
     },
     {
@@ -2398,39 +2176,39 @@
       "chapter": 6,
       "verse": 9,
       "text": "Bhagavad Gita",
-      "tithi": "Śukla Saptami",
-      "nakshatra": "Āśleṣā → Maghā",
+      "tithi": "\u015aukla Saptami",
+      "nakshatra": "\u0100\u015ble\u1e63\u0101 \u2192 Magh\u0101",
       "yoga": "Dhruva",
       "themes": [
         "sama-buddhi",
         "equal-intelligence",
-        "āśleṣā-maghā-threshold",
+        "\u0101\u015ble\u1e63\u0101-magh\u0101-threshold",
         "dhruva-steadiness",
-        "citta-prasādanam"
+        "citta-pras\u0101danam"
       ],
       "tags": [
         "#sama-buddhi",
         "#equal-intelligence",
-        "#āśleṣā→maghā",
+        "#\u0101\u015ble\u1e63\u0101\u2192magh\u0101",
         "#dhruva-steadiness",
         "#ys-i.33",
-        "#citta-prasādanam"
+        "#citta-pras\u0101danam"
       ],
       "yogaSutraConnection": "YS I.33",
       "sankhyaConcepts": [
         "sama-buddhi",
-        "rāga-dveṣa",
+        "r\u0101ga-dve\u1e63a",
         "buddhi-restructuring",
-        "guṇa-categorization",
-        "citta-prasādanam"
+        "gu\u1e47a-categorization",
+        "citta-pras\u0101danam"
       ],
       "keyTerms": [
         "sama-buddhi",
-        "su-hṛt",
+        "su-h\u1e5bt",
         "madhya-stha",
-        "dveṣya",
-        "viśiṣyate",
-        "upekṣā"
+        "dve\u1e63ya",
+        "vi\u015bi\u1e63yate",
+        "upek\u1e63\u0101"
       ]
     },
     {
@@ -2439,38 +2217,38 @@
       "chapter": 6,
       "verse": 29,
       "text": "Bhagavad Gita",
-      "tithi": "Śukla Ṣaṣṭhī",
-      "nakshatra": "Puṣya → Āśleṣā",
-      "yoga": "Vṛddhi",
+      "tithi": "\u015aukla \u1e62a\u1e63\u1e6dh\u012b",
+      "nakshatra": "Pu\u1e63ya \u2192 \u0100\u015ble\u1e63\u0101",
+      "yoga": "V\u1e5bddhi",
       "themes": [
-        "sama-darśana",
-        "guru-puṣya-illumination",
+        "sama-dar\u015bana",
+        "guru-pu\u1e63ya-illumination",
         "equal-vision",
-        "paramātmā-everywhere",
-        "dhyāna-fruition"
+        "param\u0101tm\u0101-everywhere",
+        "dhy\u0101na-fruition"
       ],
       "tags": [
-        "#sama-darśana",
-        "#guru-puṣya-illumination",
+        "#sama-dar\u015bana",
+        "#guru-pu\u1e63ya-illumination",
         "#equal-vision",
-        "#paramātmā-everywhere",
-        "#dhyāna-fruition"
+        "#param\u0101tm\u0101-everywhere",
+        "#dhy\u0101na-fruition"
       ],
       "yogaSutraConnection": "YS I.45",
       "sankhyaConcepts": [
-        "puruṣa-prakṛti",
-        "paramātmā-omnipresence",
-        "sama-darśana",
-        "jīva-vs-paramātmā",
-        "sabīja-samādhi"
+        "puru\u1e63a-prak\u1e5bti",
+        "param\u0101tm\u0101-omnipresence",
+        "sama-dar\u015bana",
+        "j\u012bva-vs-param\u0101tm\u0101",
+        "sab\u012bja-sam\u0101dhi"
       ],
       "keyTerms": [
-        "sarva-bhūta-stha",
-        "yoga-yukta-ātmā",
-        "sama-darśana",
-        "īkṣate",
-        "paramātmā",
-        "darśana"
+        "sarva-bh\u016bta-stha",
+        "yoga-yukta-\u0101tm\u0101",
+        "sama-dar\u015bana",
+        "\u012bk\u1e63ate",
+        "param\u0101tm\u0101",
+        "dar\u015bana"
       ]
     },
     {
@@ -2479,38 +2257,38 @@
       "chapter": 6,
       "verse": 17,
       "text": "Bhagavad Gita",
-      "tithi": "Śukla Pañcamī",
-      "nakshatra": "Punarvasu → Puṣya",
-      "yoga": "Gaṇḍa",
+      "tithi": "\u015aukla Pa\u00f1cam\u012b",
+      "nakshatra": "Punarvasu \u2192 Pu\u1e63ya",
+      "yoga": "Ga\u1e47\u1e0da",
       "themes": [
         "yukta-protocol",
         "regulated-freedom",
-        "puṣya-nourishment",
-        "duḥkha-hā",
-        "kriyā-yoga"
+        "pu\u1e63ya-nourishment",
+        "du\u1e25kha-h\u0101",
+        "kriy\u0101-yoga"
       ],
       "tags": [
         "#yukta-protocol",
         "#regulated-freedom",
-        "#puṣya-nourishment",
-        "#duḥkha-hā",
-        "#kriyā-yoga"
+        "#pu\u1e63ya-nourishment",
+        "#du\u1e25kha-h\u0101",
+        "#kriy\u0101-yoga"
       ],
       "yogaSutraConnection": "YS II.1",
       "sankhyaConcepts": [
         "yukta-regulation",
-        "kriyā-yoga",
-        "tapas-svādhyāya-praṇidhāna",
-        "duḥkha-nirodha",
+        "kriy\u0101-yoga",
+        "tapas-sv\u0101dhy\u0101ya-pra\u1e47idh\u0101na",
+        "du\u1e25kha-nirodha",
         "sattva-dominance"
       ],
       "keyTerms": [
         "yukta",
-        "āhāra",
-        "vihāra",
-        "ceṣṭā",
+        "\u0101h\u0101ra",
+        "vih\u0101ra",
+        "ce\u1e63\u1e6d\u0101",
         "svapna-avabodha",
-        "duḥkha-hā"
+        "du\u1e25kha-h\u0101"
       ]
     },
     {
@@ -2519,38 +2297,38 @@
       "chapter": 6,
       "verse": 5,
       "text": "Bhagavad Gita",
-      "tithi": "Śukla Caturthī",
-      "nakshatra": "Ārdrā → Punarvasu",
-      "yoga": "Śūla → Gaṇḍa",
+      "tithi": "\u015aukla Caturth\u012b",
+      "nakshatra": "\u0100rdr\u0101 \u2192 Punarvasu",
+      "yoga": "\u015a\u016bla \u2192 Ga\u1e47\u1e0da",
       "themes": [
         "mind-as-weapon",
         "friend-or-enemy",
         "self-delivery",
-        "abhyāsa-vairāgya",
-        "ārdrā-portal"
+        "abhy\u0101sa-vair\u0101gya",
+        "\u0101rdr\u0101-portal"
       ],
       "tags": [
         "#mind-as-weapon",
         "#friend-or-enemy",
-        "#ārdrā-portal",
+        "#\u0101rdr\u0101-portal",
         "#self-delivery",
-        "#abhyāsa-vairāgya"
+        "#abhy\u0101sa-vair\u0101gya"
       ],
       "yogaSutraConnection": "YS I.12",
       "sankhyaConcepts": [
-        "puruṣa-prakṛti",
+        "puru\u1e63a-prak\u1e5bti",
         "buddhi-governs-manas",
         "bandhu-vs-ripu",
-        "abhyāsa",
-        "vairāgya"
+        "abhy\u0101sa",
+        "vair\u0101gya"
       ],
       "keyTerms": [
         "uddharet",
-        "avasādayet",
-        "bandhuḥ",
-        "ripuḥ",
-        "ātmā",
-        "abhyāsa"
+        "avas\u0101dayet",
+        "bandhu\u1e25",
+        "ripu\u1e25",
+        "\u0101tm\u0101",
+        "abhy\u0101sa"
       ]
     },
     {
@@ -2595,8 +2373,8 @@
       "chapter": 3,
       "verse": 8,
       "text": "Bhagavad Gita",
-      "tithi": "Dvitīya",
-      "nakshatra": "Pūrva Bhādrapāda → Uttara Bhādrapāda",
+      "tithi": "Dvit\u012bya",
+      "nakshatra": "P\u016brva Bh\u0101drap\u0101da \u2192 Uttara Bh\u0101drap\u0101da",
       "yoga": "Raudra",
       "themes": [
         "karma-yoga",
@@ -2618,7 +2396,7 @@
         "karma",
         "prakriti-action",
         "prescribed-duty",
-        "kleśas"
+        "kle\u015bas"
       ],
       "keyTerms": [
         "niyatam",
@@ -2634,9 +2412,9 @@
       "chapter": 2,
       "verse": 17,
       "text": "Bhagavad Gita",
-      "tithi": "Śukla Aṣṭamī",
-      "nakshatra": "Kṛttikā → Rohiṇī",
-      "yoga": "Śukha",
+      "tithi": "\u015aukla A\u1e63\u1e6dam\u012b",
+      "nakshatra": "K\u1e5bttik\u0101 \u2192 Rohi\u1e47\u012b",
+      "yoga": "\u015aukha",
       "themes": [
         "pervasion",
         "indestructibility",
@@ -2645,7 +2423,7 @@
         "soul"
       ],
       "tags": [
-        "#avināśi",
+        "#avin\u0101\u015bi",
         "#pervasion",
         "#consciousness",
         "#krittika",
@@ -2655,13 +2433,13 @@
       ],
       "yogaSutraConnection": "YS I.3",
       "sankhyaConcepts": [
-        "puruṣa-prakṛti",
+        "puru\u1e63a-prak\u1e5bti",
         "tatam",
         "avyaya",
         "viveka"
       ],
       "keyTerms": [
-        "avināśi",
+        "avin\u0101\u015bi",
         "tatam",
         "avyaya",
         "viddhi",
@@ -2674,9 +2452,9 @@
       "chapter": 2,
       "verse": 29,
       "text": "Bhagavad Gita",
-      "tithi": "Śukla Saptamī",
-      "nakshatra": "Mrigashīrṣa",
-      "yoga": "Saubhāgya",
+      "tithi": "\u015aukla Saptam\u012b",
+      "nakshatra": "Mrigash\u012br\u1e63a",
+      "yoga": "Saubh\u0101gya",
       "themes": [
         "knowledge-levels",
         "perception",
@@ -2695,15 +2473,15 @@
       ],
       "yogaSutraConnection": "YS I.7",
       "sankhyaConcepts": [
-        "puruṣa-prakṛti",
+        "puru\u1e63a-prak\u1e5bti",
         "viveka",
-        "pramāṇa"
+        "pram\u0101\u1e47a"
       ],
       "keyTerms": [
-        "āścarya",
-        "paśyati",
+        "\u0101\u015bcarya",
+        "pa\u015byati",
         "vadati",
-        "śṛṇoti",
+        "\u015b\u1e5b\u1e47oti",
         "veda"
       ]
     },
@@ -2713,12 +2491,12 @@
       "chapter": 2,
       "verse": 70,
       "text": "Bhagavad Gita",
-      "tithi": "Amāvāsyā (New Moon)",
-      "nakshatra": "Pūrva Bhādrapadā → Uttara Bhādrapadā",
-      "yoga": "Śubha → Śukla",
+      "tithi": "Am\u0101v\u0101sy\u0101 (New Moon)",
+      "nakshatra": "P\u016brva Bh\u0101drapad\u0101 \u2192 Uttara Bh\u0101drapad\u0101",
+      "yoga": "\u015aubha \u2192 \u015aukla",
       "themes": [
-        "vairāgya",
-        "śānti",
+        "vair\u0101gya",
+        "\u015b\u0101nti",
         "completion",
         "stillness",
         "surrender"
@@ -2728,7 +2506,7 @@
         "#detachment",
         "#inner-peace",
         "#krishna-consciousness",
-        "#puruṣa-prakṛti",
+        "#puru\u1e63a-prak\u1e5bti",
         "#desire-management",
         "#ocean-metaphor",
         "#santi",
@@ -2736,18 +2514,18 @@
       ],
       "yogaSutraConnection": "YS I.15",
       "sankhyaConcepts": [
-        "puruṣa-prakṛti",
-        "acala-pratiṣṭha",
-        "āpūryamāṇam",
-        "vaśīkāra"
+        "puru\u1e63a-prak\u1e5bti",
+        "acala-prati\u1e63\u1e6dha",
+        "\u0101p\u016bryam\u0101\u1e47am",
+        "va\u015b\u012bk\u0101ra"
       ],
       "keyTerms": [
-        "āpūryamāṇam",
-        "acala-pratiṣṭham",
+        "\u0101p\u016bryam\u0101\u1e47am",
+        "acala-prati\u1e63\u1e6dham",
         "samudra",
-        "vaśīkāra",
-        "śānti",
-        "apāpaviddhaḥ"
+        "va\u015b\u012bk\u0101ra",
+        "\u015b\u0101nti",
+        "ap\u0101paviddha\u1e25"
       ]
     },
     {
@@ -2756,44 +2534,44 @@
       "chapter": 2,
       "verse": 14,
       "text": "Bhagavad Gita",
-      "tithi": "Ṣaṣṭhī → Saptamī",
-      "nakshatra": "Anurādhā",
-      "yoga": "Harṣaṇa → Vajra",
+      "tithi": "\u1e62a\u1e63\u1e6dh\u012b \u2192 Saptam\u012b",
+      "nakshatra": "Anur\u0101dh\u0101",
+      "yoga": "Har\u1e63a\u1e47a \u2192 Vajra",
       "themes": [
-        "titikṣā",
+        "titik\u1e63\u0101",
         "tolerance",
         "impermanence",
         "duty",
         "sense-control"
       ],
       "tags": [
-        "#titikṣā",
+        "#titik\u1e63\u0101",
         "#tolerance",
         "#duty",
         "#anitya",
         "#impermanence",
-        "#mātrā-sparśa",
+        "#m\u0101tr\u0101-spar\u015ba",
         "#sense-control",
-        "#sāṅkhya",
-        "#prakṛti",
+        "#s\u0101\u1e45khya",
+        "#prak\u1e5bti",
         "#discernment"
       ],
       "yogaSutraConnection": "YS II.1",
       "sankhyaConcepts": [
-        "puruṣa-prakṛti dualism",
-        "guṇa-vṛttis",
+        "puru\u1e63a-prak\u1e5bti dualism",
+        "gu\u1e47a-v\u1e5bttis",
         "anitya"
       ],
       "keyTerms": [
-        "titikṣasva",
-        "mātrā-sparśaḥ",
-        "anityāḥ",
-        "āgama-apāyinaḥ",
-        "śīta-uṣṣa"
+        "titik\u1e63asva",
+        "m\u0101tr\u0101-spar\u015ba\u1e25",
+        "anity\u0101\u1e25",
+        "\u0101gama-ap\u0101yina\u1e25",
+        "\u015b\u012bta-u\u1e63\u1e63a"
       ]
     }
   ],
-  "lastUpdated": "2026-07-20",
+  "lastUpdated": "2026-07-16",
   "versers": [
     {
       "date": "2026-06-30",
@@ -2822,25 +2600,25 @@
       ],
       "yogaSutraConnection": "YS I.12",
       "sankhyaConcepts": [
-        "puruṣa‑prakṛti dualism",
-        "the material world as duḥkhālayam (place of misery)",
-        "the living entity’s bondage to punar janma (repeated birth)",
-        "liberation as kaivalya (isolation of puruṣa)",
-        "the steady mind (sthira citta) as sattva‑prakṛti harmony"
+        "puru\u1e63a\u2011prak\u1e5bti dualism",
+        "the material world as du\u1e25kh\u0101layam (place of misery)",
+        "the living entity\u2019s bondage to punar janma (repeated birth)",
+        "liberation as kaivalya (isolation of puru\u1e63a)",
+        "the steady mind (sthira citta) as sattva\u2011prak\u1e5bti harmony"
       ],
       "keyTerms": [
-        "na — never; hacker metaphor: logical NOT operator negating the possibility of bewilderment",
-        "ete — these two; hacker metaphor: a bitmask representing the two distinct paths (śukla and kṛṣṇa)",
-        "sṛtī — paths, ways; hacker metaphor: execution branches in a conditional statement",
-        "pārtha — O son of Pṛthā (Arjuna); hacker metaphor: the root user seeking guidance from the kernel maintainer",
-        "jānan — even if he knows; hacker metaphor: a process that has read‑only access to the truth yet remains unaffected",
-        "yogī — the devotee of the Lord; hacker metaphor: a process with nice=-20, running at highest priority",
-        "muhyati — is bewildered; hacker metaphor: a segmentation fault (SIGSEGV) caused by accessing invalid memory",
-        "kaścana — any; hacker metaphor: a wildcard that matches any possible interrupt or signal",
-        "tasmāt — therefore; hacker metaphor: the inevitable consequence (return code 0) of a well‑written program",
-        "sarveṣu kāleṣu — at all times; hacker metaphor: a daemon process that runs continuously without interruption",
-        "yoga‑yuktaḥ — engaged in yoga (Kṛṣṇa consciousness); hacker metaphor: a process with CPU affinity locked to a single core (the Divine)",
-        "bhavārjuna — become, O Arjuna; hacker metaphor: the fork‑exec system call that creates a child process devoted to the Divine"
+        "na \u2014 never; hacker metaphor: logical NOT operator negating the possibility of bewilderment",
+        "ete \u2014 these two; hacker metaphor: a bitmask representing the two distinct paths (\u015bukla and k\u1e5b\u1e63\u1e47a)",
+        "s\u1e5bt\u012b \u2014 paths, ways; hacker metaphor: execution branches in a conditional statement",
+        "p\u0101rtha \u2014 O son of P\u1e5bth\u0101 (Arjuna); hacker metaphor: the root user seeking guidance from the kernel maintainer",
+        "j\u0101nan \u2014 even if he knows; hacker metaphor: a process that has read\u2011only access to the truth yet remains unaffected",
+        "yog\u012b \u2014 the devotee of the Lord; hacker metaphor: a process with nice=-20, running at highest priority",
+        "muhyati \u2014 is bewildered; hacker metaphor: a segmentation fault (SIGSEGV) caused by accessing invalid memory",
+        "ka\u015bcana \u2014 any; hacker metaphor: a wildcard that matches any possible interrupt or signal",
+        "tasm\u0101t \u2014 therefore; hacker metaphor: the inevitable consequence (return code 0) of a well\u2011written program",
+        "sarve\u1e63u k\u0101le\u1e63u \u2014 at all times; hacker metaphor: a daemon process that runs continuously without interruption",
+        "yoga\u2011yukta\u1e25 \u2014 engaged in yoga (K\u1e5b\u1e63\u1e47a consciousness); hacker metaphor: a process with CPU affinity locked to a single core (the Divine)",
+        "bhav\u0101rjuna \u2014 become, O Arjuna; hacker metaphor: the fork\u2011exec system call that creates a child process devoted to the Divine"
       ]
     },
     {
@@ -2872,31 +2650,31 @@
       ],
       "yogaSutraConnection": "YS I.23",
       "sankhyaConcepts": [
-        "puruṣa‑prakṛti dualism",
-        "the material world as duḥkhālayam (place of misery)",
-        "the Supreme’s abode as paramā gati (ultimate destination)",
-        "the living entity’s bondage to punar janma (repeated birth)",
-        "liberation as saṁsiddhi (highest perfection)"
+        "puru\u1e63a\u2011prak\u1e5bti dualism",
+        "the material world as du\u1e25kh\u0101layam (place of misery)",
+        "the Supreme\u2019s abode as param\u0101 gati (ultimate destination)",
+        "the living entity\u2019s bondage to punar janma (repeated birth)",
+        "liberation as sa\u1e41siddhi (highest perfection)"
       ],
       "keyTerms": [
-        "vedeṣu",
-        "yajñeṣu",
-        "tapaḥsu",
+        "vede\u1e63u",
+        "yaj\u00f1e\u1e63u",
+        "tapa\u1e25su",
         "ca",
         "eva",
-        "dāneṣu",
+        "d\u0101ne\u1e63u",
         "yat",
-        "puṇya-phalam",
-        "pradiṣṭam",
+        "pu\u1e47ya-phalam",
+        "pradi\u1e63\u1e6dam",
         "atyeti",
         "tat sarvam",
         "idam",
-        "viditvā",
-        "yogī",
-        "paraṁ",
-        "sthānam",
+        "viditv\u0101",
+        "yog\u012b",
+        "para\u1e41",
+        "sth\u0101nam",
         "upaiti",
-        "ādyam"
+        "\u0101dyam"
       ]
     },
     {
@@ -2933,26 +2711,26 @@
       ],
       "yogaSutraConnection": "YS I.12, I.23",
       "sankhyaConcepts": [
-        "puruṣa‑prakṛti dualism",
-        "manas (mind) as an evolute of prakṛti",
-        "the three guṇas (sattva, rajas, tamas) as mental modulators",
-        "vṛttis (thought‑waves) as modifications of citta",
-        "abhyāsa (practice) as the method to still vṛttis",
-        "vairāgya (dispassion) as withdrawal from sense‑object craving",
-        "bhakti (devotion) as the offering of actions to the puruṣa",
-        "ananya‑cetā (undiverted mind) as ekatā (one‑pointedness)",
-        "puruṣa‑prāpti (attainment of the puruṣa) as the goal of yoga"
+        "puru\u1e63a\u2011prak\u1e5bti dualism",
+        "manas (mind) as an evolute of prak\u1e5bti",
+        "the three gu\u1e47as (sattva, rajas, tamas) as mental modulators",
+        "v\u1e5bttis (thought\u2011waves) as modifications of citta",
+        "abhy\u0101sa (practice) as the method to still v\u1e5bttis",
+        "vair\u0101gya (dispassion) as withdrawal from sense\u2011object craving",
+        "bhakti (devotion) as the offering of actions to the puru\u1e63a",
+        "ananya\u2011cet\u0101 (undiverted mind) as ekat\u0101 (one\u2011pointedness)",
+        "puru\u1e63a\u2011pr\u0101pti (attainment of the puru\u1e63a) as the goal of yoga"
       ],
       "keyTerms": [
-        "abhyāsa‑yoga",
-        "cetasā",
-        "anya‑gāminā",
-        "paramaṁ puruṣaṁ",
+        "abhy\u0101sa\u2011yoga",
+        "cetas\u0101",
+        "anya\u2011g\u0101min\u0101",
+        "parama\u1e41 puru\u1e63a\u1e41",
         "divyam",
-        "yāti",
-        "pārtha",
+        "y\u0101ti",
+        "p\u0101rtha",
         "anucintayan",
-        "puruṣam",
+        "puru\u1e63am",
         "marginal energy",
         "supreme enjoyer"
       ]
@@ -2995,25 +2773,25 @@
       ],
       "yogaSutraConnection": "YS I.12, I.23",
       "sankhyaConcepts": [
-        "puruṣa‑prakṛti dualism",
-        "manas (mind) as an evolute of prakṛti",
-        "the three guṇas (sattva, rajas, tamas) as mental modulators",
-        "vṛttis (thought‑waves) as modifications of citta",
-        "abhyāsa (practice) as the method to still vṛttis",
-        "vairāgya (dispassion) as withdrawal from sense‑object craving",
-        "bhakti (devotion) as the offering of actions to the puruṣa",
-        "ananya‑cetā (undiverted mind) as ekatā (one‑pointedness)",
-        "puruṣa‑prāpti (attainment of the puruṣa) as the goal of yoga"
+        "puru\u1e63a\u2011prak\u1e5bti dualism",
+        "manas (mind) as an evolute of prak\u1e5bti",
+        "the three gu\u1e47as (sattva, rajas, tamas) as mental modulators",
+        "v\u1e5bttis (thought\u2011waves) as modifications of citta",
+        "abhy\u0101sa (practice) as the method to still v\u1e5bttis",
+        "vair\u0101gya (dispassion) as withdrawal from sense\u2011object craving",
+        "bhakti (devotion) as the offering of actions to the puru\u1e63a",
+        "ananya\u2011cet\u0101 (undiverted mind) as ekat\u0101 (one\u2011pointedness)",
+        "puru\u1e63a\u2011pr\u0101pti (attainment of the puru\u1e63a) as the goal of yoga"
       ],
       "keyTerms": [
-        "ananya‑cetāḥ",
-        "satataṁ",
-        "yo māṁ smarati",
-        "nityaśaḥ",
-        "tasyaahaṁ su‑labhaḥ",
-        "pārtha",
-        "nitya‑yuktasya yoginaḥ",
-        "yogiḥ"
+        "ananya\u2011cet\u0101\u1e25",
+        "satata\u1e41",
+        "yo m\u0101\u1e41 smarati",
+        "nitya\u015ba\u1e25",
+        "tasyaaha\u1e41 su\u2011labha\u1e25",
+        "p\u0101rtha",
+        "nitya\u2011yuktasya yogina\u1e25",
+        "yogi\u1e25"
       ]
     },
     {
@@ -3047,23 +2825,23 @@
       ],
       "yogaSutraConnection": "YS 1.23",
       "sankhyaConcepts": [
-        "puruṣa-prakṛti dualism",
-        "the material world as duḥkhālayam (place of misery)",
-        "the Supreme’s abode as paramā gati (ultimate destination)",
-        "the living entity’s bondage to punar janma (repeated birth)",
-        "liberation as saṁsiddhi (highest perfection)"
+        "puru\u1e63a-prak\u1e5bti dualism",
+        "the material world as du\u1e25kh\u0101layam (place of misery)",
+        "the Supreme\u2019s abode as param\u0101 gati (ultimate destination)",
+        "the living entity\u2019s bondage to punar janma (repeated birth)",
+        "liberation as sa\u1e41siddhi (highest perfection)"
       ],
       "keyTerms": [
-        "mām",
+        "m\u0101m",
         "upetya",
         "punar janma",
-        "duḥkhālayam",
-        "aśāśvatam",
-        "nāpnuvanti",
-        "mahātmānaḥ",
-        "saṁsiddhiṁ",
-        "paramāṁ",
-        "gatāḥ"
+        "du\u1e25kh\u0101layam",
+        "a\u015b\u0101\u015bvatam",
+        "n\u0101pnuvanti",
+        "mah\u0101tm\u0101na\u1e25",
+        "sa\u1e41siddhi\u1e41",
+        "param\u0101\u1e41",
+        "gat\u0101\u1e25"
       ]
     },
     {
@@ -3097,20 +2875,20 @@
       ],
       "yogaSutraConnection": "YS 1.23",
       "sankhyaConcepts": [
-        "puruṣa-prakṛti dualism",
-        "the material world as duḥkhālayam (place of misery)",
-        "the Supreme’s abode as paramā gati (ultimate destination)",
-        "the living entity’s bondage to punar janma (repeated birth)",
-        "liberation as saṁsiddhi (highest perfection)"
+        "puru\u1e63a-prak\u1e5bti dualism",
+        "the material world as du\u1e25kh\u0101layam (place of misery)",
+        "the Supreme\u2019s abode as param\u0101 gati (ultimate destination)",
+        "the living entity\u2019s bondage to punar janma (repeated birth)",
+        "liberation as sa\u1e41siddhi (highest perfection)"
       ],
       "keyTerms": [
-        "ananya-cetāḥ",
-        "satataṁ",
+        "ananya-cet\u0101\u1e25",
+        "satata\u1e41",
         "smarati",
-        "nityaśaḥ",
-        "su-labhaḥ",
+        "nitya\u015ba\u1e25",
+        "su-labha\u1e25",
         "nitya-yuktasya",
-        "yoginaḥ"
+        "yogina\u1e25"
       ]
     },
     {
@@ -3144,26 +2922,26 @@
         "#JnanaYoga",
         "#Sankhya"
       ],
-      "yogaSutraConnection": "YS I.12‑I.16",
+      "yogaSutraConnection": "YS I.12\u2011I.16",
       "sankhyaConcepts": [
-        "puruṣa-prakṛti dualism",
-        "the material world as duḥkhālayam (place of misery)",
-        "the Supreme’s abode as paramā gati (ultimate destination)",
-        "the living entity’s bondage to punar janma (repeated birth)",
-        "liberation as saṁsiddhi (highest perfection)"
+        "puru\u1e63a-prak\u1e5bti dualism",
+        "the material world as du\u1e25kh\u0101layam (place of misery)",
+        "the Supreme\u2019s abode as param\u0101 gati (ultimate destination)",
+        "the living entity\u2019s bondage to punar janma (repeated birth)",
+        "liberation as sa\u1e41siddhi (highest perfection)"
       ],
       "keyTerms": [
-        "ā-brahma-bhuvanāl",
-        "lokāḥ",
-        "punar āvartino",
-        "mām",
+        "\u0101-brahma-bhuvan\u0101l",
+        "lok\u0101\u1e25",
+        "punar \u0101vartino",
+        "m\u0101m",
         "upetya",
         "punar janma",
-        "duḥkhālayam",
-        "aśāśvatam",
-        "mahātmānaḥ",
-        "saṁsiddhiṁ",
-        "paramāṁ gatāḥ"
+        "du\u1e25kh\u0101layam",
+        "a\u015b\u0101\u015bvatam",
+        "mah\u0101tm\u0101na\u1e25",
+        "sa\u1e41siddhi\u1e41",
+        "param\u0101\u1e41 gat\u0101\u1e25"
       ]
     },
     {
@@ -3199,23 +2977,23 @@
         "#JnanaYoga",
         "#Sankhya"
       ],
-      "yogaSutraConnection": "YS I.2‑I.3",
+      "yogaSutraConnection": "YS I.2\u2011I.3",
       "sankhyaConcepts": [
-        "puruṣa-prakṛti dualism",
-        "avyakta (unmanifest) as the eternal ground of puruṣa",
-        "akṣara (infallible) as the immutable nature of the supreme",
-        "the living entity as aṇor aṇīyāṁsam (smaller than the smallest)",
-        "the Supreme as sarvasya dhātāram (maintainer of all)"
+        "puru\u1e63a-prak\u1e5bti dualism",
+        "avyakta (unmanifest) as the eternal ground of puru\u1e63a",
+        "ak\u1e63ara (infallible) as the immutable nature of the supreme",
+        "the living entity as a\u1e47or a\u1e47\u012by\u0101\u1e41sam (smaller than the smallest)",
+        "the Supreme as sarvasya dh\u0101t\u0101ram (maintainer of all)"
       ],
       "keyTerms": [
-        "avyaktaḥ",
-        "akṣaraḥ",
-        "paramāṁ gatim",
-        "tad dhāma",
+        "avyakta\u1e25",
+        "ak\u1e63ara\u1e25",
+        "param\u0101\u1e41 gatim",
+        "tad dh\u0101ma",
         "mama",
-        "prāpya",
+        "pr\u0101pya",
         "na nivartante",
-        "sanātanaḥ"
+        "san\u0101tana\u1e25"
       ]
     },
     {
@@ -3225,7 +3003,7 @@
       "verse": 9,
       "text": "Bhagavad Gita",
       "tithi": "Sukla Paksha Tritiya (until 12:08 PM EDT), then Sukla Paksha Chaturthi",
-      "nakshatra": "Pushya (from 04:06 AM EDT on Jun 17 – 02:02 AM EDT on Jun 18)",
+      "nakshatra": "Pushya (from 04:06 AM EDT on Jun 17 \u2013 02:02 AM EDT on Jun 18)",
       "yoga": "Dhruva (until 11:20 AM EDT), then Vyaghata",
       "themes": [
         "Meditation on the Supreme",
@@ -3250,21 +3028,21 @@
       ],
       "yogaSutraConnection": "YS I.23",
       "sankhyaConcepts": [
-        "puruṣa-prakṛti dualism",
-        "Īśvara as distinct conscious entity (puruṣa viśeṣa)",
+        "puru\u1e63a-prak\u1e5bti dualism",
+        "\u012a\u015bvara as distinct conscious entity (puru\u1e63a vi\u015be\u1e63a)",
         "acintya (inconceivable) as transcendental nature",
-        "the living entity as aṇor aṇīyāṁsam (smaller than the smallest)",
-        "the Supreme as sarvasya dhātāram (maintainer of all)"
+        "the living entity as a\u1e47or a\u1e47\u012by\u0101\u1e41sam (smaller than the smallest)",
+        "the Supreme as sarvasya dh\u0101t\u0101ram (maintainer of all)"
       ],
       "keyTerms": [
         "kavim",
-        "purāṇam",
-        "anuśāsitāram",
-        "aṇor aṇīyāṁsam",
-        "sarvasya dhātāram",
-        "acintya-rūpam",
-        "āditya-varṇam",
-        "tamasaḥ parastāt",
+        "pur\u0101\u1e47am",
+        "anu\u015b\u0101sit\u0101ram",
+        "a\u1e47or a\u1e47\u012by\u0101\u1e41sam",
+        "sarvasya dh\u0101t\u0101ram",
+        "acintya-r\u016bpam",
+        "\u0101ditya-var\u1e47am",
+        "tamasa\u1e25 parast\u0101t",
         "anusmared"
       ]
     },
@@ -3300,20 +3078,20 @@
       ],
       "yogaSutraConnection": "YS I.3",
       "sankhyaConcepts": [
-        "puruṣa-prakṛti dualism",
-        "bīja (seed) as the origin",
+        "puru\u1e63a-prak\u1e5bti dualism",
+        "b\u012bja (seed) as the origin",
         "buddhi (intelligence) as discriminative faculty",
         "teja (prowess) as vitality",
         "the living entity as superior energy exploiting inferior nature (BG 7.5)"
       ],
       "keyTerms": [
-        "bījaṁ",
-        "sarva-bhūtānām",
-        "sanātanam",
+        "b\u012bja\u1e41",
+        "sarva-bh\u016bt\u0101n\u0101m",
+        "san\u0101tanam",
         "buddhir",
-        "buddhimatām",
+        "buddhimat\u0101m",
         "tejas",
-        "tejasvinām",
+        "tejasvin\u0101m",
         "viddhi"
       ]
     },
@@ -3351,13 +3129,13 @@
         "the two natures as superior and inferior prakriti"
       ],
       "keyTerms": [
-        "etad-yonīni",
-        "bhūtāni",
-        "prabhavaḥ",
-        "pralayaḥ",
-        "jagataḥ",
-        "kṛtsnasya",
-        "upadhāraya"
+        "etad-yon\u012bni",
+        "bh\u016bt\u0101ni",
+        "prabhava\u1e25",
+        "pralaya\u1e25",
+        "jagata\u1e25",
+        "k\u1e5btsnasya",
+        "upadh\u0101raya"
       ]
     },
     {
@@ -3390,13 +3168,13 @@
         "liberation through devotion"
       ],
       "keyTerms": [
-        "catur-vidhā",
+        "catur-vidh\u0101",
         "bhajante",
-        "ārtā",
-        "jijñāsu",
-        "arthārthī",
-        "jñānī",
-        "su-kṛtinaḥ"
+        "\u0101rt\u0101",
+        "jij\u00f1\u0101su",
+        "arth\u0101rth\u012b",
+        "j\u00f1\u0101n\u012b",
+        "su-k\u1e5btina\u1e25"
       ]
     },
     {
@@ -3424,18 +3202,18 @@
       ],
       "yogaSutraConnection": "YS I.23",
       "sankhyaConcepts": [
-        "puruṣa-prakṛti",
+        "puru\u1e63a-prak\u1e5bti",
         "steady faith as sattva enhancement",
         "supersoul as inner controller"
       ],
       "keyTerms": [
-        "śraddhā",
+        "\u015braddh\u0101",
         "yukta",
-        "ārādhanam",
-        "īhate",
+        "\u0101r\u0101dhanam",
+        "\u012bhate",
         "labhate",
-        "mayā",
-        "vihitān"
+        "may\u0101",
+        "vihit\u0101n"
       ]
     },
     {
@@ -3463,16 +3241,16 @@
       ],
       "yogaSutraConnection": "YS I.23",
       "sankhyaConcepts": [
-        "puruṣa-prakṛti",
+        "puru\u1e63a-prak\u1e5bti",
         "steady faith as sattva enhancement",
         "supersoul as inner controller"
       ],
       "keyTerms": [
         "bhakta",
-        "śraddhā",
+        "\u015braddh\u0101",
         "acala",
-        "īśvara",
-        "tasmāt"
+        "\u012b\u015bvara",
+        "tasm\u0101t"
       ]
     },
     {
@@ -3481,9 +3259,9 @@
       "chapter": 7.13,
       "verse": 7.13,
       "text": "Bhagavad Gita",
-      "tithi": "Kṛṣṇa Paksha Dashami → Ekādaśī | Dashami ends Jun 10 03:28 PM | Ekādaśī begins 03:28 PM – Jun 11 01:06 PM",
-      "nakshatra": "Revati → Ashwini | Revati ends Jun 10 10:46 PM | Ashwini begins Jun 10 10:46 PM – Jun 11 08:58 PM | Deity: Pushan → Ashwini Kumār | Ruler: Mercury",
-      "yoga": "Saubhagya → Sobhana | Saubhagya ends Jun 10 06:32 PM | Sobhana begins Jun 10 06:32 PM – Jun 11 03:29 PM",
+      "tithi": "K\u1e5b\u1e63\u1e47a Paksha Dashami \u2192 Ek\u0101da\u015b\u012b | Dashami ends Jun 10 03:28 PM | Ek\u0101da\u015b\u012b begins 03:28 PM \u2013 Jun 11 01:06 PM",
+      "nakshatra": "Revati \u2192 Ashwini | Revati ends Jun 10 10:46 PM | Ashwini begins Jun 10 10:46 PM \u2013 Jun 11 08:58 PM | Deity: Pushan \u2192 Ashwini Kum\u0101r | Ruler: Mercury",
+      "yoga": "Saubhagya \u2192 Sobhana | Saubhagya ends Jun 10 06:32 PM | Sobhana begins Jun 10 06:32 PM \u2013 Jun 11 03:29 PM",
       "themes": [
         ""
       ],
@@ -3497,10 +3275,10 @@
         "gunas"
       ],
       "keyTerms": [
-        "tribhiḥ",
-        "guṇa-mayaiḥ",
+        "tribhi\u1e25",
+        "gu\u1e47a-mayai\u1e25",
         "mohitam",
-        "abhijānāti",
+        "abhij\u0101n\u0101ti",
         "param",
         "avyayam"
       ]
@@ -3511,9 +3289,9 @@
       "chapter": 7,
       "verse": 14,
       "text": "Bhagavad Gita",
-      "tithi": "Kṛṣṇa Paksha Ashtami → Navami | Ashtami ends Jun 08 05:53 PM | Navami begins 05:53 PM – Jun 09 05:05 PM",
-      "nakshatra": "Purva Bhadrapada → Uttara Bhadrapada | Purva Bhadrapada ends Jun 09 12:09 AM | Uttara Bhadrapada begins 12:09 AM – Jun 09 11:51 PM",
-      "yoga": "Prithi → Ayushman | Prithi ends Jun 08 10:48 PM | Ayushman begins Jun 08 10:48 PM – Jun 09 08:59 PM",
+      "tithi": "K\u1e5b\u1e63\u1e47a Paksha Ashtami \u2192 Navami | Ashtami ends Jun 08 05:53 PM | Navami begins 05:53 PM \u2013 Jun 09 05:05 PM",
+      "nakshatra": "Purva Bhadrapada \u2192 Uttara Bhadrapada | Purva Bhadrapada ends Jun 09 12:09 AM | Uttara Bhadrapada begins 12:09 AM \u2013 Jun 09 11:51 PM",
+      "yoga": "Prithi \u2192 Ayushman | Prithi ends Jun 08 10:48 PM | Ayushman begins Jun 08 10:48 PM \u2013 Jun 09 08:59 PM",
       "themes": [
         "jnana-yoga",
         "maya",
@@ -3540,20 +3318,20 @@
       ],
       "yogaSutraConnection": "YS II.45",
       "sankhyaConcepts": [
-        "māyā-as-the-veil-of-prakṛti",
-        "surrender-as-means-to-transcend-māyā",
+        "m\u0101y\u0101-as-the-veil-of-prak\u1e5bti",
+        "surrender-as-means-to-transcend-m\u0101y\u0101",
         "three-modes-binding-the-living-entity",
         "analogy-of-pearls-on-a-thread"
       ],
       "keyTerms": [
-        "daivī",
-        "guṇamayī",
-        "māyā",
-        "duratyayā",
+        "daiv\u012b",
+        "gu\u1e47amay\u012b",
+        "m\u0101y\u0101",
+        "duratyay\u0101",
         "prapadyante",
         "taranti",
-        "īśvara-praṇidhāna",
-        "samādhi-siddhi"
+        "\u012b\u015bvara-pra\u1e47idh\u0101na",
+        "sam\u0101dhi-siddhi"
       ]
     },
     {
@@ -3562,9 +3340,9 @@
       "chapter": 7,
       "verse": 8,
       "text": "Bhagavad Gita",
-      "tithi": "Kṛṣṇa Saptamī → Aṣṭamī",
-      "nakshatra": "Śatabhiṣā → Pūrvā Bhādrapadā",
-      "yoga": "Viṣkambha",
+      "tithi": "K\u1e5b\u1e63\u1e47a Saptam\u012b \u2192 A\u1e63\u1e6dam\u012b",
+      "nakshatra": "\u015aatabhi\u1e63\u0101 \u2192 P\u016brv\u0101 Bh\u0101drapad\u0101",
+      "yoga": "Vi\u1e63kambha",
       "themes": [
         "essential-resonance",
         "rasa",
@@ -3587,15 +3365,15 @@
       "sankhyaConcepts": [
         "rasa-as-essence",
         "prabha-as-effulgence",
-        "puruṣa-in-prakṛti",
+        "puru\u1e63a-in-prak\u1e5bti",
         "vibration-as-root"
       ],
       "keyTerms": [
         "rasa",
-        "prabhā",
-        "praṇava",
-        "pauruṣam",
-        "śabdaḥ"
+        "prabh\u0101",
+        "pra\u1e47ava",
+        "pauru\u1e63am",
+        "\u015babda\u1e25"
       ]
     },
     {
@@ -3604,14 +3382,14 @@
       "chapter": 7,
       "verse": 7,
       "text": "Bhagavad Gita",
-      "tithi": "Kṛṣṇa Ṣaṣṭhī",
-      "nakshatra": "Dhaniṣṭhā → Śatabhiṣā",
-      "yoga": "Vaidhṛti",
+      "tithi": "K\u1e5b\u1e63\u1e47a \u1e62a\u1e63\u1e6dh\u012b",
+      "nakshatra": "Dhani\u1e63\u1e6dh\u0101 \u2192 \u015aatabhi\u1e63\u0101",
+      "yoga": "Vaidh\u1e5bti",
       "themes": [
         "supreme-declaration",
         "thread-of-existence",
-        "pearls-on-sūtra",
-        "īśvara-as-ground"
+        "pearls-on-s\u016btra",
+        "\u012b\u015bvara-as-ground"
       ],
       "tags": [
         "#jnana-yoga",
@@ -3623,18 +3401,18 @@
       ],
       "yogaSutraConnection": "YS II.45",
       "sankhyaConcepts": [
-        "puruṣa-as-sūtra",
-        "prakṛti-as-maṇi",
-        "puruṣa-prakṛti-distinction"
+        "puru\u1e63a-as-s\u016btra",
+        "prak\u1e5bti-as-ma\u1e47i",
+        "puru\u1e63a-prak\u1e5bti-distinction"
       ],
       "keyTerms": [
         "parataram",
         "protam",
-        "sūtra",
-        "maṇi-gaṇāḥ",
-        "dhanañ-jaya",
-        "īśvara-praṇidhāna",
-        "samādhi-siddhi"
+        "s\u016btra",
+        "ma\u1e47i-ga\u1e47\u0101\u1e25",
+        "dhana\u00f1-jaya",
+        "\u012b\u015bvara-pra\u1e47idh\u0101na",
+        "sam\u0101dhi-siddhi"
       ]
     },
     {
@@ -3643,42 +3421,42 @@
       "chapter": 7,
       "verse": 5,
       "text": "Bhagavad Gita",
-      "tithi": "Kṛṣṇa Pañcamī → Ṣaṣṭhī",
-      "nakshatra": "Śravaṇa → Dhaniṣṭhā",
+      "tithi": "K\u1e5b\u1e63\u1e47a Pa\u00f1cam\u012b \u2192 \u1e62a\u1e63\u1e6dh\u012b",
+      "nakshatra": "\u015arava\u1e47a \u2192 Dhani\u1e63\u1e6dh\u0101",
       "yoga": "Indra",
       "themes": [
-        "parā-prakṛti",
-        "jīva-bhūtā",
-        "aparā-vs-parā",
-        "asmitā",
+        "par\u0101-prak\u1e5bti",
+        "j\u012bva-bh\u016bt\u0101",
+        "apar\u0101-vs-par\u0101",
+        "asmit\u0101",
         "superior-energy",
         "consciousness"
       ],
       "tags": [
         "#jnana-yoga",
-        "#parā-prakṛti",
-        "#jīva-bhūtā",
-        "#aparā-prakṛti",
-        "#asmitā",
-        "#dhāryate",
-        "#śravaṇa"
+        "#par\u0101-prak\u1e5bti",
+        "#j\u012bva-bh\u016bt\u0101",
+        "#apar\u0101-prak\u1e5bti",
+        "#asmit\u0101",
+        "#dh\u0101ryate",
+        "#\u015brava\u1e47a"
       ],
       "yogaSutraConnection": "YS II.6",
       "sankhyaConcepts": [
-        "puruṣa-prakṛti",
-        "aparā-prakṛti",
-        "parā-prakṛti",
-        "puruṣottama",
-        "asmitā",
+        "puru\u1e63a-prak\u1e5bti",
+        "apar\u0101-prak\u1e5bti",
+        "par\u0101-prak\u1e5bti",
+        "puru\u1e63ottama",
+        "asmit\u0101",
         "tripartite-architecture"
       ],
       "keyTerms": [
-        "aparā",
-        "parā",
-        "jīva-bhūtā",
-        "dhāryate",
-        "asmitā",
-        "prakṛti"
+        "apar\u0101",
+        "par\u0101",
+        "j\u012bva-bh\u016bt\u0101",
+        "dh\u0101ryate",
+        "asmit\u0101",
+        "prak\u1e5bti"
       ]
     },
     {
@@ -3687,44 +3465,44 @@
       "chapter": 7,
       "verse": 4,
       "text": "Bhagavad Gita",
-      "tithi": "Kṛṣṇa Chaturthi → Pañcamī",
-      "nakshatra": "Uttarāṣāḍhā → Śravaṇa",
+      "tithi": "K\u1e5b\u1e63\u1e47a Chaturthi \u2192 Pa\u00f1cam\u012b",
+      "nakshatra": "Uttar\u0101\u1e63\u0101\u1e0dh\u0101 \u2192 \u015arava\u1e47a",
       "yoga": "Brahma",
       "themes": [
         "jnana-yoga",
-        "bhinnā-prakṛti",
-        "aṣṭadhā",
-        "aparā-prakṛti",
-        "draṣṭṛ-dṛśya",
-        "saṁyogaḥ",
-        "śravaṇa",
+        "bhinn\u0101-prak\u1e5bti",
+        "a\u1e63\u1e6dadh\u0101",
+        "apar\u0101-prak\u1e5bti",
+        "dra\u1e63\u1e6d\u1e5b-d\u1e5b\u015bya",
+        "sa\u1e41yoga\u1e25",
+        "\u015brava\u1e47a",
         "eight-energies"
       ],
       "tags": [
         "#jnana-yoga",
-        "#bhinnā-prakṛti",
-        "#aṣṭadhā",
-        "#aparā-prakṛti",
-        "#draṣṭṛ-dṛśya",
-        "#saṁyogaḥ",
-        "#śravaṇa"
+        "#bhinn\u0101-prak\u1e5bti",
+        "#a\u1e63\u1e6dadh\u0101",
+        "#apar\u0101-prak\u1e5bti",
+        "#dra\u1e63\u1e6d\u1e5b-d\u1e5b\u015bya",
+        "#sa\u1e41yoga\u1e25",
+        "#\u015brava\u1e47a"
       ],
       "yogaSutraConnection": "YS II.17",
       "sankhyaConcepts": [
-        "aparā-prakṛti",
-        "bhinnā-as-separation",
+        "apar\u0101-prak\u1e5bti",
+        "bhinn\u0101-as-separation",
         "eightfold-evolution",
-        "draṣṭṛ-dṛśya",
-        "saṁyogaḥ-as-mis-identification",
+        "dra\u1e63\u1e6d\u1e5b-d\u1e5b\u015bya",
+        "sa\u1e41yoga\u1e25-as-mis-identification",
         "viyoga"
       ],
       "keyTerms": [
-        "bhinnā",
-        "prakṛti",
-        "aṣṭadhā",
-        "ahaṅkāra",
-        "draṣṭṛ-dṛśya",
-        "saṁyogaḥ"
+        "bhinn\u0101",
+        "prak\u1e5bti",
+        "a\u1e63\u1e6dadh\u0101",
+        "aha\u1e45k\u0101ra",
+        "dra\u1e63\u1e6d\u1e5b-d\u1e5b\u015bya",
+        "sa\u1e41yoga\u1e25"
       ]
     },
     {
@@ -3733,9 +3511,9 @@
       "chapter": 7,
       "verse": 3,
       "text": "Bhagavad Gita",
-      "tithi": "Kṛṣṇa Chaturthi (Sankashti)",
-      "nakshatra": "Pūrvāṣāḍhā → Uttara Aṣāḍhā",
-      "yoga": "Śukla → Brahma",
+      "tithi": "K\u1e5b\u1e63\u1e47a Chaturthi (Sankashti)",
+      "nakshatra": "P\u016brv\u0101\u1e63\u0101\u1e0dh\u0101 \u2192 Uttara A\u1e63\u0101\u1e0dh\u0101",
+      "yoga": "\u015aukla \u2192 Brahma",
       "themes": [
         "jnana-yoga",
         "tattvatah",
@@ -3755,19 +3533,19 @@
       ],
       "yogaSutraConnection": "YS II.28",
       "sankhyaConcepts": [
-        "guṇa-funnel",
-        "aśuddhi-as-residual-code",
-        "puruṣa-beyond-sattva",
+        "gu\u1e47a-funnel",
+        "a\u015buddhi-as-residual-code",
+        "puru\u1e63a-beyond-sattva",
         "tattvatah-as-root-access",
-        "viveka-khyāti"
+        "viveka-khy\u0101ti"
       ],
       "keyTerms": [
-        "sahasreṣu",
+        "sahasre\u1e63u",
         "siddhaye",
-        "siddhānām",
-        "tattvataḥ",
-        "aśuddhi",
-        "viveka-khyāti"
+        "siddh\u0101n\u0101m",
+        "tattvata\u1e25",
+        "a\u015buddhi",
+        "viveka-khy\u0101ti"
       ]
     },
     {
@@ -3776,9 +3554,9 @@
       "chapter": 7,
       "verse": 1,
       "text": "Bhagavad Gita",
-      "tithi": "Kṛṣṇa Tritiyā",
-      "nakshatra": "Mūla → Pūrvāṣāḍhā",
-      "yoga": "Śubha → Śukla",
+      "tithi": "K\u1e5b\u1e63\u1e47a Tritiy\u0101",
+      "nakshatra": "M\u016bla \u2192 P\u016brv\u0101\u1e63\u0101\u1e0dh\u0101",
+      "yoga": "\u015aubha \u2192 \u015aukla",
       "themes": [
         "jnana-yoga",
         "asakta-manah",
@@ -3799,19 +3577,19 @@
       ],
       "yogaSutraConnection": "YS I.23",
       "sankhyaConcepts": [
-        "puruṣa-āśraya",
+        "puru\u1e63a-\u0101\u015braya",
         "right-attachment",
-        "īśvara-praṇidhāna",
-        "bhakti-viśeṣa",
-        "guṇa-atīta"
+        "\u012b\u015bvara-pra\u1e47idh\u0101na",
+        "bhakti-vi\u015be\u1e63a",
+        "gu\u1e47a-at\u012bta"
       ],
       "keyTerms": [
-        "jñāna",
-        "āsakta-manāḥ",
-        "mad-āśrayaḥ",
-        "asaṁśayam",
+        "j\u00f1\u0101na",
+        "\u0101sakta-man\u0101\u1e25",
+        "mad-\u0101\u015braya\u1e25",
+        "asa\u1e41\u015bayam",
         "samagram",
-        "īśvara-praṇidhāna"
+        "\u012b\u015bvara-pra\u1e47idh\u0101na"
       ]
     },
     {
@@ -3820,15 +3598,15 @@
       "chapter": 6,
       "verse": "20-23",
       "text": "Bhagavad Gita",
-      "tithi": "Kṛṣṇa Dwitiyā",
-      "nakshatra": "Jyeṣṭhā → Mūla",
-      "yoga": "Sādhya → Śubha",
+      "tithi": "K\u1e5b\u1e63\u1e47a Dwitiy\u0101",
+      "nakshatra": "Jye\u1e63\u1e6dh\u0101 \u2192 M\u016bla",
+      "yoga": "S\u0101dhya \u2192 \u015aubha",
       "themes": [
         "samadhi",
         "kaivalya",
         "citi-shakti",
         "niruddha",
-        "duhkha-saṁyoga-viyoga",
+        "duhkha-sa\u1e41yoga-viyoga",
         "dhyana-yoga",
         "atyantika-sukha"
       ],
@@ -3838,23 +3616,23 @@
         "#citi-shakti",
         "#niruddha",
         "#dhyana-yoga",
-        "#duhkha-saṁyoga-viyoga"
+        "#duhkha-sa\u1e41yoga-viyoga"
       ],
       "yogaSutraConnection": "YS I.17 + IV.34",
       "sankhyaConcepts": [
-        "puruṣa-prakṛti-viyoga",
-        "citi-śakti",
-        "guṇa-pratiprasava",
+        "puru\u1e63a-prak\u1e5bti-viyoga",
+        "citi-\u015bakti",
+        "gu\u1e47a-pratiprasava",
         "kaivalya",
-        "svarūpa-pratiṣṭhā"
+        "svar\u016bpa-prati\u1e63\u1e6dh\u0101"
       ],
       "keyTerms": [
-        "samādhi",
-        "citi-śakti",
+        "sam\u0101dhi",
+        "citi-\u015bakti",
         "kaivalya",
-        "duḥkha-saṁyoga-viyoga",
+        "du\u1e25kha-sa\u1e41yoga-viyoga",
         "niruddha",
-        "ātyantikam"
+        "\u0101tyantikam"
       ]
     },
     {
@@ -3863,9 +3641,9 @@
       "chapter": 6,
       "verse": 7,
       "text": "Bhagavad Gita",
-      "tithi": "Kṛṣṇa Pratipadā",
-      "nakshatra": "Anurādhā → Jyeṣṭhā",
-      "yoga": "Siddha → Sadhya",
+      "tithi": "K\u1e5b\u1e63\u1e47a Pratipad\u0101",
+      "nakshatra": "Anur\u0101dh\u0101 \u2192 Jye\u1e63\u1e6dh\u0101",
+      "yoga": "Siddha \u2192 Sadhya",
       "themes": [
         "jitatman",
         "paramatma",
@@ -3891,12 +3669,12 @@
         "guna-oscillation"
       ],
       "keyTerms": [
-        "jitātman",
-        "praśānta",
-        "paramātmā",
-        "samāhitaḥ",
+        "jit\u0101tman",
+        "pra\u015b\u0101nta",
+        "param\u0101tm\u0101",
+        "sam\u0101hita\u1e25",
         "dvandva",
-        "anabhighāta"
+        "anabhigh\u0101ta"
       ]
     },
     {
@@ -3905,9 +3683,9 @@
       "chapter": 6,
       "verse": 28,
       "text": "Bhagavad Gita",
-      "tithi": "Śukla Pūrṇimā",
-      "nakshatra": "Anurādhā",
-      "yoga": "Śiva → Siddha",
+      "tithi": "\u015aukla P\u016br\u1e47im\u0101",
+      "nakshatra": "Anur\u0101dh\u0101",
+      "yoga": "\u015aiva \u2192 Siddha",
       "themes": [
         "purnima",
         "fulfillment",
@@ -3928,15 +3706,15 @@
         "purusa-prakriti",
         "vigata-kalmasha",
         "brahma-samsparsha",
-        "jñāna-dīptiḥ"
+        "j\u00f1\u0101na-d\u012bpti\u1e25"
       ],
       "keyTerms": [
-        "brahma-saṁsparśa",
-        "vigata-kalmaṣaḥ",
-        "yuñjan",
-        "sadā",
+        "brahma-sa\u1e41spar\u015ba",
+        "vigata-kalma\u1e63a\u1e25",
+        "yu\u00f1jan",
+        "sad\u0101",
         "atyantam sukham",
-        "aśuddhi-kṣaya"
+        "a\u015buddhi-k\u1e63aya"
       ]
     },
     {
@@ -3945,40 +3723,40 @@
       "chapter": 6,
       "verse": "37-40",
       "text": "Bhagavad Gita",
-      "tithi": "Śukla Caturdaśī",
-      "nakshatra": "Viśākhā → Anurādhā",
-      "yoga": "Parigha → Śiva",
+      "tithi": "\u015aukla Caturda\u015b\u012b",
+      "nakshatra": "Vi\u015b\u0101kh\u0101 \u2192 Anur\u0101dh\u0101",
+      "yoga": "Parigha \u2192 \u015aiva",
       "themes": [
         "failed-yogi",
         "guarantee",
         "grace",
-        "kalyāṇa-kṛt",
-        "Īśvara-praṇidhāna",
-        "buddhi-saṁyoga",
+        "kaly\u0101\u1e47a-k\u1e5bt",
+        "\u012a\u015bvara-pra\u1e47idh\u0101na",
+        "buddhi-sa\u1e41yoga",
         "no-effort-lost"
       ],
       "tags": [
         "#failed-yogi",
         "#guarantee",
-        "#kalyāṇa-kṛt",
-        "#Īśvara-praṇidhāna",
+        "#kaly\u0101\u1e47a-k\u1e5bt",
+        "#\u012a\u015bvara-pra\u1e47idh\u0101na",
         "#grace",
-        "#buddhi-saṁyoga",
+        "#buddhi-sa\u1e41yoga",
         "#no-effort-lost"
       ],
       "yogaSutraConnection": "YS I.23 + I.26",
       "sankhyaConcepts": [
         "buddhi-as-preservation-mechanism",
-        "Īśvara-as-transcendent-preserver",
-        "guṇas-never-destroy-sattvic-investment"
+        "\u012a\u015bvara-as-transcendent-preserver",
+        "gu\u1e47as-never-destroy-sattvic-investment"
       ],
       "keyTerms": [
-        "yogāc calita-mānasaḥ",
-        "ubhaya-vibhraṣṭa",
-        "chinnābhram",
-        "kalyāṇa-kṛt",
-        "buddhi-saṁyoga",
-        "Īśvara-praṇidhāna"
+        "yog\u0101c calita-m\u0101nasa\u1e25",
+        "ubhaya-vibhra\u1e63\u1e6da",
+        "chinn\u0101bhram",
+        "kaly\u0101\u1e47a-k\u1e5bt",
+        "buddhi-sa\u1e41yoga",
+        "\u012a\u015bvara-pra\u1e47idh\u0101na"
       ]
     },
     {
@@ -3987,39 +3765,39 @@
       "chapter": 6,
       "verse": 30,
       "text": "Bhagavad Gita",
-      "tithi": "Śukla Trayodaśī",
-      "nakshatra": "Svātī → Viśākhā",
-      "yoga": "Variyan → Parigha",
+      "tithi": "\u015aukla Trayoda\u015b\u012b",
+      "nakshatra": "Sv\u0101t\u012b \u2192 Vi\u015b\u0101kh\u0101",
+      "yoga": "Variyan \u2192 Parigha",
       "themes": [
         "omnipresence",
         "divine-vision",
         "intimacy",
-        "praṇaśyati",
-        "svātī-independence",
+        "pra\u1e47a\u015byati",
+        "sv\u0101t\u012b-independence",
         "parigha-crossing"
       ],
       "tags": [
         "#omnipresence",
         "#divine-vision",
         "#intimacy",
-        "#praṇaśyati",
-        "#svātī-independence",
+        "#pra\u1e47a\u015byati",
+        "#sv\u0101t\u012b-independence",
         "#parigha-crossing",
-        "#pradoṣa-vrat"
+        "#prado\u1e63a-vrat"
       ],
-      "yogaSutraConnection": "YS I.36–I.37",
+      "yogaSutraConnection": "YS I.36\u2013I.37",
       "sankhyaConcepts": [
-        "prakṛti-as-kṛṣṇa-energy",
-        "rāga-as-distortion-field",
+        "prak\u1e5bti-as-k\u1e5b\u1e63\u1e47a-energy",
+        "r\u0101ga-as-distortion-field",
         "mutual-non-perishing"
       ],
       "keyTerms": [
-        "paśyati",
+        "pa\u015byati",
         "sarvatra",
-        "praṇaśyāmi",
-        "sama-darśana",
-        "viśokā jyotiṣmatī",
-        "vīta-rāga"
+        "pra\u1e47a\u015by\u0101mi",
+        "sama-dar\u015bana",
+        "vi\u015bok\u0101 jyoti\u1e63mat\u012b",
+        "v\u012bta-r\u0101ga"
       ]
     },
     {
@@ -4028,24 +3806,24 @@
       "chapter": 6,
       "verse": 27,
       "text": "Bhagavad Gita",
-      "tithi": "Śukla Dwādaśī",
-      "nakshatra": "Chitrā → Svātī",
-      "yoga": "Vyatipāta → Variyan",
+      "tithi": "\u015aukla Dw\u0101da\u015b\u012b",
+      "nakshatra": "Chitr\u0101 \u2192 Sv\u0101t\u012b",
+      "yoga": "Vyatip\u0101ta \u2192 Variyan",
       "themes": [
         "settled-mind",
         "supreme-happiness",
-        "brahma-bhūta",
+        "brahma-bh\u016bta",
         "contentment",
-        "vyatipāta-reversal"
+        "vyatip\u0101ta-reversal"
       ],
       "tags": [
         "#settled-mind",
         "#supreme-happiness",
-        "#brahma-bhūta",
-        "#santoṣa",
-        "#vyatipāta-reversal",
-        "#chitrā-radiance",
-        "#dwādaśī-fulfillment"
+        "#brahma-bh\u016bta",
+        "#santo\u1e63a",
+        "#vyatip\u0101ta-reversal",
+        "#chitr\u0101-radiance",
+        "#dw\u0101da\u015b\u012b-fulfillment"
       ],
       "yogaSutraConnection": "YS II.42",
       "sankhyaConcepts": [
@@ -4054,12 +3832,12 @@
         "karmic-exhaust-mechanism"
       ],
       "keyTerms": [
-        "praśānta-manas",
+        "pra\u015b\u0101nta-manas",
         "sukham uttamam",
-        "śānta-rajasaḥ",
-        "brahma-bhūtam",
-        "akalmaṣam",
-        "santoṣa"
+        "\u015b\u0101nta-rajasa\u1e25",
+        "brahma-bh\u016btam",
+        "akalma\u1e63am",
+        "santo\u1e63a"
       ]
     },
     {
@@ -4068,9 +3846,9 @@
       "chapter": 6,
       "verse": 10,
       "text": "Bhagavad Gita",
-      "tithi": "Śukla Ekādaśī → Dwādaśī",
-      "nakshatra": "Hasta → Chitrā",
-      "yoga": "Siddhi → Vyatipāta",
+      "tithi": "\u015aukla Ek\u0101da\u015b\u012b \u2192 Dw\u0101da\u015b\u012b",
+      "nakshatra": "Hasta \u2192 Chitr\u0101",
+      "yoga": "Siddhi \u2192 Vyatip\u0101ta",
       "themes": [
         "solitary-practice",
         "constant-engagement",
@@ -4081,31 +3859,31 @@
         "aparigraha-ownership"
       ],
       "tags": [
-        "#yuñjīta",
+        "#yu\u00f1j\u012bta",
         "#satatam",
         "#rahasi",
-        "#ekākī",
-        "#nirāśīḥ",
-        "#aparigrahaḥ",
-        "#īśvara-praṇidhāna",
-        "#padmini-ekādaśī"
+        "#ek\u0101k\u012b",
+        "#nir\u0101\u015b\u012b\u1e25",
+        "#aparigraha\u1e25",
+        "#\u012b\u015bvara-pra\u1e47idh\u0101na",
+        "#padmini-ek\u0101da\u015b\u012b"
       ],
       "yogaSutraConnection": "YS II.45",
       "sankhyaConcepts": [
-        "buddhi-oriented-toward-puruṣa",
+        "buddhi-oriented-toward-puru\u1e63a",
         "five-movements-of-discernment",
-        "vairāgya",
-        "abhyāsa",
-        "īśvara-praṇidhāna",
+        "vair\u0101gya",
+        "abhy\u0101sa",
+        "\u012b\u015bvara-pra\u1e47idh\u0101na",
         "sattvic-buddhi"
       ],
       "keyTerms": [
-        "yuñjīta",
+        "yu\u00f1j\u012bta",
         "satatam",
         "rahasi",
-        "ekākī",
-        "nirāśīḥ",
-        "aparigrahaḥ"
+        "ek\u0101k\u012b",
+        "nir\u0101\u015b\u012b\u1e25",
+        "aparigraha\u1e25"
       ]
     },
     {
@@ -4114,9 +3892,9 @@
       "chapter": 6,
       "verse": "47",
       "text": "Bhagavad Gita",
-      "tithi": "Śukla Daśamī → Ekādaśī",
-      "nakshatra": "Uttara Phalgunī → Hasta",
-      "yoga": "Vajra → Siddhi",
+      "tithi": "\u015aukla Da\u015bam\u012b \u2192 Ek\u0101da\u015b\u012b",
+      "nakshatra": "Uttara Phalgun\u012b \u2192 Hasta",
+      "yoga": "Vajra \u2192 Siddhi",
       "themes": [
         "culmination",
         "bhakti-as-highest",
@@ -4126,26 +3904,26 @@
         "yukta-tamah"
       ],
       "tags": [
-        "#yukta-tamaḥ",
+        "#yukta-tama\u1e25",
         "#bhajate",
-        "#śraddhā-vān",
+        "#\u015braddh\u0101-v\u0101n",
         "#mad-gatena",
-        "#īśvara-praṇidhāna",
+        "#\u012b\u015bvara-pra\u1e47idh\u0101na",
         "#ganga-dussehra",
-        "#daśamī"
+        "#da\u015bam\u012b"
       ],
       "yogaSutraConnection": "YS I.23",
       "sankhyaConcepts": [
-        "puruṣa-prakṛti-circuit",
-        "guṇa-transcendence-through-offering",
+        "puru\u1e63a-prak\u1e5bti-circuit",
+        "gu\u1e47a-transcendence-through-offering",
         "buddhi-alignment"
       ],
       "keyTerms": [
-        "yukta-tamaḥ",
+        "yukta-tama\u1e25",
         "bhajate",
         "mad-gatena",
-        "śraddhā-vān",
-        "antar-ātmanā"
+        "\u015braddh\u0101-v\u0101n",
+        "antar-\u0101tman\u0101"
       ]
     },
     {
@@ -4154,44 +3932,44 @@
       "chapter": 6,
       "verse": "25-26",
       "text": "Bhagavad Gita",
-      "tithi": "Śukla Navamī → Dashamī",
-      "nakshatra": "Pūrva Phalgunī → Uttara Phalgunī",
-      "yoga": "Harṣaṇa → Vajra",
+      "tithi": "\u015aukla Navam\u012b \u2192 Dasham\u012b",
+      "nakshatra": "P\u016brva Phalgun\u012b \u2192 Uttara Phalgun\u012b",
+      "yoga": "Har\u1e63a\u1e47a \u2192 Vajra",
       "themes": [
         "mind-return",
         "gradual-withdrawal",
-        "pratyāhāra",
-        "navamī-fulfillment",
-        "phalgunī-portal",
-        "cañcala-mind"
+        "praty\u0101h\u0101ra",
+        "navam\u012b-fulfillment",
+        "phalgun\u012b-portal",
+        "ca\u00f1cala-mind"
       ],
       "tags": [
-        "#śanaiḥ-śanaiḥ",
-        "#yataḥ-yataḥ",
-        "#ātma-saṁstha",
-        "#pratyāhāra",
-        "#dhṛti",
-        "#navamī",
-        "#phalgunī-portal",
+        "#\u015banai\u1e25-\u015banai\u1e25",
+        "#yata\u1e25-yata\u1e25",
+        "#\u0101tma-sa\u1e41stha",
+        "#praty\u0101h\u0101ra",
+        "#dh\u1e5bti",
+        "#navam\u012b",
+        "#phalgun\u012b-portal",
         "#sarvartha-siddhi"
       ],
       "yogaSutraConnection": "YS II.54-55",
       "sankhyaConcepts": [
-        "pratyāhāra",
+        "praty\u0101h\u0101ra",
         "buddhi",
         "manas",
-        "puruṣa-witness",
-        "prakṛti-evolute",
-        "viṣaya",
+        "puru\u1e63a-witness",
+        "prak\u1e5bti-evolute",
+        "vi\u1e63aya",
         "indriyas"
       ],
       "keyTerms": [
-        "śanaiḥ śanaiḥ",
-        "dhṛti-gṛhītayā",
-        "ātma-saṁstha",
-        "cañcalam",
+        "\u015banai\u1e25 \u015banai\u1e25",
+        "dh\u1e5bti-g\u1e5bh\u012btay\u0101",
+        "\u0101tma-sa\u1e41stha",
+        "ca\u00f1calam",
         "niyamya",
-        "vaśaṁ nayet"
+        "va\u015ba\u1e41 nayet"
       ]
     },
     {
@@ -4200,41 +3978,41 @@
       "chapter": 6,
       "verse": "35-36",
       "text": "Bhagavad Gita",
-      "tithi": "Śukla Aṣṭamī",
-      "nakshatra": "Maghā → Pūrva Phalgunī",
-      "yoga": "Vyaghaṭa → Harṣaṇa",
+      "tithi": "\u015aukla A\u1e63\u1e6dam\u012b",
+      "nakshatra": "Magh\u0101 \u2192 P\u016brva Phalgun\u012b",
+      "yoga": "Vyagha\u1e6da \u2192 Har\u1e63a\u1e47a",
       "themes": [
         "mind-control",
-        "abhyāsa",
-        "vairāgya",
-        "durgā-aṣṭamī",
+        "abhy\u0101sa",
+        "vair\u0101gya",
+        "durg\u0101-a\u1e63\u1e6dam\u012b",
         "flickering-mind",
         "collision-as-method"
       ],
       "tags": [
-        "#abhyāsa",
-        "#vairāgya",
-        "#durgā-aṣṭamī",
-        "#vyaghaṭa-yoga",
-        "#maghā→pūrva-phalgunī",
+        "#abhy\u0101sa",
+        "#vair\u0101gya",
+        "#durg\u0101-a\u1e63\u1e6dam\u012b",
+        "#vyagha\u1e6da-yoga",
+        "#magh\u0101\u2192p\u016brva-phalgun\u012b",
         "#ys-i.12"
       ],
       "yogaSutraConnection": "YS I.12",
       "sankhyaConcepts": [
-        "citta-vṛtti-nirodha",
-        "abhyāsa",
-        "vairāgya",
-        "puruṣa-khyāti",
+        "citta-v\u1e5btti-nirodha",
+        "abhy\u0101sa",
+        "vair\u0101gya",
+        "puru\u1e63a-khy\u0101ti",
         "manas",
         "buddhi"
       ],
       "keyTerms": [
-        "abhyāsa",
-        "vairāgya",
+        "abhy\u0101sa",
+        "vair\u0101gya",
         "durnigraham",
         "calam",
-        "gṛhyate",
-        "upāyataḥ"
+        "g\u1e5bhyate",
+        "up\u0101yata\u1e25"
       ]
     },
     {
@@ -4243,39 +4021,39 @@
       "chapter": 6,
       "verse": 9,
       "text": "Bhagavad Gita",
-      "tithi": "Śukla Saptami",
-      "nakshatra": "Āśleṣā → Maghā",
+      "tithi": "\u015aukla Saptami",
+      "nakshatra": "\u0100\u015ble\u1e63\u0101 \u2192 Magh\u0101",
       "yoga": "Dhruva",
       "themes": [
         "sama-buddhi",
         "equal-intelligence",
-        "āśleṣā-maghā-threshold",
+        "\u0101\u015ble\u1e63\u0101-magh\u0101-threshold",
         "dhruva-steadiness",
-        "citta-prasādanam"
+        "citta-pras\u0101danam"
       ],
       "tags": [
         "#sama-buddhi",
         "#equal-intelligence",
-        "#āśleṣā→maghā",
+        "#\u0101\u015ble\u1e63\u0101\u2192magh\u0101",
         "#dhruva-steadiness",
         "#ys-i.33",
-        "#citta-prasādanam"
+        "#citta-pras\u0101danam"
       ],
       "yogaSutraConnection": "YS I.33",
       "sankhyaConcepts": [
         "sama-buddhi",
-        "rāga-dveṣa",
+        "r\u0101ga-dve\u1e63a",
         "buddhi-restructuring",
-        "guṇa-categorization",
-        "citta-prasādanam"
+        "gu\u1e47a-categorization",
+        "citta-pras\u0101danam"
       ],
       "keyTerms": [
         "sama-buddhi",
-        "su-hṛt",
+        "su-h\u1e5bt",
         "madhya-stha",
-        "dveṣya",
-        "viśiṣyate",
-        "upekṣā"
+        "dve\u1e63ya",
+        "vi\u015bi\u1e63yate",
+        "upek\u1e63\u0101"
       ]
     },
     {
@@ -4284,38 +4062,38 @@
       "chapter": 6,
       "verse": 29,
       "text": "Bhagavad Gita",
-      "tithi": "Śukla Ṣaṣṭhī",
-      "nakshatra": "Puṣya → Āśleṣā",
-      "yoga": "Vṛddhi",
+      "tithi": "\u015aukla \u1e62a\u1e63\u1e6dh\u012b",
+      "nakshatra": "Pu\u1e63ya \u2192 \u0100\u015ble\u1e63\u0101",
+      "yoga": "V\u1e5bddhi",
       "themes": [
-        "sama-darśana",
-        "guru-puṣya-illumination",
+        "sama-dar\u015bana",
+        "guru-pu\u1e63ya-illumination",
         "equal-vision",
-        "paramātmā-everywhere",
-        "dhyāna-fruition"
+        "param\u0101tm\u0101-everywhere",
+        "dhy\u0101na-fruition"
       ],
       "tags": [
-        "#sama-darśana",
-        "#guru-puṣya-illumination",
+        "#sama-dar\u015bana",
+        "#guru-pu\u1e63ya-illumination",
         "#equal-vision",
-        "#paramātmā-everywhere",
-        "#dhyāna-fruition"
+        "#param\u0101tm\u0101-everywhere",
+        "#dhy\u0101na-fruition"
       ],
       "yogaSutraConnection": "YS I.45",
       "sankhyaConcepts": [
-        "puruṣa-prakṛti",
-        "paramātmā-omnipresence",
-        "sama-darśana",
-        "jīva-vs-paramātmā",
-        "sabīja-samādhi"
+        "puru\u1e63a-prak\u1e5bti",
+        "param\u0101tm\u0101-omnipresence",
+        "sama-dar\u015bana",
+        "j\u012bva-vs-param\u0101tm\u0101",
+        "sab\u012bja-sam\u0101dhi"
       ],
       "keyTerms": [
-        "sarva-bhūta-stha",
-        "yoga-yukta-ātmā",
-        "sama-darśana",
-        "īkṣate",
-        "paramātmā",
-        "darśana"
+        "sarva-bh\u016bta-stha",
+        "yoga-yukta-\u0101tm\u0101",
+        "sama-dar\u015bana",
+        "\u012bk\u1e63ate",
+        "param\u0101tm\u0101",
+        "dar\u015bana"
       ]
     },
     {
@@ -4324,38 +4102,38 @@
       "chapter": 6,
       "verse": 17,
       "text": "Bhagavad Gita",
-      "tithi": "Śukla Pañcamī",
-      "nakshatra": "Punarvasu → Puṣya",
-      "yoga": "Gaṇḍa",
+      "tithi": "\u015aukla Pa\u00f1cam\u012b",
+      "nakshatra": "Punarvasu \u2192 Pu\u1e63ya",
+      "yoga": "Ga\u1e47\u1e0da",
       "themes": [
         "yukta-protocol",
         "regulated-freedom",
-        "puṣya-nourishment",
-        "duḥkha-hā",
-        "kriyā-yoga"
+        "pu\u1e63ya-nourishment",
+        "du\u1e25kha-h\u0101",
+        "kriy\u0101-yoga"
       ],
       "tags": [
         "#yukta-protocol",
         "#regulated-freedom",
-        "#puṣya-nourishment",
-        "#duḥkha-hā",
-        "#kriyā-yoga"
+        "#pu\u1e63ya-nourishment",
+        "#du\u1e25kha-h\u0101",
+        "#kriy\u0101-yoga"
       ],
       "yogaSutraConnection": "YS II.1",
       "sankhyaConcepts": [
         "yukta-regulation",
-        "kriyā-yoga",
-        "tapas-svādhyāya-praṇidhāna",
-        "duḥkha-nirodha",
+        "kriy\u0101-yoga",
+        "tapas-sv\u0101dhy\u0101ya-pra\u1e47idh\u0101na",
+        "du\u1e25kha-nirodha",
         "sattva-dominance"
       ],
       "keyTerms": [
         "yukta",
-        "āhāra",
-        "vihāra",
-        "ceṣṭā",
+        "\u0101h\u0101ra",
+        "vih\u0101ra",
+        "ce\u1e63\u1e6d\u0101",
         "svapna-avabodha",
-        "duḥkha-hā"
+        "du\u1e25kha-h\u0101"
       ]
     },
     {
@@ -4364,38 +4142,38 @@
       "chapter": 6,
       "verse": 5,
       "text": "Bhagavad Gita",
-      "tithi": "Śukla Caturthī",
-      "nakshatra": "Ārdrā → Punarvasu",
-      "yoga": "Śūla → Gaṇḍa",
+      "tithi": "\u015aukla Caturth\u012b",
+      "nakshatra": "\u0100rdr\u0101 \u2192 Punarvasu",
+      "yoga": "\u015a\u016bla \u2192 Ga\u1e47\u1e0da",
       "themes": [
         "mind-as-weapon",
         "friend-or-enemy",
         "self-delivery",
-        "abhyāsa-vairāgya",
-        "ārdrā-portal"
+        "abhy\u0101sa-vair\u0101gya",
+        "\u0101rdr\u0101-portal"
       ],
       "tags": [
         "#mind-as-weapon",
         "#friend-or-enemy",
-        "#ārdrā-portal",
+        "#\u0101rdr\u0101-portal",
         "#self-delivery",
-        "#abhyāsa-vairāgya"
+        "#abhy\u0101sa-vair\u0101gya"
       ],
       "yogaSutraConnection": "YS I.12",
       "sankhyaConcepts": [
-        "puruṣa-prakṛti",
+        "puru\u1e63a-prak\u1e5bti",
         "buddhi-governs-manas",
         "bandhu-vs-ripu",
-        "abhyāsa",
-        "vairāgya"
+        "abhy\u0101sa",
+        "vair\u0101gya"
       ],
       "keyTerms": [
         "uddharet",
-        "avasādayet",
-        "bandhuḥ",
-        "ripuḥ",
-        "ātmā",
-        "abhyāsa"
+        "avas\u0101dayet",
+        "bandhu\u1e25",
+        "ripu\u1e25",
+        "\u0101tm\u0101",
+        "abhy\u0101sa"
       ]
     },
     {
@@ -4440,8 +4218,8 @@
       "chapter": 3,
       "verse": 8,
       "text": "Bhagavad Gita",
-      "tithi": "Dvitīya",
-      "nakshatra": "Pūrva Bhādrapāda → Uttara Bhādrapāda",
+      "tithi": "Dvit\u012bya",
+      "nakshatra": "P\u016brva Bh\u0101drap\u0101da \u2192 Uttara Bh\u0101drap\u0101da",
       "yoga": "Raudra",
       "themes": [
         "karma-yoga",
@@ -4463,7 +4241,7 @@
         "karma",
         "prakriti-action",
         "prescribed-duty",
-        "kleśas"
+        "kle\u015bas"
       ],
       "keyTerms": [
         "niyatam",
@@ -4479,9 +4257,9 @@
       "chapter": 2,
       "verse": 17,
       "text": "Bhagavad Gita",
-      "tithi": "Śukla Aṣṭamī",
-      "nakshatra": "Kṛttikā → Rohiṇī",
-      "yoga": "Śukha",
+      "tithi": "\u015aukla A\u1e63\u1e6dam\u012b",
+      "nakshatra": "K\u1e5bttik\u0101 \u2192 Rohi\u1e47\u012b",
+      "yoga": "\u015aukha",
       "themes": [
         "pervasion",
         "indestructibility",
@@ -4490,7 +4268,7 @@
         "soul"
       ],
       "tags": [
-        "#avināśi",
+        "#avin\u0101\u015bi",
         "#pervasion",
         "#consciousness",
         "#krittika",
@@ -4500,13 +4278,13 @@
       ],
       "yogaSutraConnection": "YS I.3",
       "sankhyaConcepts": [
-        "puruṣa-prakṛti",
+        "puru\u1e63a-prak\u1e5bti",
         "tatam",
         "avyaya",
         "viveka"
       ],
       "keyTerms": [
-        "avināśi",
+        "avin\u0101\u015bi",
         "tatam",
         "avyaya",
         "viddhi",
@@ -4519,9 +4297,9 @@
       "chapter": 2,
       "verse": 29,
       "text": "Bhagavad Gita",
-      "tithi": "Śukla Saptamī",
-      "nakshatra": "Mrigashīrṣa",
-      "yoga": "Saubhāgya",
+      "tithi": "\u015aukla Saptam\u012b",
+      "nakshatra": "Mrigash\u012br\u1e63a",
+      "yoga": "Saubh\u0101gya",
       "themes": [
         "knowledge-levels",
         "perception",
@@ -4540,15 +4318,15 @@
       ],
       "yogaSutraConnection": "YS I.7",
       "sankhyaConcepts": [
-        "puruṣa-prakṛti",
+        "puru\u1e63a-prak\u1e5bti",
         "viveka",
-        "pramāṇa"
+        "pram\u0101\u1e47a"
       ],
       "keyTerms": [
-        "āścarya",
-        "paśyati",
+        "\u0101\u015bcarya",
+        "pa\u015byati",
         "vadati",
-        "śṛṇoti",
+        "\u015b\u1e5b\u1e47oti",
         "veda"
       ]
     },
@@ -4558,12 +4336,12 @@
       "chapter": 2,
       "verse": 70,
       "text": "Bhagavad Gita",
-      "tithi": "Amāvāsyā (New Moon)",
-      "nakshatra": "Pūrva Bhādrapadā → Uttara Bhādrapadā",
-      "yoga": "Śubha → Śukla",
+      "tithi": "Am\u0101v\u0101sy\u0101 (New Moon)",
+      "nakshatra": "P\u016brva Bh\u0101drapad\u0101 \u2192 Uttara Bh\u0101drapad\u0101",
+      "yoga": "\u015aubha \u2192 \u015aukla",
       "themes": [
-        "vairāgya",
-        "śānti",
+        "vair\u0101gya",
+        "\u015b\u0101nti",
         "completion",
         "stillness",
         "surrender"
@@ -4573,7 +4351,7 @@
         "#detachment",
         "#inner-peace",
         "#krishna-consciousness",
-        "#puruṣa-prakṛti",
+        "#puru\u1e63a-prak\u1e5bti",
         "#desire-management",
         "#ocean-metaphor",
         "#santi",
@@ -4581,18 +4359,18 @@
       ],
       "yogaSutraConnection": "YS I.15",
       "sankhyaConcepts": [
-        "puruṣa-prakṛti",
-        "acala-pratiṣṭha",
-        "āpūryamāṇam",
-        "vaśīkāra"
+        "puru\u1e63a-prak\u1e5bti",
+        "acala-prati\u1e63\u1e6dha",
+        "\u0101p\u016bryam\u0101\u1e47am",
+        "va\u015b\u012bk\u0101ra"
       ],
       "keyTerms": [
-        "āpūryamāṇam",
-        "acala-pratiṣṭham",
+        "\u0101p\u016bryam\u0101\u1e47am",
+        "acala-prati\u1e63\u1e6dham",
         "samudra",
-        "vaśīkāra",
-        "śānti",
-        "apāpaviddhaḥ"
+        "va\u015b\u012bk\u0101ra",
+        "\u015b\u0101nti",
+        "ap\u0101paviddha\u1e25"
       ]
     },
     {
@@ -4601,40 +4379,40 @@
       "chapter": 2,
       "verse": 14,
       "text": "Bhagavad Gita",
-      "tithi": "Ṣaṣṭhī → Saptamī",
-      "nakshatra": "Anurādhā",
-      "yoga": "Harṣaṇa → Vajra",
+      "tithi": "\u1e62a\u1e63\u1e6dh\u012b \u2192 Saptam\u012b",
+      "nakshatra": "Anur\u0101dh\u0101",
+      "yoga": "Har\u1e63a\u1e47a \u2192 Vajra",
       "themes": [
-        "titikṣā",
+        "titik\u1e63\u0101",
         "tolerance",
         "impermanence",
         "duty",
         "sense-control"
       ],
       "tags": [
-        "#titikṣā",
+        "#titik\u1e63\u0101",
         "#tolerance",
         "#duty",
         "#anitya",
         "#impermanence",
-        "#mātrā-sparśa",
+        "#m\u0101tr\u0101-spar\u015ba",
         "#sense-control",
-        "#sāṅkhya",
-        "#prakṛti",
+        "#s\u0101\u1e45khya",
+        "#prak\u1e5bti",
         "#discernment"
       ],
       "yogaSutraConnection": "YS II.1",
       "sankhyaConcepts": [
-        "puruṣa-prakṛti dualism",
-        "guṇa-vṛttis",
+        "puru\u1e63a-prak\u1e5bti dualism",
+        "gu\u1e47a-v\u1e5bttis",
         "anitya"
       ],
       "keyTerms": [
-        "titikṣasva",
-        "mātrā-sparśaḥ",
-        "anityāḥ",
-        "āgama-apāyinaḥ",
-        "śīta-uṣṣa"
+        "titik\u1e63asva",
+        "m\u0101tr\u0101-spar\u015ba\u1e25",
+        "anity\u0101\u1e25",
+        "\u0101gama-ap\u0101yina\u1e25",
+        "\u015b\u012bta-u\u1e63\u1e63a"
       ]
     },
     {
@@ -4642,7 +4420,7 @@
       "chapter": "7",
       "verse": "29",
       "title": "Liberation through Refuge",
-      "sanskrit": "jarā-maraṇa-mokṣāya mām āśritya yatanti ye te brahma tad viduḥ kṛtsnam adhyātmaṁ karma cākhilam",
+      "sanskrit": "jar\u0101-mara\u1e47a-mok\u1e63\u0101ya m\u0101m \u0101\u015britya yatanti ye te brahma tad vidu\u1e25 k\u1e5btsnam adhy\u0101tma\u1e41 karma c\u0101khilam",
       "yogaSutra": "YS II.45",
       "tags": [
         "#moksha",
@@ -4662,9 +4440,9 @@
       "chapter": 7,
       "verse": 9,
       "text": "Bhagavad Gita",
-      "tithi": "Kṛṣṇa Paksha Ekādashi | Jun 10 03:28 PM – Jun 11 01:06 PM",
-      "nakshatra": "Ashwini → Bharani | Ashwini ends Jun 11 08:58 PM | Bharani begins Jun 11 08:58 PM – Jun 12 06:35 PM | Deity: Ashwini Kumār → Yama | Ruler: Ketu → Venus",
-      "yoga": "Sobhana → Atiganda | Sobhana ends Jun 11 03:29 PM | Atiganda begins Jun 11 03:29 PM – Jun 12 11:55 AM",
+      "tithi": "K\u1e5b\u1e63\u1e47a Paksha Ek\u0101dashi | Jun 10 03:28 PM \u2013 Jun 11 01:06 PM",
+      "nakshatra": "Ashwini \u2192 Bharani | Ashwini ends Jun 11 08:58 PM | Bharani begins Jun 11 08:58 PM \u2013 Jun 12 06:35 PM | Deity: Ashwini Kum\u0101r \u2192 Yama | Ruler: Ketu \u2192 Venus",
+      "yoga": "Sobhana \u2192 Atiganda | Sobhana ends Jun 11 03:29 PM | Atiganda begins Jun 11 03:29 PM \u2013 Jun 12 11:55 AM",
       "themes": [
         "tapas",
         "ekadashi"
@@ -4684,12 +4462,12 @@
         "tapas"
       ],
       "keyTerms": [
-        "puṇyaḥ",
-        "gandhaḥ",
-        "tejaḥ",
-        "vibhāvasu",
-        "jīvanam",
-        "tapaḥ"
+        "pu\u1e47ya\u1e25",
+        "gandha\u1e25",
+        "teja\u1e25",
+        "vibh\u0101vasu",
+        "j\u012bvanam",
+        "tapa\u1e25"
       ]
     },
     {
@@ -4698,9 +4476,9 @@
       "chapter": 7,
       "verse": 21,
       "text": "Bhagavad Gita",
-      "tithi": "Kṛṣṇa Paksha Dwadashi → Trayodashi | Dwadashi ends Jun 12 10:06 AM | Trayodashi begins Jun 12 10:06 AM – Jun 13 06:38 AM",
-      "nakshatra": "Bharani → Krittika | Bharani ends Jun 12 06:35 PM | Krittika begins Jun 12 06:35 PM – Jun 13 03:46 PM | Deity: Yama → Agni | Ruler: Venus → Sun",
-      "yoga": "Atiganda → Sukarman | Atiganda ends Jun 12 11:55 AM | Sukarman begins Jun 12 11:55 AM – Jun 13 07:58 AM",
+      "tithi": "K\u1e5b\u1e63\u1e47a Paksha Dwadashi \u2192 Trayodashi | Dwadashi ends Jun 12 10:06 AM | Trayodashi begins Jun 12 10:06 AM \u2013 Jun 13 06:38 AM",
+      "nakshatra": "Bharani \u2192 Krittika | Bharani ends Jun 12 06:35 PM | Krittika begins Jun 12 06:35 PM \u2013 Jun 13 03:46 PM | Deity: Yama \u2192 Agni | Ruler: Venus \u2192 Sun",
+      "yoga": "Atiganda \u2192 Sukarman | Atiganda ends Jun 12 11:55 AM | Sukarman begins Jun 12 11:55 AM \u2013 Jun 13 07:58 AM",
       "themes": [
         "pradosh-vrat",
         "steady-faith"
@@ -4721,10 +4499,10 @@
       ],
       "keyTerms": [
         "bhakta",
-        "śraddhā",
+        "\u015braddh\u0101",
         "acala",
-        "īśvara",
-        "tasmāt"
+        "\u012b\u015bvara",
+        "tasm\u0101t"
       ]
     }
   ]

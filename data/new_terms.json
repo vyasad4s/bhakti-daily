@@ -1,0 +1,143 @@
+[
+  {
+    "term": "pitāham",
+    "transliteration": "pitāham",
+    "type": "compound",
+    "definition": "\"I am the father\"; the divine source of lineage, protection, and initiation",
+    "references": [
+      "BG 9.17"
+    ],
+    "themes": [
+      "fatherhood",
+      "lineage",
+      "protection"
+    ]
+  },
+  {
+    "term": "mātā",
+    "transliteration": "mātā",
+    "type": "noun",
+    "definition": "mother; the divine nourisher, sustainer, and source of unconditional care",
+    "references": [
+      "BG 9.17"
+    ],
+    "themes": [
+      "motherhood",
+      "nourishment",
+      "care"
+    ]
+  },
+  {
+    "term": "dhātā",
+    "transliteration": "dhātā",
+    "type": "noun",
+    "definition": "supporter/sustainer; the divine maintainer who holds all beings in existence",
+    "references": [
+      "BG 9.17"
+    ],
+    "themes": [
+      "support",
+      "sustenance",
+      "maintenance"
+    ]
+  },
+  {
+    "term": "pitāmahaḥ",
+    "transliteration": "pitāmahaḥ",
+    "type": "noun",
+    "definition": "grandfather; the divine source of wisdom, tradition, and ancestral continuity",
+    "references": [
+      "BG 9.17"
+    ],
+    "themes": [
+      "grandfather",
+      "wisdom",
+      "tradition",
+      "ancestry"
+    ]
+  },
+  {
+    "term": "vedyam",
+    "transliteration": "vedyam",
+    "type": "noun",
+    "definition": "object of knowledge; that which is to be known, understood, and realized",
+    "references": [
+      "BG 9.17"
+    ],
+    "themes": [
+      "knowledge",
+      "object-of-knowledge",
+      "realization"
+    ]
+  },
+  {
+    "term": "pavitram",
+    "transliteration": "pavitram",
+    "type": "noun",
+    "definition": "purifier; that which cleanses, purifies, and elevates consciousness",
+    "references": [
+      "BG 9.17"
+    ],
+    "themes": [
+      "purification",
+      "purity",
+      "cleansing"
+    ]
+  },
+  {
+    "term": "oṁ-kāra",
+    "transliteration": "oṁ-kāra",
+    "type": "noun",
+    "definition": "the syllable oṁ; the primordial vibration, the sonic embodiment of the Absolute",
+    "references": [
+      "BG 9.17"
+    ],
+    "themes": [
+      "om",
+      "primordial-vibration",
+      "sound"
+    ]
+  },
+  {
+    "term": "ṛk",
+    "transliteration": "ṛk",
+    "type": "noun",
+    "definition": "Ṛg Veda; the Veda of hymns, knowledge, and praise",
+    "references": [
+      "BG 9.17"
+    ],
+    "themes": [
+      "rig-veda",
+      "hymns",
+      "knowledge"
+    ]
+  },
+  {
+    "term": "sāma",
+    "transliteration": "sāma",
+    "type": "noun",
+    "definition": "Sāma Veda; the Veda of melody, devotion, and musical expression",
+    "references": [
+      "BG 9.17"
+    ],
+    "themes": [
+      "sama-veda",
+      "melody",
+      "devotion"
+    ]
+  },
+  {
+    "term": "yajuḥ",
+    "transliteration": "yajuḥ",
+    "type": "noun",
+    "definition": "Yajur Veda; the Veda of rituals, action, and ceremonial practice",
+    "references": [
+      "BG 9.17"
+    ],
+    "themes": [
+      "yajur-veda",
+      "ritual",
+      "action"
+    ]
+  }
+]

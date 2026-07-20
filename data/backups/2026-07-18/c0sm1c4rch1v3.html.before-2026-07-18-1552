@@ -1,0 +1,1042 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>VYASAD4S TERMINAL :: Cosmic Archive</title>
+  <link rel="icon" type="image/png" href="images/tilak-favicon.png">
+    <link rel="apple-touch-icon" href="images/tilak-favicon.png">
+    <link rel="shortcut icon" type="image/png" href="images/tilak-favicon.png">
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/terminal.css">
+</head>
+<body>
+  <div class="terminal">
+    <div class="terminal-body">
+      <div class="output" id="output">
+        <div class="terminal-header">
+          <pre class="ascii-art">
+░▒█▀▀▀█ ░▒█▀▀▀█ ░▒█▀▀▀█ ░▒█▀▄▀█ ░▒▀▀█▀▀ ░▒█▀▀▀█
+░▒█░░░░ ░▒█░░▒█ ░▒▀▀▀▄▄ ░▒█▒█▒█ ░░░▒█░░ ░▒█░░░░
+░▒█▄▄▄█ ░▒█▄▄▄█ ░▒█▄▄▄█ ░▒█░░▒█ ░▒▄▄█▄▄ ░▒█▄▄▄█
+
+░▒█▀▀▀▄ ░▒█▀▀▀▄ ░▒█▀▀▀█ ░▒█░░▒█ ░▒▀▀█▀▀ ░▒█░░▒█ ░▒█▀▀▀▀
+░▒█▄▄▄█ ░▒█▄▄▄▀ ░▒█░░░░ ░▒█▀▀▀█ ░░░▒█░░ ░▒▀▄▒▄▀ ░▒█▀▀▀▀
+░▒█░░▒█ ░▒█░░▒█ ░▒█▄▄▄█ ░▒█░░▒█ ░▒▄▄█▄▄ ░░▒▀▄▀░ ░▒█▄▄▄▄
+
+🦚 HARE KṚṢṆA 🦚
+</pre>
+          <div class="separator">================================================</div>
+          <div class="subtitle">
+            <p>∵ [sys_archive] 🦚 cosmic_archive_loaded</p>
+            <p>∵ [sys_archive] Panchāṅga Data & Verse Selection Rationale</p>
+          </div>
+          <div class="separator">================================================</div>
+        </div>
+        
+        <p class="system-line">∵ [sys_archive] archive_index_ready</p>
+        <p>&nbsp;</p>
+
+        <pre class="ascii-box archive-intro">
+════════════════════════════════════════════════
+COSMIC KERNEL logs/
+Archive of daily astrological data & verse selection criteria
+════════════════════════════════════════════════</pre>
+
+        <div class="today-highlight">
+  <p class="today-label">∵ [today] July 17, 2026</p>
+  <p><span class="archive-data-label">Tithi:</span> Sukla Paksha Tritiya (until 08:58 PM EDT), then Chaturthi | <span class="archive-data-label">Nakṣatra:</span> Ashlesha (until 10:22 AM EDT), then Magha | <span class="archive-data-label">Yoga:</span> Siddhi (until 03:51 PM EDT), then Vyatipata | <span class="archive-data-label">Special:</span> Karka Sankranti (Sun enters Cancer at 02:05 PM EDT) | <span class="archive-accent">ALOOF YET ALL-PERVADING</span></p>
+  <p class="today-links">
+    <a href="c0sm1c.html?date=2026-07-16">[cosmic]</a>
+    <a href="verse.html?date=2026-07-16" class="verse-link">[verse]</a>
+  </p>
+</div>
+
+        <p>&nbsp;</p>
+        <p class="verse-header">∵ [sys_archive] archived_entries</p>
+        <p>&nbsp;</p>
+
+        <ul class="date-list" id="date-list">
+        <li>
+          <span style="color: #ff9933;">2026-07-17</span>
+          <a href="c0sm1c.html?date=2026-07-17">[cosmic]</a>
+          <a href="verse.html?date=2026-07-17" class="verse-link">[verse]</a>
+          <span class="meta">Śukla Pakṣa Caturthī→Pañcamī | Maghā→Pūrva Phalgunī | Vyatipāta→Variyan | Śukravāra (Friday) | Chaturthī Vrat | BG 9.17</span>
+        </li>
+        
+        <li>
+          <span style="color: #ff9933;">2026-07-16</span>
+          <a href="c0sm1c.html?date=2026-07-16">[cosmic]</a>
+          <a href="verse.html?date=2026-07-16" class="verse-link">[verse]</a>
+          <span class="meta">Sukla Paksha Tritiya→Caturthi | Ashlesha→Magha | Siddhi→Vyatipata | Guruwara (Thursday) | Karka Sankranti | BG 9.5</span>
+        </li>
+        <li>
+          <span style="color: #ff9933;">2026-07-15</span>
+          <a href="c0sm1c.html?date=2026-07-15">[cosmic]</a>
+          <a href="verse.html?date=2026-07-15" class="verse-link">[verse]</a>
+          <span class="meta">Sukla Paksha Dwitiya→Tritiya | Pushya→Ashlesha | Vajra→Siddhi | Budhavara (Wednesday) | BG 9.26</span>
+        </li>
+        <li>
+          <span style="color: #ff9933;">2026-07-13</span>
+          <a href="c0sm1c.html?date=2026-07-13">[cosmic]</a>
+          <a href="verse.html?date=2026-07-13" class="verse-link">[verse]</a>
+          <span class="meta">Tithi information not extracted | Nakshatra information not extracted | Yoga information not extracted | Somvar (Monday) | BG 9.22</span>
+        </li>
+        <li>
+          <span style="color: #ff9933;">2026-07-12</span>
+          <a href="c0sm1c.html?date=2026-07-12">[cosmic]</a>
+          <a href="verse.html?date=2026-07-12" class="verse-link">[verse]</a>
+          <span class="meta">Tithi information not extracted | Nakshatra information not extracted | Shiva | Ravivar (Sunday) | BG 9.23</span>
+        </li>
+        <li>
+          <span style="color: #ff9933;">2026-07-11</span>
+          <a href="c0sm1c.html?date=2026-07-11">[cosmic]</a>
+          <a href="verse.html?date=2026-07-11" class="verse-link">[verse]</a>
+          <span class="meta">Tithi information not extracted | Rohini | Yoga information not extracted | Shanivar (Saturday) | BG 9.26</span>
+        </li>
+        <li>
+          <span style="color: #ff9933;">2026-07-10</span>
+          <a href="c0sm1c.html?date=2026-07-10">[cosmic]</a>
+          <a href="verse.html?date=2026-07-10" class="verse-link">[verse]</a>
+          <span class="meta">Tithi information not extracted | Nakshatra information not extracted | Yoga information not extracted | Shukrawar (Friday) | BG 9.4</span>
+        </li>
+        <li>
+          <span style="color: #ff9933;">2026-07-09</span>
+          <a href="c0sm1c.html?date=2026-07-09">[cosmic]</a>
+          <a href="verse.html?date=2026-07-09" class="verse-link">[verse]</a>
+          <span class="meta">Tithi information not extracted | Nakshatra information not extracted | Yoga information not extracted | Guruvar (Thursday) | BG 9.3</span>
+        </li>
+        <li>
+          <span style="color: #ff9933;">2026-07-08</span>
+          <a href="c0sm1c.html?date=2026-07-08">[cosmic]</a>
+          <a href="verse.html?date=2026-07-08" class="verse-link">[verse]</a>
+          <span class="meta">Tithi information not extracted | Nakshatra information not extracted | Yoga information not extracted | Budhavara (Wednesday) | BG 9.22</span>
+        </li>
+        <li>
+          <span style="color: #ff9933;">2026-07-07</span>
+          <a href="c0sm1c.html?date=2026-07-07">[cosmic]</a>
+          <a href="verse.html?date=2026-07-07" class="verse-link">[verse]</a>
+          <span class="meta">Tithi information not extracted | mula | Atiganda | Mangalvar (Tuesday) | BG 9.27</span>
+        </li>
+        <li>
+          <span style="color: #ff9933;">2026-07-06</span>
+          <a href="c0sm1c.html?date=2026-07-06">[cosmic]</a>
+          <a href="verse.html?date=2026-07-06" class="verse-link">[verse]</a>
+          <span class="meta">Tithi information not extracted | Nakshatra information not extracted | Atiganda | Somvar (Monday) | BG 9.19</span>
+        </li>
+        <li>
+          <span style="color: #ff9933;">2026-07-04</span>
+          <a href="c0sm1c.html?date=2026-07-04">[cosmic]</a>
+          <a href="verse.html?date=2026-07-04" class="verse-link">[verse]</a>
+          <span class="meta">Tithi information not extracted | Nakshatra information not extracted | Yoga information not extracted | Shanivar (Saturday) | BG 9.30</span>
+        </li>
+        <li>
+          <span style="color: #ff9933;">2026-07-02</span>
+          <a href="c0sm1c.html?date=2026-07-02">[cosmic]</a>
+          <a href="verse.html?date=2026-07-02" class="verse-link">[verse]</a>
+          <span class="meta">Tithi information not extracted | Nakshatra information not extracted | Yoga information not extracted | Guruvar (Thursday) | BG 9.2</span>
+        </li>
+        <li>
+          <span style="color: #ff9933;">2026-07-01</span>
+          <a href="c0sm1c.html?date=2026-07-01">[cosmic]</a>
+          <a href="verse.html?date=2026-07-01" class="verse-link">[verse]</a>
+          <span class="meta">Tithi information not extracted | Nakshatra information not extracted | Brahma | Budhavara (Wednesday) | BG 8.11</span>
+        </li>
+        <li>
+          <span style="color: #ff9933;">2026-06-30</span>
+          <a href="c0sm1c.html?date=2026-06-30">[cosmic]</a>
+          <a href="verse.html?date=2026-06-30" class="verse-link">[verse]</a>
+          <span class="meta">Tithi information not extracted | Nakshatra information not extracted | Yoga information not extracted | Mangalvar (Tuesday) | BG ?.?</span>
+        </li>
+        <li>
+          <span style="color: #ff9933;">2026-06-27</span>
+          <a href="c0sm1c.html?date=2026-06-27">[cosmic]</a>
+          <a href="verse.html?date=2026-06-27" class="verse-link">[verse]</a>
+          <span class="meta">Tithi information not extracted | Nakshatra information not extracted | Brahma | Shanivar (Saturday) | BG 8.24</span>
+        </li>
+        <li>
+          <span style="color: #ff9933;">2026-06-26</span>
+          <a href="c0sm1c.html?date=2026-06-26">[cosmic]</a>
+          <a href="verse.html?date=2026-06-26" class="verse-link">[verse]</a>
+          <span class="meta">Tithi information not extracted | Nakshatra information not extracted | Yoga information not extracted | Shukrawar (Friday) | BG ?.?</span>
+        </li>
+        <li>
+          <span style="color: #ff9933;">2026-06-23</span>
+          <a href="c0sm1c.html?date=2026-06-23">[cosmic]</a>
+          <a href="verse.html?date=2026-06-23" class="verse-link">[verse]</a>
+          <span class="meta">Tithi information not extracted | mula | Yoga information not extracted | Mangalvar (Tuesday) | BG ?.?</span>
+        </li>
+        <li>
+          <span style="color: #ff9933;">2026-06-18</span>
+          <a href="c0sm1c.html?date=2026-06-18">[cosmic]</a>
+          <a href="verse.html?date=2026-06-18" class="verse-link">[verse]</a>
+          <span class="meta">Tithi information not extracted | Nakshatra information not extracted | Yoga information not extracted | Guruvar (Thursday) | BG 8.10</span>
+        </li>
+        <li>
+          <span style="color: #ff9933;">2026-06-15</span>
+          <a href="c0sm1c.html?date=2026-06-15">[cosmic]</a>
+          <a href="verse.html?date=2026-06-15" class="verse-link">[verse]</a>
+          <span class="meta">Tithi information not extracted | Nakshatra information not extracted | Yoga information not extracted | Somvar (Monday) | BG 7.6</span>
+        </li>
+        <li>
+          <span style="color: #ff9933;">2026-06-12</span>
+          <a href="c0sm1c.html?date=2026-06-12">[cosmic]</a>
+          <a href="verse.html?date=2026-06-12" class="verse-link">[verse]</a>
+          <span class="meta">Tithi information not extracted | Bharani | Shiva | Shukrawar (Friday) | BG 7.21</span>
+        </li>
+        <li>
+          <span style="color: #ff9933;">2026-06-11</span>
+          <a href="c0sm1c.html?date=2026-06-11">[cosmic]</a>
+          <a href="verse.html?date=2026-06-11" class="verse-link">[verse]</a>
+          <span class="meta">Tithi information not extracted | Nakshatra information not extracted | Yoga information not extracted | Guruvar (Thursday) | BG 7.9</span>
+        </li>
+        <li>
+          <span style="color: #ff9933;">2026-06-10</span>
+          <a href="c0sm1c.html?date=2026-06-10">[cosmic]</a>
+          <a href="verse.html?date=2026-06-10" class="verse-link">[verse]</a>
+          <span class="meta">Tithi information not extracted | Nakshatra information not extracted | Yoga information not extracted | Budhavara (Wednesday) | BG 7.13</span>
+        </li>
+        <li>
+          <span style="color: #ff9933;">2026-06-09</span>
+          <a href="c0sm1c.html?date=2026-06-09">[cosmic]</a>
+          <a href="verse.html?date=2026-06-09" class="verse-link">[verse]</a>
+          <span class="meta">Tithi information not extracted | Nakshatra information not extracted | brahma | Mangalvar (Tuesday) | BG 7.29</span>
+        </li>
+        <li>
+          <span style="color: #ff9933;">2026-06-08</span>
+          <a href="c0sm1c.html?date=2026-06-08">[cosmic]</a>
+          <a href="verse.html?date=2026-06-08" class="verse-link">[verse]</a>
+          <span class="meta">Tithi information not extracted | Nakshatra information not extracted | Yoga information not extracted | Somvar (Monday) | BG 7.14</span>
+        </li>
+        <li>
+          <span style="color: #ff9933;">2026-06-07</span>
+          <a href="c0sm1c.html?date=2026-06-07">[cosmic]</a>
+          <a href="verse.html?date=2026-06-07" class="verse-link">[verse]</a>
+          <span class="meta">Tithi information not extracted | Nakshatra information not extracted | Yoga information not extracted | Ravivar (Sunday) | BG 7.8</span>
+        </li>
+        <li>
+          <span style="color: #ff9933;">2026-06-06</span>
+          <a href="c0sm1c.html?date=2026-06-06">[cosmic]</a>
+          <a href="verse.html?date=2026-06-06" class="verse-link">[verse]</a>
+          <span class="meta">Tithi information not extracted | Nakshatra information not extracted | Yoga information not extracted | Shanivar (Saturday) | BG 7.7</span>
+        </li>
+        <li>
+          <span style="color: #ff9933;">2026-06-05</span>
+          <a href="c0sm1c.html?date=2026-06-05">[cosmic]</a>
+          <a href="verse.html?date=2026-06-05" class="verse-link">[verse]</a>
+          <span class="meta">Tithi information not extracted | Nakshatra information not extracted | Yoga information not extracted | Shukrawar (Friday) | BG 7.5</span>
+        </li>
+        <li>
+          <span style="color: #ff9933;">2026-06-04</span>
+          <a href="c0sm1c.html?date=2026-06-04">[cosmic]</a>
+          <a href="verse.html?date=2026-06-04" class="verse-link">[verse]</a>
+          <span class="meta">Tithi information not extracted | Nakshatra information not extracted | Yoga information not extracted | Guruvar (Thursday) | BG 7.4</span>
+        </li>
+        <li>
+          <span style="color: #ff9933;">2026-06-03</span>
+          <a href="c0sm1c.html?date=2026-06-03">[cosmic]</a>
+          <a href="verse.html?date=2026-06-03" class="verse-link">[verse]</a>
+          <span class="meta">Tithi information not extracted | Nakshatra information not extracted | siddha | Budhavara (Wednesday) | BG 7.3</span>
+        </li>
+        <li>
+          <span style="color: #ff9933;">2026-06-01</span>
+          <a href="c0sm1c.html?date=2026-06-01">[cosmic]</a>
+          <a href="verse.html?date=2026-06-01" class="verse-link">[verse]</a>
+          <span class="meta">Tithi information not extracted | Nakshatra information not extracted | Yoga information not extracted | Somvar (Monday) | BG 6.20-23</span>
+        </li>
+        <li>
+          <span style="color: #ff9933;">2026-05-31</span>
+          <a href="c0sm1c.html?date=2026-05-31">[cosmic]</a>
+          <a href="verse.html?date=2026-05-31" class="verse-link">[verse]</a>
+          <span class="meta">Tithi information not extracted | Nakshatra information not extracted | Yoga information not extracted | Ravivar (Sunday) | BG 6.7</span>
+        </li>
+        <li>
+          <span style="color: #ff9933;">2026-05-30</span>
+          <a href="c0sm1c.html?date=2026-05-30">[cosmic]</a>
+          <a href="verse.html?date=2026-05-30" class="verse-link">[verse]</a>
+          <span class="meta">Tithi information not extracted | Nakshatra information not extracted | Yoga information not extracted | Shanivar (Saturday) | BG 6.28</span>
+        </li>
+<li>
+          <span style="color: #ff9933;">2026-07-14</span>
+          <a href="c0sm1c.html?date=2026-07-14">[cosmic]</a>
+          <a href="verse.html?date=2026-07-14" class="verse-link">[verse]</a>
+          <span class="meta">Amāvāsyā (Bhaumvati) Tithi | Punarvasu→Pushya | Harshana→Vajra | Maṅgalavāra (Tuesday) | BG 9.7</span>
+        </li>
+        <li>
+          <span style="color: #ff9933;">2026-07-05</span>
+          <a href="c0sm1c.html?date=2026-07-05">[cosmic]</a>
+          <a href="verse.html?date=2026-07-05" class="verse-link">[verse]</a>
+          <span class="meta">Shashthi Tithi | Shatabhisha→Purva Bhadrapada | Ayushman→Saubhagya | Raviwar (Sunday) | BG 9.2</span>
+        </li>
+        <li>
+          <span style="color: #ff9933;">2026-06-28</span>
+          <a href="c0sm1c.html?date=2026-06-28">[cosmic]</a>
+          <a href="verse.html?date=2026-06-28" class="verse-link">[verse]</a>
+          <span class="meta">Pūrṇimā Tithi | Jyeṣṭhā/Mūla | Brahma Yoga | Śukla Pakṣa | BG 8.13</span>
+        </li>
+        <li>
+          <span style="color: #ff9933;">2026-07-03</span>
+          <a href="c0sm1c.html?date=2026-07-03">[cosmic]</a>
+          <a href="verse.html?date=2026-07-03" class="verse-link">[verse]</a>
+          <span class="meta">Chaturthi Tithi (Sankashti Chaturthi) | Dhanishta (until 04:13 AM July 4) | Vishkambha (until 07:29 AM) then Priti | Shukravara (Friday) | BG 9.1</span>
+        </li>
+                <li>
+          <span style="color: #ff9933;">2026-06-25</span>
+          <a href="c0sm1c.html?date=2026-06-25">[cosmic]</a>
+          <a href="verse.html?date=2026-06-25" class="verse-link">[verse]</a>
+          <span class="meta">Ekadashi Tithi (until 10:39 AM EDT), then Dwadashi | Swati (until 06:59 AM EDT), then Vishaka | Siddha (until 02:08 AM EDT on Jun 26), then Sadhya | BG 8.28</span>
+        </li>
+<li>
+          <span style="color: #ff9933;">2026-06-21</span>
+          <a href="c0sm1c.html?date=2026-06-21">[cosmic]</a>
+          <a href="verse.html?date=2026-06-21" class="verse-link">[verse]</a>
+          <span class="meta">Ashtami Tithi | Uttara Phalguni → Hasta | Vyatipata → Variyan | BG 8.14</span>
+        </li>
+                        
+<li>
+          <span style="color: #ff9933;">2026-06-22</span>
+          <a href="c0sm1c.html?date=2026-06-22">[cosmic]</a>
+          <a href="verse.html?date=2026-06-22" class="verse-link">[verse]</a>
+          <span class="meta">Ashtami Tithi (until 06:10 AM EDT), then Navami | Hasta (until 02:23 AM EDT), then Chitra | Variyan (until 12:43 AM EDT), then Parigha | BG 8.15</span>
+        </li>
+<li>
+          <span style="color: #ff9933;">2026-06-20</span>
+          <a href="c0sm1c.html?date=2026-06-20">[cosmic]</a>
+          <a href="verse.html?date=2026-06-20" class="verse-link">[verse]</a>
+          <span class="meta">Shashthi Tithi | Purva Phalguni → Uttara Phalguni | Siddhi → Vyatipata | BG 8.15</span>
+        </li>
+        <li>
+          <span style="color: #ff9933;">2026-06-19</span>
+          <a href="c0sm1c.html?date=2026-06-19">[cosmic]</a>
+          <a href="verse.html?date=2026-06-19" class="verse-link">[verse]</a>
+          <span class="meta">Shashthi Tithi | Magha → Purva Phalguni | Vajra → Siddhi | BG 8.21</span>
+        </li>
+        <li>
+          <span style="color: #ff9933;">2026-06-17</span>
+          <a href="c0sm1c.html?date=2026-06-17">[cosmic]</a>
+          <a href="verse.html?date=2026-06-17" class="verse-link">[verse]</a>
+          <span class="meta">Tritiya Tithi | Pushya → Ashlesha | Dhruva → Vyaghata | BG 8.9</span>
+        </li>
+        <li>
+          <span style="color: #ff9933;">2026-06-16</span>
+          <a href="c0sm1c.html?date=2026-06-16">[cosmic]</a>
+          <a href="verse.html?date=2026-06-16" class="verse-link">[verse]</a>
+          <span class="meta">Dwitiya Tithi | Ardra → Punarvasu | Vriddhi → Dhruva | BG 7.10</span>
+        </li>
+<li>
+<span style="color: #ff9933;">2026-06-14</span>
+<a href="c0sm1c.html?date=2026-06-14">[cosmic]</a>
+<a href="verse.html?date=2026-06-14" class="verse-link">[verse]</a>
+<span class="meta">Amavasya | Rohini → Mrigashirsha | Soola → Ganda | BG 7.16</span>
+</li>
+<li>
+<span style="color: #ff9933;">2026-06-13</span>
+<a href="c0sm1c.html?date=2026-06-13">[cosmic]</a>
+<a href="verse.html?date=2026-06-13" class="verse-link">[verse]</a>
+<span class="meta">Kṛṣṇa Trayodashi | Kritika → Rohini | Sukarman → Dhrithi | BG 7.22</span>
+</li><li>
+<span style="color: #ff9933;">2026-06-02</span>
+<a href="c0sm1c.html?date=2026-06-02">[cosmic]</a>
+<a href="verse.html?date=2026-06-02" class="verse-link">[verse]</a>
+<span class="meta">Kṛṣṇa Tritiyā | Mūla → Pūrvāṣāḍhā | Śubha → Śukla | BG 7.1</span>
+</li>
+<li>
+ <span style="color: #ff9933;">2026-05-29</span>
+ <a href="c0sm1c.html?date=2026-05-29">[cosmic]</a>
+ <a href="verse.html?date=2026-05-29" class="verse-link">[verse]</a>
+ <span class="meta">Śukla Caturdaśī | Viśākhā → Anurādhā | Parigha → Śiva | BG 6.37-40</span>
+ </li>
+<li>
+ <span style="color: #ff9933;">2026-05-28</span>
+ <a href="c0sm1c.html?date=2026-05-28">[cosmic]</a>
+ <a href="verse.html?date=2026-05-28" class="verse-link">[verse]</a>
+ <span class="meta">Śukla Trayodaśī | Svātī → Viśākhā | Variyan → Parigha | BG 6.30</span>
+ </li>
+
+
+<li>
+ <span style="color: #ff9933;">2026-05-27</span>
+ <a href="c0sm1c.html?date=2026-05-27">[cosmic]</a>
+ <a href="verse.html?date=2026-05-27" class="verse-link">[verse]</a>
+ <span class="meta">Śukla Dwādaśī→Trayodaśī | Chitrā→Svātī | BG 6.27</span>
+</li>
+<li>
+ <span style="color: #ff9933;">2026-05-26</span>
+ <a href="c0sm1c.html?date=2026-05-26">[cosmic]</a>
+ <a href="verse.html?date=2026-05-26" class="verse-link">[verse]</a>
+ <span class="meta">Śukla Dwādaśī→Trayodaśī | Chitrā→Svātī | BG 6.10</span>
+ </li>
+ <li>
+ <span style="color: #ff9933;">2026-05-25</span>
+ <a href="c0sm1c.html?date=2026-05-25">[cosmic]</a>
+ <a href="verse.html?date=2026-05-25" class="verse-link">[verse]</a>
+ <span class="meta">Śukla Daśamī→Ekādaśī | Uttara Phalgunī→Hasta | BG 6.47</span>
+ </li>
+ <li>
+ <span style="color: #ff9933;">2026-05-24</span>
+ <a href="c0sm1c.html?date=2026-05-24">[cosmic]</a>
+ <a href="verse.html?date=2026-05-24" class="verse-link">[verse]</a>
+ <span class="meta">Jyeṣṭha Śukla Navamī | Pūrva Phalgunī→Uttara Phalgunī | BG 6.25-26</span>
+ </li>
+ 
+<li>
+<span style="color: #ff9933;">2026-05-23</span> <a href="c0sm1c.html?date=2026-05-23">[cosmic]</a> <a href="verse.html?date=2026-05-23" class="verse-link">[verse]</a> <span class="meta">Jyeṣṭha Śukla Aṣṭamī | Maghā→Pūrva Phalgunī | BG 6.35-36</span> </li> <li>
+<span style="color: #ff9933;">2026-05-22</span> <a href="c0sm1c.html?date=2026-05-22">[cosmic]</a> <a href="verse.html?date=2026-05-22" class="verse-link">[verse]</a> <span class="meta">Jyeṣṭha Śukla Saptamī | Āśleṣā→Maghā | BG 6.34</span> </li> <li>
+<span style="color: #ff9933;">2026-05-21</span>
+<a href="c0sm1c.html?date=2026-05-21">[cosmic]</a>
+<a href="verse.html?date=2026-05-20" class="verse-link">[verse]</a>
+<span class="meta">Jyeṣṭha Śukla Ṣaṣṭhī | Puṣya→Āśleṣā | BG 6.29</span>
+</li>
+    
+  <li>
+    <span style="color: #ff9933;">2026-05-20</span>
+    <a href="c0sm1c.html?date=2026-05-20">[cosmic]</a>
+    <a href="verse.html?date=2026-05-20" class="verse-link">[verse]</a>
+    <span class="meta">Jyeṣṭha Śukla Pañcamī | Punarvasu→Puṣya | BG 6.17</span>
+  </li>
+  <li>
+    <span style="color: #ff9933;">2026-05-19</span>
+    <a href="c0sm1c.html?date=2026-05-19">[cosmic]</a>
+    <a href="verse.html?date=2026-05-19" class="verse-link">[verse]</a>
+    <span class="meta">Jyeṣṭha Śukla Caturthī | Ārdrā→Punarvasu | BG 6.5</span>
+  </li>
+  <li>
+    <span style="color: #ff9933;">2026-05-18</span>
+    <a href="c0sm1c.html?date=2026-05-18">[cosmic]</a>
+    <a href="verse.html?date=2026-05-18" class="verse-link">[verse]</a>
+    <span class="meta">Śukla Dvitīyā | Mṛgaśīrṣa | BG 6.1</span>
+  </li>
+  <li>
+    <span style="color: #ff9933;">2026-05-17</span>
+    <a href="c0sm1c.html?date=2026-05-17">[cosmic]</a>
+    <a href="verse.html?date=2026-05-17" class="verse-link">[verse]</a>
+    <span class="meta">Jyeṣṭha Śukla Pratipadā | Rohinī | BG 5.1</span>
+  </li>
+  <li>
+    <span style="color: #ff9933;">2026-05-15</span>
+    <a href="c0sm1c.html?date=2026-05-15">[cosmic]</a>
+    <a href="verse.html?date=2026-05-15" class="verse-link">[verse]</a>
+    <span class="meta">Kṛṣṇa Pakṣa Caturdaśī | Aśvinī→Bharaṇī | BG 5.15</span>
+  </li>
+  <li>
+    <span style="color: #ff9933;">2026-05-16</span>
+    <a href="c0sm1c.html?date=2026-05-16">[cosmic]</a>
+    <a href="verse.html?date=2026-05-16" class="verse-link">[verse]</a>
+    <span class="meta">Kṛṣṇa Pakṣa Caturdaśī | Rohinī | BG 5.29</span>
+  </li>
+  <li>
+    <span style="color: #ff9933;">2026-05-13</span>
+    <a href="c0sm1c.html?date=2026-05-13">[cosmic]</a>
+    <a href="verse.html?date=2026-05-13" class="verse-link">[verse]</a>
+    <span class="meta">Kṛṣṇa Pakṣa Dwādaśī | Uttara Bhādrapadā | BG 5.21</span>
+  </li>
+  <li>
+    <span style="color: #ff9933;">2026-05-12</span>
+    <a href="c0sm1c.html?date=2026-05-12">[cosmic]</a>
+    <a href="verse.html?date=2026-05-12" class="verse-link">[verse]</a>
+    <span class="meta">Kṛṣṇa Pakṣa Ekādaśī | Pūrva Bhādrapadā | BG 5.22</span>
+  </li>
+  <li>
+    <span style="color: #ff9933;">2026-05-11</span>
+    <a href="c0sm1c.html?date=2026-05-11">[cosmic]</a>
+    <a href="verse.html?date=2026-05-11" class="verse-link">[verse]</a>
+    <span class="meta">Kṛṣṇa Pakṣa Daśamī | Śatabhiṣā | BG 5.2</span>
+  </li>
+<li>
+      <span style="color: #ff9933;">2026-05-14</span>
+      <a href="c0sm1c.html?date=2026-05-14">[cosmic]</a>
+      <a href="verse.html?date=2026-05-14" class="verse-link">[verse]</a>
+      <span class="meta">Revati/Ashwini | Krishna Paksha Trayodashi | BG 5.10</span>
+    </li>
+    <li>
+      <span style="color: #ff9933;">2026-05-10</span>
+      <a href="c0sm1c.html?date=2026-05-10">[cosmic]</a>
+      <a href="verse.html?date=2026-05-10" class="verse-link">[verse]</a>
+      <span class="meta">Shatabhisha | Krishna Paksha Navami | BG 5.7</span>
+    </li>
+    <li>
+      <span style="color: #ff9933;">2026-05-09</span>
+      <a href="c0sm1c.html?date=2026-05-09">[cosmic]</a>
+      <a href="verse.html?date=2026-05-09" class="verse-link">[verse]</a>
+      <span class="meta">Krishna Paksha Ashtami | 2026-05-09 | BG 5.21</span>
+    </li>
+    <li>
+      <span style="color: #ff9933;">2026-05-08</span>
+      <a href="c0sm1c.html?date=2026-05-08">[cosmic]</a>
+      <a href="verse.html?date=2026-05-08" class="verse-link">[verse]</a>
+      <span class="meta">Pūrva Phālgunī | Śukla Saptamī | BG 5.11</span>
+    </li>
+    <li>
+      <span style="color: #ff9933;">2026-05-07</span>
+      <a href="c0sm1c.html?date=2026-05-07">[cosmic]</a>
+      <a href="verse.html?date=2026-05-07" class="verse-link">[verse]</a>
+      <span class="meta">Pūrva Phālgunī | Śukla Ṣaṣṭhī | BG 5.10</span>
+    </li>
+    <li>
+      <span style="color: #ff9933;">2026-05-06</span>
+      <a href="c0sm1c.html?date=2026-05-06">[cosmic]</a>
+      <a href="verse.html?date=2026-05-06" class="verse-link">[verse]</a>
+      <span class="meta">Pūrva Āṣāḍha | Śukla Pratipad | BG 5.3</span>
+    </li>
+    <li>
+      <span style="color: #ff9933;">2026-05-05</span>
+      <a href="c0sm1c.html?date=2026-05-05">[cosmic]</a>
+      <a href="verse.html?date=2026-05-05" class="verse-link">[verse]</a>
+      <span class="meta">Mūla Nakṣatra | Kṛṣṇa Pakṣa Daśamī | BG 5.27</span>
+    </li>
+    <li>
+      <span style="color: #ff9933;">2026-05-04</span>
+      <a href="c0sm1c.html?date=2026-05-04">[cosmic]</a>
+      <a href="verse.html?date=2026-05-04" class="verse-link">[verse]</a>
+      <span class="meta">Śukla Pakṣa | Kṛṣṇa Pakṣa Tritīyā | BG 5.29</span>
+    </li>
+    <li>
+      <span style="color: #ff9933;">2026-05-03</span>
+      <a href="c0sm1c.html?date=2026-05-03">[cosmic]</a>
+      <a href="verse.html?date=2026-05-03" class="verse-link">[verse]</a>
+      <span class="meta">Krishna Paksha Dwitiya | Sunday, May 3rd, 2026 | BG 5.18</span>
+    </li>
+    <li>
+      <span style="color: #ff9933;">2026-05-02</span>
+      <a href="c0sm1c.html?date=2026-05-02">[cosmic]</a>
+      <a href="verse.html?date=2026-05-02" class="verse-link">[verse]</a>
+      <span class="meta">Samvat 2083 | Jyeshta Krishna Paksha Pratipada | BG 4.37</span>
+    </li>
+    <li>
+      <span style="color: #ff9933;">2026-05-01</span>
+      <a href="c0sm1c.html?date=2026-05-01">[cosmic]</a>
+      <a href="verse.html?date=2026-05-01" class="verse-link">[verse]</a>
+      <span class="meta">Samvat 2083 | Vaisakha Sukla Purnima | BG 4.37</span>
+    </li>
+    <li>
+      <span style="color: #ff9933;">2026-04-30</span>
+      <a href="c0sm1c.html?date=2026-04-30">[cosmic]</a>
+      <a href="verse.html?date=2026-04-30" class="verse-link">[verse]</a>
+      <span class="meta">Vyatipāta Yoga Engine | Svātī Wind | BG 4.4</span>
+    </li>
+    <li>
+      <span style="color: #ff9933;">2026-04-29</span>
+      <a href="c0sm1c.html?date=2026-04-29">[cosmic]</a>
+      <a href="verse.html?date=2026-04-29" class="verse-link">[verse]</a>
+      <span class="meta">Śukla Pakṣa | Śukla Caturdaśī | BG 4.3</span>
+    </li>
+    <li>
+      <span style="color: #ff9933;">2026-04-28</span>
+      <a href="c0sm1c.html?date=2026-04-28">[cosmic]</a>
+      <a href="verse.html?date=2026-04-28" class="verse-link">[verse]</a>
+      <span class="meta">Śukla Pakṣa | Śukla Dvādaśī | BG 4.6</span>
+    </li>
+    <li>
+      <span style="color: #ff9933;">2026-04-27</span>
+      <a href="c0sm1c.html?date=2026-04-27">[cosmic]</a>
+      <a href="verse.html?date=2026-04-27" class="verse-link">[verse]</a>
+      <span class="meta">Siddhārthi Samvāt 2083 | Vaiśākha Śukla Pakṣa | BG 4.1</span>
+    </li>
+    <li>
+      <span style="color: #ff9933;">2026-04-26</span>
+      <a href="c0sm1c.html?date=2026-04-26">[cosmic]</a>
+      <a href="verse.html?date=2026-04-26" class="verse-link">[verse]</a>
+      <span class="meta">Sunday | 2083 Vikram Samvat | BG ?.?</span>
+    </li>
+    <li>
+      <span style="color: #ff9933;">2026-04-25</span>
+      <a href="c0sm1c.html?date=2026-04-25">[cosmic]</a>
+      <a href="verse.html?date=2026-04-25" class="verse-link">[verse]</a>
+      <span class="meta">Śukla Pakṣa | Śukla Daśamī | BG 4.2</span>
+    </li>
+    <li>
+      <span style="color: #ff9933;">2026-04-24</span>
+      <a href="c0sm1c.html?date=2026-04-24">[cosmic]</a>
+      <a href="verse.html?date=2026-04-24" class="verse-link">[verse]</a>
+      <span class="meta">Vaiśākha | Śukla Pakṣa Navamī | BG 4.7</span>
+    </li>
+    <li>
+      <span style="color: #ff9933;">2026-04-23</span>
+      <a href="c0sm1c.html?date=2026-04-23">[cosmic]</a>
+      <a href="verse.html?date=2026-04-23" class="verse-link">[verse]</a>
+      <span class="meta">Vikram Samvat 2083 | Śukla Pakṣa (Waxing) | BG 4.34</span>
+    </li>
+    <li>
+      <span style="color: #ff9933;">2026-04-22</span>
+      <a href="c0sm1c.html?date=2026-04-22">[cosmic]</a>
+      <a href="verse.html?date=2026-04-22" class="verse-link">[verse]</a>
+      <span class="meta">Vaisāka Śukla 6/7 | Śukla Pakṣa Ṣaṣṭhī→Saptamī | BG 4.5</span>
+    </li>
+    <li>
+      <span style="color: #ff9933;">2026-04-21</span>
+      <a href="c0sm1c.html?date=2026-04-21">[cosmic]</a>
+      <a href="verse.html?date=2026-04-21" class="verse-link">[verse]</a>
+      <span class="meta">Vikram Samvat 2083 | Śukla Pakṣa Pañcamī → Ṣaṣṭhī | BG 4.7</span>
+    </li>
+    <li>
+      <span style="color: #ff9933;">2026-04-20</span>
+      <a href="c0sm1c.html?date=2026-04-20">[cosmic]</a>
+      <a href="verse.html?date=2026-04-20" class="verse-link">[verse]</a>
+      <span class="meta">Rohinī | Vikram Samvat 2083 | BG 4.8</span>
+    </li>
+    <li>
+      <span style="color: #ff9933;">2026-04-19</span>
+      <a href="c0sm1c.html?date=2026-04-19">[cosmic]</a>
+      <a href="verse.html?date=2026-04-19" class="verse-link">[verse]</a>
+      <span class="meta">Vikram Samvat 2083 | Śukla Pakṣa (Waxing) | BG 4.10</span>
+    </li>
+    <li>
+      <span style="color: #ff9933;">2026-04-18</span>
+      <a href="c0sm1c.html?date=2026-04-18">[cosmic]</a>
+      <a href="verse.html?date=2026-04-18" class="verse-link">[verse]</a>
+      <span class="meta">Vikram Samvat 2083 | Śukla Pakṣa (Waxing) | BG 4.9</span>
+    </li>
+    <li>
+      <span style="color: #ff9933;">2026-04-17</span>
+      <a href="c0sm1c.html?date=2026-04-17">[cosmic]</a>
+      <a href="verse.html?date=2026-04-17" class="verse-link">[verse]</a>
+      <span class="meta">2083 Siddharthi | Vaisakha Krishna Paksha, Day 30 | BG 3.43</span>
+    </li>
+    <li>
+      <span style="color: #ff9933;">2026-04-16</span>
+      <a href="c0sm1c.html?date=2026-04-16">[cosmic]</a>
+      <a href="verse.html?date=2026-04-16" class="verse-link">[verse]</a>
+      <span class="meta">Vikram Samvat 2083 | Kṛṣṇa Pakṣa (Waning) | BG 3.27</span>
+    </li>
+    <li>
+      <span style="color: #ff9933;">2026-04-15</span>
+      <a href="c0sm1c.html?date=2026-04-15">[cosmic]</a>
+      <a href="verse.html?date=2026-04-15" class="verse-link">[verse]</a>
+      <span class="meta">Vikram Samvat 2083 | Kṛṣṇa Pakṣa (Waning) | BG 3.19</span>
+    </li>
+    <li>
+      <span style="color: #ff9933;">2026-04-14</span>
+      <a href="c0sm1c.html?date=2026-04-14">[cosmic]</a>
+      <a href="verse.html?date=2026-04-14" class="verse-link">[verse]</a>
+      <span class="meta">Vikram Samvat 2082-2083 | Śukla Pakṣa (Waxing) | BG 3.10</span>
+    </li>
+    <li>
+      <span style="color: #ff9933;">2026-04-13</span>
+      <a href="c0sm1c.html?date=2026-04-13">[cosmic]</a>
+      <a href="verse.html?date=2026-04-13" class="verse-link">[verse]</a>
+      <span class="meta">Varuna's Hundred Medicines | Kṛṣṇa Pakṣa | BG 3.6</span>
+    </li>
+    <li>
+      <span style="color: #ff9933;">2026-04-12</span>
+      <a href="c0sm1c.html?date=2026-04-12">[cosmic]</a>
+      <a href="verse.html?date=2026-04-12" class="verse-link">[verse]</a>
+      <span class="meta">Siddharthī Samvatsara | Vikram Samvat 2083 Vaiśākha | BG ?.?</span>
+    </li>
+    <li>
+      <span style="color: #ff9933;">2026-04-11</span>
+      <a href="c0sm1c.html?date=2026-04-11">[cosmic]</a>
+      <a href="verse.html?date=2026-04-11" class="verse-link">[verse]</a>
+      <span class="meta">Vikram Samvat 2083 | Vaiśākha Kṛṣṇa Navamī | BG 3.30</span>
+    </li>
+    <li>
+      <span style="color: #ff9933;">2026-04-10</span>
+      <a href="c0sm1c.html?date=2026-04-10">[cosmic]</a>
+      <a href="verse.html?date=2026-04-10" class="verse-link">[verse]</a>
+      <span class="meta">Vikram Samvat 2083 Vaiśākha | Kṛṣṇa Pakṣa Aṣṭamī → Navamī | BG 3.7</span>
+    </li>
+    <li>
+      <span style="color: #ff9933;">2026-04-09</span>
+      <a href="c0sm1c.html?date=2026-04-09">[cosmic]</a>
+      <a href="verse.html?date=2026-04-09" class="verse-link">[verse]</a>
+      <span class="meta">Śiva Yoga | Pūrva Aṣāḍhā | BG 3.9</span>
+    </li>
+    <li>
+      <span style="color: #ff9933;">2026-04-08</span>
+      <a href="c0sm1c.html?date=2026-04-08">[cosmic]</a>
+      <a href="verse.html?date=2026-04-08" class="verse-link">[verse]</a>
+      <span class="meta">Apr 8 2026 | Vikrama Samvat 2083 Vaiśākha | BG 3.5</span>
+    </li>
+    <li>
+      <span style="color: #ff9933;">2026-04-07</span>
+      <a href="c0sm1c.html?date=2026-04-07">[cosmic]</a>
+      <a href="verse.html?date=2026-04-07" class="verse-link">[verse]</a>
+      <span class="meta">Unknown | Unknown | BG 3.42</span>
+    </li>
+    <li>
+      <span style="color: #ff9933;">2026-04-06</span>
+      <a href="c0sm1c.html?date=2026-04-06">[cosmic]</a>
+      <a href="verse.html?date=2026-04-06" class="verse-link">[verse]</a>
+      <span class="meta">Vikram Samvat 2083 Vaisakha | Krishna Paksha Panchami | BG 3.19</span>
+    </li>
+    <li>
+      <span style="color: #ff9933;">2026-04-05</span>
+      <a href="c0sm1c.html?date=2026-04-05">[cosmic]</a>
+      <a href="verse.html?date=2026-04-05" class="verse-link">[verse]</a>
+      <span class="meta">Vikram Samvat 2083 Vaisakha | Krishna Paksha Chaturthi | BG 3.9</span>
+    </li>
+    <li>
+      <span style="color: #ff9933;">2026-04-04</span>
+      <a href="c0sm1c.html?date=2026-04-04">[cosmic]</a>
+      <a href="verse.html?date=2026-04-04" class="verse-link">[verse]</a>
+      <span class="meta">Swāti | Vikram Samvat 2083 Vaiśākha | BG 3.19</span>
+    </li>
+    <li>
+      <span style="color: #ff9933;">2026-04-03</span>
+      <a href="c0sm1c.html?date=2026-04-03">[cosmic]</a>
+      <a href="verse.html?date=2026-04-03" class="verse-link">[verse]</a>
+      <span class="meta">Siddharthi Samvat 2083 | Vaisakha Krishna Paksha | BG 3.1</span>
+    </li>
+    <li>
+      <span style="color: #ff9933;">2026-04-02</span>
+      <a href="c0sm1c.html?date=2026-04-02">[cosmic]</a>
+      <a href="verse.html?date=2026-04-02" class="verse-link">[verse]</a>
+      <span class="meta">Chaitra 2083 Vikrama | Chaitra Waning Begins | BG 2.28</span>
+    </li>
+    <li>
+      <span style="color: #ff9933;">2026-04-01</span>
+      <a href="c0sm1c.html?date=2026-04-01">[cosmic]</a>
+      <a href="verse.html?date=2026-04-01" class="verse-link">[verse]</a>
+      <span class="meta">Chaitra 2083 Vikrama | Śukla Pakṣa Complete | BG 2.15</span>
+    </li>
+    <li>
+      <span style="color: #ff9933;">2026-03-31</span>
+      <a href="c0sm1c.html?date=2026-03-31">[cosmic]</a>
+      <a href="verse.html?date=2026-03-31" class="verse-link">[verse]</a>
+      <span class="meta">Siddharthi Samvatsara | Vikrama 2083 | BG ?.?</span>
+    </li>
+    <li>
+      <span style="color: #ff9933;">2026-03-30</span>
+      <a href="c0sm1c.html?date=2026-03-30">[cosmic]</a>
+      <a href="verse.html?date=2026-03-30" class="verse-link">[verse]</a>
+      <span class="meta">Soma Pradoṣa Portal | Vikram Samvat 2083 | BG ?.?</span>
+    </li>
+    <li>
+      <span style="color: #ff9933;">2026-03-29</span>
+      <a href="c0sm1c.html?date=2026-03-29">[cosmic]</a>
+      <a href="verse.html?date=2026-03-29" class="verse-link">[verse]</a>
+      <span class="meta">C008.02.01 | Vikram Samvat 2083 | BG 2.27</span>
+    </li>
+    <li>
+      <span style="color: #ff9933;">2026-03-28</span>
+      <a href="c0sm1c.html?date=2026-03-28">[cosmic]</a>
+      <a href="verse.html?date=2026-03-28" class="verse-link">[verse]</a>
+      <span class="meta">Vikram Samvat 2083 | Śukla Pakṣa | BG 2.58</span>
+    </li>
+    <li>
+      <span style="color: #ff9933;">2026-03-27</span>
+      <a href="c0sm1c.html?date=2026-03-27">[cosmic]</a>
+      <a href="verse.html?date=2026-03-27" class="verse-link">[verse]</a>
+      <span class="meta">Chaitra Śukla Pakṣa Daśamī | Vikram Samvat 2083 | BG 2.70</span>
+    </li>
+    <li>
+      <span style="color: #ff9933;">2026-03-26</span>
+      <a href="c0sm1c.html?date=2026-03-26">[cosmic]</a>
+      <a href="verse.html?date=2026-03-26" class="verse-link">[verse]</a>
+      <span class="meta">Chaitra Month | Śukla Pakṣa Navamī | BG ?.?</span>
+    </li>
+    <li>
+      <span style="color: #ff9933;">2026-03-25</span>
+      <a href="c0sm1c.html?date=2026-03-25">[cosmic]</a>
+      <a href="verse.html?date=2026-03-25" class="verse-link">[verse]</a>
+      <span class="meta">Philadelphia, PA | Kṛttikā Fire | BG 2.17</span>
+    </li>
+    <li>
+      <span style="color: #ff9933;">2026-03-24</span>
+      <a href="c0sm1c.html?date=2026-03-24">[cosmic]</a>
+      <a href="verse.html?date=2026-03-24" class="verse-link">[verse]</a>
+      <span class="meta">ŚUKLA SAPTAMĪ | VIKRAMA SAMVAT | BG 2.29</span>
+    </li>
+    <li>
+      <span style="color: #ff9933;">2026-03-23</span>
+      <a href="c0sm1c.html?date=2026-03-23">[cosmic]</a>
+      <a href="verse.html?date=2026-03-23" class="verse-link">[verse]</a>
+      <span class="meta">Vedic New Year Energy | Vikram Samvat 2083 | BG 2.11</span>
+    </li>
+    <li>
+      <span style="color: #ff9933;">2026-03-22</span>
+      <a href="c0sm1c.html?date=2026-03-22">[cosmic]</a>
+      <a href="verse.html?date=2026-03-22" class="verse-link">[verse]</a>
+      <span class="meta">Vikram Samvat 2083 | Śukla Pakṣa | BG 2.24</span>
+    </li>
+    <li>
+      <span style="color: #ff9933;">2026-03-21</span>
+      <a href="c0sm1c.html?date=2026-03-21">[cosmic]</a>
+      <a href="verse.html?date=2026-03-21" class="verse-link">[verse]</a>
+      <span class="meta">Vikram 2083 Śiddhārtha | Śukla Pakṣa, Tṛtīyā→Caturthī | BG 2.23</span>
+    </li>
+    <li>
+      <span style="color: #ff9933;">2026-03-20</span>
+      <a href="c0sm1c.html?date=2026-03-20">[cosmic]</a>
+      <a href="verse.html?date=2026-03-20" class="verse-link">[verse]</a>
+      <span class="meta">Caitra Śukla Pakṣa | Vikram Samvat 2083 | BG 2.22</span>
+    </li>
+    <li>
+      <span style="color: #ff9933;">2026-03-19</span>
+      <a href="c0sm1c.html?date=2026-03-19">[cosmic]</a>
+      <a href="verse.html?date=2026-03-19" class="verse-link">[verse]</a>
+      <span class="meta">Vikram 2083 | Śukla Pakṣa | BG 2.14</span>
+    </li>
+    <li>
+      <span style="color: #ff9933;">2026-03-18</span>
+      <a href="c0sm1c.html?date=2026-03-18">[cosmic]</a>
+      <a href="verse.html?date=2026-03-18" class="verse-link">[verse]</a>
+      <span class="meta">VIKRAM SAMVAT 2083 | KṚṢṆA PAKṢA → ŚUKLA PAKṢA | BG ?.?</span>
+    </li>
+    <li>
+      <span style="color: #ff9933;">2026-03-17</span>
+      <a href="c0sm1c.html?date=2026-03-17">[cosmic]</a>
+      <a href="verse.html?date=2026-03-17" class="verse-link">[verse]</a>
+      <span class="meta">Vikram Samvat 2083, Siddharthi | Krishna Pakṣa | BG ?.?</span>
+    </li>
+    <li>
+      <span style="color: #ff9933;">2026-03-16</span>
+      <a href="c0sm1c.html?date=2026-03-16">[cosmic]</a>
+      <a href="verse.html?date=2026-03-16" class="verse-link">[verse]</a>
+      <span class="meta">Som Pradosh Vrat • Masik Shivaratri | Vikram Samvat 2083, Siddharthi | BG 2.66</span>
+    </li>
+    <li>
+      <span style="color: #ff9933;">2026-03-15</span>
+      <a href="c0sm1c.html?date=2026-03-15">[cosmic]</a>
+      <a href="verse.html?date=2026-03-15" class="verse-link">[verse]</a>
+      <span class="meta">Dwadashi Completion | Krishna Paksha, Siddharthi Samvat 2083 | BG 2.65</span>
+    </li>
+    <li>
+      <span style="color: #ff9933;">2026-03-14</span>
+      <a href="c0sm1c.html?date=2026-03-14">[cosmic]</a>
+      <a href="verse.html?date=2026-03-14" class="verse-link">[verse]</a>
+      <span class="meta">Vikram Samvat 2083, Siddharthi | Kṛṣṇa Pakṣa | BG 9.22</span>
+    </li>
+    <li>
+      <span style="color: #ff9933;">2026-03-13</span>
+      <a href="c0sm1c.html?date=2026-03-13">[cosmic]</a>
+      <a href="verse.html?date=2026-03-13" class="verse-link">[verse]</a>
+      <span class="meta">Śukravār | Vikram 2083 Siddharti | BG 2.64</span>
+    </li>
+    <li>
+      <span style="color: #ff9933;">2026-03-12</span>
+      <a href="c0sm1c.html?date=2026-03-12">[cosmic]</a>
+      <a href="verse.html?date=2026-03-12" class="verse-link">[verse]</a>
+      <span class="meta">Vikram Samvat 2083 Chaitra | Krishna Paksha Navamī | BG 2.62</span>
+    </li>
+    <li>
+      <span style="color: #ff9933;">2026-03-11</span>
+      <a href="c0sm1c.html?date=2026-03-11">[cosmic]</a>
+      <a href="verse.html?date=2026-03-11" class="verse-link">[verse]</a>
+      <span class="meta">Vikram Samvat 2082-2083 (Siddharthī) | Krishna Pakṣa (Waning) | BG 2.65</span>
+    </li>
+    <li>
+      <span style="color: #ff9933;">2026-03-10</span>
+      <a href="c0sm1c.html?date=2026-03-10">[cosmic]</a>
+      <a href="verse.html?date=2026-03-10" class="verse-link">[verse]</a>
+      <span class="meta">March 10, 2026 | Vikram Samvat 2083, Siddharthi | BG 2.64</span>
+    </li>
+    <li>
+      <span style="color: #ff9933;">2026-03-09</span>
+      <a href="c0sm1c.html?date=2026-03-09">[cosmic]</a>
+      <a href="verse.html?date=2026-03-09" class="verse-link">[verse]</a>
+      <span class="meta">Vikram Samvat 2083, Siddharthi] | Śitalā Saptamī | BG 2.14</span>
+    </li>
+    <li>
+      <span style="color: #ff9933;">2026-03-08</span>
+      <a href="c0sm1c.html?date=2026-03-08">[cosmic]</a>
+      <a href="verse.html?date=2026-03-08" class="verse-link">[verse]</a>
+      <span class="meta">Krishna Paksha | Vyāghāta Yoga + Viśākhā Nakṣatra | BG 2.13</span>
+    </li>
+    <li>
+      <span style="color: #ff9933;">2026-03-07</span>
+      <a href="c0sm1c.html?date=2026-03-07">[cosmic]</a>
+      <a href="verse.html?date=2026-03-07" class="verse-link">[verse]</a>
+      <span class="meta">Vikram Samvat 2083 | Krishna Paksha | BG 2.24</span>
+    </li>
+    <li>
+      <span style="color: #ff9933;">2026-03-06</span>
+      <a href="c0sm1c.html?date=2026-03-06">[cosmic]</a>
+      <a href="verse.html?date=2026-03-06" class="verse-link">[verse]</a>
+      <span class="meta">Śukravāra | Vikrama Samvat 2083, Phālguna | BG 2.23</span>
+    </li>
+    <li>
+      <span style="color: #ff9933;">2026-03-05</span>
+      <a href="c0sm1c.html?date=2026-03-05">[cosmic]</a>
+      <a href="verse.html?date=2026-03-05" class="verse-link">[verse]</a>
+      <span class="meta">Vikram Samvat 2083 | Hasta Nakṣatra | BG 2.22</span>
+    </li>
+    <li>
+      <span style="color: #ff9933;">2026-03-04</span>
+      <a href="c0sm1c.html?date=2026-03-04">[cosmic]</a>
+      <a href="verse.html?date=2026-03-04" class="verse-link">[verse]</a>
+      <span class="meta">Vikram Samvat 2083 | Krishna Pakṣa (Waning) | BG 3.8</span>
+    </li>
+    <li>
+      <span style="color: #ff9933;">2026-03-03</span>
+      <a href="c0sm1c.html?date=2026-03-03">[cosmic]</a>
+      <a href="verse.html?date=2026-03-03" class="verse-link">[verse]</a>
+      <span class="meta">Vikram Samvat 2082<br>Pūrṇimā | Phalguna Śukla Pakṣa | BG ?.?</span>
+    </li>
+    <li>
+      <span style="color: #ff9933;">2026-03-02</span>
+      <a href="c0sm1c.html?date=2026-03-02">[cosmic]</a>
+      <a href="verse.html?date=2026-03-02" class="verse-link">[verse]</a>
+      <span class="meta">Vikram Samvat 2082<br/>Chaturdaśī | Phalguna Śukla Pakṣa | BG ?.?</span>
+    </li>
+    <li>
+      <span style="color: #ff9933;">2026-03-01</span>
+      <a href="c0sm1c.html?date=2026-03-01">[cosmic]</a>
+      <a href="verse.html?date=2026-03-01" class="verse-link">[verse]</a>
+      <span class="meta">Vikram Samvat 2082<br/>Trayodaśī | Phalguna Śukla Pakṣa | BG ?.?</span>
+    </li>
+    <li>
+      <span style="color: #ff9933;">2026-02-28</span>
+      <a href="c0sm1c.html?date=2026-02-28">[cosmic]</a>
+      <a href="verse.html?date=2026-02-28" class="verse-link">[verse]</a>
+      <span class="meta">Vikram Samvat 2082<br/>Dwadashi | Phalguna Śukla Pakṣa | BG ?.?</span>
+    </li>
+    <li>
+      <span style="color: #ff9933;">2026-02-27</span>
+      <a href="c0sm1c.html?date=2026-02-27">[cosmic]</a>
+      <a href="verse.html?date=2026-02-27" class="verse-link">[verse]</a>
+      <span class="meta">Vikram Samvat 2082<br/>Ekadashi | Phalguna Śukla Pakṣa | BG 3.4</span>
+    </li>
+    <li>
+      <span style="color: #ff9933;">2026-02-26</span>
+      <a href="c0sm1c.html?date=2026-02-26">[cosmic]</a>
+      <a href="verse.html?date=2026-02-26" class="verse-link">[verse]</a>
+      <span class="meta">Vikram Samvat 2082<br/>Saptamī | Phalguna Śukla Pakṣa | BG ?.?</span>
+    </li>
+    <li>
+      <span style="color: #ff9933;">2026-02-25</span>
+      <a href="c0sm1c.html?date=2026-02-25">[cosmic]</a>
+      <a href="verse.html?date=2026-02-25" class="verse-link">[verse]</a>
+      <span class="meta">Vikram Samvat 2082<br/>Navamī | Phalguna Śukla Pakṣa | BG ?.?</span>
+    </li>
+    <li>
+      <span style="color: #ff9933;">2026-02-24</span>
+      <a href="c0sm1c.html?date=2026-02-24">[cosmic]</a>
+      <a href="verse.html?date=2026-02-24" class="verse-link">[verse]</a>
+      <span class="meta">Vikram Samvat 2082<br/>Aṣṭamī | Phalguna Śukla Pakṣa | BG ?.?</span>
+    </li>
+    <li>
+      <span style="color: #ff9933;">2026-02-23</span>
+      <a href="c0sm1c.html?date=2026-02-23">[cosmic]</a>
+      <a href="verse.html?date=2026-02-23" class="verse-link">[verse]</a>
+      <span class="meta">Vikram Samvat 2082<br/>Saptamī | Phalguna Śukla Pakṣa | BG 2.72</span>
+    </li>
+    <li>
+      <span style="color: #ff9933;">2026-02-22</span>
+      <a href="c0sm1c.html?date=2026-02-22">[cosmic]</a>
+      <a href="verse.html?date=2026-02-22" class="verse-link">[verse]</a>
+      <span class="meta">Vikram Samvat 2082<br/>Ṣaṣṭhī | Phalguna Śukla Pakṣa | BG 2.71</span>
+    </li>
+    <li>
+      <span style="color: #ff9933;">2026-02-21</span>
+      <a href="c0sm1c.html?date=2026-02-21">[cosmic]</a>
+      <a href="verse.html?date=2026-02-21" class="verse-link">[verse]</a>
+      <span class="meta">Vikram Samvat 2082<br/>Ṣaṣṭhī | Phalguna Krishna Paksha | BG 2.69</span>
+    </li>
+    <li>
+      <span style="color: #ff9933;">2026-02-20</span>
+      <a href="c0sm1c.html?date=2026-02-20">[cosmic]</a>
+      <a href="verse.html?date=2026-02-20" class="verse-link">[verse]</a>
+      <span class="meta">Vikram Samvat 2082<br/>Pañcamī | Phalguna Krishna Paksha | BG 2.66</span>
+    </li>
+    <li>
+      <span style="color: #ff9933;">2026-02-19</span>
+      <a href="c0sm1c.html?date=2026-02-19">[cosmic]</a>
+      <a href="verse.html?date=2026-02-19" class="verse-link">[verse]</a>
+      <span class="meta">Vikram Samvat 2082<br/>Tṛtīya | Phalguna Śukla Paksha | BG 2.67</span>
+    </li>
+    <li>
+      <span style="color: #ff9933;">2026-02-18</span>
+      <a href="c0sm1c.html?date=2026-02-18">[cosmic]</a>
+      <a href="verse.html?date=2026-02-18" class="verse-link">[verse]</a>
+      <span class="meta">Vikram Samvat 2082<br/>Dvitīya | Phalguna Śukla Paksha | BG 2.67</span>
+    </li>
+    <li>
+      <span style="color: #ff9933;">2026-02-17</span>
+      <a href="c0sm1c.html?date=2026-02-17">[cosmic]</a>
+      <a href="verse.html?date=2026-02-17" class="verse-link">[verse]</a>
+      <span class="meta">Vikram Samvat 2082<br/>Amāvāsyā | Phalguna Krishna Paksha | BG 2.66</span>
+    </li>
+    <li>
+      <span style="color: #ff9933;">2026-02-16</span>
+      <a href="c0sm1c.html?date=2026-02-16">[cosmic]</a>
+      <a href="verse.html?date=2026-02-16" class="verse-link">[verse]</a>
+      <span class="meta">Vikram Samvat 2082<br/>Amāvāsyā | Phalguna Krishna Paksha | BG 2.65</span>
+    </li>
+    <li>
+      <span style="color: #ff9933;">2026-02-15</span>
+      <a href="c0sm1c.html?date=2026-02-15">[cosmic]</a>
+      <a href="verse.html?date=2026-02-15" class="verse-link">[verse]</a>
+      <span class="meta">Vikram Samvat 2082<br />Mahā
+    Śivarātri | Phalguna Krishna Paksha | BG 2.64</span>
+    </li>
+    <li>
+      <span style="color: #ff9933;">2026-02-14</span>
+      <a href="c0sm1c.html?date=2026-02-14">[cosmic]</a>
+      <a href="verse.html?date=2026-02-14" class="verse-link">[verse]</a>
+      <span class="meta">Vikram Samvat 2082<br />Pradoṣa
+    Vrat | Phalguna Krishna Paksha | BG 2.63</span>
+    </li>
+    <li>
+      <span style="color: #ff9933;">2026-02-13</span>
+      <a href="c0sm1c.html?date=2026-02-13">[cosmic]</a>
+      <a href="verse.html?date=2026-02-13" class="verse-link">[verse]</a>
+      <span class="meta">Vikram Samvat 2082 | Phalguna Krishna Paksha | BG 2.62</span>
+    </li>
+    <li>
+      <span style="color: #ff9933;">2026-02-12</span>
+      <a href="c0sm1c.html?date=2026-02-12">[cosmic]</a>
+      <a href="verse.html?date=2026-02-12" class="verse-link">[verse]</a>
+      <span class="meta">Vikram Samvat 2082 | Phalguna Krishna Paksha | BG 2.61</span>
+    </li>
+    <li>
+      <span style="color: #ff9933;">2026-02-11</span>
+      <a href="c0sm1c.html?date=2026-02-11">[cosmic]</a>
+      <a href="verse.html?date=2026-02-11" class="verse-link">[verse]</a>
+      <span class="meta">Vikram Samvat 2082 | Phalguna Krishna Paksha | BG 2.60</span>
+    </li>
+    <li>
+      <span style="color: #ff9933;">2026-02-10</span>
+      <a href="c0sm1c.html?date=2026-02-10">[cosmic]</a>
+      <a href="verse.html?date=2026-02-10" class="verse-link">[verse]</a>
+      <span class="meta">Vikram Samvat 2082 | Phalguna Krishna Paksha | BG 9.22</span>
+    </li>
+        <li>
+          <span style="color: #ff9933;">2026-06-29</span>
+          <a href="c0sm1c.html?date=2026-06-29">[cosmic]</a>
+          <a href="verse.html?date=2026-06-29" class="verse-link">[verse]</a>
+          <span class="meta">Pūrṇimā | Mūla→Pūrva Āṣāḍha | Brahma→Indra Yoga | Somvar (Monday) | BG 8.20</span>
+        </li>
+        <li>
+          <span style="color: #ff9933;">2026-06-24</span>
+          <a href="c0sm1c.html?date=2026-06-24">[cosmic]</a>
+          <a href="verse.html?date=2026-06-24" class="verse-link">[verse]</a>
+          <span class="meta">Dashami→Ekadashi | Swati | Siva→Siddha Yoga | Budhavāra (Wednesday) | BG 8.8</span>
+        </li>
+  </ul>
+
+      </div>
+
+      <div class="input-line">
+        <span class="prompt">vyasa@bd:~$ </span>
+        <input type="text" id="command-input" class="command-input" value="archive --list" readonly aria-label="Cosmic archive command line">
+        <span class="cursor">█</span>
+      </div>
+
+      <div class="command-chip-line" aria-label="Archive links" tabindex="0">
+        <span class="chip-prefix">∵ [sys_cmd]</span>
+        <span class="chip-accent" aria-hidden="true">🦚</span>
+        <span class="command-chip-shell">
+          <span class="command-chip-hint" aria-hidden="true">// hover/hold to reveal cmds...</span>
+          <span class="command-chip-list">
+            <a class="command-chip" href="index.html">[terminal]</a>
+            <a class="command-chip" href="verse.html">[verse]</a>
+            <a class="command-chip" href="c0sm1c.html">[cosmic]</a>
+            <a class="command-chip" href="glossary.html">[glossary]</a>
+            <button type="button" class="command-chip" id="archive-clear">[clear]</button>
+          </span>
+        </span>
+      </div>
+
+      <div class="terminal-footer">
+        <span>lch3x🪓 × vyasad4s🏹</span>
+        <span aria-hidden="true">|</span>
+        <a href="https://github.com/vyasad4s/bhakti-daily" target="_blank">GitHub</a>
+      </div>
+    </div>
+  </div>
+  <script src="js/archive.js"></script>
+</body>
+</html>
