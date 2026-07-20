@@ -1,7 +1,157 @@
 [
   {
-    "term": "mahātmānaḥ",
-    "transliteration": "mahātmānaḥ",
+    "term": "may\u0101",
+    "transliteration": "maya",
+    "type": "instrumental",
+    "definition": "by Me; through the agency of the Supreme Lord K\u1e5b\u1e63\u1e47a",
+    "roots": "not specified in definition",
+    "references": [
+      "BG 9.10"
+    ],
+    "themes": [
+      "divine-superintendence",
+      "prakriti",
+      "adhyaksa"
+    ]
+  },
+  {
+    "term": "adhyak\u1e63e\u1e47a",
+    "transliteration": "adhyak\u1e63e\u1e47a",
+    "type": "instrumental",
+    "definition": "by superintendence; by presiding oversight; from adhi-\u012bk\u1e63, to oversee",
+    "roots": "not specified in definition",
+    "references": [
+      "BG 9.10"
+    ],
+    "themes": [
+      "divine-superintendence",
+      "prakriti",
+      "adhyaksa"
+    ]
+  },
+  {
+    "term": "prak\u1e5bti\u1e25",
+    "transliteration": "prakrtih",
+    "type": "nominative",
+    "definition": "material nature; the fundamental creative principle that evolves into all manifested reality",
+    "roots": "not specified in definition",
+    "references": [
+      "BG 9.10"
+    ],
+    "themes": [
+      "divine-superintendence",
+      "prakriti",
+      "adhyaksa"
+    ]
+  },
+  {
+    "term": "s\u016byate",
+    "transliteration": "suyate",
+    "type": "passive verb",
+    "definition": "is manifested; is produced; is brought into being (passive voice emphasizes that prak\u1e5bti is acted upon, not self-originating)",
+    "roots": "not specified in definition",
+    "references": [
+      "BG 9.10"
+    ],
+    "themes": [
+      "divine-superintendence",
+      "prakriti",
+      "adhyaksa"
+    ]
+  },
+  {
+    "term": "sa-car\u0101caram",
+    "transliteration": "sa-caracaram",
+    "type": "compound",
+    "definition": "both moving (cara) and nonmoving (acara); all living entities from microbes to demigods, plus the inert material world",
+    "roots": "from sa-car\u0101caram",
+    "references": [
+      "BG 9.10"
+    ],
+    "themes": [
+      "divine-superintendence",
+      "prakriti",
+      "adhyaksa"
+    ]
+  },
+  {
+    "term": "hetun\u0101",
+    "transliteration": "hetuna",
+    "type": "instrumental",
+    "definition": "for the reason; by this cause; indicating purposeful, not random, operation",
+    "roots": "not specified in definition",
+    "references": [
+      "BG 9.10"
+    ],
+    "themes": [
+      "divine-superintendence",
+      "prakriti",
+      "adhyaksa"
+    ]
+  },
+  {
+    "term": "anena",
+    "transliteration": "anena",
+    "type": "pronoun",
+    "definition": "this; referring to the superintendence just described",
+    "roots": "not specified in definition",
+    "references": [
+      "BG 9.10"
+    ],
+    "themes": [
+      "divine-superintendence",
+      "prakriti",
+      "adhyaksa"
+    ]
+  },
+  {
+    "term": "kaunteya",
+    "transliteration": "kaunteya",
+    "type": "vocative",
+    "definition": "O son of Kunt\u012b; addressing Arjuna by his mother's name, emphasizing personal relationship",
+    "roots": "not specified in definition",
+    "references": [
+      "BG 9.10"
+    ],
+    "themes": [
+      "divine-superintendence",
+      "prakriti",
+      "adhyaksa"
+    ]
+  },
+  {
+    "term": "jagat",
+    "transliteration": "jagat",
+    "type": "nominative",
+    "definition": "the cosmic manifestation; the universe; from gam-j\u00f1\u0101, \"that which moves\" \u2014 all that is in motion",
+    "roots": "not specified in definition",
+    "references": [
+      "BG 9.10"
+    ],
+    "themes": [
+      "divine-superintendence",
+      "prakriti",
+      "adhyaksa"
+    ]
+  },
+  {
+    "term": "viparivartate",
+    "transliteration": "viparivartate",
+    "type": "verb",
+    "definition": "is working; revolves; cycles; turns repeatedly \u2014 contains the root v\u1e5bt (to turn), source of \"v\u1e5btti\" (mental modification)",
+    "roots": "not specified in definition",
+    "references": [
+      "BG 9.10"
+    ],
+    "themes": [
+      "divine-superintendence",
+      "prakriti",
+      "adhyaksa"
+    ]
+  },
+  {
+    "term": "mah\u0101tm\u0101na\u1e25",
+    "transliteration": "mah\u0101tm\u0101na\u1e25",
     "type": "",
     "definition": "\"great souls\"; those of expanded consciousness who have realized their eternal relationship with the Supreme",
     "references": [
@@ -22,8 +172,8 @@
     "date": "2026-07-18"
   },
   {
-    "term": "mām",
-    "transliteration": "mām",
+    "term": "m\u0101m",
+    "transliteration": "m\u0101m",
     "type": "",
     "definition": "unto Me; Krishna as the object of shelter and devotion",
     "references": [
@@ -33,8 +183,8 @@
     "date": "2026-07-18"
   },
   {
-    "term": "daivīṁ",
-    "transliteration": "daivīṁ",
+    "term": "daiv\u012b\u1e41",
+    "transliteration": "daiv\u012b\u1e41",
     "type": "",
     "definition": "divine; pertaining to the gods; divine nature as Krishna's energizing",
     "references": [
@@ -44,8 +194,8 @@
     "date": "2026-07-18"
   },
   {
-    "term": "prakṛtim",
-    "transliteration": "prakṛtim",
+    "term": "prak\u1e5btim",
+    "transliteration": "prak\u1e5btim",
     "type": "",
     "definition": "nature; energy; the manifested aspect of the Divine",
     "references": [
@@ -55,8 +205,8 @@
     "date": "2026-07-18"
   },
   {
-    "term": "āśritāḥ",
-    "transliteration": "āśritāḥ",
+    "term": "\u0101\u015brit\u0101\u1e25",
+    "transliteration": "\u0101\u015brit\u0101\u1e25",
     "type": "",
     "definition": "having taken shelter of; sought refuge in; relied upon",
     "references": [
@@ -77,8 +227,8 @@
     "date": "2026-07-18"
   },
   {
-    "term": "ananya-manasaḥ",
-    "transliteration": "ananya-manasaḥ",
+    "term": "ananya-manasa\u1e25",
+    "transliteration": "ananya-manasa\u1e25",
     "type": "",
     "definition": "without deviation of the mind; undivided attention; exclusive focus",
     "references": [
@@ -88,8 +238,8 @@
     "date": "2026-07-18"
   },
   {
-    "term": "jñātvā",
-    "transliteration": "jñātvā",
+    "term": "j\u00f1\u0101tv\u0101",
+    "transliteration": "j\u00f1\u0101tv\u0101",
     "type": "",
     "definition": "having known; realized; understood through experience",
     "references": [
@@ -99,8 +249,8 @@
     "date": "2026-07-18"
   },
   {
-    "term": "bhūtādim",
-    "transliteration": "bhūtādim",
+    "term": "bh\u016bt\u0101dim",
+    "transliteration": "bh\u016bt\u0101dim",
     "type": "",
     "definition": "origin of all beings; the source from which everything emanates",
     "references": [
