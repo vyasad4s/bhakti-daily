@@ -1,6 +1,21 @@
 {
   "verses": [
     {
+      "date": "2026-07-21",
+      "source": "BG 10.31",
+      "chapter": 10,
+      "verse": 31,
+      "text": "Bhagavad Gita",
+      "tithi": "",
+      "nakshatra": "",
+      "yoga": "",
+      "themes": [],
+      "tags": [],
+      "yogaSutraConnection": "YS II.40-41",
+      "sankhyaConcepts": [],
+      "keyTerms": []
+    },
+    {
       "date": "2026-07-20",
       "source": "BG 10.21",
       "chapter": 10,
@@ -2793,7 +2808,7 @@
       ]
     }
   ],
-  "lastUpdated": "2026-07-20",
+  "lastUpdated": "2026-07-21",
   "versers": [
     {
       "date": "2026-06-30",
