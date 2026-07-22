@@ -1,1 +1,523 @@
-{"terms": [[]], "lastUpdated": "2026-07-21"}
+[
+  {
+    "term": "akṣarāṇām",
+    "transliteration": "akṣarāṇām",
+    "type": "genitive plural",
+    "definition": "of letters, of alphabetic characters; the building blocks of written and spoken language",
+    "roots": "from akṣara (imperishable, letter)",
+    "references": [
+      "BG 10.33"
+    ],
+    "themes": [
+      "language",
+      "sound",
+      "communication"
+    ]
+  },
+  {
+    "term": "a-kāraḥ",
+    "transliteration": "a-kāraḥ",
+    "type": "nominative",
+    "definition": "the first letter; in Sanskrit, the vowel a (अ) as the primordial sound from which all other sounds emerge",
+    "roots": "from kṛ (to do, to make)",
+    "references": [
+      "BG 10.33"
+    ],
+    "themes": [
+      "first-letter",
+      "primordial-sound",
+      "Sanskrit"
+    ]
+  },
+  {
+    "term": "dvandvaḥ",
+    "transliteration": "dvandvaḥ",
+    "type": "nominative",
+    "definition": "the dual; a compound word where two elements of equal weight are bonded (e.g., rāma-kṛṣṇa)",
+    "roots": "from dvandva (pair, dual)",
+    "references": [
+      "BG 10.33"
+    ],
+    "themes": [
+      "dual-compound",
+      "duality",
+      "Sanskrit-grammar"
+    ]
+  },
+  {
+    "term": "sāmāsikasya",
+    "transliteration": "sāmāsikasya",
+    "type": "genitive",
+    "definition": "of compound words; words formed by combining two or more stems",
+    "roots": "from sāmāsa (compound)",
+    "references": [
+      "BG 10.33"
+    ],
+    "themes": [
+      "compound-words",
+      "Sanskrit-grammar",
+      "linguistics"
+    ]
+  },
+  {
+    "term": "aham",
+    "transliteration": "aham",
+    "type": "pronoun",
+    "definition": "I; the pure consciousness asserting identity",
+    "roots": "from aham (I, self)",
+    "references": [
+      "BG 10.33"
+    ],
+    "themes": [
+      "identity",
+      "pure-consciousness",
+      "self"
+    ]
+  },
+  {
+    "term": "eva",
+    "transliteration": "eva",
+    "type": "adverb",
+    "definition": "certainly, indeed; emphasizing certainty",
+    "roots": "emphatic particle",
+    "references": [
+      "BG 10.33"
+    ],
+    "themes": [
+      "emphasis",
+      "certainty",
+      "affirmation"
+    ]
+  },
+  {
+    "term": "akṣayaḥ",
+    "transliteration": "akṣayaḥ",
+    "type": "adjective",
+    "definition": "inexhaustible, eternal, imperishable; that which does not diminish or decay",
+    "roots": "from a (not) + kṣi (to perish)",
+    "references": [
+      "BG 10.33"
+    ],
+    "themes": [
+      "eternal",
+      "imperishable",
+      "time"
+    ]
+  },
+  {
+    "term": "kālaḥ",
+    "transliteration": "kālaḥ",
+    "type": "nominative",
+    "definition": "time; not mere clock-time but the eternal principle underlying all manifestation",
+    "roots": "from kāla (time, black)",
+    "references": [
+      "BG 10.33"
+    ],
+    "themes": [
+      "time",
+      "eternal-principle",
+      "manifestation"
+    ]
+  },
+  {
+    "term": "dhātā",
+    "transliteration": "dhātā",
+    "type": "nominative",
+    "definition": "the creator, sustainer; one who brings forth and maintains",
+    "roots": "from dhā (to put, to place, to create)",
+    "references": [
+      "BG 10.33"
+    ],
+    "themes": [
+      "creator",
+      "sustainer",
+      "Brahmā"
+    ]
+  },
+  {
+    "term": "viśvato-mukhaḥ",
+    "transliteration": "viśvato-mukhaḥ",
+    "type": "compound",
+    "definition": "facing in all directions; having universal vision or omnidirectional awareness",
+    "roots": "viśvataḥ (in all directions) + mukha (face)",
+    "references": [
+      "BG 10.33"
+    ],
+    "themes": [
+      "universal-vision",
+      "omni-awareness",
+      "Brahmā"
+    ]
+  },
+  {
+    "term": "adhyakṣeṇa",
+    "transliteration": "adhyakṣeṇa",
+    "type": "instrumental",
+    "definition": "by superintendence; by presiding oversight; from adhi-īkṣ, to oversee",
+    "roots": "not specified in definition",
+    "references": [
+      "BG 9.10"
+    ],
+    "themes": [
+      "divine-superintendence",
+      "prakriti",
+      "adhyaksa"
+    ]
+  },
+  {
+    "term": "ananya-manasaḥ",
+    "transliteration": "ananya-manasaḥ",
+    "type": "",
+    "definition": "without deviation of the mind; undivided attention; exclusive focus",
+    "references": [
+      "BG 9.13"
+    ],
+    "themes": [],
+    "date": "2026-07-18"
+  },
+  {
+    "term": "anena",
+    "transliteration": "anena",
+    "type": "pronoun",
+    "definition": "this; referring to the superintendence just described",
+    "roots": "not specified in definition",
+    "references": [
+      "BG 9.10"
+    ],
+    "themes": [
+      "divine-superintendence",
+      "prakriti",
+      "adhyaksa"
+    ]
+  },
+  {
+    "term": "asmi",
+    "definition": "I am; asserting identity and presence",
+    "references": [
+      "BG 10.21"
+    ],
+    "themes": [
+      "verb"
+    ]
+  },
+  {
+    "term": "avyayam",
+    "transliteration": "avyayam",
+    "type": "",
+    "definition": "inexhaustible; imperishable; never diminishing",
+    "references": [
+      "BG 9.13"
+    ],
+    "themes": [],
+    "date": "2026-07-18"
+  },
+  {
+    "term": "aṁśumān",
+    "definition": "radiant, shining with rays; possessing effulgent glory",
+    "references": [
+      "BG 10.21"
+    ],
+    "themes": [
+      "adjective"
+    ]
+  },
+  {
+    "term": "bhajanti",
+    "transliteration": "bhajanti",
+    "type": "",
+    "definition": "render service; worship; engage in loving devotion",
+    "references": [
+      "BG 9.13"
+    ],
+    "themes": [],
+    "date": "2026-07-18"
+  },
+  {
+    "term": "bhūtādim",
+    "transliteration": "bhūtādim",
+    "type": "",
+    "definition": "origin of all beings; the source from which everything emanates",
+    "references": [
+      "BG 9.13"
+    ],
+    "themes": [],
+    "date": "2026-07-18"
+  },
+  {
+    "term": "daivīṁ",
+    "transliteration": "daivīṁ",
+    "type": "",
+    "definition": "divine; pertaining to the gods; divine nature as Krishna's energizing",
+    "references": [
+      "BG 9.13"
+    ],
+    "themes": [],
+    "date": "2026-07-18"
+  },
+  {
+    "term": "hetunā",
+    "transliteration": "hetuna",
+    "type": "instrumental",
+    "definition": "for the reason; by this cause; indicating purposeful, not random, operation",
+    "roots": "not specified in definition",
+    "references": [
+      "BG 9.10"
+    ],
+    "themes": [
+      "divine-superintendence",
+      "prakriti",
+      "adhyaksa"
+    ]
+  },
+  {
+    "term": "jagat",
+    "transliteration": "jagat",
+    "type": "nominative",
+    "definition": "the cosmic manifestation; the universe; from gam-jñā, \"that which moves\" — all that is in motion",
+    "roots": "not specified in definition",
+    "references": [
+      "BG 9.10"
+    ],
+    "themes": [
+      "divine-superintendence",
+      "prakriti",
+      "adhyaksa"
+    ]
+  },
+  {
+    "term": "jyotiṣāṁ",
+    "definition": "of lights, of luminaries; all sources of illumination in the cosmos",
+    "references": [
+      "BG 10.21"
+    ],
+    "themes": [
+      "genitive plural"
+    ]
+  },
+  {
+    "term": "jñātvā",
+    "transliteration": "jñātvā",
+    "type": "",
+    "definition": "having known; realized; understood through experience",
+    "references": [
+      "BG 9.13"
+    ],
+    "themes": [],
+    "date": "2026-07-18"
+  },
+  {
+    "term": "kaunteya",
+    "transliteration": "kaunteya",
+    "type": "vocative",
+    "definition": "O son of Kuntī; addressing Arjuna by his mother's name, emphasizing personal relationship",
+    "roots": "not specified in definition",
+    "references": [
+      "BG 9.10"
+    ],
+    "themes": [
+      "divine-superintendence",
+      "prakriti",
+      "adhyaksa"
+    ]
+  },
+  {
+    "term": "mahātmānaḥ",
+    "transliteration": "mahātmānaḥ",
+    "type": "",
+    "definition": "\"great souls\"; those of expanded consciousness who have realized their eternal relationship with the Supreme",
+    "references": [
+      "BG 9.13"
+    ],
+    "themes": [],
+    "date": "2026-07-18"
+  },
+  {
+    "term": "marutām",
+    "definition": "of the Maruts; the storm gods, personifications of wind and vital breath",
+    "references": [
+      "BG 10.21"
+    ],
+    "themes": [
+      "genitive plural"
+    ]
+  },
+  {
+    "term": "marīciḥ",
+    "definition": "Marīci; one of the seven great sages, controller of the Maruts (storm deities)",
+    "references": [
+      "BG 10.21"
+    ],
+    "themes": [
+      "nominative"
+    ]
+  },
+  {
+    "term": "mayā",
+    "transliteration": "maya",
+    "type": "instrumental",
+    "definition": "by Me; through the agency of the Supreme Lord Kṛṣṇa",
+    "roots": "not specified in definition",
+    "references": [
+      "BG 9.10"
+    ],
+    "themes": [
+      "divine-superintendence",
+      "prakriti",
+      "adhyaksa"
+    ]
+  },
+  {
+    "term": "mām",
+    "transliteration": "mām",
+    "type": "",
+    "definition": "unto Me; Krishna as the object of shelter and devotion",
+    "references": [
+      "BG 9.13"
+    ],
+    "themes": [],
+    "date": "2026-07-18"
+  },
+  {
+    "term": "nakṣatrāṇām",
+    "definition": "of the stars; the fixed luminaries in the celestial sphere",
+    "references": [
+      "BG 10.21"
+    ],
+    "themes": [
+      "genitive plural"
+    ]
+  },
+  {
+    "term": "prakṛtim",
+    "transliteration": "prakṛtim",
+    "type": "",
+    "definition": "nature; energy; the manifested aspect of the Divine",
+    "references": [
+      "BG 9.13"
+    ],
+    "themes": [],
+    "date": "2026-07-18"
+  },
+  {
+    "term": "prakṛtiḥ",
+    "transliteration": "prakrtih",
+    "type": "nominative",
+    "definition": "material nature; the fundamental creative principle that evolves into all manifested reality",
+    "roots": "not specified in definition",
+    "references": [
+      "BG 9.10"
+    ],
+    "themes": [
+      "divine-superintendence",
+      "prakriti",
+      "adhyaksa"
+    ]
+  },
+  {
+    "term": "raviḥ",
+    "definition": "the sun; the chief luminary, source of daylight and vitality",
+    "references": [
+      "BG 10.21"
+    ],
+    "themes": [
+      "nominative"
+    ]
+  },
+  {
+    "term": "sa-carācaram",
+    "transliteration": "sa-caracaram",
+    "type": "compound",
+    "definition": "both moving (cara) and nonmoving (acara); all living entities from microbes to demigods, plus the inert material world",
+    "roots": "from sa-carācaram",
+    "references": [
+      "BG 9.10"
+    ],
+    "themes": [
+      "divine-superintendence",
+      "prakriti",
+      "adhyaksa"
+    ]
+  },
+  {
+    "term": "sūyate",
+    "transliteration": "suyate",
+    "type": "passive verb",
+    "definition": "is manifested; is produced; is brought into being (passive voice emphasizes that prakṛti is acted upon, not self-originating)",
+    "roots": "not specified in definition",
+    "references": [
+      "BG 9.10"
+    ],
+    "themes": [
+      "divine-superintendence",
+      "prakriti",
+      "adhyaksa"
+    ]
+  },
+  {
+    "term": "tu",
+    "transliteration": "tu",
+    "type": "",
+    "definition": "but; rather; however (sets up contrast with previous verse's description of the bewildered)",
+    "references": [
+      "BG 9.13"
+    ],
+    "themes": [],
+    "date": "2026-07-18"
+  },
+  {
+    "term": "viparivartate",
+    "transliteration": "viparivartate",
+    "type": "verb",
+    "definition": "is working; revolves; cycles; turns repeatedly — contains the root vṛt (to turn), source of \"vṛtti\" (mental modification)",
+    "roots": "not specified in definition",
+    "references": [
+      "BG 9.10"
+    ],
+    "themes": [
+      "divine-superintendence",
+      "prakriti",
+      "adhyaksa"
+    ]
+  },
+  {
+    "term": "viṣṇuḥ",
+    "definition": "Viṣṇu; the Supreme Lord as sustainer and permeator of the universe",
+    "references": [
+      "BG 10.21"
+    ],
+    "themes": [
+      "nominative"
+    ]
+  },
+  {
+    "term": "ādityānām",
+    "definition": "of the Ādityas (the twelve solar deities, principal manifestations of solar energy)",
+    "references": [
+      "BG 10.21"
+    ],
+    "themes": [
+      "genitive plural"
+    ]
+  },
+  {
+    "term": "āśritāḥ",
+    "transliteration": "āśritāḥ",
+    "type": "",
+    "definition": "having taken shelter of; sought refuge in; relied upon",
+    "references": [
+      "BG 9.13"
+    ],
+    "themes": [],
+    "date": "2026-07-18"
+  },
+  {
+    "term": "śaśī",
+    "definition": "the moon; reflector of solar light, ruler of mind and tides",
+    "references": [
+      "BG 10.21"
+    ],
+    "themes": [
+      "nominative"
+    ]
+  }
+]

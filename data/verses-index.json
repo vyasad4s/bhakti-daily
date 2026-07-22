@@ -1,6 +1,60 @@
 {
   "verses": [
     {
+      "date": "2026-07-22",
+      "source": "BG 10.33",
+      "chapter": 10,
+      "verse": 33,
+      "text": "Bhagavad Gita",
+      "sanskrit": "अक्षराणामकारोऽस्मि द्वन्द्व: सामासिकस्य च .\n अहमेवाक्षय: कालो धाताहं विश्वतोमुख: ॥ ३३ ॥",
+      "transliteration": "akṣarāṇām a-kāro ’smi\ndvandvaḥ sāmāsikasya ca\naham evākṣayaḥ kālo\ndhātāhaṁ viśvato-mukhaḥ",
+      "translation": "Of letters I am the letter A, and among compound words I am the dual compound. I am also inexhaustible time, and of creators I am Brahmā.",
+      "tithi": "Śukla Pakṣa Navami (until 9:33 PM), then Śukla Pakṣa Daśamī",
+      "nakshatra": "Svāti (until 1:33 PM), then Viśākhā",
+      "yoga": "Sādhya (until 9:11 AM), then Śubha",
+      "themes": [
+        "first-letter-awareness",
+        "visakha-determination",
+        "akshaya-eternal-time",
+        "brahma-creator",
+        "mercury-communication",
+        "tula-balance"
+      ],
+      "tags": [
+        "#aksharanam",
+        "#akar",
+        "#dvandva",
+        "#samastika",
+        "#akshayah",
+        "#kala",
+        "#dhata",
+        "#vishvatomukha",
+        "#bg10"
+      ],
+      "yogaSutraConnection": "YS I.27-28",
+      "sankhyaConcepts": [
+        "vibhuti-recognition",
+        "purusha-prakrti-dependence",
+        "shabda-brahman",
+        "kala-as-eternal-principle",
+        "darsana-as-universal-vision"
+      ],
+      "keyTerms": [
+        "akṣarāṇām",
+        "a-kāraḥ",
+        "asmi",
+        "dvandvaḥ",
+        "sāmāsikasya",
+        "ca",
+        "aham",
+        "eva",
+        "akṣayaḥ",
+        "kālaḥ",
+        "dhātā",
+        "viśvato-mukhaḥ"
+      ]
+    },
+    {
       "date": "2026-07-21",
       "source": "BG 10.31",
       "chapter": 10,
@@ -2808,7 +2862,7 @@
       ]
     }
   ],
-  "lastUpdated": "2026-07-21",
+  "lastUpdated": "2026-07-22",
   "versers": [
     {
       "date": "2026-06-30",
