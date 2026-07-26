@@ -1,56 +1,6 @@
 {
   "verses": [
     {
-      "date": "2026-07-25",
-      "source": "BG 10.25",
-      "chapter": 10,
-      "verse": 25,
-      "text": "Bhagavad Gita",
-      "sanskrit": "महर्‍षीणां भृगुरहं गिरामस्म्येकमक्षरम् .\n यज्ञानां जपयज्ञोऽस्मि स्थावराणां हिमालय: ॥ २५ ॥",
-      "transliteration": "maharṣīṇāṁ bhṛgur ahaṁ\ngirām asmy ekam akṣaram\nyajñānāṁ japa-yajño ’smi\nsthāvarāṇāṁ himālayaḥ",
-      "translation": "Of the great sages I am Bhṛgu; of vibrations I am the transcendental oṁ. Of sacrifices I am the chanting of the holy names [japa], and of immovable things I am the Himālayas.",
-      "tithi": "Śukla Pakṣa Dwādaśī — Jul 25 02:04 AM – Jul 26 04:28 AM",
-      "nakshatra": "Jyeṣṭhā (until 10:04 PM), then Mūla",
-      "yoga": "Brahma (until 11:38 AM), then Indra",
-      "themes": [
-        "om",
-        "pranava",
-        "japa",
-        "himalayas",
-        "sages",
-        "vibration",
-        "sacrifice",
-        "immovable"
-      ],
-      "tags": [
-        "#om",
-        "#pranava",
-        "#japa",
-        "#himalayas",
-        "#sages",
-        "#vibration",
-        "#bg1025"
-      ],
-      "yogaSutraConnection": "YS 1.27-1.28",
-      "sankhyaConcepts": [
-        "purusha-prakriti",
-        "transcendental-vibration",
-        "japa-yajna"
-      ],
-      "keyTerms": [
-        "maharṣīṇāṁ",
-        "bhṛguḥ",
-        "aham",
-        "girām",
-        "asmi",
-        "ekam akṣaram",
-        "yajñānāṁ",
-        "japa-yajñaḥ",
-        "sthāvarāṇāṁ",
-        "himālayaḥ"
-      ]
-    },
-    {
       "date": "2026-07-24",
       "source": "BG 10.20",
       "chapter": 10,
@@ -2969,5 +2919,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-07-25"
+  "lastUpdated": "2026-07-24"
 }

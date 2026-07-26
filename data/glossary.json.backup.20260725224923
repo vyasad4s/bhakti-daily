@@ -1,10 +1,10 @@
 [
   {
-    "term": "a-k\u0101ra\u1e25",
-    "transliteration": "a-k\u0101ra\u1e25",
+    "term": "a-kāraḥ",
+    "transliteration": "a-kāraḥ",
     "type": "nominative",
-    "definition": "the first letter; in Sanskrit, the vowel a (\u0905) as the primordial sound from which all other sounds emerge",
-    "roots": "from k\u1e5b (to do, to make)",
+    "definition": "the first letter; in Sanskrit, the vowel a (अ) as the primordial sound from which all other sounds emerge",
+    "roots": "from kṛ (to do, to make)",
     "references": [
       "BG 10.33"
     ],
@@ -15,10 +15,10 @@
     ]
   },
   {
-    "term": "adhyak\u1e63e\u1e47a",
-    "transliteration": "adhyak\u1e63e\u1e47a",
+    "term": "adhyakṣeṇa",
+    "transliteration": "adhyakṣeṇa",
     "type": "instrumental",
-    "definition": "by superintendence; by presiding oversight; from adhi-\u012bk\u1e63, to oversee",
+    "definition": "by superintendence; by presiding oversight; from adhi-īkṣ, to oversee",
     "roots": "not specified in definition",
     "references": [
       "BG 9.10"
@@ -45,11 +45,11 @@
     ]
   },
   {
-    "term": "ak\u1e63ar\u0101\u1e47\u0101m",
-    "transliteration": "ak\u1e63ar\u0101\u1e47\u0101m",
+    "term": "akṣarāṇām",
+    "transliteration": "akṣarāṇām",
     "type": "genitive plural",
     "definition": "of letters, of alphabetic characters; the building blocks of written and spoken language",
-    "roots": "from ak\u1e63ara (imperishable, letter)",
+    "roots": "from akṣara (imperishable, letter)",
     "references": [
       "BG 10.33"
     ],
@@ -60,11 +60,11 @@
     ]
   },
   {
-    "term": "ak\u1e63aya\u1e25",
-    "transliteration": "ak\u1e63aya\u1e25",
+    "term": "akṣayaḥ",
+    "transliteration": "akṣayaḥ",
     "type": "adjective",
     "definition": "inexhaustible, eternal, imperishable; that which does not diminish or decay",
-    "roots": "from a (not) + k\u1e63i (to perish)",
+    "roots": "from a (not) + kṣi (to perish)",
     "references": [
       "BG 10.33"
     ],
@@ -75,8 +75,8 @@
     ]
   },
   {
-    "term": "ananya-manasa\u1e25",
-    "transliteration": "ananya-manasa\u1e25",
+    "term": "ananya-manasaḥ",
+    "transliteration": "ananya-manasaḥ",
     "type": "",
     "definition": "without deviation of the mind; undivided attention; exclusive focus",
     "references": [
@@ -101,8 +101,8 @@
     ]
   },
   {
-    "term": "anta\u1e25",
-    "transliteration": "anta\u1e25",
+    "term": "antaḥ",
+    "transliteration": "antaḥ",
     "type": "noun",
     "definition": "the end; the final goal or dissolution",
     "roots": "from anta (end, limit)",
@@ -137,7 +137,7 @@
     "date": "2026-07-18"
   },
   {
-    "term": "a\u1e41\u015bum\u0101n",
+    "term": "aṁśumān",
     "definition": "radiant, shining with rays; possessing effulgent glory",
     "references": [
       "BG 10.21"
@@ -158,8 +158,8 @@
     "date": "2026-07-18"
   },
   {
-    "term": "bh\u016bt\u0101dim",
-    "transliteration": "bh\u016bt\u0101dim",
+    "term": "bhūtādim",
+    "transliteration": "bhūtādim",
     "type": "",
     "definition": "origin of all beings; the source from which everything emanates",
     "references": [
@@ -169,8 +169,8 @@
     "date": "2026-07-18"
   },
   {
-    "term": "bh\u016bt\u0101n\u0101m",
-    "transliteration": "bh\u016bt\u0101n\u0101m",
+    "term": "bhūtānām",
+    "transliteration": "bhūtānām",
     "type": "genitive plural",
     "definition": "of all beings; of all living entities",
     "roots": "from bhuta (being, living entity)",
@@ -181,18 +181,6 @@
       "all-beings",
       "living-entities",
       "genitive-plural"
-    ]
-  },
-  {
-    "term": "bh\u1e5bgu\u1e25",
-    "transliteration": "bh\u1e5bgu\u1e25",
-    "type": "noun",
-    "definition": "Bh\u1e5bgu; one of the seven great sages, mind-born son of Brahm\u0101",
-    "references": [
-      "BG 10.25"
-    ],
-    "themes": [
-      "sages"
     ]
   },
   {
@@ -211,8 +199,8 @@
     ]
   },
   {
-    "term": "daiv\u012b\u1e41",
-    "transliteration": "daiv\u012b\u1e41",
+    "term": "daivīṁ",
+    "transliteration": "daivīṁ",
     "type": "",
     "definition": "divine; pertaining to the gods; divine nature as Krishna's energizing",
     "references": [
@@ -222,25 +210,25 @@
     "date": "2026-07-18"
   },
   {
-    "term": "dh\u0101t\u0101",
-    "transliteration": "dh\u0101t\u0101",
+    "term": "dhātā",
+    "transliteration": "dhātā",
     "type": "nominative",
     "definition": "the creator, sustainer; one who brings forth and maintains",
-    "roots": "from dh\u0101 (to put, to place, to create)",
+    "roots": "from dhā (to put, to place, to create)",
     "references": [
       "BG 10.33"
     ],
     "themes": [
       "creator",
       "sustainer",
-      "Brahm\u0101"
+      "Brahmā"
     ]
   },
   {
-    "term": "dvandva\u1e25",
-    "transliteration": "dvandva\u1e25",
+    "term": "dvandvaḥ",
+    "transliteration": "dvandvaḥ",
     "type": "nominative",
-    "definition": "the dual; a compound word where two elements of equal weight are bonded (e.g., r\u0101ma-k\u1e5b\u1e63\u1e47a)",
+    "definition": "the dual; a compound word where two elements of equal weight are bonded (e.g., rāma-kṛṣṇa)",
     "roots": "from dvandva (pair, dual)",
     "references": [
       "BG 10.33"
@@ -249,19 +237,6 @@
       "dual-compound",
       "duality",
       "Sanskrit-grammar"
-    ]
-  },
-  {
-    "term": "ekam ak\u1e63aram",
-    "transliteration": "ekam ak\u1e63aram",
-    "type": "compound",
-    "definition": "one syllable; the transcendental o\u1e41 (pra\u1e47ava)",
-    "references": [
-      "BG 10.25"
-    ],
-    "themes": [
-      "om",
-      "pranava"
     ]
   },
   {
@@ -280,17 +255,8 @@
     ]
   },
   {
-    "term": "gir\u0101m",
-    "transliteration": "gir\u0101m",
-    "type": "genitive plural",
-    "definition": "of vibrations, sounds, speech",
-    "references": [
-      "BG 10.25"
-    ]
-  },
-  {
-    "term": "gu\u1e0d\u0101ke\u015ba",
-    "transliteration": "gu\u1e0d\u0101ke\u015ba",
+    "term": "guḍākeśa",
+    "transliteration": "guḍākeśa",
     "type": "vocative",
     "definition": "O conqueror of sleep; Arjuna's epithet indicating victory over tamas",
     "roots": "from gudakesa (one who has conquered sleep)",
@@ -304,7 +270,7 @@
     ]
   },
   {
-    "term": "hetun\u0101",
+    "term": "hetunā",
     "transliteration": "hetuna",
     "type": "instrumental",
     "definition": "for the reason; by this cause; indicating purposeful, not random, operation",
@@ -319,22 +285,10 @@
     ]
   },
   {
-    "term": "him\u0101laya\u1e25",
-    "transliteration": "him\u0101laya\u1e25",
-    "type": "noun",
-    "definition": "the Him\u0101layas; the abode of snow",
-    "references": [
-      "BG 10.25"
-    ],
-    "themes": [
-      "himalayas"
-    ]
-  },
-  {
     "term": "jagat",
     "transliteration": "jagat",
     "type": "nominative",
-    "definition": "the cosmic manifestation; the universe; from gam-j\u00f1\u0101, \"that which moves\" \u2014 all that is in motion",
+    "definition": "the cosmic manifestation; the universe; from gam-jñā, \"that which moves\" — all that is in motion",
     "roots": "not specified in definition",
     "references": [
       "BG 9.10"
@@ -346,20 +300,7 @@
     ]
   },
   {
-    "term": "japa-yaj\u00f1a\u1e25",
-    "transliteration": "japa-yaj\u00f1a\u1e25",
-    "type": "compound",
-    "definition": "the sacrifice of chanting; japa as yaj\u00f1a",
-    "references": [
-      "BG 10.25"
-    ],
-    "themes": [
-      "japa",
-      "yajna"
-    ]
-  },
-  {
-    "term": "jyoti\u1e63\u0101\u1e41",
+    "term": "jyotiṣāṁ",
     "definition": "of lights, of luminaries; all sources of illumination in the cosmos",
     "references": [
       "BG 10.21"
@@ -369,8 +310,8 @@
     ]
   },
   {
-    "term": "j\u00f1\u0101tv\u0101",
-    "transliteration": "j\u00f1\u0101tv\u0101",
+    "term": "jñātvā",
+    "transliteration": "jñātvā",
     "type": "",
     "definition": "having known; realized; understood through experience",
     "references": [
@@ -383,7 +324,7 @@
     "term": "kaunteya",
     "transliteration": "kaunteya",
     "type": "vocative",
-    "definition": "O son of Kunt\u012b; addressing Arjuna by his mother's name, emphasizing personal relationship",
+    "definition": "O son of Kuntī; addressing Arjuna by his mother's name, emphasizing personal relationship",
     "roots": "not specified in definition",
     "references": [
       "BG 9.10"
@@ -395,11 +336,11 @@
     ]
   },
   {
-    "term": "k\u0101la\u1e25",
-    "transliteration": "k\u0101la\u1e25",
+    "term": "kālaḥ",
+    "transliteration": "kālaḥ",
     "type": "nominative",
     "definition": "time; not mere clock-time but the eternal principle underlying all manifestation",
-    "roots": "from k\u0101la (time, black)",
+    "roots": "from kāla (time, black)",
     "references": [
       "BG 10.33"
     ],
@@ -410,8 +351,8 @@
     ]
   },
   {
-    "term": "madhya\u1e41",
-    "transliteration": "madhya\u1e41",
+    "term": "madhyaṁ",
+    "transliteration": "madhyaṁ",
     "type": "noun",
     "definition": "the middle; the sustaining principle",
     "roots": "from madhya (middle, center)",
@@ -425,20 +366,8 @@
     ]
   },
   {
-    "term": "mahar\u1e63\u012b\u1e47\u0101\u1e41",
-    "transliteration": "mahar\u1e63\u012b\u1e47\u0101\u1e41",
-    "type": "genitive plural",
-    "definition": "of the great sages",
-    "references": [
-      "BG 10.25"
-    ],
-    "themes": [
-      "sages"
-    ]
-  },
-  {
-    "term": "mah\u0101tm\u0101na\u1e25",
-    "transliteration": "mah\u0101tm\u0101na\u1e25",
+    "term": "mahātmānaḥ",
+    "transliteration": "mahātmānaḥ",
     "type": "",
     "definition": "\"great souls\"; those of expanded consciousness who have realized their eternal relationship with the Supreme",
     "references": [
@@ -448,7 +377,7 @@
     "date": "2026-07-18"
   },
   {
-    "term": "marut\u0101m",
+    "term": "marutām",
     "definition": "of the Maruts; the storm gods, personifications of wind and vital breath",
     "references": [
       "BG 10.21"
@@ -458,8 +387,8 @@
     ]
   },
   {
-    "term": "mar\u012bci\u1e25",
-    "definition": "Mar\u012bci; one of the seven great sages, controller of the Maruts (storm deities)",
+    "term": "marīciḥ",
+    "definition": "Marīci; one of the seven great sages, controller of the Maruts (storm deities)",
     "references": [
       "BG 10.21"
     ],
@@ -468,10 +397,10 @@
     ]
   },
   {
-    "term": "may\u0101",
+    "term": "mayā",
     "transliteration": "maya",
     "type": "instrumental",
-    "definition": "by Me; through the agency of the Supreme Lord K\u1e5b\u1e63\u1e47a",
+    "definition": "by Me; through the agency of the Supreme Lord Kṛṣṇa",
     "roots": "not specified in definition",
     "references": [
       "BG 9.10"
@@ -483,8 +412,8 @@
     ]
   },
   {
-    "term": "m\u0101m",
-    "transliteration": "m\u0101m",
+    "term": "mām",
+    "transliteration": "mām",
     "type": "",
     "definition": "unto Me; Krishna as the object of shelter and devotion",
     "references": [
@@ -494,7 +423,7 @@
     "date": "2026-07-18"
   },
   {
-    "term": "nak\u1e63atr\u0101\u1e47\u0101m",
+    "term": "nakṣatrāṇām",
     "definition": "of the stars; the fixed luminaries in the celestial sphere",
     "references": [
       "BG 10.21"
@@ -504,8 +433,8 @@
     ]
   },
   {
-    "term": "prak\u1e5btim",
-    "transliteration": "prak\u1e5btim",
+    "term": "prakṛtim",
+    "transliteration": "prakṛtim",
     "type": "",
     "definition": "nature; energy; the manifested aspect of the Divine",
     "references": [
@@ -515,7 +444,7 @@
     "date": "2026-07-18"
   },
   {
-    "term": "prak\u1e5bti\u1e25",
+    "term": "prakṛtiḥ",
     "transliteration": "prakrtih",
     "type": "nominative",
     "definition": "material nature; the fundamental creative principle that evolves into all manifested reality",
@@ -530,7 +459,7 @@
     ]
   },
   {
-    "term": "ravi\u1e25",
+    "term": "raviḥ",
     "definition": "the sun; the chief luminary, source of daylight and vitality",
     "references": [
       "BG 10.21"
@@ -540,11 +469,11 @@
     ]
   },
   {
-    "term": "sa-car\u0101caram",
+    "term": "sa-carācaram",
     "transliteration": "sa-caracaram",
     "type": "compound",
     "definition": "both moving (cara) and nonmoving (acara); all living entities from microbes to demigods, plus the inert material world",
-    "roots": "from sa-car\u0101caram",
+    "roots": "from sa-carācaram",
     "references": [
       "BG 9.10"
     ],
@@ -555,8 +484,8 @@
     ]
   },
   {
-    "term": "sarva-bh\u016bt\u0101\u015baya-sthita\u1e25",
-    "transliteration": "sarva-bh\u016bt\u0101\u015baya-sthita\u1e25",
+    "term": "sarva-bhūtāśaya-sthitaḥ",
+    "transliteration": "sarva-bhūtāśaya-sthitaḥ",
     "type": "compound",
     "definition": "seated in the hearts of all beings; the indwelling witness",
     "roots": "sarva (all) + bhuta (beings) + ashaya (abode, heart) + sthita (situated)",
@@ -570,23 +499,11 @@
     ]
   },
   {
-    "term": "sth\u0101var\u0101\u1e47\u0101\u1e41",
-    "transliteration": "sth\u0101var\u0101\u1e47\u0101\u1e41",
-    "type": "genitive plural",
-    "definition": "of immovable things, fixed entities",
-    "references": [
-      "BG 10.25"
-    ],
-    "themes": [
-      "immovable"
-    ]
-  },
-  {
-    "term": "s\u0101m\u0101sikasya",
-    "transliteration": "s\u0101m\u0101sikasya",
+    "term": "sāmāsikasya",
+    "transliteration": "sāmāsikasya",
     "type": "genitive",
     "definition": "of compound words; words formed by combining two or more stems",
-    "roots": "from s\u0101m\u0101sa (compound)",
+    "roots": "from sāmāsa (compound)",
     "references": [
       "BG 10.33"
     ],
@@ -597,10 +514,10 @@
     ]
   },
   {
-    "term": "s\u016byate",
+    "term": "sūyate",
     "transliteration": "suyate",
     "type": "passive verb",
-    "definition": "is manifested; is produced; is brought into being (passive voice emphasizes that prak\u1e5bti is acted upon, not self-originating)",
+    "definition": "is manifested; is produced; is brought into being (passive voice emphasizes that prakṛti is acted upon, not self-originating)",
     "roots": "not specified in definition",
     "references": [
       "BG 9.10"
@@ -626,7 +543,7 @@
     "term": "viparivartate",
     "transliteration": "viparivartate",
     "type": "verb",
-    "definition": "is working; revolves; cycles; turns repeatedly \u2014 contains the root v\u1e5bt (to turn), source of \"v\u1e5btti\" (mental modification)",
+    "definition": "is working; revolves; cycles; turns repeatedly — contains the root vṛt (to turn), source of \"vṛtti\" (mental modification)",
     "roots": "not specified in definition",
     "references": [
       "BG 9.10"
@@ -638,23 +555,23 @@
     ]
   },
   {
-    "term": "vi\u015bvato-mukha\u1e25",
-    "transliteration": "vi\u015bvato-mukha\u1e25",
+    "term": "viśvato-mukhaḥ",
+    "transliteration": "viśvato-mukhaḥ",
     "type": "compound",
     "definition": "facing in all directions; having universal vision or omnidirectional awareness",
-    "roots": "vi\u015bvata\u1e25 (in all directions) + mukha (face)",
+    "roots": "viśvataḥ (in all directions) + mukha (face)",
     "references": [
       "BG 10.33"
     ],
     "themes": [
       "universal-vision",
       "omni-awareness",
-      "Brahm\u0101"
+      "Brahmā"
     ]
   },
   {
-    "term": "vi\u1e63\u1e47u\u1e25",
-    "definition": "Vi\u1e63\u1e47u; the Supreme Lord as sustainer and permeator of the universe",
+    "term": "viṣṇuḥ",
+    "definition": "Viṣṇu; the Supreme Lord as sustainer and permeator of the universe",
     "references": [
       "BG 10.21"
     ],
@@ -663,20 +580,8 @@
     ]
   },
   {
-    "term": "yaj\u00f1\u0101n\u0101\u1e41",
-    "transliteration": "yaj\u00f1\u0101n\u0101\u1e41",
-    "type": "genitive plural",
-    "definition": "of sacrifices, offerings",
-    "references": [
-      "BG 10.25"
-    ],
-    "themes": [
-      "sacrifice"
-    ]
-  },
-  {
-    "term": "\u0101dity\u0101n\u0101m",
-    "definition": "of the \u0100dityas (the twelve solar deities, principal manifestations of solar energy)",
+    "term": "ādityānām",
+    "definition": "of the Ādityas (the twelve solar deities, principal manifestations of solar energy)",
     "references": [
       "BG 10.21"
     ],
@@ -685,8 +590,8 @@
     ]
   },
   {
-    "term": "\u0101di\u015b",
-    "transliteration": "\u0101di\u015b",
+    "term": "ādiś",
+    "transliteration": "ādiś",
     "type": "noun",
     "definition": "the beginning; the origin or source",
     "roots": "from adi (beginning, first)",
@@ -700,8 +605,8 @@
     ]
   },
   {
-    "term": "\u0101tm\u0101",
-    "transliteration": "\u0101tm\u0101",
+    "term": "ātmā",
+    "transliteration": "ātmā",
     "type": "noun",
     "definition": "the Supersoul; the eternal consciousness dwelling in all hearts",
     "roots": "from atman (self, soul)",
@@ -715,8 +620,8 @@
     ]
   },
   {
-    "term": "\u0101\u015brit\u0101\u1e25",
-    "transliteration": "\u0101\u015brit\u0101\u1e25",
+    "term": "āśritāḥ",
+    "transliteration": "āśritāḥ",
     "type": "",
     "definition": "having taken shelter of; sought refuge in; relied upon",
     "references": [
@@ -726,7 +631,7 @@
     "date": "2026-07-18"
   },
   {
-    "term": "\u015ba\u015b\u012b",
+    "term": "śaśī",
     "definition": "the moon; reflector of solar light, ruler of mind and tides",
     "references": [
       "BG 10.21"
@@ -736,6 +641,6 @@
     ]
   },
   {
-    "lastUpdated": "2026-07-25"
+    "lastUpdated": "2026-07-24"
   }
 ]

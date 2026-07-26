@@ -1,5 +1,155 @@
 [
   {
+    "term": "akṣarāṇām",
+    "transliteration": "akṣarāṇām",
+    "type": "genitive plural",
+    "definition": "of letters, of alphabetic characters; the building blocks of written and spoken language",
+    "roots": "from akṣara (imperishable, letter)",
+    "references": [
+      "BG 10.33"
+    ],
+    "themes": [
+      "language",
+      "sound",
+      "communication"
+    ]
+  },
+  {
+    "term": "a-kāraḥ",
+    "transliteration": "a-kāraḥ",
+    "type": "nominative",
+    "definition": "the first letter; in Sanskrit, the vowel a (अ) as the primordial sound from which all other sounds emerge",
+    "roots": "from kṛ (to do, to make)",
+    "references": [
+      "BG 10.33"
+    ],
+    "themes": [
+      "first-letter",
+      "primordial-sound",
+      "Sanskrit"
+    ]
+  },
+  {
+    "term": "dvandvaḥ",
+    "transliteration": "dvandvaḥ",
+    "type": "nominative",
+    "definition": "the dual; a compound word where two elements of equal weight are bonded (e.g., rāma-kṛṣṇa)",
+    "roots": "from dvandva (pair, dual)",
+    "references": [
+      "BG 10.33"
+    ],
+    "themes": [
+      "dual-compound",
+      "duality",
+      "Sanskrit-grammar"
+    ]
+  },
+  {
+    "term": "sāmāsikasya",
+    "transliteration": "sāmāsikasya",
+    "type": "genitive",
+    "definition": "of compound words; words formed by combining two or more stems",
+    "roots": "from sāmāsa (compound)",
+    "references": [
+      "BG 10.33"
+    ],
+    "themes": [
+      "compound-words",
+      "Sanskrit-grammar",
+      "linguistics"
+    ]
+  },
+  {
+    "term": "aham",
+    "transliteration": "aham",
+    "type": "pronoun",
+    "definition": "I; the pure consciousness asserting identity",
+    "roots": "from aham (I, self)",
+    "references": [
+      "BG 10.33"
+    ],
+    "themes": [
+      "identity",
+      "pure-consciousness",
+      "self"
+    ]
+  },
+  {
+    "term": "eva",
+    "transliteration": "eva",
+    "type": "adverb",
+    "definition": "certainly, indeed; emphasizing certainty",
+    "roots": "emphatic particle",
+    "references": [
+      "BG 10.33"
+    ],
+    "themes": [
+      "emphasis",
+      "certainty",
+      "affirmation"
+    ]
+  },
+  {
+    "term": "akṣayaḥ",
+    "transliteration": "akṣayaḥ",
+    "type": "adjective",
+    "definition": "inexhaustible, eternal, imperishable; that which does not diminish or decay",
+    "roots": "from a (not) + kṣi (to perish)",
+    "references": [
+      "BG 10.33"
+    ],
+    "themes": [
+      "eternal",
+      "imperishable",
+      "time"
+    ]
+  },
+  {
+    "term": "kālaḥ",
+    "transliteration": "kālaḥ",
+    "type": "nominative",
+    "definition": "time; not mere clock-time but the eternal principle underlying all manifestation",
+    "roots": "from kāla (time, black)",
+    "references": [
+      "BG 10.33"
+    ],
+    "themes": [
+      "time",
+      "eternal-principle",
+      "manifestation"
+    ]
+  },
+  {
+    "term": "dhātā",
+    "transliteration": "dhātā",
+    "type": "nominative",
+    "definition": "the creator, sustainer; one who brings forth and maintains",
+    "roots": "from dhā (to put, to place, to create)",
+    "references": [
+      "BG 10.33"
+    ],
+    "themes": [
+      "creator",
+      "sustainer",
+      "Brahmā"
+    ]
+  },
+  {
+    "term": "viśvato-mukhaḥ",
+    "transliteration": "viśvato-mukhaḥ",
+    "type": "compound",
+    "definition": "facing in all directions; having universal vision or omnidirectional awareness",
+    "roots": "viśvataḥ (in all directions) + mukha (face)",
+    "references": [
+      "BG 10.33"
+    ],
+    "themes": [
+      "universal-vision",
+      "omni-awareness",
+      "Brahmā"
+    ]
+  },
+  {
     "term": "adhyakṣeṇa",
     "transliteration": "adhyakṣeṇa",
     "type": "instrumental",
