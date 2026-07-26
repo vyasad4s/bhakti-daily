@@ -158,19 +158,6 @@
     "date": "2026-07-18"
   },
   {
-    "term": "bhajat\u0101\u1e41",
-    "transliteration": "bhajat\u0101\u1e41",
-    "type": "genitive plural",
-    "definition": "in rendering devotional service; those who serve",
-    "references": [
-      "BG 10.10"
-    ],
-    "themes": [
-      "service",
-      "devotion"
-    ]
-  },
-  {
     "term": "bh\u016bt\u0101dim",
     "transliteration": "bh\u016bt\u0101dim",
     "type": "",
@@ -209,20 +196,6 @@
     ]
   },
   {
-    "term": "buddhi-yoga\u1e41",
-    "transliteration": "buddhi-yoga\u1e41",
-    "type": "compound",
-    "definition": "divine intelligence; the yoga of discernment that leads to liberation",
-    "references": [
-      "BG 10.10"
-    ],
-    "themes": [
-      "intelligence",
-      "discernment",
-      "liberation"
-    ]
-  },
-  {
     "term": "ca",
     "transliteration": "ca",
     "type": "particle",
@@ -235,19 +208,6 @@
       "conjunction",
       "also",
       "additive"
-    ]
-  },
-  {
-    "term": "dad\u0101mi",
-    "transliteration": "dad\u0101mi",
-    "type": "verb",
-    "definition": "I give; bestowing, granting",
-    "references": [
-      "BG 10.10"
-    ],
-    "themes": [
-      "giving",
-      "grace"
     ]
   },
   {
@@ -570,19 +530,6 @@
     ]
   },
   {
-    "term": "pr\u012bti-p\u016brvakam",
-    "transliteration": "pr\u012bti-p\u016brvakam",
-    "type": "compound",
-    "definition": "in loving ecstasy; with love as the precursor",
-    "references": [
-      "BG 10.10"
-    ],
-    "themes": [
-      "love",
-      "ecstasy"
-    ]
-  },
-  {
     "term": "ravi\u1e25",
     "definition": "the sun; the chief luminary, source of daylight and vitality",
     "references": [
@@ -620,19 +567,6 @@
       "indwelling-witness",
       "supersoul",
       "all-hearts"
-    ]
-  },
-  {
-    "term": "satata-yukt\u0101n\u0101\u1e41",
-    "transliteration": "satata-yukt\u0101n\u0101\u1e41",
-    "type": "compound",
-    "definition": "constantly engaged; always united in",
-    "references": [
-      "BG 10.10"
-    ],
-    "themes": [
-      "devotion",
-      "constancy"
     ]
   },
   {
@@ -678,43 +612,6 @@
     ]
   },
   {
-    "term": "ta\u1e41",
-    "transliteration": "ta\u1e41",
-    "type": "pronoun",
-    "definition": "that; referring to buddhi-yoga",
-    "references": [
-      "BG 10.10"
-    ],
-    "themes": [
-      "reference"
-    ]
-  },
-  {
-    "term": "te",
-    "transliteration": "te",
-    "type": "pronoun",
-    "definition": "they; those who receive the gift",
-    "references": [
-      "BG 10.10"
-    ],
-    "themes": [
-      "devotees",
-      "recipients"
-    ]
-  },
-  {
-    "term": "te\u1e63\u0101\u1e41",
-    "transliteration": "te\u1e63\u0101\u1e41",
-    "type": "genitive plural",
-    "definition": "unto them; those who are constantly devoted",
-    "references": [
-      "BG 10.10"
-    ],
-    "themes": [
-      "devotion"
-    ]
-  },
-  {
     "term": "tu",
     "transliteration": "tu",
     "type": "",
@@ -724,19 +621,6 @@
     ],
     "themes": [],
     "date": "2026-07-18"
-  },
-  {
-    "term": "upay\u0101nti",
-    "transliteration": "upay\u0101nti",
-    "type": "verb",
-    "definition": "come; approach, attain",
-    "references": [
-      "BG 10.10"
-    ],
-    "themes": [
-      "approach",
-      "attainment"
-    ]
   },
   {
     "term": "viparivartate",
@@ -788,19 +672,6 @@
     ],
     "themes": [
       "sacrifice"
-    ]
-  },
-  {
-    "term": "yena",
-    "transliteration": "yena",
-    "type": "pronoun",
-    "definition": "by which; the means or instrument",
-    "references": [
-      "BG 10.10"
-    ],
-    "themes": [
-      "means",
-      "instrument"
     ]
   },
   {
@@ -865,6 +736,6 @@
     ]
   },
   {
-    "lastUpdated": "2026-07-23"
+    "lastUpdated": "2026-07-25"
   }
 ]

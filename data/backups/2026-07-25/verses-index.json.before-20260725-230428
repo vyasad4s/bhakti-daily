@@ -1,60 +1,6 @@
 {
   "verses": [
     {
-      "date": "2026-07-23",
-      "source": "BG 10.10",
-      "chapter": 10,
-      "verse": 10,
-      "text": "Bhagavad Gita",
-      "sanskrit": "तेषां सततयुक्तानां भजतां प्रीतिपूर्वकम् .\n ददामि बुद्धियोगं तं येन मामुपयान्ति ते ॥ १० ॥",
-      "transliteration": "teṣāṁ satata-yuktānāṁ\nbhajatāṁ prīti-pūrvakam\ndadāmi buddhi-yogaṁ taṁ\nyena mām upayānti te",
-      "translation": "To those who are constantly devoted to serving Me with love, I give the understanding by which they can come to Me.",
-      "tithi": "Śukla Pakṣa Daśamī (until 11:43 PM), then Śukla Pakṣa Ekādaśī",
-      "nakshatra": "Viśākhā (until 4:12 PM), then Anurādhā",
-      "yoga": "Śubha (until 9:49 AM), then Śukla",
-      "themes": [
-        "devotion",
-        "reciprocity",
-        "buddhi-yoga",
-        "guru",
-        " Mitra",
-        "dharma",
-        "ekadashi"
-      ],
-      "tags": [
-        "#tesam",
-        "#satayuktanam",
-        "#bhajatam",
-        "#pritipurbakam",
-        "#dadami",
-        "#buddhiyogam",
-        "#yen",
-        "#mam",
-        "#upayanti",
-        "#te",
-        "#bg1010"
-      ],
-      "yogaSutraConnection": "YS 1.23-1.24",
-      "sankhyaConcepts": [
-        "purusha-prakriti-reciprocity",
-        "buddhi-yoga-grace",
-        "devotional-service"
-      ],
-      "keyTerms": [
-        "teṣāṁ",
-        "satata-yuktānāṁ",
-        "bhajatāṁ",
-        "prīti-pūrvakam",
-        "dadāmi",
-        "buddhi-yogaṁ",
-        "taṁ",
-        "yena",
-        "mām",
-        "upayānti",
-        "te"
-      ]
-    },
-    {
       "date": "2026-07-25",
       "source": "BG 10.25",
       "chapter": 10,
@@ -3023,5 +2969,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-07-23"
+  "lastUpdated": "2026-07-25"
 }
