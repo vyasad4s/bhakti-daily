@@ -1,5 +1,8 @@
 [
   {
+    "lastUpdated": "2026-07-27"
+  },
+  {
     "term": "a-kāraḥ",
     "transliteration": "a-kāraḥ",
     "type": "nominative",
@@ -44,6 +47,23 @@
       "identity",
       "pure-consciousness",
       "self"
+    ],
+    "lastUpdated": "2026-07-27"
+  },
+  {
+    "term": "aham",
+    "transliteration": "aham",
+    "type": "pronoun",
+    "definition": "I; the Supreme Personality of Godhead",
+    "roots": "from aham (I, self)",
+    "references": [
+      "BG 10.08"
+    ],
+    "themes": [
+      "identity",
+      "pure-consciousness",
+      "self",
+      "source"
     ],
     "lastUpdated": "2026-07-27"
   },
@@ -155,6 +175,22 @@
     "themes": [
       "adjective"
     ],
+    "lastUpdated": "2026-07-28"
+  },
+  {
+    "term": "bhajante",
+    "transliteration": "bhajante",
+    "type": "verb",
+    "definition": "become devoted, worship, engage in service",
+    "roots": "from bhaj (to serve, to worship)",
+    "references": [
+      "BG 10.08"
+    ],
+    "themes": [
+      "devotion",
+      "service",
+      "worship"
+    ],
     "lastUpdated": "2026-07-27"
   },
   {
@@ -179,6 +215,22 @@
     ],
     "themes": [
       "service",
+      "devotion"
+    ],
+    "lastUpdated": "2026-07-27"
+  },
+  {
+    "term": "bhāva-samanvitāḥ",
+    "transliteration": "bhāva-samanvitāḥ",
+    "type": "compound",
+    "definition": "with great feeling, with full awareness and devotion",
+    "roots": "from bhāva (feeling, emotion) + samanvita (endowed with, possessed of)",
+    "references": [
+      "BG 10.08"
+    ],
+    "themes": [
+      "feeling",
+      "awareness",
       "devotion"
     ],
     "lastUpdated": "2026-07-27"
@@ -236,6 +288,22 @@
       "intelligence",
       "discernment",
       "liberation"
+    ],
+    "lastUpdated": "2026-07-27"
+  },
+  {
+    "term": "budhāḥ",
+    "transliteration": "budhāḥ",
+    "type": "noun plural",
+    "definition": "the wise, the learned, the intelligent",
+    "roots": "from budh (to know, to awaken)",
+    "references": [
+      "BG 10.08"
+    ],
+    "themes": [
+      "wise",
+      "learned",
+      "intelligent"
     ],
     "lastUpdated": "2026-07-27"
   },
@@ -399,6 +467,22 @@
     "lastUpdated": "2026-07-27"
   },
   {
+    "term": "iti",
+    "transliteration": "iti",
+    "type": "adverb",
+    "definition": "thus, in this way",
+    "roots": "from iti (thus, so)",
+    "references": [
+      "BG 10.08"
+    ],
+    "themes": [
+      "thus",
+      "therefore",
+      "in this way"
+    ],
+    "lastUpdated": "2026-07-27"
+  },
+  {
     "term": "jagat",
     "transliteration": "jagat",
     "type": "nominative",
@@ -437,7 +521,7 @@
     "themes": [
       "genitive plural"
     ],
-    "lastUpdated": "2026-07-27"
+    "lastUpdated": "2026-07-28"
   },
   {
     "term": "jñātvā",
@@ -533,7 +617,7 @@
     "themes": [
       "genitive plural"
     ],
-    "lastUpdated": "2026-07-27"
+    "lastUpdated": "2026-07-28"
   },
   {
     "term": "marīciḥ",
@@ -543,6 +627,53 @@
     ],
     "themes": [
       "nominative"
+    ],
+    "lastUpdated": "2026-07-28"
+  },
+  {
+    "term": "mattaḥ",
+    "transliteration": "mattaḥ",
+    "type": "pronoun",
+    "definition": "from Me",
+    "roots": "from mat (to measure, to mete out) + tḥ (possessive)",
+    "references": [
+      "BG 10.08"
+    ],
+    "themes": [
+      "possessive",
+      "from-me"
+    ],
+    "lastUpdated": "2026-07-27"
+  },
+  {
+    "term": "mattaḥ",
+    "transliteration": "mattaḥ",
+    "type": "pronoun",
+    "definition": "from Me",
+    "roots": "from mat (to measure, to mete out)",
+    "references": [
+      "BG 10.08"
+    ],
+    "themes": [
+      "from-me",
+      "possession",
+      "belonging"
+    ],
+    "lastUpdated": "2026-07-27"
+  },
+  {
+    "term": "matvā",
+    "transliteration": "matvā",
+    "type": "gerund",
+    "definition": "knowing, understanding",
+    "roots": "from mat (to measure, to know)",
+    "references": [
+      "BG 10.08"
+    ],
+    "themes": [
+      "knowing",
+      "understanding",
+      "comprehension"
     ],
     "lastUpdated": "2026-07-27"
   },
@@ -575,6 +706,21 @@
     "lastUpdated": "2026-07-27"
   },
   {
+    "term": "māṁ",
+    "transliteration": "māṁ",
+    "type": "accusative",
+    "definition": "unto Me",
+    "roots": "from ma (to measure) + m (possessive)",
+    "references": [
+      "BG 10.08"
+    ],
+    "themes": [
+      "accusative",
+      "unto-me"
+    ],
+    "lastUpdated": "2026-07-27"
+  },
+  {
     "term": "nakṣatrāṇām",
     "definition": "of the stars; the fixed luminaries in the celestial sphere",
     "references": [
@@ -582,6 +728,39 @@
     ],
     "themes": [
       "genitive plural"
+    ],
+    "lastUpdated": "2026-07-28"
+  },
+  {
+    "term": "prabhavo",
+    "transliteration": "prabhavo",
+    "type": "noun",
+    "definition": "the source of generation, origin, root",
+    "roots": "from pra (forth) + bhū (to be, to become)",
+    "references": [
+      "BG 10.08"
+    ],
+    "themes": [
+      "source",
+      "origin",
+      "root",
+      "creation"
+    ],
+    "lastUpdated": "2026-07-27"
+  },
+  {
+    "term": "prabhavo",
+    "transliteration": "prabhavo",
+    "type": "noun",
+    "definition": "the source of generation, origin, root",
+    "roots": "from prabhava (source, origin)",
+    "references": [
+      "BG 10.08"
+    ],
+    "themes": [
+      "source",
+      "origin",
+      "root"
     ],
     "lastUpdated": "2026-07-27"
   },
@@ -614,6 +793,22 @@
     "lastUpdated": "2026-07-27"
   },
   {
+    "term": "pravartate",
+    "transliteration": "pravartate",
+    "type": "verb",
+    "definition": "emanates, proceeds, flows forth",
+    "roots": "from pravartate (to proceed, to flow forth)",
+    "references": [
+      "BG 10.08"
+    ],
+    "themes": [
+      "emanation",
+      "process",
+      "flow"
+    ],
+    "lastUpdated": "2026-07-27"
+  },
+  {
     "term": "prīti-pūrvakam",
     "transliteration": "prīti-pūrvakam",
     "type": "compound",
@@ -636,7 +831,7 @@
     "themes": [
       "nominative"
     ],
-    "lastUpdated": "2026-07-27"
+    "lastUpdated": "2026-07-28"
   },
   {
     "term": "sa-carācaram",
@@ -667,6 +862,54 @@
       "indwelling-witness",
       "supersoul",
       "all-hearts"
+    ],
+    "lastUpdated": "2026-07-27"
+  },
+  {
+    "term": "sarvasya",
+    "transliteration": "sarvasya",
+    "type": "genitive singular",
+    "definition": "of all, of everything",
+    "roots": "from sarva (all, everything)",
+    "references": [
+      "BG 10.08"
+    ],
+    "themes": [
+      "all",
+      "everything",
+      "universal"
+    ],
+    "lastUpdated": "2026-07-27"
+  },
+  {
+    "term": "sarvaṁ",
+    "transliteration": "sarvaṁ",
+    "type": "accusative singular",
+    "definition": "everything, all things",
+    "roots": "from sarva (all, everything)",
+    "references": [
+      "BG 10.08"
+    ],
+    "themes": [
+      "everything",
+      "all",
+      "totality"
+    ],
+    "lastUpdated": "2026-07-27"
+  },
+  {
+    "term": "sarvaṁ",
+    "transliteration": "sarvaṁ",
+    "type": "accusative singular",
+    "definition": "everything, all things",
+    "roots": "from sarva (all, everything)",
+    "references": [
+      "BG 10.08"
+    ],
+    "themes": [
+      "everything",
+      "all",
+      "totality"
     ],
     "lastUpdated": "2026-07-27"
   },
@@ -836,7 +1079,7 @@
     "themes": [
       "nominative"
     ],
-    "lastUpdated": "2026-07-27"
+    "lastUpdated": "2026-07-28"
   },
   {
     "term": "yajñānāṁ",
@@ -874,7 +1117,7 @@
     "themes": [
       "genitive plural"
     ],
-    "lastUpdated": "2026-07-27"
+    "lastUpdated": "2026-07-28"
   },
   {
     "term": "ādiś",
@@ -929,249 +1172,6 @@
     "themes": [
       "nominative"
     ],
-    "lastUpdated": "2026-07-27"
-  },
-  {
-    "lastUpdated": "2026-07-27"
-  },
-  {
-    "term": "aham",
-    "transliteration": "aham",
-    "type": "pronoun",
-    "definition": "I; the Supreme Personality of Godhead",
-    "roots": "from aham (I, self)",
-    "references": [
-      "BG 10.08"
-    ],
-    "themes": [
-      "identity",
-      "pure-consciousness",
-      "self",
-      "source"
-    ],
-    "lastUpdated": "2026-07-27"
-  },
-  {
-    "term": "sarvasya",
-    "transliteration": "sarvasya",
-    "type": "genitive singular",
-    "definition": "of all, of everything",
-    "roots": "from sarva (all, everything)",
-    "references": [
-      "BG 10.08"
-    ],
-    "themes": [
-      "all",
-      "everything",
-      "universal"
-    ],
-    "lastUpdated": "2026-07-27"
-  },
-  {
-    "term": "prabhavo",
-    "transliteration": "prabhavo",
-    "type": "noun",
-    "definition": "the source of generation, origin, root",
-    "roots": "from pra (forth) + bhū (to be, to become)",
-    "references": [
-      "BG 10.08"
-    ],
-    "themes": [
-      "source",
-      "origin",
-      "root",
-      "creation"
-    ],
-    "lastUpdated": "2026-07-27"
-  },
-  {
-    "term": "mattaḥ",
-    "transliteration": "mattaḥ",
-    "type": "pronoun",
-    "definition": "from Me",
-    "roots": "from mat (to measure, to mete out) + tḥ (possessive)",
-    "references": [
-      "BG 10.08"
-    ],
-    "themes": [
-      "possessive",
-      "from-me"
-    ],
-    "lastUpdated": "2026-07-27"
-  },
-  {
-    "term": "sarvaṁ",
-    "transliteration": "sarvaṁ",
-    "type": "accusative singular",
-    "definition": "everything, all things",
-    "roots": "from sarva (all, everything)",
-    "references": [
-      "BG 10.08"
-    ],
-    "themes": [
-      "everything",
-      "all",
-      "totality"
-    ],
-    "lastUpdated": "2026-07-27"
-  },
-  {
-    "term": "prabhavo",
-    "transliteration": "prabhavo",
-    "type": "noun",
-    "definition": "the source of generation, origin, root",
-    "roots": "from prabhava (source, origin)",
-    "references": [
-      "BG 10.08"
-    ],
-    "themes": [
-      "source",
-      "origin",
-      "root"
-    ],
-    "lastUpdated": "2026-07-27"
-  },
-  {
-    "term": "mattaḥ",
-    "transliteration": "mattaḥ",
-    "type": "pronoun",
-    "definition": "from Me",
-    "roots": "from mat (to measure, to mete out)",
-    "references": [
-      "BG 10.08"
-    ],
-    "themes": [
-      "from-me",
-      "possession",
-      "belonging"
-    ],
-    "lastUpdated": "2026-07-27"
-  },
-  {
-    "term": "sarvaṁ",
-    "transliteration": "sarvaṁ",
-    "type": "accusative singular",
-    "definition": "everything, all things",
-    "roots": "from sarva (all, everything)",
-    "references": [
-      "BG 10.08"
-    ],
-    "themes": [
-      "everything",
-      "all",
-      "totality"
-    ],
-    "lastUpdated": "2026-07-27"
-  },
-  {
-    "term": "pravartate",
-    "transliteration": "pravartate",
-    "type": "verb",
-    "definition": "emanates, proceeds, flows forth",
-    "roots": "from pravartate (to proceed, to flow forth)",
-    "references": [
-      "BG 10.08"
-    ],
-    "themes": [
-      "emanation",
-      "process",
-      "flow"
-    ],
-    "lastUpdated": "2026-07-27"
-  },
-  {
-    "term": "iti",
-    "transliteration": "iti",
-    "type": "adverb",
-    "definition": "thus, in this way",
-    "roots": "from iti (thus, so)",
-    "references": [
-      "BG 10.08"
-    ],
-    "themes": [
-      "thus",
-      "therefore",
-      "in this way"
-    ],
-    "lastUpdated": "2026-07-27"
-  },
-  {
-    "term": "matvā",
-    "transliteration": "matvā",
-    "type": "gerund",
-    "definition": "knowing, understanding",
-    "roots": "from mat (to measure, to know)",
-    "references": [
-      "BG 10.08"
-    ],
-    "themes": [
-      "knowing",
-      "understanding",
-      "comprehension"
-    ],
-    "lastUpdated": "2026-07-27"
-  },
-  {
-    "term": "bhajante",
-    "transliteration": "bhajante",
-    "type": "verb",
-    "definition": "become devoted, worship, engage in service",
-    "roots": "from bhaj (to serve, to worship)",
-    "references": [
-      "BG 10.08"
-    ],
-    "themes": [
-      "devotion",
-      "service",
-      "worship"
-    ],
-    "lastUpdated": "2026-07-27"
-  },
-  {
-    "term": "māṁ",
-    "transliteration": "māṁ",
-    "type": "accusative",
-    "definition": "unto Me",
-    "roots": "from ma (to measure) + m (possessive)",
-    "references": [
-      "BG 10.08"
-    ],
-    "themes": [
-      "accusative",
-      "unto-me"
-    ],
-    "lastUpdated": "2026-07-27"
-  },
-  {
-    "term": "budhāḥ",
-    "transliteration": "budhāḥ",
-    "type": "noun plural",
-    "definition": "the wise, the learned, the intelligent",
-    "roots": "from budh (to know, to awaken)",
-    "references": [
-      "BG 10.08"
-    ],
-    "themes": [
-      "wise",
-      "learned",
-      "intelligent"
-    ],
-    "lastUpdated": "2026-07-27"
-  },
-  {
-    "term": "bhāva-samanvitāḥ",
-    "transliteration": "bhāva-samanvitāḥ",
-    "type": "compound",
-    "definition": "with great feeling, with full awareness and devotion",
-    "roots": "from bhāva (feeling, emotion) + samanvita (endowed with, possessed of)",
-    "references": [
-      "BG 10.08"
-    ],
-    "themes": [
-      "feeling",
-      "awareness",
-      "devotion"
-    ],
-    "lastUpdated": "2026-07-27"
+    "lastUpdated": "2026-07-28"
   }
 ]
