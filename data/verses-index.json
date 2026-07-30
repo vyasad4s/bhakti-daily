@@ -1,6 +1,65 @@
 {
   "verses": [
     {
+      "date": "2026-07-29",
+      "source": "BG 10.37",
+      "chapter": 10,
+      "verse": 37,
+      "text": "Bhagavad Gita",
+      "sanskrit": "वृष्णीनां वासुदेवोऽस्मि पाण्डवानां धनञ्जय: ।\nमुनीनामप्यहं व्यास: कवीनामुशना कवि: ॥ ३७ ॥",
+      "transliteration": "vṛṣṇīnāṁ vāsudevo ’smi\npāṇḍavānāṁ dhanañ-jayaḥ\nmunīnām apy ahaṁ vyāsaḥ\nkavīnām uśanā kaviḥ",
+      "translation": "Of the descendants of Vṛṣṇi I am Vāsudeva, and of the Pāṇḍavas I am Arjuna. Of the sages I am Vyāsa, and among great thinkers I am Uśanā.",
+      "tithi": "Śukla Pakṣa Pūrṇimā until 10:35 AM, then Kṛṣṇa Pakṣa Pratipadā",
+      "nakshatra": "Śravaṇa (Moon in Makara rāśi)",
+      "yoga": "Pṛthi until 02:27 PM, then Ayuṣman",
+      "themes": [
+        "vyasa-puja",
+        "guru-parampara",
+        "shravana-nakshatra",
+        "agama-sruti",
+        "full-moon-purnima"
+      ],
+      "tags": [
+        "#vrishni",
+        "#vasudeva",
+        "#pandava",
+        "#dhananjaya",
+        "#arjuna",
+        "#muni",
+        "#vyasa",
+        "#kavi",
+        "#ushana",
+        "#shravana",
+        "#nakshatra",
+        "#purnima",
+        "#vyasapuja",
+        "#fullmoon",
+        "#agama",
+        "#pramana",
+        "#parampara",
+        "#guru",
+        "#capricorn",
+        "#makara",
+        "#bg1037"
+      ],
+      "yogaSutraConnection": "YS 1.7 & YS 1.26",
+      "sankhyaConcepts": [
+        "pramana",
+        "agama",
+        "buddhi",
+        "guru-parampara"
+      ],
+      "keyTerms": [
+        "vṛṣṇīnām",
+        "vāsudevaḥ",
+        "dhanañ-jayaḥ",
+        "vyāsaḥ",
+        "śravaṇa",
+        "āgama",
+        "paramparā"
+      ]
+    },
+    {
       "date": "2026-07-28",
       "source": "BG 10.21",
       "chapter": 10,
@@ -3275,5 +3334,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-07-28"
+  "lastUpdated": "2026-07-29"
 }
