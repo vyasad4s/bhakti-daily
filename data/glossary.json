@@ -1,6 +1,193 @@
 [
   {
-    "lastUpdated": "2026-07-27"
+    "lastUpdated": "2026-07-29"
+  },
+  {
+    "term": "vṛṣṇīnām",
+    "transliteration": "vṛṣṇīnām",
+    "type": "genitive",
+    "definition": "of the Vṛṣṇi dynasty, the Yadu lineage from which Kṛṣṇa descended; the royal house of Mathurā and Dvārakā.",
+    "roots": "",
+    "references": [
+      "BG 10.37"
+    ],
+    "themes": [
+      "vyasa-puja",
+      "guru-parampara",
+      "shravana-nakshatra",
+      "agama-sruti",
+      "full-moon-purnima"
+    ]
+  },
+  {
+    "term": "vāsudevaḥ",
+    "transliteration": "vāsudevaḥ",
+    "type": "noun",
+    "definition": "Vāsudeva, Kṛṣṇa as the son of Vasudeva; also indicates Balarāma as the original expansion. Here, the Supreme among the Vṛṣṇis.",
+    "roots": "",
+    "references": [
+      "BG 10.37"
+    ],
+    "themes": [
+      "vyasa-puja",
+      "guru-parampara",
+      "shravana-nakshatra",
+      "agama-sruti",
+      "full-moon-purnima"
+    ]
+  },
+  {
+    "term": "pāṇḍavānām",
+    "transliteration": "pāṇḍavānām",
+    "type": "genitive",
+    "definition": "of the Pāṇḍavas, the five sons of Pāṇḍu; the protagonists of the Mahābhārata.",
+    "roots": "",
+    "references": [
+      "BG 10.37"
+    ],
+    "themes": [
+      "vyasa-puja",
+      "guru-parampara",
+      "shravana-nakshatra",
+      "agama-sruti",
+      "full-moon-purnima"
+    ]
+  },
+  {
+    "term": "dhanañ-jayaḥ",
+    "transliteration": "dhanañ-jayaḥ",
+    "type": "noun",
+    "definition": "\"Conqueror of Wealth,\" an epithet of Arjuna; he who amassed treasures through his bow and skill.",
+    "roots": "",
+    "references": [
+      "BG 10.37"
+    ],
+    "themes": [
+      "vyasa-puja",
+      "guru-parampara",
+      "shravana-nakshatra",
+      "agama-sruti",
+      "full-moon-purnima"
+    ]
+  },
+  {
+    "term": "munīnām",
+    "transliteration": "munīnām",
+    "type": "genitive",
+    "definition": "of the munis, the silent sages; those who have attained mastery over speech and mind through tapas.",
+    "roots": "",
+    "references": [
+      "BG 10.37"
+    ],
+    "themes": [
+      "vyasa-puja",
+      "guru-parampara",
+      "shravana-nakshatra",
+      "agama-sruti",
+      "full-moon-purnima"
+    ]
+  },
+  {
+    "term": "vyāsaḥ",
+    "transliteration": "vyāsaḥ",
+    "type": "noun",
+    "definition": "Vyāsadeva, \"the compiler\"; the avatar of Kṛṣṇa who divided the Veda into four, composed the Mahābhārata, Purāṇas, and Brahma-sūtras. The greatest muni because he structured transcendental knowledge for mass transmission.",
+    "roots": "",
+    "references": [
+      "BG 10.37"
+    ],
+    "themes": [
+      "vyasa-puja",
+      "guru-parampara",
+      "shravana-nakshatra",
+      "agama-sruti",
+      "full-moon-purnima"
+    ]
+  },
+  {
+    "term": "kavīnām",
+    "transliteration": "kavīnām",
+    "type": "genitive",
+    "definition": "of the kavis, the great thinkers; poets and intellectuals capable of deep penetration into any subject.",
+    "roots": "",
+    "references": [
+      "BG 10.37"
+    ],
+    "themes": [
+      "vyasa-puja",
+      "guru-parampara",
+      "shravana-nakshatra",
+      "agama-sruti",
+      "full-moon-purnima"
+    ]
+  },
+  {
+    "term": "uśanā",
+    "transliteration": "uśanā",
+    "type": "noun",
+    "definition": "Uśanā, also known as Śukrācārya; the preceptor of the asuras, master of politics and strategy; a kavi of unparalleled intelligence.",
+    "roots": "",
+    "references": [
+      "BG 10.37"
+    ],
+    "themes": [
+      "vyasa-puja",
+      "guru-parampara",
+      "shravana-nakshatra",
+      "agama-sruti",
+      "full-moon-purnima"
+    ]
+  },
+  {
+    "term": "śravaṇa",
+    "transliteration": "śravaṇa",
+    "type": "noun",
+    "definition": "\"hearing\"; the 22nd nakṣatra, ruled by Viṣṇu, symbolized by three footprints. The power of listening as the gateway to knowledge.",
+    "roots": "",
+    "references": [
+      "BG 10.37"
+    ],
+    "themes": [
+      "vyasa-puja",
+      "guru-parampara",
+      "shravana-nakshatra",
+      "agama-sruti",
+      "full-moon-purnima"
+    ]
+  },
+  {
+    "term": "āgama",
+    "transliteration": "āgama",
+    "type": "noun",
+    "definition": "authoritative verbal testimony; the third source of pramāṇa in Patañjali's system. Śruti is the highest āgama.",
+    "roots": "",
+    "references": [
+      "BG 10.37"
+    ],
+    "themes": [
+      "vyasa-puja",
+      "guru-parampara",
+      "shravana-nakshatra",
+      "agama-sruti",
+      "full-moon-purnima"
+    ]
+  },
+  {
+    "term": "paramparā",
+    "transliteration": "paramparā",
+    "type": "noun",
+    "definition": "disciplic succession; the unbroken chain of guru-to-disciple transmission preserving śruti across generations.",
+    "roots": "",
+    "references": [
+      "BG 10.37"
+    ],
+    "themes": [
+      "vyasa-puja",
+      "guru-parampara",
+      "shravana-nakshatra",
+      "agama-sruti",
+      "full-moon-purnima"
+    ]
   },
   {
     "term": "a-kāraḥ",
