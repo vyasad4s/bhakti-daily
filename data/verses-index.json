@@ -1,6 +1,70 @@
 {
   "verses": [
     {
+      "date": "2026-07-31",
+      "source": "BG 11.32-33",
+      "chapter": 11,
+      "verse": "32-33",
+      "text": "Bhagavad Gita",
+      "tithi": "Kṛṣṇa Pakṣa Tẝīyā",
+      "nakshatra": "Śatabhiṣa (Moon in Kumbha rāśi)",
+      "yoga": "Saubhagya → Sobhana",
+      "themes": [
+        "kala",
+        "time",
+        "visvarupa",
+        "nimitta-matram",
+        "shatabhisha",
+        "varuna",
+        "krsnapaksa"
+      ],
+      "tags": [
+        "#bg11",
+        "#kala",
+        "#time",
+        "#visvarupa",
+        "#cosmicform",
+        "#arjuna",
+        "#nimittamatram",
+        "#instrument",
+        "#shatabhisha",
+        "#nakshatra",
+        "#varuna",
+        "#krsnapaksa",
+        "#tritiya",
+        "#sobhana",
+        "#kumbha",
+        "#aquarius",
+        "#vairagya",
+        "#prakriti",
+        "#purusha",
+        "#gunas",
+        "#karma-yoga",
+        "#ys21",
+        "#ys24"
+      ],
+      "yogaSutraConnection": "YS 2.18 & YS 4.24",
+      "sankhyaConcepts": [
+        "prakriti",
+        "purusha",
+        "gunas",
+        "kala",
+        "citta",
+        "vairagya",
+        "nimitta-matram"
+      ],
+      "keyTerms": [
+        "kala",
+        "nimitta-matram",
+        "savyasacin",
+        "shatabhisha",
+        "varuna",
+        "samahartum",
+        "prakriti",
+        "vairagya"
+      ]
+    },
+    {
       "date": "2026-07-29",
       "source": "BG 10.37",
       "chapter": 10,
