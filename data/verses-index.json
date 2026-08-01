@@ -1,6 +1,72 @@
 {
   "verses": [
     {
+      "date": "2026-07-30",
+      "source": "BG 11.3",
+      "chapter": 11,
+      "verse": 3,
+      "text": "Bhagavad Gita",
+      "tithi": "Krishna Paksha Pratipada",
+      "nakshatra": "Shravana -> Dhanishta",
+      "yoga": "Ayushman -> Saubhagya",
+      "themes": [
+        "pratipada",
+        "darshana",
+        "visvarupa",
+        "puruṣottama",
+        "dhanishta",
+        "gurodvara",
+        "chapter-transition",
+        "krsna-paksa"
+      ],
+      "tags": [
+        "#bg11",
+        "#pratipada",
+        "#dhanishta",
+        "#visvarupa",
+        "#arjuna",
+        "#darshana",
+        "#purushottama",
+        "#aisvaram",
+        "#mrdanga",
+        "#krsnapaksa",
+        "#gurodvara",
+        "#guru",
+        "#jupiter",
+        "#vasus",
+        "#makara",
+        "#kumbha",
+        "#saubhagya",
+        "#yoga",
+        "#sankhya",
+        "#prakriti",
+        "#purusha",
+        "#vairagya",
+        "#abhyasa",
+        "#yoga-sutra",
+        "#ys12",
+        "#ys326",
+        "#ys424"
+      ],
+      "yogaSutraConnection": "YS 1.23 & YS 3.27-28",
+      "sankhyaConcepts": [
+        "purusha",
+        "prakriti",
+        "buddhi",
+        "vairagya",
+        "abhyasa",
+        "darshana",
+        "pratipada"
+      ],
+      "keyTerms": [
+        "puruṣottama",
+        "aiśvaram",
+        "darśana",
+        "viveka-kaṇṭha-śreṇi",
+        "mṛdaṅga"
+      ]
+    },
+    {
       "date": "2026-07-31",
       "source": "BG 11.32-33",
       "chapter": 11,
