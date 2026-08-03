@@ -1,6 +1,69 @@
 {
   "verses": [
     {
+      "date": "2026-07-27",
+      "source": "BG 10.29",
+      "chapter": 10,
+      "verse": 29,
+      "text": "Bhagavad Gita",
+      "tithi": "Śukla Pakṣa Caturdaśī — Jul 27 06:45 AM – Jul 28 08:49 AM",
+      "nakshatra": "Pūrva Aṣāḍā (until 3:41 AM Jul 28), then Uttara Aṣāḍā",
+      "yoga": "Vaidhṛti (until 1:24 PM), then Viṣkambha",
+      "themes": [
+        "Waters of Surrender",
+        "Pūrva Aṣāḍā",
+        "Varuṇa's Cosmic Law",
+        "Cosmic Administrators",
+        "Ṛta (Cosmic Order)",
+        "Purification",
+        "Divine Law",
+        "Surrender to Divine Will"
+      ],
+      "tags": [
+        "#ananta",
+        "#nagas",
+        "#varuna",
+        "#yadasa",
+        "#pitrs",
+        "#aryama",
+        "#yama",
+        "#samyamatam",
+        "#aham",
+        "#bg1029",
+        "#cosmicide",
+        "#waters",
+        "#purification",
+        "#law",
+        "#restraint",
+        "#death",
+        "#victory",
+        "#dharma",
+        "#caturdashi",
+        "#purvaashada",
+        "#monday",
+        "#vishkambha"
+      ],
+      "yogaSutraConnection": "YS 2.30-31",
+      "sankhyaConcepts": [
+        "Ṛta (Cosmic Law)",
+        "Guṇas and Their Qualities",
+        "Mahābhūtas (Five Elements)",
+        "Prakṛti-Puruṣa Relationship",
+        "Cosmic Administration"
+      ],
+      "keyTerms": [
+        "anantaḥ",
+        "nāgānām",
+        "varuṇaḥ",
+        "yādasām",
+        "pitṝṇām",
+        "aryamā",
+        "yamaḥ",
+        "saṁyamatām",
+        "aham"
+      ]
+    },
+    {
       "date": "2026-07-23",
       "source": "BG 10.10",
       "chapter": 10,
@@ -3021,7 +3084,76 @@
         "āgama-apāyinaḥ",
         "śīta-uṣṣa"
       ]
+    },
+    {
+      "date": "2026-07-26",
+      "source": "BG 10.8",
+      "chapter": 10,
+      "verse": 8,
+      "text": "Bhagavad Gita",
+      "sanskrit": "अहं सर्वस्य प्रभवो मत्त: सर्वं प्रवर्तते .\\n इति मत्वा भजन्ते मां बुधा भावसमन्विता: ॥ ८ ॥",
+      "transliteration": "ahaṁ sarvasya prabhavo\\nmattaḥ sarvaṁ pravartate\\niti matvā bhajante māṁ\\nbudhā bhāva-samanvitāḥ",
+      "translation": "I am the source of all spiritual and material worlds. Everything emanates from Me. The wise who perfectly know this engage in My devotional service and worship Me with all their hearts.",
+      "tithi": "Śukla Pakṣa Trayodaśī — Jul 26 04:28 AM – Jul 27 06:45 AM",
+      "nakshatra": "Mūla (until 12:58 AM Jul 27), then Purva Aṣāḍhā",
+      "yoga": "Indra (until 12:34 PM), then Vaidhṛti",
+      "themes": [
+        "source",
+        "origin",
+        "root",
+        "mula",
+        "nirriti",
+        "surya",
+        "ravivara",
+        "wise",
+        "devotion"
+      ],
+      "tags": [
+        "#aham",
+        "#sarvasya",
+        "#prabhavo",
+        "#mattaḥ",
+        "#sarvam",
+        "#pravartate",
+        "#iti",
+        "#matva",
+        "#bhajante",
+        "#mam",
+        "#budha",
+        "#bhavasamanvita",
+        "#bg1008",
+        "#source",
+        "#origin",
+        "#root",
+        "#mula",
+        "#nirriti",
+        "#surya",
+        "#ravivara",
+        "#wise",
+        "#devotion"
+      ],
+      "yogaSutraConnection": "YS 1.23-1.26",
+      "sankhyaConcepts": [
+        "purusha-prakriti distinction",
+        "source/origin concept",
+        "divine source of all creation",
+        "wise fixed in devotion"
+      ],
+      "keyTerms": [
+        "aham",
+        "sarvasya",
+        "prabhavo",
+        "mattaḥ",
+        "sarvaṁ",
+        "pravartate",
+        "iti",
+        "matvā",
+        "bhajante",
+        "māṁ",
+        "budha",
+        "bhavasamanvita"
+      ]
     }
   ],
-  "lastUpdated": "2026-07-23"
+  "lastUpdated": "2026-07-27"
 }

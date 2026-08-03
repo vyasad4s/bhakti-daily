@@ -1,0 +1,1683 @@
+{
+  "source": "prokerala",
+  "date": "2026-08-01",
+  "fetched_at": "2026-08-01T05:56:38.831090-04:00",
+  "request_datetime": "2026-08-01T06:00:00-04:00",
+  "location": {
+    "name": "Philadelphia, PA",
+    "coordinates": "39.9526,-75.1652",
+    "timezone": "America/New_York"
+  },
+  "ayanamsa": "1",
+  "api": {
+    "panchang_endpoint": "https://api.prokerala.com/v2/astrology/panchang/advanced",
+    "planet_positions_endpoint": "https://api.prokerala.com/v2/astrology/kp-planet-position"
+  },
+  "summary": {
+    "vaara": "Saturday",
+    "tithi": {
+      "name": "Tritiya",
+      "paksha": "Krishna Paksha",
+      "start": "2026-07-31T13:02:13-04:00",
+      "end": "2026-08-01T13:37:48-04:00"
+    },
+    "nakshatra": {
+      "name": "Shatabhisha",
+      "lord": {
+        "id": 101,
+        "name": "Rahu",
+        "vedic_name": "Rahu"
+      },
+      "start": "2026-07-31T09:56:45-04:00",
+      "end": "2026-08-01T11:15:18-04:00"
+    },
+    "yoga": {
+      "name": "Sobhana",
+      "start": "2026-07-31T14:23:53-04:00",
+      "end": "2026-08-01T13:52:32-04:00"
+    },
+    "karana": {
+      "name": "Vishti / Bhadra",
+      "start": "2026-08-01T01:23:21-04:00",
+      "end": "2026-08-01T13:37:48-04:00"
+    },
+    "sun": {
+      "rasi": {
+        "id": 3,
+        "name": "Karka",
+        "lord": {
+          "id": 1,
+          "name": "Moon",
+          "vedic_name": "Chandra"
+        }
+      },
+      "nakshatra": {
+        "id": 7,
+        "name": "Pushya",
+        "lord": {
+          "id": 6,
+          "name": "Saturn",
+          "vedic_name": "Shani"
+        },
+        "pada": 4
+      },
+      "longitude": 104.95906987010372,
+      "longitude_dms": "104° 57‘ 32“"
+    },
+    "moon": {
+      "rasi": {
+        "id": 10,
+        "name": "Kumbha",
+        "lord": {
+          "id": 6,
+          "name": "Saturn",
+          "vedic_name": "Shani"
+        }
+      },
+      "nakshatra": {
+        "id": 23,
+        "name": "Shatabhisha",
+        "lord": {
+          "id": 101,
+          "name": "Rahu",
+          "vedic_name": "Rahu"
+        },
+        "pada": 4
+      },
+      "longitude": 317.21262920851484,
+      "longitude_dms": "317° 12‘ 45“"
+    },
+    "sunrise": "2026-08-01T06:04:01-04:00",
+    "sunset": "2026-08-01T20:09:25-04:00",
+    "moonrise": "2026-08-01T21:46:04-04:00",
+    "moonset": "2026-08-02T10:01:11-04:00",
+    "auspicious_period": [
+      {
+        "id": 1,
+        "name": "Abhijit Muhurat",
+        "type": "Auspicious",
+        "period": [
+          {
+            "start": "2026-08-01T12:38:28-04:00",
+            "end": "2026-08-01T13:34:49-04:00"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Amrit Kaal",
+        "type": "Auspicious",
+        "period": [
+          {
+            "start": "2026-08-02T03:49:19-04:00",
+            "end": "2026-08-02T05:28:45-04:00"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "name": "Brahma Muhurat",
+        "type": "Auspicious",
+        "period": [
+          {
+            "start": "2026-08-01T04:27:36-04:00",
+            "end": "2026-08-01T05:15:37-04:00"
+          }
+        ]
+      }
+    ],
+    "inauspicious_period": [
+      {
+        "id": 4,
+        "name": "Rahu",
+        "type": "Inauspicious",
+        "period": [
+          {
+            "start": "2026-08-01T09:35:21-04:00",
+            "end": "2026-08-01T11:21:01-04:00"
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "name": "Yamaganda",
+        "type": "Inauspicious",
+        "period": [
+          {
+            "start": "2026-08-01T14:52:21-04:00",
+            "end": "2026-08-01T16:38:01-04:00"
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "name": "Gulika",
+        "type": "Inauspicious",
+        "period": [
+          {
+            "start": "2026-08-01T06:04:01-04:00",
+            "end": "2026-08-01T07:49:41-04:00"
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "name": "Dur Muhurat",
+        "type": "Inauspicious",
+        "period": [
+          {
+            "start": "2026-08-01T07:56:43-04:00",
+            "end": "2026-08-01T08:53:04-04:00"
+          }
+        ]
+      },
+      {
+        "id": 8,
+        "name": "Varjyam",
+        "type": "Inauspicious",
+        "period": [
+          {
+            "start": "2026-08-01T17:53:19-04:00",
+            "end": "2026-08-01T19:32:19-04:00"
+          }
+        ]
+      }
+    ]
+  },
+  "raw": {
+    "panchang": {
+      "status": "ok",
+      "data": {
+        "vaara": "Saturday",
+        "nakshatra": [
+          {
+            "id": 23,
+            "name": "Shatabhisha",
+            "lord": {
+              "id": 101,
+              "name": "Rahu",
+              "vedic_name": "Rahu"
+            },
+            "start": "2026-07-31T09:56:45-04:00",
+            "end": "2026-08-01T11:15:18-04:00"
+          },
+          {
+            "id": 24,
+            "name": "Purva Bhadrapada",
+            "lord": {
+              "id": 5,
+              "name": "Jupiter",
+              "vedic_name": "Guru"
+            },
+            "start": "2026-08-01T11:15:19-04:00",
+            "end": "2026-08-02T12:07:03-04:00"
+          }
+        ],
+        "tithi": [
+          {
+            "id": 34,
+            "index": 0,
+            "name": "Tritiya",
+            "paksha": "Krishna Paksha",
+            "start": "2026-07-31T13:02:13-04:00",
+            "end": "2026-08-01T13:37:48-04:00"
+          },
+          {
+            "id": 35,
+            "index": 0,
+            "name": "Chaturthi",
+            "paksha": "Krishna Paksha",
+            "start": "2026-08-01T13:37:49-04:00",
+            "end": "2026-08-02T13:45:49-04:00"
+          }
+        ],
+        "karana": [
+          {
+            "index": 0,
+            "id": 6,
+            "name": "Vishti / Bhadra",
+            "start": "2026-08-01T01:23:21-04:00",
+            "end": "2026-08-01T13:37:48-04:00"
+          },
+          {
+            "index": 0,
+            "id": 0,
+            "name": "Bava",
+            "start": "2026-08-01T13:37:49-04:00",
+            "end": "2026-08-02T01:45:21-04:00"
+          },
+          {
+            "index": 0,
+            "id": 1,
+            "name": "Balava",
+            "start": "2026-08-02T01:45:22-04:00",
+            "end": "2026-08-02T13:45:49-04:00"
+          }
+        ],
+        "yoga": [
+          {
+            "id": 4,
+            "name": "Sobhana",
+            "start": "2026-07-31T14:23:53-04:00",
+            "end": "2026-08-01T13:52:32-04:00"
+          },
+          {
+            "id": 5,
+            "name": "Atiganda",
+            "start": "2026-08-01T13:52:33-04:00",
+            "end": "2026-08-02T12:59:24-04:00"
+          }
+        ],
+        "sunrise": "2026-08-01T06:04:01-04:00",
+        "sunset": "2026-08-01T20:09:25-04:00",
+        "moonrise": "2026-08-01T21:46:04-04:00",
+        "moonset": "2026-08-02T10:01:11-04:00",
+        "auspicious_period": [
+          {
+            "id": 1,
+            "name": "Abhijit Muhurat",
+            "type": "Auspicious",
+            "period": [
+              {
+                "start": "2026-08-01T12:38:28-04:00",
+                "end": "2026-08-01T13:34:49-04:00"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "name": "Amrit Kaal",
+            "type": "Auspicious",
+            "period": [
+              {
+                "start": "2026-08-02T03:49:19-04:00",
+                "end": "2026-08-02T05:28:45-04:00"
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "name": "Brahma Muhurat",
+            "type": "Auspicious",
+            "period": [
+              {
+                "start": "2026-08-01T04:27:36-04:00",
+                "end": "2026-08-01T05:15:37-04:00"
+              }
+            ]
+          }
+        ],
+        "inauspicious_period": [
+          {
+            "id": 4,
+            "name": "Rahu",
+            "type": "Inauspicious",
+            "period": [
+              {
+                "start": "2026-08-01T09:35:21-04:00",
+                "end": "2026-08-01T11:21:01-04:00"
+              }
+            ]
+          },
+          {
+            "id": 5,
+            "name": "Yamaganda",
+            "type": "Inauspicious",
+            "period": [
+              {
+                "start": "2026-08-01T14:52:21-04:00",
+                "end": "2026-08-01T16:38:01-04:00"
+              }
+            ]
+          },
+          {
+            "id": 6,
+            "name": "Gulika",
+            "type": "Inauspicious",
+            "period": [
+              {
+                "start": "2026-08-01T06:04:01-04:00",
+                "end": "2026-08-01T07:49:41-04:00"
+              }
+            ]
+          },
+          {
+            "id": 7,
+            "name": "Dur Muhurat",
+            "type": "Inauspicious",
+            "period": [
+              {
+                "start": "2026-08-01T07:56:43-04:00",
+                "end": "2026-08-01T08:53:04-04:00"
+              }
+            ]
+          },
+          {
+            "id": 8,
+            "name": "Varjyam",
+            "type": "Inauspicious",
+            "period": [
+              {
+                "start": "2026-08-01T17:53:19-04:00",
+                "end": "2026-08-01T19:32:19-04:00"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "planet_positions": {
+      "status": "ok",
+      "data": {
+        "houses": [
+          {
+            "house": {
+              "id": 0,
+              "name": "Tanu",
+              "number": 1
+            },
+            "start_cusp": {
+              "longitude": 104.16720677735651,
+              "degree": 14.167206777356512,
+              "rasi": {
+                "id": 3,
+                "name": "Karka",
+                "lord": {
+                  "id": 1,
+                  "name": "Moon",
+                  "vedic_name": "Chandra"
+                }
+              }
+            },
+            "end_cusp": {
+              "longitude": 125.17121190126738,
+              "degree": 5.171211901267384,
+              "rasi": {
+                "id": 4,
+                "name": "Simha",
+                "lord": {
+                  "id": 0,
+                  "name": "Sun",
+                  "vedic_name": "Ravi"
+                }
+              }
+            },
+            "rasi": {
+              "id": 3,
+              "name": "Karka",
+              "lord": {
+                "id": 1,
+                "name": "Moon",
+                "vedic_name": "Chandra"
+              }
+            },
+            "nakshatra": {
+              "id": 7,
+              "name": "Pushya",
+              "lord": {
+                "id": 6,
+                "name": "Saturn",
+                "vedic_name": "Shani"
+              },
+              "pada": 4
+            },
+            "nakshatra_lord": {
+              "id": 6,
+              "name": "Saturn",
+              "vedic_name": "Shani"
+            },
+            "sub_lord": {
+              "id": 101,
+              "name": "Rahu",
+              "vedic_name": "Rahu"
+            },
+            "sub_sub_lord": {
+              "id": 102,
+              "name": "Ketu",
+              "vedic_name": "Ketu"
+            }
+          },
+          {
+            "house": {
+              "id": 1,
+              "name": "Dhan",
+              "number": 2
+            },
+            "start_cusp": {
+              "longitude": 125.17121190126738,
+              "degree": 5.171211901267384,
+              "rasi": {
+                "id": 4,
+                "name": "Simha",
+                "lord": {
+                  "id": 0,
+                  "name": "Sun",
+                  "vedic_name": "Ravi"
+                }
+              }
+            },
+            "end_cusp": {
+              "longitude": 150.78158584550428,
+              "degree": 0.7815858455042815,
+              "rasi": {
+                "id": 5,
+                "name": "Kanya",
+                "lord": {
+                  "id": 2,
+                  "name": "Mercury",
+                  "vedic_name": "Budha"
+                }
+              }
+            },
+            "rasi": {
+              "id": 4,
+              "name": "Simha",
+              "lord": {
+                "id": 0,
+                "name": "Sun",
+                "vedic_name": "Ravi"
+              }
+            },
+            "nakshatra": {
+              "id": 9,
+              "name": "Magha",
+              "lord": {
+                "id": 102,
+                "name": "Ketu",
+                "vedic_name": "Ketu"
+              },
+              "pada": 2
+            },
+            "nakshatra_lord": {
+              "id": 102,
+              "name": "Ketu",
+              "vedic_name": "Ketu"
+            },
+            "sub_lord": {
+              "id": 4,
+              "name": "Mars",
+              "vedic_name": "Kuja"
+            },
+            "sub_sub_lord": {
+              "id": 2,
+              "name": "Mercury",
+              "vedic_name": "Budha"
+            }
+          },
+          {
+            "house": {
+              "id": 2,
+              "name": "Sahaj",
+              "number": 3
+            },
+            "start_cusp": {
+              "longitude": 150.78158584550428,
+              "degree": 0.7815858455042815,
+              "rasi": {
+                "id": 5,
+                "name": "Kanya",
+                "lord": {
+                  "id": 2,
+                  "name": "Mercury",
+                  "vedic_name": "Budha"
+                }
+              }
+            },
+            "end_cusp": {
+              "longitude": 182.57182457990788,
+              "degree": 2.571824579907883,
+              "rasi": {
+                "id": 6,
+                "name": "Tula",
+                "lord": {
+                  "id": 3,
+                  "name": "Venus",
+                  "vedic_name": "Shukra"
+                }
+              }
+            },
+            "rasi": {
+              "id": 5,
+              "name": "Kanya",
+              "lord": {
+                "id": 2,
+                "name": "Mercury",
+                "vedic_name": "Budha"
+              }
+            },
+            "nakshatra": {
+              "id": 11,
+              "name": "Uttara Phalguni",
+              "lord": {
+                "id": 0,
+                "name": "Sun",
+                "vedic_name": "Ravi"
+              },
+              "pada": 2
+            },
+            "nakshatra_lord": {
+              "id": 0,
+              "name": "Sun",
+              "vedic_name": "Ravi"
+            },
+            "sub_lord": {
+              "id": 101,
+              "name": "Rahu",
+              "vedic_name": "Rahu"
+            },
+            "sub_sub_lord": {
+              "id": 3,
+              "name": "Venus",
+              "vedic_name": "Shukra"
+            }
+          },
+          {
+            "house": {
+              "id": 3,
+              "name": "Bandhu",
+              "number": 4
+            },
+            "start_cusp": {
+              "longitude": 182.57182457990788,
+              "degree": 2.571824579907883,
+              "rasi": {
+                "id": 6,
+                "name": "Tula",
+                "lord": {
+                  "id": 3,
+                  "name": "Venus",
+                  "vedic_name": "Shukra"
+                }
+              }
+            },
+            "end_cusp": {
+              "longitude": 218.8546719504899,
+              "degree": 8.854671950489887,
+              "rasi": {
+                "id": 7,
+                "name": "Vrischika",
+                "lord": {
+                  "id": 4,
+                  "name": "Mars",
+                  "vedic_name": "Kuja"
+                }
+              }
+            },
+            "rasi": {
+              "id": 6,
+              "name": "Tula",
+              "lord": {
+                "id": 3,
+                "name": "Venus",
+                "vedic_name": "Shukra"
+              }
+            },
+            "nakshatra": {
+              "id": 13,
+              "name": "Chitra",
+              "lord": {
+                "id": 4,
+                "name": "Mars",
+                "vedic_name": "Kuja"
+              },
+              "pada": 3
+            },
+            "nakshatra_lord": {
+              "id": 4,
+              "name": "Mars",
+              "vedic_name": "Kuja"
+            },
+            "sub_lord": {
+              "id": 102,
+              "name": "Ketu",
+              "vedic_name": "Ketu"
+            },
+            "sub_sub_lord": {
+              "id": 2,
+              "name": "Mercury",
+              "vedic_name": "Budha"
+            }
+          },
+          {
+            "house": {
+              "id": 4,
+              "name": "Putra",
+              "number": 5
+            },
+            "start_cusp": {
+              "longitude": 218.8546719504899,
+              "degree": 8.854671950489887,
+              "rasi": {
+                "id": 7,
+                "name": "Vrischika",
+                "lord": {
+                  "id": 4,
+                  "name": "Mars",
+                  "vedic_name": "Kuja"
+                }
+              }
+            },
+            "end_cusp": {
+              "longitude": 253.9327394641029,
+              "degree": 13.932739464102895,
+              "rasi": {
+                "id": 8,
+                "name": "Dhanu",
+                "lord": {
+                  "id": 5,
+                  "name": "Jupiter",
+                  "vedic_name": "Guru"
+                }
+              }
+            },
+            "rasi": {
+              "id": 7,
+              "name": "Vrischika",
+              "lord": {
+                "id": 4,
+                "name": "Mars",
+                "vedic_name": "Kuja"
+              }
+            },
+            "nakshatra": {
+              "id": 16,
+              "name": "Anuradha",
+              "lord": {
+                "id": 6,
+                "name": "Saturn",
+                "vedic_name": "Shani"
+              },
+              "pada": 2
+            },
+            "nakshatra_lord": {
+              "id": 6,
+              "name": "Saturn",
+              "vedic_name": "Shani"
+            },
+            "sub_lord": {
+              "id": 3,
+              "name": "Venus",
+              "vedic_name": "Shukra"
+            },
+            "sub_sub_lord": {
+              "id": 4,
+              "name": "Mars",
+              "vedic_name": "Kuja"
+            }
+          },
+          {
+            "house": {
+              "id": 5,
+              "name": "Ari",
+              "number": 6
+            },
+            "start_cusp": {
+              "longitude": 253.9327394641029,
+              "degree": 13.932739464102895,
+              "rasi": {
+                "id": 8,
+                "name": "Dhanu",
+                "lord": {
+                  "id": 5,
+                  "name": "Jupiter",
+                  "vedic_name": "Guru"
+                }
+              }
+            },
+            "end_cusp": {
+              "longitude": 284.1672067773565,
+              "degree": 14.167206777356512,
+              "rasi": {
+                "id": 9,
+                "name": "Makara",
+                "lord": {
+                  "id": 6,
+                  "name": "Saturn",
+                  "vedic_name": "Shani"
+                }
+              }
+            },
+            "rasi": {
+              "id": 8,
+              "name": "Dhanu",
+              "lord": {
+                "id": 5,
+                "name": "Jupiter",
+                "vedic_name": "Guru"
+              }
+            },
+            "nakshatra": {
+              "id": 19,
+              "name": "Purva Ashadha",
+              "lord": {
+                "id": 3,
+                "name": "Venus",
+                "vedic_name": "Shukra"
+              },
+              "pada": 1
+            },
+            "nakshatra_lord": {
+              "id": 3,
+              "name": "Venus",
+              "vedic_name": "Shukra"
+            },
+            "sub_lord": {
+              "id": 3,
+              "name": "Venus",
+              "vedic_name": "Shukra"
+            },
+            "sub_sub_lord": {
+              "id": 1,
+              "name": "Moon",
+              "vedic_name": "Chandra"
+            }
+          },
+          {
+            "house": {
+              "id": 6,
+              "name": "Yuvati",
+              "number": 7
+            },
+            "start_cusp": {
+              "longitude": 284.1672067773565,
+              "degree": 14.167206777356512,
+              "rasi": {
+                "id": 9,
+                "name": "Makara",
+                "lord": {
+                  "id": 6,
+                  "name": "Saturn",
+                  "vedic_name": "Shani"
+                }
+              }
+            },
+            "end_cusp": {
+              "longitude": 305.1712119012674,
+              "degree": 5.171211901267384,
+              "rasi": {
+                "id": 10,
+                "name": "Kumbha",
+                "lord": {
+                  "id": 6,
+                  "name": "Saturn",
+                  "vedic_name": "Shani"
+                }
+              }
+            },
+            "rasi": {
+              "id": 9,
+              "name": "Makara",
+              "lord": {
+                "id": 6,
+                "name": "Saturn",
+                "vedic_name": "Shani"
+              }
+            },
+            "nakshatra": {
+              "id": 21,
+              "name": "Shravana",
+              "lord": {
+                "id": 1,
+                "name": "Moon",
+                "vedic_name": "Chandra"
+              },
+              "pada": 2
+            },
+            "nakshatra_lord": {
+              "id": 1,
+              "name": "Moon",
+              "vedic_name": "Chandra"
+            },
+            "sub_lord": {
+              "id": 5,
+              "name": "Jupiter",
+              "vedic_name": "Guru"
+            },
+            "sub_sub_lord": {
+              "id": 6,
+              "name": "Saturn",
+              "vedic_name": "Shani"
+            }
+          },
+          {
+            "house": {
+              "id": 7,
+              "name": "Randhra",
+              "number": 8
+            },
+            "start_cusp": {
+              "longitude": 305.1712119012674,
+              "degree": 5.171211901267384,
+              "rasi": {
+                "id": 10,
+                "name": "Kumbha",
+                "lord": {
+                  "id": 6,
+                  "name": "Saturn",
+                  "vedic_name": "Shani"
+                }
+              }
+            },
+            "end_cusp": {
+              "longitude": 330.78158584550425,
+              "degree": 0.781585845504253,
+              "rasi": {
+                "id": 11,
+                "name": "Meena",
+                "lord": {
+                  "id": 5,
+                  "name": "Jupiter",
+                  "vedic_name": "Guru"
+                }
+              }
+            },
+            "rasi": {
+              "id": 10,
+              "name": "Kumbha",
+              "lord": {
+                "id": 6,
+                "name": "Saturn",
+                "vedic_name": "Shani"
+              }
+            },
+            "nakshatra": {
+              "id": 22,
+              "name": "Dhanishta",
+              "lord": {
+                "id": 4,
+                "name": "Mars",
+                "vedic_name": "Kuja"
+              },
+              "pada": 4
+            },
+            "nakshatra_lord": {
+              "id": 4,
+              "name": "Mars",
+              "vedic_name": "Kuja"
+            },
+            "sub_lord": {
+              "id": 0,
+              "name": "Sun",
+              "vedic_name": "Ravi"
+            },
+            "sub_sub_lord": {
+              "id": 5,
+              "name": "Jupiter",
+              "vedic_name": "Guru"
+            }
+          },
+          {
+            "house": {
+              "id": 8,
+              "name": "Dharma",
+              "number": 9
+            },
+            "start_cusp": {
+              "longitude": 330.78158584550425,
+              "degree": 0.781585845504253,
+              "rasi": {
+                "id": 11,
+                "name": "Meena",
+                "lord": {
+                  "id": 5,
+                  "name": "Jupiter",
+                  "vedic_name": "Guru"
+                }
+              }
+            },
+            "end_cusp": {
+              "longitude": 2.5718245799078723,
+              "degree": 2.5718245799078723,
+              "rasi": {
+                "id": 0,
+                "name": "Mesha",
+                "lord": {
+                  "id": 4,
+                  "name": "Mars",
+                  "vedic_name": "Kuja"
+                }
+              }
+            },
+            "rasi": {
+              "id": 11,
+              "name": "Meena",
+              "lord": {
+                "id": 5,
+                "name": "Jupiter",
+                "vedic_name": "Guru"
+              }
+            },
+            "nakshatra": {
+              "id": 24,
+              "name": "Purva Bhadrapada",
+              "lord": {
+                "id": 5,
+                "name": "Jupiter",
+                "vedic_name": "Guru"
+              },
+              "pada": 4
+            },
+            "nakshatra_lord": {
+              "id": 5,
+              "name": "Jupiter",
+              "vedic_name": "Guru"
+            },
+            "sub_lord": {
+              "id": 4,
+              "name": "Mars",
+              "vedic_name": "Kuja"
+            },
+            "sub_sub_lord": {
+              "id": 5,
+              "name": "Jupiter",
+              "vedic_name": "Guru"
+            }
+          },
+          {
+            "house": {
+              "id": 9,
+              "name": "Karma",
+              "number": 10
+            },
+            "start_cusp": {
+              "longitude": 2.5718245799078723,
+              "degree": 2.5718245799078723,
+              "rasi": {
+                "id": 0,
+                "name": "Mesha",
+                "lord": {
+                  "id": 4,
+                  "name": "Mars",
+                  "vedic_name": "Kuja"
+                }
+              }
+            },
+            "end_cusp": {
+              "longitude": 38.8546719504899,
+              "degree": 8.854671950489902,
+              "rasi": {
+                "id": 1,
+                "name": "Vrishabha",
+                "lord": {
+                  "id": 3,
+                  "name": "Venus",
+                  "vedic_name": "Shukra"
+                }
+              }
+            },
+            "rasi": {
+              "id": 0,
+              "name": "Mesha",
+              "lord": {
+                "id": 4,
+                "name": "Mars",
+                "vedic_name": "Kuja"
+              }
+            },
+            "nakshatra": {
+              "id": 0,
+              "name": "Ashwini",
+              "lord": {
+                "id": 102,
+                "name": "Ketu",
+                "vedic_name": "Ketu"
+              },
+              "pada": 1
+            },
+            "nakshatra_lord": {
+              "id": 102,
+              "name": "Ketu",
+              "vedic_name": "Ketu"
+            },
+            "sub_lord": {
+              "id": 3,
+              "name": "Venus",
+              "vedic_name": "Shukra"
+            },
+            "sub_sub_lord": {
+              "id": 2,
+              "name": "Mercury",
+              "vedic_name": "Budha"
+            }
+          },
+          {
+            "house": {
+              "id": 10,
+              "name": "Labha",
+              "number": 11
+            },
+            "start_cusp": {
+              "longitude": 38.8546719504899,
+              "degree": 8.854671950489902,
+              "rasi": {
+                "id": 1,
+                "name": "Vrishabha",
+                "lord": {
+                  "id": 3,
+                  "name": "Venus",
+                  "vedic_name": "Shukra"
+                }
+              }
+            },
+            "end_cusp": {
+              "longitude": 73.93273946410288,
+              "degree": 13.93273946410288,
+              "rasi": {
+                "id": 2,
+                "name": "Mithuna",
+                "lord": {
+                  "id": 2,
+                  "name": "Mercury",
+                  "vedic_name": "Budha"
+                }
+              }
+            },
+            "rasi": {
+              "id": 1,
+              "name": "Vrishabha",
+              "lord": {
+                "id": 3,
+                "name": "Venus",
+                "vedic_name": "Shukra"
+              }
+            },
+            "nakshatra": {
+              "id": 2,
+              "name": "Krithika",
+              "lord": {
+                "id": 0,
+                "name": "Sun",
+                "vedic_name": "Ravi"
+              },
+              "pada": 4
+            },
+            "nakshatra_lord": {
+              "id": 0,
+              "name": "Sun",
+              "vedic_name": "Ravi"
+            },
+            "sub_lord": {
+              "id": 3,
+              "name": "Venus",
+              "vedic_name": "Shukra"
+            },
+            "sub_sub_lord": {
+              "id": 101,
+              "name": "Rahu",
+              "vedic_name": "Rahu"
+            }
+          },
+          {
+            "house": {
+              "id": 11,
+              "name": "Vyaya",
+              "number": 12
+            },
+            "start_cusp": {
+              "longitude": 73.93273946410288,
+              "degree": 13.93273946410288,
+              "rasi": {
+                "id": 2,
+                "name": "Mithuna",
+                "lord": {
+                  "id": 2,
+                  "name": "Mercury",
+                  "vedic_name": "Budha"
+                }
+              }
+            },
+            "end_cusp": {
+              "longitude": 104.16720677735651,
+              "degree": 14.167206777356512,
+              "rasi": {
+                "id": 3,
+                "name": "Karka",
+                "lord": {
+                  "id": 1,
+                  "name": "Moon",
+                  "vedic_name": "Chandra"
+                }
+              }
+            },
+            "rasi": {
+              "id": 2,
+              "name": "Mithuna",
+              "lord": {
+                "id": 2,
+                "name": "Mercury",
+                "vedic_name": "Budha"
+              }
+            },
+            "nakshatra": {
+              "id": 5,
+              "name": "Ardra",
+              "lord": {
+                "id": 101,
+                "name": "Rahu",
+                "vedic_name": "Rahu"
+              },
+              "pada": 3
+            },
+            "nakshatra_lord": {
+              "id": 101,
+              "name": "Rahu",
+              "vedic_name": "Rahu"
+            },
+            "sub_lord": {
+              "id": 2,
+              "name": "Mercury",
+              "vedic_name": "Budha"
+            },
+            "sub_sub_lord": {
+              "id": 5,
+              "name": "Jupiter",
+              "vedic_name": "Guru"
+            }
+          }
+        ],
+        "planet_positions": [
+          {
+            "planet": {
+              "id": 0,
+              "name": "Sun",
+              "vedic_name": "Ravi"
+            },
+            "nakshatra": {
+              "id": 7,
+              "name": "Pushya",
+              "lord": {
+                "id": 6,
+                "name": "Saturn",
+                "vedic_name": "Shani"
+              },
+              "pada": 4
+            },
+            "house": {
+              "id": 0,
+              "name": "Tanu",
+              "number": 1
+            },
+            "rasi": {
+              "id": 3,
+              "name": "Karka",
+              "lord": {
+                "id": 1,
+                "name": "Moon",
+                "vedic_name": "Chandra"
+              }
+            },
+            "sign_degree": 14.959069870103718,
+            "sign_degree_dms": "14° 57‘ 32“",
+            "longitude": 104.95906987010372,
+            "longitude_dms": "104° 57‘ 32“",
+            "nakshatra_lord": {
+              "id": 6,
+              "name": "Saturn",
+              "vedic_name": "Shani"
+            },
+            "sub_lord": {
+              "id": 5,
+              "name": "Jupiter",
+              "vedic_name": "Guru"
+            },
+            "sub_sub_lord": {
+              "id": 5,
+              "name": "Jupiter",
+              "vedic_name": "Guru"
+            }
+          },
+          {
+            "planet": {
+              "id": 1,
+              "name": "Moon",
+              "vedic_name": "Chandra"
+            },
+            "nakshatra": {
+              "id": 23,
+              "name": "Shatabhisha",
+              "lord": {
+                "id": 101,
+                "name": "Rahu",
+                "vedic_name": "Rahu"
+              },
+              "pada": 4
+            },
+            "house": {
+              "id": 7,
+              "name": "Randhra",
+              "number": 8
+            },
+            "rasi": {
+              "id": 10,
+              "name": "Kumbha",
+              "lord": {
+                "id": 6,
+                "name": "Saturn",
+                "vedic_name": "Shani"
+              }
+            },
+            "sign_degree": 17.21262920851484,
+            "sign_degree_dms": "17° 12‘ 45“",
+            "longitude": 317.21262920851484,
+            "longitude_dms": "317° 12‘ 45“",
+            "nakshatra_lord": {
+              "id": 101,
+              "name": "Rahu",
+              "vedic_name": "Rahu"
+            },
+            "sub_lord": {
+              "id": 3,
+              "name": "Venus",
+              "vedic_name": "Shukra"
+            },
+            "sub_sub_lord": {
+              "id": 2,
+              "name": "Mercury",
+              "vedic_name": "Budha"
+            }
+          },
+          {
+            "planet": {
+              "id": 2,
+              "name": "Mercury",
+              "vedic_name": "Budha"
+            },
+            "nakshatra": {
+              "id": 6,
+              "name": "Punarvasu",
+              "lord": {
+                "id": 5,
+                "name": "Jupiter",
+                "vedic_name": "Guru"
+              },
+              "pada": 2
+            },
+            "house": {
+              "id": 11,
+              "name": "Vyaya",
+              "number": 12
+            },
+            "rasi": {
+              "id": 2,
+              "name": "Mithuna",
+              "lord": {
+                "id": 2,
+                "name": "Mercury",
+                "vedic_name": "Budha"
+              }
+            },
+            "sign_degree": 25.634645344482024,
+            "sign_degree_dms": "25° 38‘ 4“",
+            "longitude": 85.63464534448202,
+            "longitude_dms": "85° 38‘ 4“",
+            "nakshatra_lord": {
+              "id": 5,
+              "name": "Jupiter",
+              "vedic_name": "Guru"
+            },
+            "sub_lord": {
+              "id": 2,
+              "name": "Mercury",
+              "vedic_name": "Budha"
+            },
+            "sub_sub_lord": {
+              "id": 6,
+              "name": "Saturn",
+              "vedic_name": "Shani"
+            }
+          },
+          {
+            "planet": {
+              "id": 3,
+              "name": "Venus",
+              "vedic_name": "Shukra"
+            },
+            "nakshatra": {
+              "id": 11,
+              "name": "Uttara Phalguni",
+              "lord": {
+                "id": 0,
+                "name": "Sun",
+                "vedic_name": "Ravi"
+              },
+              "pada": 2
+            },
+            "house": {
+              "id": 1,
+              "name": "Dhan",
+              "number": 2
+            },
+            "rasi": {
+              "id": 5,
+              "name": "Kanya",
+              "lord": {
+                "id": 2,
+                "name": "Mercury",
+                "vedic_name": "Budha"
+              }
+            },
+            "sign_degree": 0.263003017233558,
+            "sign_degree_dms": "0° 15‘ 46“",
+            "longitude": 150.26300301723356,
+            "longitude_dms": "150° 15‘ 46“",
+            "nakshatra_lord": {
+              "id": 0,
+              "name": "Sun",
+              "vedic_name": "Ravi"
+            },
+            "sub_lord": {
+              "id": 101,
+              "name": "Rahu",
+              "vedic_name": "Rahu"
+            },
+            "sub_sub_lord": {
+              "id": 2,
+              "name": "Mercury",
+              "vedic_name": "Budha"
+            }
+          },
+          {
+            "planet": {
+              "id": 4,
+              "name": "Mars",
+              "vedic_name": "Kuja"
+            },
+            "nakshatra": {
+              "id": 4,
+              "name": "Mrigashirsha",
+              "lord": {
+                "id": 4,
+                "name": "Mars",
+                "vedic_name": "Kuja"
+              },
+              "pada": 2
+            },
+            "house": {
+              "id": 10,
+              "name": "Labha",
+              "number": 11
+            },
+            "rasi": {
+              "id": 1,
+              "name": "Vrishabha",
+              "lord": {
+                "id": 3,
+                "name": "Venus",
+                "vedic_name": "Shukra"
+              }
+            },
+            "sign_degree": 29.121489456385135,
+            "sign_degree_dms": "29° 7‘ 17“",
+            "longitude": 59.121489456385135,
+            "longitude_dms": "59° 7‘ 17“",
+            "nakshatra_lord": {
+              "id": 4,
+              "name": "Mars",
+              "vedic_name": "Kuja"
+            },
+            "sub_lord": {
+              "id": 6,
+              "name": "Saturn",
+              "vedic_name": "Shani"
+            },
+            "sub_sub_lord": {
+              "id": 1,
+              "name": "Moon",
+              "vedic_name": "Chandra"
+            }
+          },
+          {
+            "planet": {
+              "id": 5,
+              "name": "Jupiter",
+              "vedic_name": "Guru"
+            },
+            "nakshatra": {
+              "id": 7,
+              "name": "Pushya",
+              "lord": {
+                "id": 6,
+                "name": "Saturn",
+                "vedic_name": "Shani"
+              },
+              "pada": 3
+            },
+            "house": {
+              "id": 11,
+              "name": "Vyaya",
+              "number": 12
+            },
+            "rasi": {
+              "id": 3,
+              "name": "Karka",
+              "lord": {
+                "id": 1,
+                "name": "Moon",
+                "vedic_name": "Chandra"
+              }
+            },
+            "sign_degree": 12.825469501114398,
+            "sign_degree_dms": "12° 49‘ 31“",
+            "longitude": 102.8254695011144,
+            "longitude_dms": "102° 49‘ 31“",
+            "nakshatra_lord": {
+              "id": 6,
+              "name": "Saturn",
+              "vedic_name": "Shani"
+            },
+            "sub_lord": {
+              "id": 4,
+              "name": "Mars",
+              "vedic_name": "Kuja"
+            },
+            "sub_sub_lord": {
+              "id": 1,
+              "name": "Moon",
+              "vedic_name": "Chandra"
+            }
+          },
+          {
+            "planet": {
+              "id": 6,
+              "name": "Saturn",
+              "vedic_name": "Shani"
+            },
+            "nakshatra": {
+              "id": 26,
+              "name": "Revati",
+              "lord": {
+                "id": 2,
+                "name": "Mercury",
+                "vedic_name": "Budha"
+              },
+              "pada": 2
+            },
+            "house": {
+              "id": 8,
+              "name": "Dharma",
+              "number": 9
+            },
+            "rasi": {
+              "id": 11,
+              "name": "Meena",
+              "lord": {
+                "id": 5,
+                "name": "Jupiter",
+                "vedic_name": "Guru"
+              }
+            },
+            "sign_degree": 20.49486843298513,
+            "sign_degree_dms": "20° 29‘ 41“",
+            "longitude": 350.49486843298513,
+            "longitude_dms": "350° 29‘ 41“",
+            "nakshatra_lord": {
+              "id": 2,
+              "name": "Mercury",
+              "vedic_name": "Budha"
+            },
+            "sub_lord": {
+              "id": 3,
+              "name": "Venus",
+              "vedic_name": "Shukra"
+            },
+            "sub_sub_lord": {
+              "id": 5,
+              "name": "Jupiter",
+              "vedic_name": "Guru"
+            }
+          },
+          {
+            "planet": {
+              "id": 100,
+              "name": "Ascendant",
+              "vedic_name": "Lagna"
+            },
+            "nakshatra": {
+              "id": 7,
+              "name": "Pushya",
+              "lord": {
+                "id": 6,
+                "name": "Saturn",
+                "vedic_name": "Shani"
+              },
+              "pada": 4
+            },
+            "house": {
+              "id": 0,
+              "name": "Tanu",
+              "number": 1
+            },
+            "rasi": {
+              "id": 3,
+              "name": "Karka",
+              "lord": {
+                "id": 1,
+                "name": "Moon",
+                "vedic_name": "Chandra"
+              }
+            },
+            "sign_degree": 14.167206777356512,
+            "sign_degree_dms": "14° 10‘ 1“",
+            "longitude": 104.16720677735651,
+            "longitude_dms": "104° 10‘ 1“",
+            "nakshatra_lord": {
+              "id": 6,
+              "name": "Saturn",
+              "vedic_name": "Shani"
+            },
+            "sub_lord": {
+              "id": 101,
+              "name": "Rahu",
+              "vedic_name": "Rahu"
+            },
+            "sub_sub_lord": {
+              "id": 102,
+              "name": "Ketu",
+              "vedic_name": "Ketu"
+            }
+          },
+          {
+            "planet": {
+              "id": 101,
+              "name": "Rahu",
+              "vedic_name": "Rahu"
+            },
+            "nakshatra": {
+              "id": 23,
+              "name": "Shatabhisha",
+              "lord": {
+                "id": 101,
+                "name": "Rahu",
+                "vedic_name": "Rahu"
+              },
+              "pada": 1
+            },
+            "house": {
+              "id": 7,
+              "name": "Randhra",
+              "number": 8
+            },
+            "rasi": {
+              "id": 10,
+              "name": "Kumbha",
+              "lord": {
+                "id": 6,
+                "name": "Saturn",
+                "vedic_name": "Shani"
+              }
+            },
+            "sign_degree": 6.695150413623878,
+            "sign_degree_dms": "6° 41‘ 42“",
+            "longitude": 306.6951504136239,
+            "longitude_dms": "306° 41‘ 42“",
+            "nakshatra_lord": {
+              "id": 101,
+              "name": "Rahu",
+              "vedic_name": "Rahu"
+            },
+            "sub_lord": {
+              "id": 101,
+              "name": "Rahu",
+              "vedic_name": "Rahu"
+            },
+            "sub_sub_lord": {
+              "id": 101,
+              "name": "Rahu",
+              "vedic_name": "Rahu"
+            }
+          },
+          {
+            "planet": {
+              "id": 102,
+              "name": "Ketu",
+              "vedic_name": "Ketu"
+            },
+            "nakshatra": {
+              "id": 9,
+              "name": "Magha",
+              "lord": {
+                "id": 102,
+                "name": "Ketu",
+                "vedic_name": "Ketu"
+              },
+              "pada": 3
+            },
+            "house": {
+              "id": 1,
+              "name": "Dhan",
+              "number": 2
+            },
+            "rasi": {
+              "id": 4,
+              "name": "Simha",
+              "lord": {
+                "id": 0,
+                "name": "Sun",
+                "vedic_name": "Ravi"
+              }
+            },
+            "sign_degree": 6.695150413623878,
+            "sign_degree_dms": "6° 41‘ 42“",
+            "longitude": 126.69515041362388,
+            "longitude_dms": "126° 41‘ 42“",
+            "nakshatra_lord": {
+              "id": 102,
+              "name": "Ketu",
+              "vedic_name": "Ketu"
+            },
+            "sub_lord": {
+              "id": 101,
+              "name": "Rahu",
+              "vedic_name": "Rahu"
+            },
+            "sub_sub_lord": {
+              "id": 2,
+              "name": "Mercury",
+              "vedic_name": "Budha"
+            }
+          }
+        ]
+      }
+    }
+  }
+}
