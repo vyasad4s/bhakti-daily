@@ -130,6 +130,10 @@
     "lastUpdated": "2026-07-27"
   },
   {
+    "term": "ahir budhnya",
+    "definition": "the serpent of the deep. The deity of Uttara Bhādrapadā nakṣatra, representing the primal, stabilizing force in the cosmic waters — not flashy, but deep, steady, and unshakable."
+  },
+  {
     "term": "akṣarāṇām",
     "transliteration": "akṣarāṇām",
     "type": "genitive plural",
@@ -1243,6 +1247,15 @@
     ]
   },
   {
+    "term": "lastUpdated",
+    "transliteration": "2026-08-01",
+    "type": "",
+    "definition": "",
+    "roots": "",
+    "references": [],
+    "themes": []
+  },
+  {
     "term": "loka-kṣaya-kṛt",
     "transliteration": "loka-kṣaya-kṛt",
     "type": "compound",
@@ -1277,6 +1290,10 @@
     ]
   },
   {
+    "term": "mad-bhaktaḥ",
+    "definition": "My devotee; mat (My) + bhaktaḥ (devotee, one who possesses bhakti). Bhakti is not emotion; it is the sustained orientation of the heart toward the Supreme Person as the object of love and service."
+  },
+  {
     "term": "madhyaṁ",
     "transliteration": "madhyaṁ",
     "type": "noun",
@@ -1403,6 +1420,14 @@
     "lastUpdated": "2026-07-28"
   },
   {
+    "term": "mat-karma-kṛt",
+    "definition": "one who engages in My activities; mat (My) + karma (activities, work) + kṛt (doer/engager). Not karma as bondage, but every action offered as service — cooking, cleaning, working, speaking — done with the consciousness: “This is for You.”"
+  },
+  {
+    "term": "mat-paramaḥ",
+    "definition": "whose supreme goal is Me; mat (My) + paramaḥ (highest, supreme goal). The intellect’s highest reference point is Kṛṣṇa; all other pursuits are secondary. Not abandonment of duties, but reorientation of purpose."
+  },
+  {
     "term": "mattaḥ",
     "transliteration": "mattaḥ",
     "type": "pronoun",
@@ -1527,6 +1552,10 @@
       "adhyaksa"
     ],
     "lastUpdated": "2026-07-27"
+  },
+  {
+    "term": "meena",
+    "definition": "Pisces. The mutable-water sign of dissolution, compassion, and the return to the source. Governs the vision of unity, the breaking down of barriers between self and other."
   },
   {
     "term": "munīnām",
@@ -1656,6 +1685,10 @@
     ]
   },
   {
+    "term": "nirvairaḥ",
+    "definition": "devoid of envy, free from hostility; nir (without) + vairaḥ (envy, hostility, rivalry). The natural fruit of seeing Kṛṣṇa everywhere: no jealousy toward others’ blessings, no competition for limited resources, no ill-will — because all beings are seen as parts of the same whole."
+  },
+  {
     "term": "paramparā",
     "transliteration": "paramparā",
     "type": "noun",
@@ -1688,6 +1721,10 @@
       "agama-sruti",
       "full-moon-purnima"
     ]
+  },
+  {
+    "term": "pañcamī",
+    "definition": "the fifth. The tithi following Caturthī, representing stabilization, consolidation, and the grounding of what was removed or revealed on the fourth."
   },
   {
     "term": "prabhavo",
@@ -1953,6 +1990,10 @@
     ]
   },
   {
+    "term": "ravivāra",
+    "definition": "Sunday. Ruled by Surya (Sun), the illuminator, the source of clarity and vitality. Not the creator of vision, but the revealer of what is already there."
+  },
+  {
     "term": "raviḥ",
     "definition": "the sun; the chief luminary, source of daylight and vitality",
     "references": [
@@ -2197,6 +2238,14 @@
     ]
   },
   {
+    "term": "saṅga-varjitaḥ",
+    "definition": "free from association; saṅga (association, connection) + varjitaḥ (given up, avoided). Not isolation, but freedom from contaminating motives: association with sense gratification, speculative philosophy, or fruitive desires that distract from bhakti."
+  },
+  {
+    "term": "saṅkaṣṭhī",
+    "definition": "obstacle-removing; from saṅkaṣṭa (obstacle, impediment) + hī (remover). Caturthī (the fourth tithi) is traditionally the day for removing obstacles through the grace of Gaṇeśa. In the context of bhakti, the obstacle is the false identification that blocks the soul’s direct approach to Kṛṣṇa."
+  },
+  {
     "term": "sthāvarāṇāṁ",
     "transliteration": "sthāvarāṇāṁ",
     "type": "genitive plural",
@@ -2417,6 +2466,10 @@
       "attainment"
     ],
     "lastUpdated": "2026-07-27"
+  },
+  {
+    "term": "uttara bhadrapada",
+    "definition": "the latter good foot. Ruled by Ahir Budhnya, the serpent of the depths. Governs stability, deep waters, patience, and the unshakable foundation. The foot that remains steady while the world moves."
   },
   {
     "term": "uśanā",
@@ -2958,15 +3011,7 @@
       "shravana-nakshatra",
       "agama-sruti",
       "full-moon-purnima"
-    ]
-  },
-  {
-    "term": "lastUpdated",
-    "transliteration": "2026-08-01",
-    "type": "",
-    "definition": "",
-    "roots": "",
-    "references": [],
-    "themes": []
+    ],
+    "lastUpdated": "2026-08-02"
   }
 ]
