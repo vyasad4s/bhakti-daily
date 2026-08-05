@@ -3153,5 +3153,263 @@
     "references": [],
     "themes": [],
     "lastUpdated": "2026-08-03"
+  },
+  {
+    "term": "aditya",
+    "transliteration": "āditya",
+    "type": "noun",
+    "definition": "One of the twelve solar deities, sons of Aditi, representing various aspects of divine light and cosmic governance",
+    "roots": "from aditi (boundless, infinite)",
+    "references": [
+      "BG 11.6"
+    ],
+    "themes": [
+      "solar-deity",
+      "vedic-gods",
+      "light"
+    ],
+    "lastUpdated": "2026-08-04"
+  },
+  {
+    "term": "vasu",
+    "transliteration": "vasu",
+    "type": "noun",
+    "definition": "One of the eight elemental deities representing earth, water, fire, air, space, sun, moon, and stars",
+    "roots": "from vas (to dwell, to shine)",
+    "references": [
+      "BG 11.6"
+    ],
+    "themes": [
+      "elemental-deity",
+      "vedic-gods",
+      "nature-forces"
+    ],
+    "lastUpdated": "2026-08-04"
+  },
+  {
+    "term": "rudra",
+    "transliteration": "rudra",
+    "type": "noun",
+    "definition": "A form of Shiva representing the destructive/transformative aspect of divine consciousness",
+    "roots": "from rud (to cry, to howl)",
+    "references": [
+      "BG 11.6"
+    ],
+    "themes": [
+      "transformative-deity",
+      "shaiva",
+      "destruction-renewal"
+    ],
+    "lastUpdated": "2026-08-04"
+  },
+  {
+    "term": "asvina",
+    "transliteration": "aśvina",
+    "type": "noun (dual)",
+    "definition": "The divine twin horsemen, physicians of the gods, representing healing and dawn",
+    "roots": "from ashva (horse)",
+    "references": [
+      "BG 11.6"
+    ],
+    "themes": [
+      "healing-deity",
+      "vedic-twins",
+      "dawn"
+    ],
+    "lastUpdated": "2026-08-04"
+  },
+  {
+    "term": "marut",
+    "transliteration": "marut",
+    "type": "noun",
+    "definition": "Storm gods, companions of Indra, representing vital breath and energetic movement",
+    "roots": "uncertain, possibly from marut (to crush, to grind)",
+    "references": [
+      "BG 11.6"
+    ],
+    "themes": [
+      "storm-deity",
+      "vedic-gods",
+      "wind-force"
+    ],
+    "lastUpdated": "2026-08-04"
+  },
+  {
+    "term": "adrsta-purvana",
+    "transliteration": "adṛṣṭa-pūrvaṇi",
+    "type": "compound",
+    "definition": "Things not seen before; novel perception that arises when habitual conditioning is suspended",
+    "roots": "from adṛṣṭa (not seen) + pūrva (before, former)",
+    "references": [
+      "BG 11.6"
+    ],
+    "themes": [
+      "perception",
+      "novelty",
+      "direct-experience"
+    ],
+    "lastUpdated": "2026-08-04"
+  },
+  {
+    "term": "ascarya",
+    "transliteration": "āścarya",
+    "type": "noun",
+    "definition": "Wondrous, marvelous, astonishing - the quality of direct perception unfiltered by conceptual overlay",
+    "roots": "from āścaryam (wonder, amazement)",
+    "references": [
+      "BG 11.6"
+    ],
+    "themes": [
+      "wonder",
+      "astonishment",
+      "direct-perception"
+    ],
+    "lastUpdated": "2026-08-04"
+  },
+  {
+    "term": "bharata",
+    "transliteration": "bharata",
+    "type": "noun",
+    "definition": "Descendant of Bharata, archetypal righteous warrior, addressing Arjuna as the ideal discerning practitioner",
+    "roots": "from bharati (to maintain, to support)",
+    "references": [
+      "BG 11.6"
+    ],
+    "themes": [
+      "archetype",
+      "warrior",
+      "righteousness",
+      "address"
+    ],
+    "lastUpdated": "2026-08-04"
+  },
+  {
+    "term": "aditya",
+    "transliteration": "āditya",
+    "type": "noun",
+    "definition": "One of the twelve solar deities, sons of Aditi, representing various aspects of divine light and cosmic governance",
+    "roots": "from aditi (boundless, infinite)",
+    "references": [
+      "BG 11.6"
+    ],
+    "themes": [
+      "solar-deity",
+      "vedic-gods",
+      "light"
+    ],
+    "lastUpdated": "2026-08-04"
+  },
+  {
+    "term": "vasu",
+    "transliteration": "vasu",
+    "type": "noun",
+    "definition": "One of the eight elemental deities representing earth, water, fire, air, space, sun, moon, and stars",
+    "roots": "from vas (to dwell, to shine)",
+    "references": [
+      "BG 11.6"
+    ],
+    "themes": [
+      "elemental-deity",
+      "vedic-gods",
+      "nature-forces"
+    ],
+    "lastUpdated": "2026-08-04"
+  },
+  {
+    "term": "rudra",
+    "transliteration": "rudra",
+    "type": "noun",
+    "definition": "A form of Shiva representing the destructive/transformative aspect of divine consciousness",
+    "roots": "from rud (to cry, to howl)",
+    "references": [
+      "BG 11.6"
+    ],
+    "themes": [
+      "transformative-deity",
+      "shaiva",
+      "destruction-renewal"
+    ],
+    "lastUpdated": "2026-08-04"
+  },
+  {
+    "term": "asvina",
+    "transliteration": "aśvina",
+    "type": "noun (dual)",
+    "definition": "The divine twin horsemen, physicians of the gods, representing healing and dawn",
+    "roots": "from ashva (horse)",
+    "references": [
+      "BG 11.6"
+    ],
+    "themes": [
+      "healing-deity",
+      "vedic-twins",
+      "dawn"
+    ],
+    "lastUpdated": "2026-08-04"
+  },
+  {
+    "term": "marut",
+    "transliteration": "marut",
+    "type": "noun",
+    "definition": "Storm gods, companions of Indra, representing vital breath and energetic movement",
+    "roots": "uncertain, possibly from marut (to crush, to grind)",
+    "references": [
+      "BG 11.6"
+    ],
+    "themes": [
+      "storm-deity",
+      "vedic-gods",
+      "wind-force"
+    ],
+    "lastUpdated": "2026-08-04"
+  },
+  {
+    "term": "adrsta-purvana",
+    "transliteration": "adṛṣṭa-pūrvaṇi",
+    "type": "compound",
+    "definition": "Things not seen before; novel perception that arises when habitual conditioning is suspended",
+    "roots": "from adṛṣṭa (not seen) + pūrva (before, former)",
+    "references": [
+      "BG 11.6"
+    ],
+    "themes": [
+      "perception",
+      "novelty",
+      "direct-experience"
+    ],
+    "lastUpdated": "2026-08-04"
+  },
+  {
+    "term": "ascarya",
+    "transliteration": "āścarya",
+    "type": "noun",
+    "definition": "Wondrous, marvelous, astonishing - the quality of direct perception unfiltered by conceptual overlay",
+    "roots": "from āścaryam (wonder, amazement)",
+    "references": [
+      "BG 11.6"
+    ],
+    "themes": [
+      "wonder",
+      "astonishment",
+      "direct-perception"
+    ],
+    "lastUpdated": "2026-08-04"
+  },
+  {
+    "term": "bharata",
+    "transliteration": "bharata",
+    "type": "noun",
+    "definition": "Descendant of Bharata, archetypal righteous warrior, addressing Arjuna as the ideal discerning practitioner",
+    "roots": "from bharati (to maintain, to support)",
+    "references": [
+      "BG 11.6"
+    ],
+    "themes": [
+      "archetype",
+      "warrior",
+      "righteousness",
+      "address"
+    ],
+    "lastUpdated": "2026-08-04"
   }
 ]

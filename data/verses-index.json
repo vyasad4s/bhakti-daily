@@ -3639,7 +3639,45 @@
         "budha",
         "bhavasamanvita"
       ]
+    },
+    {
+      "date": "2026-08-04",
+      "source": "BG 11.6",
+      "chapter": 11,
+      "verse": 6,
+      "text": "Bhagavad Gita",
+      "tithi": "Kṛṣṇa Pakṣa Ṣaṣṭhī → Saptami",
+      "nakshatra": "Revatī → Aśvinī",
+      "yoga": "Dhṛti → Sūla",
+      "themes": [
+        "divine-manifestations",
+        "adṛṣṭa-pūrvāṇi",
+        "āścaryāṇi",
+        "revatī-aśvinī",
+        "gandamool-nakshatra",
+        "amṛt-siddhi",
+        "sarvārtha-siddhi"
+      ]
+    },
+    {
+      "date": "2026-08-04",
+      "source": "BG 11.6",
+      "chapter": 11,
+      "verse": 6,
+      "text": "Bhagavad Gita",
+      "tithi": "Kṛṣṇa Pakṣa Ṣaṣṭhī → Saptami",
+      "nakshatra": "Revatī → Aśvinī",
+      "yoga": "Dhṛti → Sūla",
+      "themes": [
+        "divine-manifestations",
+        "adṛṣṭa-pūrvāṇi",
+        "āścaryāṇi",
+        "revatī-aśvinī",
+        "gandamool-nakshatra",
+        "amṛt-siddhi",
+        "sarvārtha-siddhi"
+      ]
     }
   ],
-  "lastUpdated": "2026-08-02"
+  "lastUpdated": "2026-08-04"
 }
