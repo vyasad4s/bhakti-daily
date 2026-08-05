@@ -3677,7 +3677,50 @@
         "amṛt-siddhi",
         "sarvārtha-siddhi"
       ]
-    }
+    },
+    [
+      {
+        "date": "2026-08-05",
+        "source": "BG 11.22",
+        "chapter": 11,
+        "verse": 22,
+        "text": "Bhagavad Gita",
+        "tithi": "Kṛṣṇa Pakṣa Saptami → Ashtami",
+        "nakshatra": "Aśvinī → Bharaṇī",
+        "yoga": "Sūla → Gaṇḍa",
+        "themes": [
+          "universal-form",
+          "cosmic-beholders",
+          "all-beings-witness",
+          "kalashtami",
+          "ashvini-bharani",
+          "budhavara"
+        ],
+        "tags": [
+          "#bg11",
+          "#universalform",
+          "#vismaya",
+          "#kalashtami",
+          "#ashvinibharani",
+          "#budhavara",
+          "#sarva-bhuta-sakshi",
+          "#koplavisarga"
+        ],
+        "yogaSutraConnection": "YS I.44, YS I.43",
+        "sankhyaConcepts": [
+          "purusha-prakriti",
+          "buddhi-recognition",
+          "samatva-drishti",
+          "sarva-bhuta-sthita",
+          "tadatmya"
+        ],
+        "keyTerms": [
+          "vīkṣante",
+          "vismitāḥ",
+          "sarve"
+        ]
+      }
+    ]
   ],
-  "lastUpdated": "2026-08-04"
+  "lastUpdated": "2026-08-05"
 }
