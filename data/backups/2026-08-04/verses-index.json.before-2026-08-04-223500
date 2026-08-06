@@ -1,53 +1,6 @@
 {
   "verses": [
     {
-      "date": "2026-08-06",
-      "source": "BG 11.38",
-      "chapter": 11,
-      "verse": 38,
-      "text": "Bhagavad Gita",
-      "tithi": "K�������ṛ�������ṣ�������ṇa Pak�������ṣa A�������ṣ�������ṭamī → Navamī",
-      "nakshatra": "Bhara�������ṇī → K�������ṛttikā",
-      "yoga": "V�������ṛddhi → Dhruva",
-      "themes": [
-        "original-sanctuary",
-        "knower-of-all",
-        "divine-wisdom",
-        "guruvarā",
-        "mesha-initiation",
-        "bharani-restraint"
-      ],
-      "tags": [
-        "#bg11",
-        "#adidevah",
-        "#puranas",
-        "#paramnidhanam",
-        "#vettasi",
-        "#vedyam",
-        "#antarantarupa",
-        "#originalsanctuary",
-        "#knowerofall",
-        "#guruvarā",
-        "#mesha",
-        "#bharani"
-      ],
-      "yogaSutraConnection": "YS I.44, YS I.43, YS I.2",
-      "sankhyaConcepts": [
-        "purusha-prakrti",
-        "buddhi-recognition",
-        "consciousness-as-refuge",
-        "sattva-sthiti"
-      ],
-      "keyTerms": [
-        "ādi-deva������������������������������������������ḥ",
-        "purā���������������������������������������ṇas",
-        "para���������������������������� nidhānam",
-        "vettāsi",
-        "vedya�������������������������������ṁ",
-        "ananta-rūpa"
-      ]
-    },
-    {
       "date": "2026-08-02",
       "source": "BG 11.55",
       "chapter": 11,
@@ -3705,69 +3658,7 @@
         "amṛt-siddhi",
         "sarvārtha-siddhi"
       ]
-    },
-    {
-      "date": "2026-08-04",
-      "source": "BG 11.6",
-      "chapter": 11,
-      "verse": 6,
-      "text": "Bhagavad Gita",
-      "tithi": "Kṛṣṇa Pakṣa Ṣaṣṭhī → Saptami",
-      "nakshatra": "Revatī → Aśvinī",
-      "yoga": "Dhṛti → Sūla",
-      "themes": [
-        "divine-manifestations",
-        "adṛṣṭa-pūrvāṇi",
-        "āścaryāṇi",
-        "revatī-aśvinī",
-        "gandamool-nakshatra",
-        "amṛt-siddhi",
-        "sarvārtha-siddhi"
-      ]
-    },
-    [
-      {
-        "date": "2026-08-05",
-        "source": "BG 11.22",
-        "chapter": 11,
-        "verse": 22,
-        "text": "Bhagavad Gita",
-        "tithi": "Kṛṣṇa Pakṣa Saptami → Ashtami",
-        "nakshatra": "Aśvinī → Bharaṇī",
-        "yoga": "Sūla → Gaṇḍa",
-        "themes": [
-          "universal-form",
-          "cosmic-beholders",
-          "all-beings-witness",
-          "kalashtami",
-          "ashvini-bharani",
-          "budhavara"
-        ],
-        "tags": [
-          "#bg11",
-          "#universalform",
-          "#vismaya",
-          "#kalashtami",
-          "#ashvinibharani",
-          "#budhavara",
-          "#sarva-bhuta-sakshi",
-          "#koplavisarga"
-        ],
-        "yogaSutraConnection": "YS I.44, YS I.43",
-        "sankhyaConcepts": [
-          "purusha-prakriti",
-          "buddhi-recognition",
-          "samatva-drishti",
-          "sarva-bhuta-sthita",
-          "tadatmya"
-        ],
-        "keyTerms": [
-          "vīkṣante",
-          "vismitāḥ",
-          "sarve"
-        ]
-      }
-    ]
+    }
   ],
-  "lastUpdated": "2026-08-06"
+  "lastUpdated": "2026-08-04"
 }
