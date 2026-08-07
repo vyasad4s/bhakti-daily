@@ -1,53 +1,6 @@
 {
   "verses": [
     {
-      "date": "2026-08-06",
-      "source": "BG 11.38",
-      "chapter": 11,
-      "verse": 38,
-      "text": "Bhagavad Gita",
-      "tithi": "K�������ṛ�������ṣ�������ṇa Pak�������ṣa A�������ṣ�������ṭamī → Navamī",
-      "nakshatra": "Bhara�������ṇī → K�������ṛttikā",
-      "yoga": "V�������ṛddhi → Dhruva",
-      "themes": [
-        "original-sanctuary",
-        "knower-of-all",
-        "divine-wisdom",
-        "guruvarā",
-        "mesha-initiation",
-        "bharani-restraint"
-      ],
-      "tags": [
-        "#bg11",
-        "#adidevah",
-        "#puranas",
-        "#paramnidhanam",
-        "#vettasi",
-        "#vedyam",
-        "#antarantarupa",
-        "#originalsanctuary",
-        "#knowerofall",
-        "#guruvarā",
-        "#mesha",
-        "#bharani"
-      ],
-      "yogaSutraConnection": "YS I.44, YS I.43, YS I.2",
-      "sankhyaConcepts": [
-        "purusha-prakrti",
-        "buddhi-recognition",
-        "consciousness-as-refuge",
-        "sattva-sthiti"
-      ],
-      "keyTerms": [
-        "ādi-deva������������������������������������������ḥ",
-        "purā���������������������������������������ṇas",
-        "para���������������������������� nidhānam",
-        "vettāsi",
-        "vedya�������������������������������ṁ",
-        "ananta-rūpa"
-      ]
-    },
-    {
       "date": "2026-08-02",
       "source": "BG 11.55",
       "chapter": 11,
@@ -3769,5 +3722,5 @@
       }
     ]
   ],
-  "lastUpdated": "2026-08-06"
+  "lastUpdated": "2026-08-05"
 }
