@@ -1,6 +1,43 @@
 {
   "verses": [
     {
+      "date": "2026-08-13",
+      "source": "BG 11.8",
+      "chapter": 11,
+      "verse": 8,
+      "text": "Bhagavad Gita",
+      "tithi": "Sukla Paksha Pratipada → Sukla Paksha Dwitiya (transition at 11:11 AM)",
+      "nakshatra": "Magha → Purva Phalguni (transition at 7:08 PM)",
+      "yoga": "Parigha (until 11:58 PM) then Siva",
+      "themes": [
+        "Chandra Darshan",
+        "Divine Eyes",
+        "Perception Threshold",
+        "Grace",
+        "Faith Devotion"
+      ],
+      "tags": [
+        "#ChandraDarshan",
+        "#DivineEyes",
+        "#PerceptionThreshold",
+        "#BG11",
+        "#YS1.20"
+      ],
+      "yogaSutraConnection": "YS 1.20",
+      "sankhyaConcepts": [
+        "purusha-prak�ṛti dualism",
+        "sense purification",
+        "divine grace",
+        "indriya limitation",
+        "higher perception"
+      ],
+      "keyTerms": [
+        "na tu mā�������ṁ śakyase dra�������ṣ�������ṭum",
+        "divya�������ṁ dadāmi te cak�������ṣu��������������ḥ",
+        "paśya me yogam aiśvaram"
+      ]
+    },
+    {
       "date": "2026-08-12",
       "source": "BG 11.50",
       "chapter": 11,
@@ -3815,5 +3852,5 @@
       }
     ]
   ],
-  "lastUpdated": "2026-08-12"
+  "lastUpdated": "2026-08-13"
 }
