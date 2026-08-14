@@ -33,6 +33,21 @@
       ]
     },
     {
+      "term": "bhāsaḥ mahātmanaḥ",
+      "transliteration": "bhāsaḥ mahātmanaḥ",
+      "type": "phrase",
+      "definition": "\"the effulgence of the great soul\"; bhāsaḥ denotes active, self-luminous radiance intrinsic to the Lord's being, not external light.",
+      "roots": "",
+      "references": [
+        "BG 11.12"
+      ],
+      "themes": [
+        "effulgence",
+        "radiance",
+        "nature"
+      ]
+    },
+    {
       "term": "daṁṣṭrā-karālāni",
       "transliteration": "daṁṣṭrā-karālāni",
       "type": "adjective",
@@ -65,6 +80,36 @@
       ]
     },
     {
+      "term": "dhruva",
+      "transliteration": "dhruva",
+      "type": "noun/adjective",
+      "definition": "\"fixed, immovable\"; the pole star yoga. Maps onto puruṣa in Sāṅkhya: never moves, never changes, the fixed reference for all movement.",
+      "roots": "",
+      "references": [
+        "BG 11.12"
+      ],
+      "themes": [
+        "yoga",
+        "fixedness",
+        "pole-star"
+      ]
+    },
+    {
+      "term": "divi sūrya-sahasrasya bhavet",
+      "transliteration": "divi sūrya-sahasrasya bhavet",
+      "type": "phrase",
+      "definition": "the hypothetical magnitude that would still fall short of the universal form's effulgence. Sanskrit uses the conditional mood deliberately: the comparison is an approximation offered by language's limitations.",
+      "roots": "",
+      "references": [
+        "BG 11.12"
+      ],
+      "themes": [
+        "effulgence",
+        "comparison",
+        "limitation"
+      ]
+    },
+    {
       "term": "divyaṁ dadāmi te cakṣuḥ",
       "transliteration": "divyaṁ dadāmi te cakṣuḥ",
       "type": "phrase",
@@ -93,6 +138,22 @@
         "knowledge-fire",
         "karma-burning",
         "transcendental-understanding"
+      ]
+    },
+    {
+      "term": "hṛṣīkeśa",
+      "transliteration": "hṛṣīkeśa",
+      "type": "masculine noun",
+      "definition": "\"master of all senses\"; acknowledges that the hṛṣīka — senses and mind — belong to Īśvara. When recognized, the senses stop running wild and become instruments of bhakti. Equivalent to reclaiming root access from a compromised process.",
+      "roots": "from hṛṣīka (senses) + īśa (master, lord)",
+      "references": [
+        "BG 11.36"
+      ],
+      "themes": [
+        "senses",
+        "mastery",
+        "ishvara",
+        "surrender"
       ]
     },
     {
@@ -158,6 +219,21 @@
       ]
     },
     {
+      "term": "navamī",
+      "transliteration": "navamī",
+      "type": "noun",
+      "definition": "\"the ninth\"; Kṛṣṇa Pakṣa Navamī marks the final threshold before Amāvāsyā. Completion energy: finish what needs finishing.",
+      "roots": "",
+      "references": [
+        "BG 11.12"
+      ],
+      "themes": [
+        "tithi",
+        "completion",
+        "threshold"
+      ]
+    },
+    {
       "term": "paraṁ nidhānam",
       "transliteration": "paraṁ nidhānam",
       "type": "noun",
@@ -185,6 +261,22 @@
         "opulence",
         "divine-powers",
         "vision"
+      ]
+    },
+    {
+      "term": "prakīrtyā",
+      "transliteration": "prakīrtyā",
+      "type": "feminine noun, instrumental case",
+      "definition": "\"by the glories, by recounting\"; the mechanism of transformation. The Lord's glories are active — they reorganize reality around themselves. Demons recoil; perfected beings advance. The glories do not convert; they reveal.",
+      "roots": "from pra + √kṛ, \"to do thoroughly, to accomplish\" — the thorough act of revealing",
+      "references": [
+        "BG 11.36"
+      ],
+      "themes": [
+        "glories",
+        "revelation",
+        "transformation",
+        "nama-sankirtana"
       ]
     },
     {
@@ -220,6 +312,53 @@
       ]
     },
     {
+      "term": "rakṣāṁsi",
+      "transliteration": "rakṣāṁsi",
+      "type": "neuter noun plural",
+      "definition": "\"demons, rākṣasas\"; inner patterns of defending a false identity. When truth is spoken, they flee. Not external beings to be destroyed but the structural overlay of ego that cannot tolerate reality.",
+      "roots": "from rakṣas, \"to protect, to guard\" — the demons are those who guard the false self",
+      "references": [
+        "BG 11.36"
+      ],
+      "themes": [
+        "demons",
+        "ego",
+        "defense",
+        "unveiling"
+      ]
+    },
+    {
+      "term": "rohini",
+      "transliteration": "rohini",
+      "type": "proper noun",
+      "definition": "Aldebaran, α Tauri, the red giant 44× the Sun's diameter. Prajāpati's creative, generative nakṣatra; the fixed brilliant star of manifestation.",
+      "roots": "",
+      "references": [
+        "BG 11.12"
+      ],
+      "themes": [
+        "nakshatra",
+        "creation",
+        "creation-star"
+      ]
+    },
+    {
+      "term": "samāpatti",
+      "transliteration": "samāpatti",
+      "type": "noun",
+      "definition": "\"absorption, coalescence.\" The mind becomes transparent and takes on the color of its object. Direct perceptual transformation, not fantasy-visualization.",
+      "roots": "",
+      "references": [
+        "YS 1.41",
+        "BG 11.12"
+      ],
+      "themes": [
+        "absorption",
+        "transparency",
+        "samadhi"
+      ]
+    },
+    {
       "term": "saumya-vapuḥ",
       "transliteration": "saumya-vapuḥ",
       "type": "compound adjective",
@@ -232,6 +371,37 @@
         "cosmic-form",
         "saumya",
         "return-to-form"
+      ]
+    },
+    {
+      "term": "siddha-saṅghāḥ",
+      "transliteration": "siddha-saṅghāḥ",
+      "type": "masculine compound noun",
+      "definition": "\"the assembled perfected beings\"; those whose citta is purified and who immediately recognize the Lord. Their bowing is not new devotion — it is the consummation of lifelong orientation. Like code that finally compiles after years of debugging.",
+      "roots": "siddha (perfected) + saṅghāḥ (gathered assembly)",
+      "references": [
+        "BG 11.36"
+      ],
+      "themes": [
+        "perfection",
+        "assembly",
+        "recognition",
+        "bhakti"
+      ]
+    },
+    {
+      "term": "sthāne",
+      "transliteration": "sthāne",
+      "type": "adverb",
+      "definition": "\"rightly, fitly, appropriately\"; Arjuna's assessment that the Lord's actions are correct in every instance. The culmination of discriminative knowledge — not passive acceptance but recognition that the Lord's justice is always precisely calibrated.",
+      "roots": "from sāthā, \"properly, fittingly\"",
+      "references": [
+        "BG 11.36"
+      ],
+      "themes": [
+        "discrimination",
+        "divine-justice",
+        "appropriateness"
       ]
     },
     {
@@ -280,6 +450,23 @@
         "luminosity",
         "illumination",
         "api-key"
+      ]
+    },
+    {
+      "term": "vyāghāta",
+      "transliteration": "vyāghāta",
+      "type": "masculine noun",
+      "definition": "\"the attacker, the obstacle-smasher\"; the yoga active today. Vyāghāta smashes everything — valuable and worthless alike. It is not selective. This is why Ekādaśī paired with Vyāghāta is intense: dissolution is non-negotiable.",
+      "roots": "from √han, \"to strike, to smash\"; prefix vi- intensifies — thorough, complete striking",
+      "references": [
+        "BG 11.36",
+        "YS 2.47"
+      ],
+      "themes": [
+        "yoga",
+        "obstacle-breaking",
+        "dissolution",
+        "attack"
       ]
     },
     {
