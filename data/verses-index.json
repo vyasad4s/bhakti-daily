@@ -1,6 +1,49 @@
 {
   "verses": [
     {
+      "date": "2026-08-14",
+      "source": "BG 11.25",
+      "chapter": 11,
+      "verse": 25,
+      "text": "Bhagavad Gita",
+      "tithi": "Śukla Pakṣa Tṛtīyā (from Dwitiya at 9:17 AM)",
+      "nakshatra": "Pūrva Phālgunī → Uttara Phālguni (transition at 6:12 PM)",
+      "yoga": "Śiva → Siddha (transition at 9:38 PM)",
+      "themes": [
+        "surrender",
+        "dissolution",
+        "grace",
+        "śiva-yoga",
+        "pūrva-phālgunī",
+        "uṣṇīṣa-phālgunī"
+      ],
+      "tags": [
+        "#śiva-yoga",
+        "#surrender",
+        "#prasīda",
+        "#dissolution",
+        "#bg11",
+        "#ys-1.23",
+        "#pūrva-phālgunī"
+      ],
+      "yogaSutraConnection": "YS 1.23",
+      "sankhyaConcepts": [
+        "puruṣa-witness",
+        "prakṛti-full-display",
+        "antarāya-anavasthitatva",
+        "surrender-beyond-effort",
+        "ahaṅkāra-collapse"
+      ],
+      "keyTerms": [
+        "kālānala",
+        "śarma",
+        "prasīda",
+        "deveśa",
+        "jagan-nivāsa",
+        "īśvara-praṇidhāna"
+      ]
+    },
+    {
       "date": "2026-08-13",
       "source": "BG 11.8",
       "chapter": 11,
