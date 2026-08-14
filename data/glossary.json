@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-13",
+  "lastUpdated": "2026-08-14",
   "terms": [
     {
       "term": "amāvasyā",
@@ -33,6 +33,38 @@
       ]
     },
     {
+      "term": "daṁṣṭrā-karālāni",
+      "transliteration": "daṁṣṭrā-karālāni",
+      "type": "adjective",
+      "definition": "\"terrible teeth\"; the gaping, dreadful teeth of the universal form. Time devours all forms — like a debug trace exposing every hidden dependency, the cosmic form reveals what is truly permanent and what is only structural overlay.",
+      "roots": "",
+      "references": [
+        "BG 11.25"
+      ],
+      "themes": [
+        "cosmic-form",
+        "dissolution",
+        "time",
+        "fear"
+      ]
+    },
+    {
+      "term": "deveśa",
+      "transliteration": "deveśa",
+      "type": "masculine noun",
+      "definition": "\"Lord of lords\"; the title asserting Krishna's supremacy over every other being. All demigods tremble before this form; Arjuna bypasses them and goes directly to the source.",
+      "roots": "",
+      "references": [
+        "BG 11.25"
+      ],
+      "themes": [
+        "lord",
+        "supremacy",
+        "devas",
+        "refuge"
+      ]
+    },
+    {
       "term": "divyaṁ dadāmi te cakṣuḥ",
       "transliteration": "divyaṁ dadāmi te cakṣuḥ",
       "type": "phrase",
@@ -61,6 +93,38 @@
         "knowledge-fire",
         "karma-burning",
         "transcendental-understanding"
+      ]
+    },
+    {
+      "term": "jagan-nivāsa",
+      "transliteration": "jagan-nivāsa",
+      "type": "masculine compound noun",
+      "definition": "\"refuge of the worlds\"; the abiding home of all existence. Every temporary refuge — army, skill, status, relationship — belongs to the jagat, the moving world that passes. Krishna alone is its nivāsa.",
+      "roots": "",
+      "references": [
+        "BG 11.25"
+      ],
+      "themes": [
+        "refuge",
+        "world",
+        "abode",
+        "surrender"
+      ]
+    },
+    {
+      "term": "kālānala",
+      "transliteration": "kālānala",
+      "type": "masculine noun",
+      "definition": "\"the fire of time / death\"; the impartial, automatic dissolution of all constructed forms. Not random destruction but the operating system of the material world. Recognising this is realism, not morbidity.",
+      "roots": "",
+      "references": [
+        "BG 11.25"
+      ],
+      "themes": [
+        "time",
+        "death",
+        "dissolution",
+        "prakriti"
       ]
     },
     {
@@ -121,6 +185,23 @@
         "opulence",
         "divine-powers",
         "vision"
+      ]
+    },
+    {
+      "term": "prasīda",
+      "transliteration": "prasīda",
+      "type": "verb, imperative",
+      "definition": "\"be gracious, show favor\"; the central devotional cry of the verse. Not a demand for outcomes, but a request for restoration after confusion. Recognised helplessness is the precondition for every genuine spiritual breakthrough.",
+      "roots": "",
+      "references": [
+        "BG 11.25",
+        "YS 1.23"
+      ],
+      "themes": [
+        "grace",
+        "prayer",
+        "surrender",
+        "devotion"
       ]
     },
     {
@@ -229,6 +310,39 @@
         "devotion",
         "surrender",
         "divine-tenderness"
+      ]
+    },
+    {
+      "term": "īśvara-praṇidhāna",
+      "transliteration": "īśvara-praṇidhāna",
+      "type": "neuter compound noun",
+      "definition": "\"devotion to the Lord\"; complete surrender of will and effort to Ishvara. From YS 1.23. Not passive resignation but active dedication, cultivated when the mind is steady so it remains available when the mind is not.",
+      "roots": "",
+      "references": [
+        "YS 1.23",
+        "BG 11.25"
+      ],
+      "themes": [
+        "surrender",
+        "devotion",
+        "ishvara",
+        "yoga"
+      ]
+    },
+    {
+      "term": "śarma",
+      "transliteration": "śarma",
+      "type": "neuter noun",
+      "definition": "\"grace, divine shelter\"; the specific refuge that only surrender to the Lord provides. Arjuna cannot obtain it while citta is scattered, but the recognition of its absence is precisely the opening for its return.",
+      "roots": "",
+      "references": [
+        "BG 11.25"
+      ],
+      "themes": [
+        "grace",
+        "divine-shelter",
+        "surrender",
+        "refuge"
       ]
     }
   ]
