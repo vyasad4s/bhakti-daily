@@ -1,6 +1,48 @@
 {
   "verses": [
     {
+      "date": "2026-08-07",
+      "source": "BG 11.12",
+      "chapter": 11,
+      "verse": 12,
+      "text": "Bhagavad Gita",
+      "tithi": "Navamī (Śrāvaṇa Kṛṣṇa Pakṣa)",
+      "nakshatra": "Rohini",
+      "yoga": "Dhruva",
+      "themes": [
+        "effulgence",
+        "rohini",
+        "dhruva",
+        "navami",
+        "transparency",
+        "samapatti"
+      ],
+      "tags": [
+        "#rohini",
+        "#dhruva-yoga",
+        "#navami",
+        "#effulgence",
+        "#bg11",
+        "#ys-1.41"
+      ],
+      "yogaSutraConnection": "YS 1.41",
+      "sankhyaConcepts": [
+        "purusa-effulgence",
+        "prakrti-brilliance",
+        "samapatti",
+        "transparency",
+        "divine-vision"
+      ],
+      "keyTerms": [
+        "divi sūrya-sahasrasya bhavet",
+        "bhāsaḥ mahātmanaḥ",
+        "Rohini",
+        "Dhruva",
+        "Navamī",
+        "samāpatti"
+      ]
+    },
+    {
       "date": "2026-08-08",
       "source": "BG 11.36",
       "chapter": 11,
