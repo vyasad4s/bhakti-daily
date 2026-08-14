@@ -1,6 +1,49 @@
 {
   "verses": [
     {
+      "date": "2026-08-08",
+      "source": "BG 11.36",
+      "chapter": 11,
+      "verse": 36,
+      "text": "Bhagavad Gita",
+      "tithi": "Kṛṣṇa Pakṣa Ekādaśī (04:29 AM – Aug 9, 01:35 AM)",
+      "nakshatra": "Rohini → Mṛgaśirṣa (transition at 7:21 AM)",
+      "yoga": "Vyāghāta → Harṣaṇa (transition at 8:07 PM)",
+      "themes": [
+        "ekadaśī",
+        "vyāghāta-yoga",
+        "rohini-vrat",
+        "dissolution",
+        "surrender",
+        "glories-reveal"
+      ],
+      "tags": [
+        "#kamika-ekadashi",
+        "#vyaghata-yoga",
+        "#rohini-vrat",
+        "#siddhas",
+        "#dissolution",
+        "#bg11",
+        "#ys-2.47"
+      ],
+      "yogaSutraConnection": "YS 2.47",
+      "sankhyaConcepts": [
+        "puruṣa-witness",
+        "prakṛti-revelation",
+        "citta-response",
+        "guna-discrimination",
+        "vyāghāta-dissolution"
+      ],
+      "keyTerms": [
+        "sthāne",
+        "hṛḿīkeśa",
+        "rakṣāṃsi",
+        "siddha-saṅghāṇ",
+        "vyāghāta",
+        "prakīrtyā"
+      ]
+    },
+    {
       "date": "2026-08-14",
       "source": "BG 11.25",
       "chapter": 11,
