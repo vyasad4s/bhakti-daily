@@ -1,52 +1,6 @@
 {
   "verses": [
     {
-      "date": "2026-08-15",
-      "source": "BG 11.33",
-      "chapter": 11,
-      "verse": 33,
-      "text": "Bhagavad Gita",
-      "tithi": "Śukla Pakṣa Caturthī (from Tṛtīyā at 7:59 AM)",
-      "nakshatra": "Uttarā Phālgunī → Hastā (transition at 5:55 PM)",
-      "yoga": "Siddha → Sādhya (transition at 7:50 PM)",
-      "themes": [
-        "nimitta-mātra",
-        "instrument",
-        "caturthī",
-        "hastā",
-        "siddha-yoga",
-        "śanivāra",
-        "uttiṣṭha",
-        "kriyā-yoga"
-      ],
-      "tags": [
-        "#nimitta-mātra",
-        "#instrument",
-        "#caturthī",
-        "#hastā",
-        "#siddha-yoga",
-        "#bg11",
-        "#ys-4.3",
-        "#kriyā-yoga",
-        "#uttiṣṭha"
-      ],
-      "yogaSutraConnection": "YS IV.3, YS II.1",
-      "sankhyaConcepts": [
-        "nimitta-vs-aprayojaka",
-        "instrumental-vs-creative-cause",
-        "ahaṅkāra-stilling",
-        "kriyā-yoga-training",
-        "prakṛti-manifestation"
-      ],
-      "keyTerms": [
-        "nimitta-mātram",
-        "savya-sācin",
-        "uttiṣṭha",
-        "siddha",
-        "kriyā-yoga"
-      ]
-    },
-    {
       "date": "2026-08-07",
       "source": "BG 11.12",
       "chapter": 11,
@@ -4026,5 +3980,5 @@
       }
     ]
   ],
-  "lastUpdated": "2026-08-15"
+  "lastUpdated": "2026-08-13"
 }
