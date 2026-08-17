@@ -1,6 +1,85 @@
 {
   "verses": [
     {
+      "date": "2026-08-17",
+      "source": "BG 11.7",
+      "chapter": 11,
+      "verse": 7,
+      "text": "Bhagavad Gita",
+      "tithi": "Śukla Pakṣa Pañcamī → Ṣaṣṭhī (transition at 7:30 AM EDT)",
+      "nakshatra": "Citrā → Svātī (transition at 7:28 PM EDT)",
+      "yoga": "Subha → Śukla (transition at 5:58 PM EDT)",
+      "themes": [
+        "discrimination",
+        "viveka",
+        "universal-form",
+        "moving-nonmoving"
+      ],
+      "tags": [
+        "#discrimination",
+        "#viveka",
+        "#universal-form",
+        "#BG11",
+        "#yoga-sutra"
+      ],
+      "yogaSutraConnection": "YS 2.15",
+      "sankhyaConcepts": [
+        "Purusha-Prakriti discrimination",
+        "Consciousness as unchanging witness",
+        "Nature as dance of forms"
+      ],
+      "keyTerms": [
+        "ihaika-sthaṁ",
+        "jagat",
+        "kṛtsnaṁ",
+        "sa-carācaram",
+        "dehe",
+        "guḍākeśa",
+        "yac cānyad",
+        "draṣṭum",
+        "icchasi"
+      ]
+    },
+    {
+      "date": "2026-08-16",
+      "source": "BG 11.15",
+      "chapter": 11,
+      "verse": 15,
+      "text": "Bhagavad Gita",
+      "tithi": "Śukla Pakṣa Pañcamī (from Caturthī at 7:22 AM)",
+      "nakshatra": "Hastā → Citrā (transition at 6:20 PM)",
+      "yoga": "Sādhya → Subha (transition at 6:37 PM)",
+      "themes": [
+        "Nāg Pañcamī",
+        "divine serpents",
+        "fearlessness",
+        "cosmic vision",
+        "divine ornament",
+        "solar royalty"
+      ],
+      "tags": [
+        "#serpents",
+        "#divineVision",
+        "#fearlessness",
+        "#samapatti",
+        "#devotion",
+        "#simhaSankranti"
+      ],
+      "yogaSutraConnection": "YS I.41 + YS II.45",
+      "sankhyaConcepts": [
+        "puruṣa-prakṛti transmutation",
+        "sattvic purification",
+        "samāpatti (crystal mind)"
+      ],
+      "keyTerms": [
+        "uragāṁś ca divyān",
+        "samāpatti",
+        "maṇi",
+        "īśvara-praṇidhāna",
+        "simha"
+      ]
+    },
+    {
       "date": "2026-08-15",
       "source": "BG 11.33",
       "chapter": 11,
@@ -4026,5 +4105,5 @@
       }
     ]
   ],
-  "lastUpdated": "2026-08-15"
+  "lastUpdated": "2026-08-17"
 }
