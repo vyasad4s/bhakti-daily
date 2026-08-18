@@ -1,6 +1,52 @@
 {
   "verses": [
     {
+      "date": "2026-08-18",
+      "source": "BG 11.8",
+      "chapter": 11,
+      "verse": 8,
+      "text": "Bhagavad Gita",
+      "tithi": "Śukla Pakṣa Ṣaṣṭhī → Saptami (transition at 8:20 AM EDT)",
+      "nakshatra": "Svātī → Viśākha (transition at 9:16 PM EDT)",
+      "yoga": "Śukla → Brahma (transition at 5:52 PM EDT)",
+      "themes": [
+        "divine-vision",
+        "spiritual-sight",
+        "universal-form",
+        "non-attachment"
+      ],
+      "tags": [
+        "#divine-vision",
+        "#spiritual-sight",
+        "#universal-form",
+        "#BG11",
+        "#yoga-sutra"
+      ],
+      "yogaSutraConnection": "YS 1.3, YS 2.39",
+      "sankhyaConcepts": [
+        "Buddhi as discriminative faculty",
+        "Transcendence of senses through grace",
+        "Pure consciousness as unchanging witness"
+      ],
+      "keyTerms": [
+        "na",
+        "tu",
+        "māṁ",
+        "śakyase",
+        "draṣṭum",
+        "anenaiva",
+        "sva-cakṣuṣā",
+        "divyam",
+        "dadāmi",
+        "te",
+        "cakṣuḥ",
+        "paśya",
+        "me",
+        "yogam",
+        "aiśvaram"
+      ]
+    },
+    {
       "date": "2026-08-17",
       "source": "BG 11.7",
       "chapter": 11,
@@ -4105,5 +4151,5 @@
       }
     ]
   ],
-  "lastUpdated": "2026-08-17"
+  "lastUpdated": "2026-08-18"
 }

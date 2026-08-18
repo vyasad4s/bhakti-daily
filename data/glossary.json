@@ -1,6 +1,171 @@
 {
-  "lastUpdated": "2026-08-17",
+  "lastUpdated": "2026-08-18",
   "terms": [
+    {
+      "term": "na",
+      "transliteration": "na",
+      "type": "adverb",
+      "definition": "never.",
+      "roots": "",
+      "references": [
+        "BG 11.8"
+      ],
+      "themes": []
+    },
+    {
+      "term": "tu",
+      "transliteration": "tu",
+      "type": "particle",
+      "definition": "but.",
+      "roots": "",
+      "references": [
+        "BG 11.8"
+      ],
+      "themes": []
+    },
+    {
+      "term": "māṁ",
+      "transliteration": "mam",
+      "type": "accusative sing. of 'mad'",
+      "definition": "Me.",
+      "roots": "",
+      "references": [
+        "BG 11.8"
+      ],
+      "themes": []
+    },
+    {
+      "term": "śakyase",
+      "transliteration": "shakyase",
+      "type": "2nd person sing. verb",
+      "definition": "are able.",
+      "roots": "",
+      "references": [
+        "BG 11.8"
+      ],
+      "themes": []
+    },
+    {
+      "term": "draṣṭum",
+      "transliteration": "drashtum",
+      "type": "infinitive verb",
+      "definition": "to see, to behold.",
+      "roots": "",
+      "references": [
+        "BG 11.8"
+      ],
+      "themes": []
+    },
+    {
+      "term": "anenaiva",
+      "transliteration": "anenaiva",
+      "type": "adverb",
+      "definition": "with these alone.",
+      "roots": "",
+      "references": [
+        "BG 11.8"
+      ],
+      "themes": []
+    },
+    {
+      "term": "sva-cakṣuṣā",
+      "transliteration": "svacakshusha",
+      "type": "instrumental sing. of 'sva-cakṣus'",
+      "definition": "with your own eyes.",
+      "roots": "",
+      "references": [
+        "BG 11.8"
+      ],
+      "themes": []
+    },
+    {
+      "term": "divyam",
+      "transliteration": "divyam",
+      "type": "accusative sing. of 'divya'",
+      "definition": "divine, supernatural.",
+      "roots": "",
+      "references": [
+        "BG 11.8"
+      ],
+      "themes": []
+    },
+    {
+      "term": "dadāmi",
+      "transliteration": "dadami",
+      "type": "1st person sing. verb",
+      "definition": "I give.",
+      "roots": "",
+      "references": [
+        "BG 11.8"
+      ],
+      "themes": []
+    },
+    {
+      "term": "te",
+      "transliteration": "te",
+      "type": "dative sing. of 'tvam'",
+      "definition": "to you.",
+      "roots": "",
+      "references": [
+        "BG 11.8"
+      ],
+      "themes": []
+    },
+    {
+      "term": "cakṣuḥ",
+      "transliteration": "chakshuh",
+      "type": "accusative sing. of 'cakṣus'",
+      "definition": "eyes.",
+      "roots": "",
+      "references": [
+        "BG 11.8"
+      ],
+      "themes": []
+    },
+    {
+      "term": "paśya",
+      "transliteration": "pashya",
+      "type": "imperative verb",
+      "definition": "see, behold.",
+      "roots": "",
+      "references": [
+        "BG 11.8"
+      ],
+      "themes": []
+    },
+    {
+      "term": "me",
+      "transliteration": "me",
+      "type": "vocative sing. of 'mad'",
+      "definition": "O Me.",
+      "roots": "",
+      "references": [
+        "BG 11.8"
+      ],
+      "themes": []
+    },
+    {
+      "term": "yogam",
+      "transliteration": "yogam",
+      "type": "accusative sing. of 'yoga'",
+      "definition": "mystic power, union.",
+      "roots": "",
+      "references": [
+        "BG 11.8"
+      ],
+      "themes": []
+    },
+    {
+      "term": "aiśvaram",
+      "transliteration": "aishvaram",
+      "type": "accusative sing. of 'aiśvara'",
+      "definition": "lordship, divine power.",
+      "roots": "",
+      "references": [
+        "BG 11.8"
+      ],
+      "themes": []
+    },
     {
       "term": "ihaika-sthaṁ",
       "transliteration": "ihaika-sthan",
