@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-18",
+  "lastUpdated": "2026-08-19",
   "terms": [
     {
       "term": "na",
@@ -24,7 +24,7 @@
       "themes": []
     },
     {
-      "term": "māṁ",
+      "term": "m\u0101\u1e41",
       "transliteration": "mam",
       "type": "accusative sing. of 'mad'",
       "definition": "Me.",
@@ -35,7 +35,7 @@
       "themes": []
     },
     {
-      "term": "śakyase",
+      "term": "\u015bakyase",
       "transliteration": "shakyase",
       "type": "2nd person sing. verb",
       "definition": "are able.",
@@ -46,7 +46,7 @@
       "themes": []
     },
     {
-      "term": "draṣṭum",
+      "term": "dra\u1e63\u1e6dum",
       "transliteration": "drashtum",
       "type": "infinitive verb",
       "definition": "to see, to behold.",
@@ -68,9 +68,9 @@
       "themes": []
     },
     {
-      "term": "sva-cakṣuṣā",
+      "term": "sva-cak\u1e63u\u1e63\u0101",
       "transliteration": "svacakshusha",
-      "type": "instrumental sing. of 'sva-cakṣus'",
+      "type": "instrumental sing. of 'sva-cak\u1e63us'",
       "definition": "with your own eyes.",
       "roots": "",
       "references": [
@@ -90,7 +90,7 @@
       "themes": []
     },
     {
-      "term": "dadāmi",
+      "term": "dad\u0101mi",
       "transliteration": "dadami",
       "type": "1st person sing. verb",
       "definition": "I give.",
@@ -112,9 +112,9 @@
       "themes": []
     },
     {
-      "term": "cakṣuḥ",
+      "term": "cak\u1e63u\u1e25",
       "transliteration": "chakshuh",
-      "type": "accusative sing. of 'cakṣus'",
+      "type": "accusative sing. of 'cak\u1e63us'",
       "definition": "eyes.",
       "roots": "",
       "references": [
@@ -123,7 +123,7 @@
       "themes": []
     },
     {
-      "term": "paśya",
+      "term": "pa\u015bya",
       "transliteration": "pashya",
       "type": "imperative verb",
       "definition": "see, behold.",
@@ -156,9 +156,9 @@
       "themes": []
     },
     {
-      "term": "aiśvaram",
+      "term": "ai\u015bvaram",
       "transliteration": "aishvaram",
-      "type": "accusative sing. of 'aiśvara'",
+      "type": "accusative sing. of 'ai\u015bvara'",
       "definition": "lordship, divine power.",
       "roots": "",
       "references": [
@@ -167,7 +167,7 @@
       "themes": []
     },
     {
-      "term": "ihaika-sthaṁ",
+      "term": "ihaika-stha\u1e41",
       "transliteration": "ihaika-sthan",
       "type": "adverb",
       "definition": "in one place.",
@@ -189,7 +189,7 @@
       "themes": []
     },
     {
-      "term": "kṛtsnaṁ",
+      "term": "k\u1e5btsna\u1e41",
       "transliteration": "kritsnan",
       "type": "adjective",
       "definition": "complete, whole, entire.",
@@ -200,7 +200,7 @@
       "themes": []
     },
     {
-      "term": "sa-carācaram",
+      "term": "sa-car\u0101caram",
       "transliteration": "sa-caracaram",
       "type": "compound",
       "definition": "moving and non-moving.",
@@ -222,7 +222,7 @@
       "themes": []
     },
     {
-      "term": "guḍākeśa",
+      "term": "gu\u1e0d\u0101ke\u015ba",
       "transliteration": "gudakesha",
       "type": "masc. noun",
       "definition": "O Arjuna (epithet meaning \"lord of sleep\" or \"one with thick hair\").",
@@ -233,7 +233,7 @@
       "themes": []
     },
     {
-      "term": "yac cānyad",
+      "term": "yac c\u0101nyad",
       "transliteration": "yac canyad",
       "type": "pronoun + adjective",
       "definition": "whatever else.",
@@ -244,7 +244,7 @@
       "themes": []
     },
     {
-      "term": "draṣṭum",
+      "term": "dra\u1e63\u1e6dum",
       "transliteration": "drashtum",
       "type": "infinitive verb",
       "definition": "to see, to behold.",
@@ -266,8 +266,8 @@
       "themes": []
     },
     {
-      "term": "uragāṁś ca divyān",
-      "transliteration": "uragāṁś ca divyān",
+      "term": "urag\u0101\u1e41\u015b ca divy\u0101n",
+      "transliteration": "urag\u0101\u1e41\u015b ca divy\u0101n",
       "type": "noun",
       "definition": "And divine serpents; uraga = serpent, divya = divine, luminous, shining with inner light.",
       "roots": "uraga = serpent, divya = divine",
@@ -281,8 +281,8 @@
       ]
     },
     {
-      "term": "maṇi",
-      "transliteration": "maṇi",
+      "term": "ma\u1e47i",
+      "transliteration": "ma\u1e47i",
       "type": "noun",
       "definition": "Jewel, crystal, gem; that which reflects without altering.",
       "roots": "",
@@ -311,21 +311,21 @@
         "lion",
         "royalty",
         "sovereignty",
-        "Simha Saṁkrānti",
+        "Simha Sa\u1e41kr\u0101nti",
         "solar"
       ]
     },
     {
-      "term": "amāvasyā",
-      "transliteration": "amāvasyā",
+      "term": "am\u0101vasy\u0101",
+      "transliteration": "am\u0101vasy\u0101",
       "type": "noun",
-      "definition": "The new moon; the day when the moon is not visible, the complete waning. From ama (together) + vāsya (dwelling) — the day when sun and moon dwell together in the same lunar mansion. The void is not empty — it is a convergence.",
-      "roots": "from ama (together) + vāsya (dwelling)",
+      "definition": "The new moon; the day when the moon is not visible, the complete waning. From ama (together) + v\u0101sya (dwelling) \u2014 the day when sun and moon dwell together in the same lunar mansion. The void is not empty \u2014 it is a convergence.",
+      "roots": "from ama (together) + v\u0101sya (dwelling)",
       "references": [
         "BG 11.50"
       ],
       "themes": [
-        "amāvasyā",
+        "am\u0101vasy\u0101",
         "new-moon",
         "dissolution-renewal"
       ]
@@ -347,10 +347,10 @@
       ]
     },
     {
-      "term": "bhāsaḥ mahātmanaḥ",
-      "transliteration": "bhāsaḥ mahātmanaḥ",
+      "term": "bh\u0101sa\u1e25 mah\u0101tmana\u1e25",
+      "transliteration": "bh\u0101sa\u1e25 mah\u0101tmana\u1e25",
       "type": "phrase",
-      "definition": "\"the effulgence of the great soul\"; bhāsaḥ denotes active, self-luminous radiance intrinsic to the Lord's being, not external light.",
+      "definition": "\"the effulgence of the great soul\"; bh\u0101sa\u1e25 denotes active, self-luminous radiance intrinsic to the Lord's being, not external light.",
       "roots": "",
       "references": [
         "BG 11.12"
@@ -362,10 +362,10 @@
       ]
     },
     {
-      "term": "daṁṣṭrā-karālāni",
-      "transliteration": "daṁṣṭrā-karālāni",
+      "term": "da\u1e41\u1e63\u1e6dr\u0101-kar\u0101l\u0101ni",
+      "transliteration": "da\u1e41\u1e63\u1e6dr\u0101-kar\u0101l\u0101ni",
       "type": "adjective",
-      "definition": "\"terrible teeth\"; the gaping, dreadful teeth of the universal form. Time devours all forms — like a debug trace exposing every hidden dependency, the cosmic form reveals what is truly permanent and what is only structural overlay.",
+      "definition": "\"terrible teeth\"; the gaping, dreadful teeth of the universal form. Time devours all forms \u2014 like a debug trace exposing every hidden dependency, the cosmic form reveals what is truly permanent and what is only structural overlay.",
       "roots": "",
       "references": [
         "BG 11.25"
@@ -378,8 +378,8 @@
       ]
     },
     {
-      "term": "deveśa",
-      "transliteration": "deveśa",
+      "term": "deve\u015ba",
+      "transliteration": "deve\u015ba",
       "type": "masculine noun",
       "definition": "\"Lord of lords\"; the title asserting Krishna's supremacy over every other being. All demigods tremble before this form; Arjuna bypasses them and goes directly to the source.",
       "roots": "",
@@ -397,7 +397,7 @@
       "term": "dhruva",
       "transliteration": "dhruva",
       "type": "noun/adjective",
-      "definition": "\"fixed, immovable\"; the pole star yoga. Maps onto puruṣa in Sāṅkhya: never moves, never changes, the fixed reference for all movement.",
+      "definition": "\"fixed, immovable\"; the pole star yoga. Maps onto puru\u1e63a in S\u0101\u1e45khya: never moves, never changes, the fixed reference for all movement.",
       "roots": "",
       "references": [
         "BG 11.12"
@@ -409,8 +409,8 @@
       ]
     },
     {
-      "term": "divi sūrya-sahasrasya bhavet",
-      "transliteration": "divi sūrya-sahasrasya bhavet",
+      "term": "divi s\u016brya-sahasrasya bhavet",
+      "transliteration": "divi s\u016brya-sahasrasya bhavet",
       "type": "phrase",
       "definition": "the hypothetical magnitude that would still fall short of the universal form's effulgence. Sanskrit uses the conditional mood deliberately: the comparison is an approximation offered by language's limitations.",
       "roots": "",
@@ -424,10 +424,10 @@
       ]
     },
     {
-      "term": "divyaṁ dadāmi te cakṣuḥ",
-      "transliteration": "divyaṁ dadāmi te cakṣuḥ",
+      "term": "divya\u1e41 dad\u0101mi te cak\u1e63u\u1e25",
+      "transliteration": "divya\u1e41 dad\u0101mi te cak\u1e63u\u1e25",
       "type": "phrase",
-      "definition": "“I give you divine eyes”; the granting of higher perception by grace; not earned by effort alone but given to the qualified devotee.",
+      "definition": "\u201cI give you divine eyes\u201d; the granting of higher perception by grace; not earned by effort alone but given to the qualified devotee.",
       "roots": "",
       "references": [
         "BG 11.8"
@@ -439,8 +439,8 @@
       ]
     },
     {
-      "term": "dīpta-hutāśa",
-      "transliteration": "dīpta-hutāśa",
+      "term": "d\u012bpta-hut\u0101\u015ba",
+      "transliteration": "d\u012bpta-hut\u0101\u015ba",
       "type": "compound",
       "definition": "blazing with fires of knowledge; the process that burns away karma through transcendental understanding",
       "roots": "",
@@ -455,11 +455,11 @@
       ]
     },
     {
-      "term": "hṛṣīkeśa",
-      "transliteration": "hṛṣīkeśa",
+      "term": "h\u1e5b\u1e63\u012bke\u015ba",
+      "transliteration": "h\u1e5b\u1e63\u012bke\u015ba",
       "type": "masculine noun",
-      "definition": "\"master of all senses\"; acknowledges that the hṛṣīka — senses and mind — belong to Īśvara. When recognized, the senses stop running wild and become instruments of bhakti. Equivalent to reclaiming root access from a compromised process.",
-      "roots": "from hṛṣīka (senses) + īśa (master, lord)",
+      "definition": "\"master of all senses\"; acknowledges that the h\u1e5b\u1e63\u012bka \u2014 senses and mind \u2014 belong to \u012a\u015bvara. When recognized, the senses stop running wild and become instruments of bhakti. Equivalent to reclaiming root access from a compromised process.",
+      "roots": "from h\u1e5b\u1e63\u012bka (senses) + \u012b\u015ba (master, lord)",
       "references": [
         "BG 11.36"
       ],
@@ -471,10 +471,10 @@
       ]
     },
     {
-      "term": "jagan-nivāsa",
-      "transliteration": "jagan-nivāsa",
+      "term": "jagan-niv\u0101sa",
+      "transliteration": "jagan-niv\u0101sa",
       "type": "masculine compound noun",
-      "definition": "\"refuge of the worlds\"; the abiding home of all existence. Every temporary refuge — army, skill, status, relationship — belongs to the jagat, the moving world that passes. Krishna alone is its nivāsa.",
+      "definition": "\"refuge of the worlds\"; the abiding home of all existence. Every temporary refuge \u2014 army, skill, status, relationship \u2014 belongs to the jagat, the moving world that passes. Krishna alone is its niv\u0101sa.",
       "roots": "",
       "references": [
         "BG 11.25"
@@ -487,8 +487,8 @@
       ]
     },
     {
-      "term": "kālānala",
-      "transliteration": "kālānala",
+      "term": "k\u0101l\u0101nala",
+      "transliteration": "k\u0101l\u0101nala",
       "type": "masculine noun",
       "definition": "\"the fire of time / death\"; the impartial, automatic dissolution of all constructed forms. Not random destruction but the operating system of the material world. Recognising this is realism, not morbidity.",
       "roots": "",
@@ -503,11 +503,11 @@
       ]
     },
     {
-      "term": "mahā-ātmā",
-      "transliteration": "mahā-ātmā",
+      "term": "mah\u0101-\u0101tm\u0101",
+      "transliteration": "mah\u0101-\u0101tm\u0101",
       "type": "compound noun",
       "definition": "The great-souled one; He whose self encompasses all selves. Not just \"great\" but the very definition of greatness as a quality of spirit.",
-      "roots": "from mahā (great) + ātmā (self)",
+      "roots": "from mah\u0101 (great) + \u0101tm\u0101 (self)",
       "references": [
         "BG 11.50"
       ],
@@ -518,10 +518,10 @@
       ]
     },
     {
-      "term": "na tu māṁ śakyase draṣṭum",
-      "transliteration": "na tu māṁ śakyase draṣṭum",
+      "term": "na tu m\u0101\u1e41 \u015bakyase dra\u1e63\u1e6dum",
+      "transliteration": "na tu m\u0101\u1e41 \u015bakyase dra\u1e63\u1e6dum",
       "type": "phrase",
-      "definition": "“You cannot see Me with your present eyes”; the acknowledgment of the limitation of ordinary vision; spiritual equivalent of a hardware upgrade requirement.",
+      "definition": "\u201cYou cannot see Me with your present eyes\u201d; the acknowledgment of the limitation of ordinary vision; spiritual equivalent of a hardware upgrade requirement.",
       "roots": "",
       "references": [
         "BG 11.8"
@@ -533,10 +533,10 @@
       ]
     },
     {
-      "term": "navamī",
-      "transliteration": "navamī",
+      "term": "navam\u012b",
+      "transliteration": "navam\u012b",
       "type": "noun",
-      "definition": "\"the ninth\"; Kṛṣṇa Pakṣa Navamī marks the final threshold before Amāvāsyā. Completion energy: finish what needs finishing.",
+      "definition": "\"the ninth\"; K\u1e5b\u1e63\u1e47a Pak\u1e63a Navam\u012b marks the final threshold before Am\u0101v\u0101sy\u0101. Completion energy: finish what needs finishing.",
       "roots": "",
       "references": [
         "BG 11.12"
@@ -548,8 +548,8 @@
       ]
     },
     {
-      "term": "paraṁ nidhānam",
-      "transliteration": "paraṁ nidhānam",
+      "term": "para\u1e41 nidh\u0101nam",
+      "transliteration": "para\u1e41 nidh\u0101nam",
       "type": "noun",
       "definition": "supreme resting place, ultimate refuge; the divine base that supports all existence, like the foundation of a terminal server cluster",
       "roots": "",
@@ -563,10 +563,10 @@
       ]
     },
     {
-      "term": "paśya me yogam aiśvaram",
-      "transliteration": "paśya me yogam aiśvaram",
+      "term": "pa\u015bya me yogam ai\u015bvaram",
+      "transliteration": "pa\u015bya me yogam ai\u015bvaram",
       "type": "phrase",
-      "definition": "“Behold My mystic opulence!”; the invitation to see the Lord’s divine powers and manifestations; the opulence (aiśvarya) is the inconceivable powers of the Supreme.",
+      "definition": "\u201cBehold My mystic opulence!\u201d; the invitation to see the Lord\u2019s divine powers and manifestations; the opulence (ai\u015bvarya) is the inconceivable powers of the Supreme.",
       "roots": "",
       "references": [
         "BG 11.8"
@@ -578,11 +578,11 @@
       ]
     },
     {
-      "term": "prakīrtyā",
-      "transliteration": "prakīrtyā",
+      "term": "prak\u012brty\u0101",
+      "transliteration": "prak\u012brty\u0101",
       "type": "feminine noun, instrumental case",
-      "definition": "\"by the glories, by recounting\"; the mechanism of transformation. The Lord's glories are active — they reorganize reality around themselves. Demons recoil; perfected beings advance. The glories do not convert; they reveal.",
-      "roots": "from pra + √kṛ, \"to do thoroughly, to accomplish\" — the thorough act of revealing",
+      "definition": "\"by the glories, by recounting\"; the mechanism of transformation. The Lord's glories are active \u2014 they reorganize reality around themselves. Demons recoil; perfected beings advance. The glories do not convert; they reveal.",
+      "roots": "from pra + \u221ak\u1e5b, \"to do thoroughly, to accomplish\" \u2014 the thorough act of revealing",
       "references": [
         "BG 11.36"
       ],
@@ -594,8 +594,8 @@
       ]
     },
     {
-      "term": "prasīda",
-      "transliteration": "prasīda",
+      "term": "pras\u012bda",
+      "transliteration": "pras\u012bda",
       "type": "verb, imperative",
       "definition": "\"be gracious, show favor\"; the central devotional cry of the verse. Not a demand for outcomes, but a request for restoration after confusion. Recognised helplessness is the precondition for every genuine spiritual breakthrough.",
       "roots": "",
@@ -611,8 +611,8 @@
       ]
     },
     {
-      "term": "puruṣa",
-      "transliteration": "puruṣa",
+      "term": "puru\u1e63a",
+      "transliteration": "puru\u1e63a",
       "type": "noun",
       "definition": "the Supreme Person; the conscious witness that runs the simulation",
       "roots": "",
@@ -626,11 +626,11 @@
       ]
     },
     {
-      "term": "rakṣāṁsi",
-      "transliteration": "rakṣāṁsi",
+      "term": "rak\u1e63\u0101\u1e41si",
+      "transliteration": "rak\u1e63\u0101\u1e41si",
       "type": "neuter noun plural",
-      "definition": "\"demons, rākṣasas\"; inner patterns of defending a false identity. When truth is spoken, they flee. Not external beings to be destroyed but the structural overlay of ego that cannot tolerate reality.",
-      "roots": "from rakṣas, \"to protect, to guard\" — the demons are those who guard the false self",
+      "definition": "\"demons, r\u0101k\u1e63asas\"; inner patterns of defending a false identity. When truth is spoken, they flee. Not external beings to be destroyed but the structural overlay of ego that cannot tolerate reality.",
+      "roots": "from rak\u1e63as, \"to protect, to guard\" \u2014 the demons are those who guard the false self",
       "references": [
         "BG 11.36"
       ],
@@ -645,7 +645,7 @@
       "term": "rohini",
       "transliteration": "rohini",
       "type": "proper noun",
-      "definition": "Aldebaran, α Tauri, the red giant 44× the Sun's diameter. Prajāpati's creative, generative nakṣatra; the fixed brilliant star of manifestation.",
+      "definition": "Aldebaran, \u03b1 Tauri, the red giant 44\u00d7 the Sun's diameter. Praj\u0101pati's creative, generative nak\u1e63atra; the fixed brilliant star of manifestation.",
       "roots": "",
       "references": [
         "BG 11.12"
@@ -657,8 +657,8 @@
       ]
     },
     {
-      "term": "samāpatti",
-      "transliteration": "samāpatti",
+      "term": "sam\u0101patti",
+      "transliteration": "sam\u0101patti",
       "type": "noun",
       "definition": "\"absorption, coalescence.\" The mind becomes transparent and takes on the color of its object. Direct perceptual transformation, not fantasy-visualization.",
       "roots": "",
@@ -673,10 +673,10 @@
       ]
     },
     {
-      "term": "saumya-vapuḥ",
-      "transliteration": "saumya-vapuḥ",
+      "term": "saumya-vapu\u1e25",
+      "transliteration": "saumya-vapu\u1e25",
       "type": "compound adjective",
-      "definition": "Beautiful, gentle form; the most beautiful form. Saumya derives from soma (the lunar essence, the nectar of tranquility). This is not just \"pretty\" — it is the form that calms the mind and restores the heart.",
+      "definition": "Beautiful, gentle form; the most beautiful form. Saumya derives from soma (the lunar essence, the nectar of tranquility). This is not just \"pretty\" \u2014 it is the form that calms the mind and restores the heart.",
       "roots": "from soma (the lunar essence, the nectar of tranquility)",
       "references": [
         "BG 11.50"
@@ -688,11 +688,11 @@
       ]
     },
     {
-      "term": "siddha-saṅghāḥ",
-      "transliteration": "siddha-saṅghāḥ",
+      "term": "siddha-sa\u1e45gh\u0101\u1e25",
+      "transliteration": "siddha-sa\u1e45gh\u0101\u1e25",
       "type": "masculine compound noun",
-      "definition": "\"the assembled perfected beings\"; those whose citta is purified and who immediately recognize the Lord. Their bowing is not new devotion — it is the consummation of lifelong orientation. Like code that finally compiles after years of debugging.",
-      "roots": "siddha (perfected) + saṅghāḥ (gathered assembly)",
+      "definition": "\"the assembled perfected beings\"; those whose citta is purified and who immediately recognize the Lord. Their bowing is not new devotion \u2014 it is the consummation of lifelong orientation. Like code that finally compiles after years of debugging.",
+      "roots": "siddha (perfected) + sa\u1e45gh\u0101\u1e25 (gathered assembly)",
       "references": [
         "BG 11.36"
       ],
@@ -704,11 +704,11 @@
       ]
     },
     {
-      "term": "sthāne",
-      "transliteration": "sthāne",
+      "term": "sth\u0101ne",
+      "transliteration": "sth\u0101ne",
       "type": "adverb",
-      "definition": "\"rightly, fitly, appropriately\"; Arjuna's assessment that the Lord's actions are correct in every instance. The culmination of discriminative knowledge — not passive acceptance but recognition that the Lord's justice is always precisely calibrated.",
-      "roots": "from sāthā, \"properly, fittingly\"",
+      "definition": "\"rightly, fitly, appropriately\"; Arjuna's assessment that the Lord's actions are correct in every instance. The culmination of discriminative knowledge \u2014 not passive acceptance but recognition that the Lord's justice is always precisely calibrated.",
+      "roots": "from s\u0101th\u0101, \"properly, fittingly\"",
       "references": [
         "BG 11.36"
       ],
@@ -719,8 +719,8 @@
       ]
     },
     {
-      "term": "svakaṁ rūpam",
-      "transliteration": "svakaṁ rūpam",
+      "term": "svaka\u1e41 r\u016bpam",
+      "transliteration": "svaka\u1e41 r\u016bpam",
       "type": "noun phrase",
       "definition": "His own form; the essential, original form of the Supreme, distinct from any manifested cosmic display.",
       "roots": "",
@@ -730,24 +730,24 @@
       "themes": [
         "cosmic-form",
         "return-to-form",
-        "amāvasyā"
+        "am\u0101vasy\u0101"
       ]
     },
     {
-      "term": "tada draṣṭuḥ svarūpe 'vasthānam",
-      "transliteration": "tada draṣṭuḥ svarūpe 'vasthānam",
-      "type": "yoga sūtra",
-      "definition": "\"Then the seer abides in its own form\"; the foundational statement of yoga's goal. Svarūpe (in its own form) and avasthānam (abiding) together describe the settled state — not striving, not becoming, simply being what one truly is.",
-      "roots": "from svarūpa (own form) + avasthānam (abiding)",
+      "term": "tada dra\u1e63\u1e6du\u1e25 svar\u016bpe 'vasth\u0101nam",
+      "transliteration": "tada dra\u1e63\u1e6du\u1e25 svar\u016bpe 'vasth\u0101nam",
+      "type": "yoga s\u016btra",
+      "definition": "\"Then the seer abides in its own form\"; the foundational statement of yoga's goal. Svar\u016bpe (in its own form) and avasth\u0101nam (abiding) together describe the settled state \u2014 not striving, not becoming, simply being what one truly is.",
+      "roots": "from svar\u016bpa (own form) + avasth\u0101nam (abiding)",
       "references": [
         "YS 1.3",
         "BG 11.50"
       ],
       "themes": [
         "ys-1.3",
-        "svarūpe",
-        "avasthānam",
-        "puruṣa"
+        "svar\u016bpe",
+        "avasth\u0101nam",
+        "puru\u1e63a"
       ]
     },
     {
@@ -767,11 +767,11 @@
       ]
     },
     {
-      "term": "vyāghāta",
-      "transliteration": "vyāghāta",
+      "term": "vy\u0101gh\u0101ta",
+      "transliteration": "vy\u0101gh\u0101ta",
       "type": "masculine noun",
-      "definition": "\"the attacker, the obstacle-smasher\"; the yoga active today. Vyāghāta smashes everything — valuable and worthless alike. It is not selective. This is why Ekādaśī paired with Vyāghāta is intense: dissolution is non-negotiable.",
-      "roots": "from √han, \"to strike, to smash\"; prefix vi- intensifies — thorough, complete striking",
+      "definition": "\"the attacker, the obstacle-smasher\"; the yoga active today. Vy\u0101gh\u0101ta smashes everything \u2014 valuable and worthless alike. It is not selective. This is why Ek\u0101da\u015b\u012b paired with Vy\u0101gh\u0101ta is intense: dissolution is non-negotiable.",
+      "roots": "from \u221ahan, \"to strike, to smash\"; prefix vi- intensifies \u2014 thorough, complete striking",
       "references": [
         "BG 11.36",
         "YS 2.47"
@@ -784,8 +784,8 @@
       ]
     },
     {
-      "term": "āśvata-dharma-goṭhā",
-      "transliteration": "āśvata-dharma-goṭhā",
+      "term": "\u0101\u015bvata-dharma-go\u1e6dh\u0101",
+      "transliteration": "\u0101\u015bvata-dharma-go\u1e6dh\u0101",
       "type": "noun",
       "definition": "maintainer of the eternal religion; preserves spiritual infrastructure like a version-controlled dharma repository",
       "roots": "",
@@ -799,10 +799,10 @@
       ]
     },
     {
-      "term": "āśvāsayām āsa",
-      "transliteration": "āśvāsayām āsa",
+      "term": "\u0101\u015bv\u0101say\u0101m \u0101sa",
+      "transliteration": "\u0101\u015bv\u0101say\u0101m \u0101sa",
       "type": "verb",
-      "definition": "Encouraged, reassured, restored to calm; the act of dispelling fear. Kṛṣṇa does not just change form — He actively reassures.",
+      "definition": "Encouraged, reassured, restored to calm; the act of dispelling fear. K\u1e5b\u1e63\u1e47a does not just change form \u2014 He actively reassures.",
       "roots": "",
       "references": [
         "BG 11.50"
@@ -814,8 +814,8 @@
       ]
     },
     {
-      "term": "īśvara-praṇidhāna",
-      "transliteration": "īśvara-praṇidhāna",
+      "term": "\u012b\u015bvara-pra\u1e47idh\u0101na",
+      "transliteration": "\u012b\u015bvara-pra\u1e47idh\u0101na",
       "type": "neuter compound noun",
       "definition": "\"devotion to the Lord\"; complete surrender of will and effort to Ishvara. From YS 1.23. Not passive resignation but active dedication, cultivated when the mind is steady so it remains available when the mind is not.",
       "roots": "",
@@ -831,8 +831,8 @@
       ]
     },
     {
-      "term": "śarma",
-      "transliteration": "śarma",
+      "term": "\u015barma",
+      "transliteration": "\u015barma",
       "type": "neuter noun",
       "definition": "\"grace, divine shelter\"; the specific refuge that only surrender to the Lord provides. Arjuna cannot obtain it while citta is scattered, but the recognition of its absence is precisely the opening for its return.",
       "roots": "",
@@ -844,6 +844,81 @@
         "divine-shelter",
         "surrender",
         "refuge"
+      ]
+    },
+    {
+      "term": "ananyena",
+      "transliteration": "ananyena",
+      "type": "indeclinable adverb",
+      "definition": "Without division or deviation. The state of single-pointed devotion where the mind admits no rival object. This is not partial commitment \u2014 it is the full signal, zero noise.",
+      "roots": "",
+      "references": [
+        "BG 12.6-7"
+      ],
+      "themes": [
+        "surrender",
+        "devotion",
+        "focus"
+      ]
+    },
+    {
+      "term": "sa\u1e41s\u0101ra-s\u0101gara",
+      "transliteration": "sa\u1e41s\u0101ra-s\u0101gara",
+      "type": "masculine noun compound",
+      "definition": "The ocean of material existence (sa\u1e41s\u0101ra). Called an ocean because it is vast, deep, and terrifyingly easy to drown in. The Lord does not teach you to swim better \u2014 He pulls you out.",
+      "roots": "sa\u1e41s\u0101ra + s\u0101gara",
+      "references": [
+        "BG 12.6-7"
+      ],
+      "themes": [
+        "material-existence",
+        "deliverance",
+        "surrender"
+      ]
+    },
+    {
+      "term": "sannyasya",
+      "transliteration": "sannyasya",
+      "type": "neuter noun (gerund)",
+      "definition": "Surrendering, giving up, relinquishing. Not passive renunciation but active offering \u2014 placing everything at the Lord's feet as an act of service. Like deploying code with zero local backups \u2014 total trust.",
+      "roots": "sam- + ni- + \u221aas",
+      "references": [
+        "BG 12.6-7"
+      ],
+      "themes": [
+        "surrender",
+        "renunciation",
+        "offering"
+      ]
+    },
+    {
+      "term": "mat-par\u0101\u1e25",
+      "transliteration": "mat-par\u0101\u1e25",
+      "type": "masculine noun compound",
+      "definition": "Attached to Me, devoted to Me. Mat = to Me; par\u0101\u1e25 = attached/having gone to. The devotee whose entire orientation has shifted toward K\u1e5b\u1e63\u1e47a \u2014 not as a hobby, not as a practice, but as identity.",
+      "roots": "mat + par\u0101\u1e25",
+      "references": [
+        "BG 12.6-7"
+      ],
+      "themes": [
+        "devotion",
+        "attachment",
+        "bhakti"
+      ]
+    },
+    {
+      "term": "na cir\u0101t",
+      "transliteration": "na cir\u0101t",
+      "type": "indeclinable adverb phrase",
+      "definition": "Without delay, very soon. The Lord's promise of swift deliverance. Not 'eventually' \u2014 'quickly'. When surrender is complete, the response is immediate.",
+      "roots": "na + cir\u0101t",
+      "references": [
+        "BG 12.6-7"
+      ],
+      "themes": [
+        "divine-response",
+        "swift-deliverance",
+        "grace"
       ]
     }
   ]
