@@ -1,6 +1,51 @@
 {
-  "lastUpdated": "2026-08-21",
+  "lastUpdated": "2026-08-22",
   "terms": [
+    {
+      "term": "Sarva-karma-phala-tyāga",
+      "transliteration": "sarva-karma-phala-tyāga",
+      "type": "neuter noun compound",
+      "definition": "Renunciation of the results of all actions. In BG 12.11, this is the prescription for those impeded from direct devotional service. Hacker metaphor: Like setting up a firewall that blocks outgoing packets of desire for results, redirecting energy toward neutral or noble causes.",
+      "roots": "",
+      "references": [
+        "BG 12.11"
+      ],
+      "themes": [
+        "renunciation-of-results",
+        "detachment",
+        "tyaga"
+      ]
+    },
+    {
+      "term": "Yatātmavān",
+      "transliteration": "yatātmavān",
+      "type": "masculine noun",
+      "definition": "Situated in the self; one who has attained inner stability and self-mastery. The verse promises that through renunciation of results, one becomes yatātmavān. Hacker metaphor: Like achieving a stable root filesystem where the kernel operates securely without constant crashes or interrupts.",
+      "roots": "",
+      "references": [
+        "BG 12.11"
+      ],
+      "themes": [
+        "self-mastery",
+        "inner-stability",
+        "yogatma"
+      ]
+    },
+    {
+      "term": "Āśritaḥ",
+      "transliteration": "āśritaḥ",
+      "type": "masculine noun",
+      "definition": "Taking refuge, seeking shelter. In the verse, it refers to taking refuge in devotional service (mad-yogam). Hacker metaphor: Like a process that, when unable to run its primary service, switches to a safe fallback mode that maintains core functionality.",
+      "roots": "",
+      "references": [
+        "BG 12.11"
+      ],
+      "themes": [
+        "refuge",
+        "shelter",
+        "asrita"
+      ]
+    },
     {
       "term": "Abhyāsa",
       "transliteration": "abhyāsa",
