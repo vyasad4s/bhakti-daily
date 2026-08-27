@@ -1,6 +1,51 @@
 {
-  "lastUpdated": "2026-08-26",
+  "lastUpdated": "2026-08-22",
   "terms": [
+    {
+      "term": "Sarva-karma-phala-tyāga",
+      "transliteration": "sarva-karma-phala-tyāga",
+      "type": "neuter noun compound",
+      "definition": "Renunciation of the results of all actions. In BG 12.11, this is the prescription for those impeded from direct devotional service. Hacker metaphor: Like setting up a firewall that blocks outgoing packets of desire for results, redirecting energy toward neutral or noble causes.",
+      "roots": "",
+      "references": [
+        "BG 12.11"
+      ],
+      "themes": [
+        "renunciation-of-results",
+        "detachment",
+        "tyaga"
+      ]
+    },
+    {
+      "term": "Yatātmavān",
+      "transliteration": "yatātmavān",
+      "type": "masculine noun",
+      "definition": "Situated in the self; one who has attained inner stability and self-mastery. The verse promises that through renunciation of results, one becomes yatātmavān. Hacker metaphor: Like achieving a stable root filesystem where the kernel operates securely without constant crashes or interrupts.",
+      "roots": "",
+      "references": [
+        "BG 12.11"
+      ],
+      "themes": [
+        "self-mastery",
+        "inner-stability",
+        "yogatma"
+      ]
+    },
+    {
+      "term": "Āśritaḥ",
+      "transliteration": "āśritaḥ",
+      "type": "masculine noun",
+      "definition": "Taking refuge, seeking shelter. In the verse, it refers to taking refuge in devotional service (mad-yogam). Hacker metaphor: Like a process that, when unable to run its primary service, switches to a safe fallback mode that maintains core functionality.",
+      "roots": "",
+      "references": [
+        "BG 12.11"
+      ],
+      "themes": [
+        "refuge",
+        "shelter",
+        "asrita"
+      ]
+    },
     {
       "term": "Abhyāsa",
       "transliteration": "abhyāsa",
@@ -17,26 +62,64 @@
       ]
     },
     {
-      "term": "abhyāsa",
-      "transliteration": "",
-      "type": "",
-      "definition": "Consistent spiritual practice. The verse places this as the first step in the graduated approach to spiritual realization.",
+      "term": "Icchā",
+      "transliteration": "icchā",
+      "type": "feminine noun",
+      "definition": "Desire, aspiration, longing. The verse promises that through practice, one develops icchā to attain Me. Hacker metaphor: Like a background service that, once initialized, continuously polls for the Divine signal and triggers the devotional process when the connection is strong enough.",
       "roots": "",
       "references": [
-        "BG 12.12"
+        "BG 12.9"
       ],
-      "themes": []
+      "themes": [
+        "desire",
+        "iccha",
+        "aspiration"
+      ]
     },
     {
-      "term": "abhyāsa (अभ्यास)",
-      "transliteration": "",
-      "type": "",
-      "definition": "Consistent spiritual practice. The verse places this as the first step in the graduated approach to spiritual realization.",
+      "term": "Dhanañjaya",
+      "transliteration": "dhanañjaya",
+      "type": "masculine noun",
+      "definition": "Epithet of Arjuna meaning “winner of wealth.” Here it reminds us that the true wealth to be won is not material prosperity but the riches of devotion—Kṛṣṇa Himself. Hacker metaphor: Like achieving root access not to a material server but to the supreme repository of spiritual knowledge, where the real assets are grace and love.",
       "roots": "",
       "references": [
-        "BG 12.12"
+        "BG 12.9"
       ],
-      "themes": []
+      "themes": [
+        "winnerofwealth",
+        "devotion",
+        "wealth"
+      ]
+    },
+    {
+      "term": "Vaidhṛti",
+      "transliteration": "vaidhṛti",
+      "type": "feminine noun",
+      "definition": "Today’s yoga (until evening), often considered inauspicious, associated with obstacles and delays. Hacker metaphor: Like encountering a intermittent network packet loss that requires retry mechanisms and error‑correcting codes to maintain a reliable connection to the Divine.",
+      "roots": "",
+      "references": [
+        "BG 12.9"
+      ],
+      "themes": [
+        "vaidhruthi",
+        "obstacles",
+        "delays"
+      ]
+    },
+    {
+      "term": "Mūla",
+      "transliteration": "mūla",
+      "type": "neuter noun",
+      "definition": "Tomorrow’s nakṣatra, meaning “root.” Symbolizes the foundation, the source, and the transformative power that dissolves the superficial to reveal the essential. Hacker metaphor: Like performing a filesystem check (fsck) that identifies and repairs corrupted inodes, allowing the system to mount securely on its true foundation.",
+      "roots": "",
+      "references": [
+        "BG 12.9"
+      ],
+      "themes": [
+        "mula",
+        "root",
+        "foundation"
+      ]
     },
     {
       "term": "aiśvaram",
@@ -109,10 +192,6 @@
     {
       "term": "Anurādhā (अनुराधा)",
       "definition": "Today's nakṣatra (until 02:22 AM), ruled by Mitra (god of friendship and alliance). Symbolizes devotion through harmonious connection and balanced relationships. Hacker metaphor: Like a stable, peer-to-peer network node that maintains reliable connection to the Divine server through mutual trust and protocol."
-    },
-    {
-      "term": "bhakti-mān",
-      "definition": "Possessed of devotion, engaged in devotional service. The devotee is actively engaged in loving service to the Supreme Lord. <em>Hacker metaphor:</em> Like a dedicated background process that continuously performs essential maintenance tasks (garbage collection, updates, monitoring) to keep the system running smoothly and securely."
     },
     {
       "term": "bhāsaḥ mahātmanaḥ",
@@ -196,21 +275,6 @@
         "supremacy",
         "devas",
         "refuge"
-      ]
-    },
-    {
-      "term": "Dhanañjaya",
-      "transliteration": "dhanañjaya",
-      "type": "masculine noun",
-      "definition": "Epithet of Arjuna meaning “winner of wealth.” Here it reminds us that the true wealth to be won is not material prosperity but the riches of devotion—Kṛṣṇa Himself. Hacker metaphor: Like achieving root access not to a material server but to the supreme repository of spiritual knowledge, where the real assets are grace and love.",
-      "roots": "",
-      "references": [
-        "BG 12.9"
-      ],
-      "themes": [
-        "winnerofwealth",
-        "devotion",
-        "wealth"
       ]
     },
     {
@@ -346,21 +410,6 @@
       "themes": []
     },
     {
-      "term": "Icchā",
-      "transliteration": "icchā",
-      "type": "feminine noun",
-      "definition": "Desire, aspiration, longing. The verse promises that through practice, one develops icchā to attain Me. Hacker metaphor: Like a background service that, once initialized, continuously polls for the Divine signal and triggers the devotional process when the connection is strong enough.",
-      "roots": "",
-      "references": [
-        "BG 12.9"
-      ],
-      "themes": [
-        "desire",
-        "iccha",
-        "aspiration"
-      ]
-    },
-    {
       "term": "ihaika-sthaṁ",
       "transliteration": "ihaika-sthan",
       "type": "adverb",
@@ -395,28 +444,6 @@
       "roots": "",
       "references": [
         "BG 11.7"
-      ],
-      "themes": []
-    },
-    {
-      "term": "karma-phala-tyāga",
-      "transliteration": "",
-      "type": "",
-      "definition": "Renunciation of the fruits of action. In BG 12.12, this is presented as superior to knowledge and meditation for attaining peace of mind.",
-      "roots": "",
-      "references": [
-        "BG 12.12"
-      ],
-      "themes": []
-    },
-    {
-      "term": "karma-phala-tyāga (कर्मफलत्याग)",
-      "transliteration": "",
-      "type": "",
-      "definition": "Renunciation of the fruits of action. In BG 12.12, this is presented as superior to knowledge and meditation for attaining peace of mind.",
-      "roots": "",
-      "references": [
-        "BG 12.12"
       ],
       "themes": []
     },
@@ -482,10 +509,6 @@
       ]
     },
     {
-      "term": "maunī",
-      "definition": "Silent, one who observes silence. The devotee is described as maunī—speaking only of essentials, not engaging in nonsense. <em>Hacker metaphor:</em> Like a spam filter that blocks unwanted and harmful messages, allowing only legitimate, essential communication to pass through, thereby increasing the signal-to-noise ratio of consciousness."
-    },
-    {
       "term": "maṇi",
       "transliteration": "maṇi",
       "type": "noun",
@@ -522,43 +545,6 @@
       "roots": "",
       "references": [
         "BG 11.8"
-      ],
-      "themes": []
-    },
-    {
-      "term": "Mūla",
-      "transliteration": "mūla",
-      "type": "neuter noun",
-      "definition": "Tomorrow’s nakṣatra, meaning “root.” Symbolizes the foundation, the source, and the transformative power that dissolves the superficial to reveal the essential. Hacker metaphor: Like performing a filesystem check (fsck) that identifies and repairs corrupted inodes, allowing the system to mount securely on its true foundation.",
-      "roots": "",
-      "references": [
-        "BG 12.9"
-      ],
-      "themes": [
-        "mula",
-        "root",
-        "foundation"
-      ]
-    },
-    {
-      "term": "mūla",
-      "transliteration": "",
-      "type": "",
-      "definition": "Today's nakṣatra (until 08:14 AM), meaning 'root.' Symbolizes foundation, origin, and the transformative power that addresses bondage at its source.",
-      "roots": "",
-      "references": [
-        "BG 12.12"
-      ],
-      "themes": []
-    },
-    {
-      "term": "mūla (मूल)",
-      "transliteration": "",
-      "type": "",
-      "definition": "Today’s nakṣatra (until 08:14 AM), meaning “root.” Symbolizes foundation, origin, and the transformative power that addresses bondage at its source.",
-      "roots": "",
-      "references": [
-        "BG 12.12"
       ],
       "themes": []
     },
@@ -750,10 +736,6 @@
       "themes": []
     },
     {
-      "term": "sama",
-      "definition": "Equal, equipoise, balanced. The verse repeats samaḥ to describe the devotee’s equal vision toward friends and enemies, and equipoise in honor/dishonor, heat/cold, happiness/distress, fame/infamy. <em>Hacker metaphor:</em> Like a load balancer that distributes incoming traffic evenly across servers, ensuring no single node is overwhelmed or underutilized, maintaining system stability."
-    },
-    {
       "term": "samāpatti",
       "transliteration": "samāpatti",
       "type": "noun",
@@ -782,21 +764,6 @@
         "surrender",
         "renunciation",
         "offering"
-      ]
-    },
-    {
-      "term": "Sarva-karma-phala-tyāga",
-      "transliteration": "sarva-karma-phala-tyāga",
-      "type": "neuter noun compound",
-      "definition": "Renunciation of the results of all actions. In BG 12.11, this is the prescription for those impeded from direct devotional service. Hacker metaphor: Like setting up a firewall that blocks outgoing packets of desire for results, redirecting energy toward neutral or noble causes.",
-      "roots": "",
-      "references": [
-        "BG 12.11"
-      ],
-      "themes": [
-        "renunciation-of-results",
-        "detachment",
-        "tyaga"
       ]
     },
     {
@@ -830,10 +797,6 @@
       ]
     },
     {
-      "term": "saṅga-vivarjitaḥ",
-      "definition": "Free from all association, unattached to contaminated company. The devotee avoids association that disturbs the mind. <em>Hacker metaphor:</em> Like a firewall that prevents malicious intrusions and unauthorized access, protecting the system from corrupting influences that could destabilize its operation."
-    },
-    {
       "term": "siddha-saṅghāḥ",
       "transliteration": "siddha-saṅghāḥ",
       "type": "masculine compound noun",
@@ -865,10 +828,6 @@
         "Simha Saṁkrānti",
         "solar"
       ]
-    },
-    {
-      "term": "sthira-mati",
-      "definition": "Fixed in knowledge, steady-minded. The devotee’s intelligence is unwavering and firm in spiritual understanding. <em>Hacker metaphor:</em> Like a system with a consistent, uncorrupted state vector that resists bit flips and maintains integrity under varying conditions, ensuring reliable operation."
     },
     {
       "term": "sthāne",
@@ -982,21 +941,6 @@
       ]
     },
     {
-      "term": "Vaidhṛti",
-      "transliteration": "vaidhṛti",
-      "type": "feminine noun",
-      "definition": "Today’s yoga (until evening), often considered inauspicious, associated with obstacles and delays. Hacker metaphor: Like encountering a intermittent network packet loss that requires retry mechanisms and error‑correcting codes to maintain a reliable connection to the Divine.",
-      "roots": "",
-      "references": [
-        "BG 12.9"
-      ],
-      "themes": [
-        "vaidhruthi",
-        "obstacles",
-        "delays"
-      ]
-    },
-    {
       "term": "vyāghāta",
       "transliteration": "vyāghāta",
       "type": "masculine noun",
@@ -1029,21 +973,6 @@
       "themes": []
     },
     {
-      "term": "Yatātmavān",
-      "transliteration": "yatātmavān",
-      "type": "masculine noun",
-      "definition": "Situated in the self; one who has attained inner stability and self-mastery. The verse promises that through renunciation of results, one becomes yatātmavān. Hacker metaphor: Like achieving a stable root filesystem where the kernel operates securely without constant crashes or interrupts.",
-      "roots": "",
-      "references": [
-        "BG 12.11"
-      ],
-      "themes": [
-        "self-mastery",
-        "inner-stability",
-        "yogatma"
-      ]
-    },
-    {
       "term": "yogam",
       "transliteration": "yogam",
       "type": "accusative sing. of 'yoga'",
@@ -1053,21 +982,6 @@
         "BG 11.8"
       ],
       "themes": []
-    },
-    {
-      "term": "Āśritaḥ",
-      "transliteration": "āśritaḥ",
-      "type": "masculine noun",
-      "definition": "Taking refuge, seeking shelter. In the verse, it refers to taking refuge in devotional service (mad-yogam). Hacker metaphor: Like a process that, when unable to run its primary service, switches to a safe fallback mode that maintains core functionality.",
-      "roots": "",
-      "references": [
-        "BG 12.11"
-      ],
-      "themes": [
-        "refuge",
-        "shelter",
-        "asrita"
-      ]
     },
     {
       "term": "āśvata-dharma-goṭhā",
@@ -1146,28 +1060,6 @@
         "surrender",
         "refuge"
       ]
-    },
-    {
-      "term": "śānti",
-      "transliteration": "",
-      "type": "",
-      "definition": "Peace, tranquility, freedom from disturbance. The verse promises that karma-phala-tyāga leads to śānti.",
-      "roots": "",
-      "references": [
-        "BG 12.12"
-      ],
-      "themes": []
-    },
-    {
-      "term": "śānti (शान्ति)",
-      "transliteration": "",
-      "type": "",
-      "definition": "Peace, tranquility, freedom from disturbance. The verse promises that karma-phala-tyāga leads to śānti.",
-      "roots": "",
-      "references": [
-        "BG 12.12"
-      ],
-      "themes": []
     }
   ]
 }

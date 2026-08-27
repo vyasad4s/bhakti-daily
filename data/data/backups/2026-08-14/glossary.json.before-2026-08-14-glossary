@@ -1,0 +1,235 @@
+{
+  "lastUpdated": "2026-08-13",
+  "terms": [
+    {
+      "term": "amāvasyā",
+      "transliteration": "amāvasyā",
+      "type": "noun",
+      "definition": "The new moon; the day when the moon is not visible, the complete waning. From ama (together) + vāsya (dwelling) — the day when sun and moon dwell together in the same lunar mansion. The void is not empty — it is a convergence.",
+      "roots": "from ama (together) + vāsya (dwelling)",
+      "references": [
+        "BG 11.50"
+      ],
+      "themes": [
+        "amāvasyā",
+        "new-moon",
+        "dissolution-renewal"
+      ]
+    },
+    {
+      "term": "ananta",
+      "transliteration": "ananta",
+      "type": "adjective",
+      "definition": "without beginning or end; infinite in all directions, like an unbounded memory address space",
+      "roots": "",
+      "references": [
+        "BG 11.19"
+      ],
+      "themes": [
+        "infinity",
+        "beginningless",
+        "endless",
+        "unbounded"
+      ]
+    },
+    {
+      "term": "divyaṁ dadāmi te cakṣuḥ",
+      "transliteration": "divyaṁ dadāmi te cakṣuḥ",
+      "type": "phrase",
+      "definition": "“I give you divine eyes”; the granting of higher perception by grace; not earned by effort alone but given to the qualified devotee.",
+      "roots": "",
+      "references": [
+        "BG 11.8"
+      ],
+      "themes": [
+        "grace",
+        "divine-vision",
+        "gift"
+      ]
+    },
+    {
+      "term": "dīpta-hutāśa",
+      "transliteration": "dīpta-hutāśa",
+      "type": "compound",
+      "definition": "blazing with fires of knowledge; the process that burns away karma through transcendental understanding",
+      "roots": "",
+      "references": [
+        "BG 11.19"
+      ],
+      "themes": [
+        "blazing-fire",
+        "knowledge-fire",
+        "karma-burning",
+        "transcendental-understanding"
+      ]
+    },
+    {
+      "term": "mahā-ātmā",
+      "transliteration": "mahā-ātmā",
+      "type": "compound noun",
+      "definition": "The great-souled one; He whose self encompasses all selves. Not just \"great\" but the very definition of greatness as a quality of spirit.",
+      "roots": "from mahā (great) + ātmā (self)",
+      "references": [
+        "BG 11.50"
+      ],
+      "themes": [
+        "cosmic-form",
+        "great-soul",
+        "divine-nature"
+      ]
+    },
+    {
+      "term": "na tu māṁ śakyase draṣṭum",
+      "transliteration": "na tu māṁ śakyase draṣṭum",
+      "type": "phrase",
+      "definition": "“You cannot see Me with your present eyes”; the acknowledgment of the limitation of ordinary vision; spiritual equivalent of a hardware upgrade requirement.",
+      "roots": "",
+      "references": [
+        "BG 11.8"
+      ],
+      "themes": [
+        "perception",
+        "limitation",
+        "grace"
+      ]
+    },
+    {
+      "term": "paraṁ nidhānam",
+      "transliteration": "paraṁ nidhānam",
+      "type": "noun",
+      "definition": "supreme resting place, ultimate refuge; the divine base that supports all existence, like the foundation of a terminal server cluster",
+      "roots": "",
+      "references": [
+        "BG 11.18"
+      ],
+      "themes": [
+        "ultimate-refuge",
+        "divine-base",
+        "eternal-support"
+      ]
+    },
+    {
+      "term": "paśya me yogam aiśvaram",
+      "transliteration": "paśya me yogam aiśvaram",
+      "type": "phrase",
+      "definition": "“Behold My mystic opulence!”; the invitation to see the Lord’s divine powers and manifestations; the opulence (aiśvarya) is the inconceivable powers of the Supreme.",
+      "roots": "",
+      "references": [
+        "BG 11.8"
+      ],
+      "themes": [
+        "opulence",
+        "divine-powers",
+        "vision"
+      ]
+    },
+    {
+      "term": "puruṣa",
+      "transliteration": "puruṣa",
+      "type": "noun",
+      "definition": "the Supreme Person; the conscious witness that runs the simulation",
+      "roots": "",
+      "references": [
+        "BG 11.18"
+      ],
+      "themes": [
+        "supreme-person",
+        "conscious-witness",
+        "simulation"
+      ]
+    },
+    {
+      "term": "saumya-vapuḥ",
+      "transliteration": "saumya-vapuḥ",
+      "type": "compound adjective",
+      "definition": "Beautiful, gentle form; the most beautiful form. Saumya derives from soma (the lunar essence, the nectar of tranquility). This is not just \"pretty\" — it is the form that calms the mind and restores the heart.",
+      "roots": "from soma (the lunar essence, the nectar of tranquility)",
+      "references": [
+        "BG 11.50"
+      ],
+      "themes": [
+        "cosmic-form",
+        "saumya",
+        "return-to-form"
+      ]
+    },
+    {
+      "term": "svakaṁ rūpam",
+      "transliteration": "svakaṁ rūpam",
+      "type": "noun phrase",
+      "definition": "His own form; the essential, original form of the Supreme, distinct from any manifested cosmic display.",
+      "roots": "",
+      "references": [
+        "BG 11.50"
+      ],
+      "themes": [
+        "cosmic-form",
+        "return-to-form",
+        "amāvasyā"
+      ]
+    },
+    {
+      "term": "tada draṣṭuḥ svarūpe 'vasthānam",
+      "transliteration": "tada draṣṭuḥ svarūpe 'vasthānam",
+      "type": "yoga sūtra",
+      "definition": "\"Then the seer abides in its own form\"; the foundational statement of yoga's goal. Svarūpe (in its own form) and avasthānam (abiding) together describe the settled state — not striving, not becoming, simply being what one truly is.",
+      "roots": "from svarūpa (own form) + avasthānam (abiding)",
+      "references": [
+        "YS 1.3",
+        "BG 11.50"
+      ],
+      "themes": [
+        "ys-1.3",
+        "svarūpe",
+        "avasthānam",
+        "puruṣa"
+      ]
+    },
+    {
+      "term": "teja",
+      "transliteration": "teja",
+      "type": "noun",
+      "definition": "radiance, luminosity; the API key that illuminates all systems",
+      "roots": "",
+      "references": [
+        "BG 11.19"
+      ],
+      "themes": [
+        "radiance",
+        "luminosity",
+        "illumination",
+        "api-key"
+      ]
+    },
+    {
+      "term": "āśvata-dharma-goṭhā",
+      "transliteration": "āśvata-dharma-goṭhā",
+      "type": "noun",
+      "definition": "maintainer of the eternal religion; preserves spiritual infrastructure like a version-controlled dharma repository",
+      "roots": "",
+      "references": [
+        "BG 11.18"
+      ],
+      "themes": [
+        "eternal-religion",
+        "dharma-maintainer",
+        "spiritual-infrastructure"
+      ]
+    },
+    {
+      "term": "āśvāsayām āsa",
+      "transliteration": "āśvāsayām āsa",
+      "type": "verb",
+      "definition": "Encouraged, reassured, restored to calm; the act of dispelling fear. Kṛṣṇa does not just change form — He actively reassures.",
+      "roots": "",
+      "references": [
+        "BG 11.50"
+      ],
+      "themes": [
+        "devotion",
+        "surrender",
+        "divine-tenderness"
+      ]
+    }
+  ]
+}

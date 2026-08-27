@@ -1,0 +1,98 @@
+{
+  "lastUpdated": "2026-08-10",
+  "terms": [
+    {
+      "term": "para���������������ṁ nidhānam",
+      "transliteration": "para���������������ṁ nidhānam",
+      "type": "noun",
+      "definition": "supreme resting place, ultimate refuge; the divine base that supports all existence, like the foundation of a terminal server cluster",
+      "roots": "",
+      "references": [
+        "BG 11.18"
+      ],
+      "themes": [
+        "ultimate-refuge",
+        "divine-base",
+        "eternal-support"
+      ]
+    },
+    {
+      "term": "����������������vata-dharma-go����������������th��������",
+      "transliteration": "����������������vata-dharma-go����������������th��������",
+      "type": "noun",
+      "definition": "maintainer of the eternal religion; preserves spiritual infrastructure like a version-controlled dharma repository",
+      "roots": "",
+      "references": [
+        "BG 11.18"
+      ],
+      "themes": [
+        "eternal-religion",
+        "dharma-maintainer",
+        "spiritual-infrastructure"
+      ]
+    },
+    {
+      "term": "puru���������������ṣa",
+      "transliteration": "puru���������������ṣa",
+      "type": "noun",
+      "definition": "the Supreme Person; the conscious witness that runs the simulation",
+      "roots": "",
+      "references": [
+        "BG 11.18"
+      ],
+      "themes": [
+        "supreme-person",
+        "conscious-witness",
+        "simulation"
+      ]
+    },
+    {
+      "term": "ananta",
+      "transliteration": "ananta",
+      "type": "adjective",
+      "definition": "without beginning or end; infinite in all directions, like an unbounded memory address space",
+      "roots": "",
+      "references": [
+        "BG 11.19"
+      ],
+      "themes": [
+        "infinity",
+        "beginningless",
+        "endless",
+        "unbounded"
+      ]
+    },
+    {
+      "term": "teja",
+      "transliteration": "teja",
+      "type": "noun",
+      "definition": "radiance, luminosity; the API key that illuminates all systems",
+      "roots": "",
+      "references": [
+        "BG 11.19"
+      ],
+      "themes": [
+        "radiance",
+        "luminosity",
+        "illumination",
+        "api-key"
+      ]
+    },
+    {
+      "term": "dīpta-hutāśa",
+      "transliteration": "dīpta-hutāśa",
+      "type": "compound",
+      "definition": "blazing with fires of knowledge; the process that burns away karma through transcendental understanding",
+      "roots": "",
+      "references": [
+        "BG 11.19"
+      ],
+      "themes": [
+        "blazing-fire",
+        "knowledge-fire",
+        "karma-burning",
+        "transcendental-understanding"
+      ]
+    }
+  ]
+}

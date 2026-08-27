@@ -1,0 +1,3 @@
+Updated cosmic insert for 2026-08-17 with complete panchanga-data section.
+Added missing TITHI, PAKṢA, NAKṢATRA, YOGA, KARAṆA, VARA, MOON RĀŚI, SUN RĀŚI, RĀHU KĀLA, GULIKA KĀLA, YAMAGHAṆṬA KĀLA, BRAHMA MUHŪRTA, ABHIJIT MUHŪRTA, SUNRISE, SUNSET, MOONRISE, MOONSET, and SPECIAL OBSERVANCES data.
+Backup created at: /Users/axl/Documents/web-projects/bhakti-daily/data/backups/2026-08-18/cosmic/2026-08-17.html.before-2026-08-18-150653

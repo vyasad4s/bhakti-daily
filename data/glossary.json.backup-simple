@@ -1,0 +1,176 @@
+{
+  "lastUpdated": "2026-08-10",
+  "terms": [
+    {
+      "term": "para\ufffd\ufffd\ufffd\u1e41-nidh\ufffd\ufffdnam",
+      "transliteration": "para\ufffd\ufffd\ufffd\u1e41 nidh\ufffd\ufffdnam",
+      "type": "noun",
+      "definition": "supreme resting place, ultimate refuge; the divine base that supports all existence, like the foundation of a terminal server cluster",
+      "roots": "",
+      "references": [
+        "BG 11.18"
+      ],
+      "themes": [
+        "ultimate-refuge",
+        "divine-base",
+        "eternal-support"
+      ]
+    },
+    {
+      "term": "\ufffd\ufffd\u0101\ufffd\ufffdvata-dharma-go\ufffd\ufffdh\ufffd\ufffd",
+      "transliteration": "\ufffd\ufffd\u0101\ufffd\ufffdvata-dharma-go\ufffd\ufffdh\ufffd\ufffd",
+      "type": "noun",
+      "definition": "maintainer of the eternal religion; preserves spiritual infrastructure like a version-controlled dharma repository",
+      "roots": "",
+      "references": [
+        "BG 11.18"
+      ],
+      "themes": [
+        "eternal-religion",
+        "dharma-maintainer",
+        "spiritual-infrastructure"
+      ]
+    },
+    {
+      "term": "puru\ufffd\ufffd\ufffd\u1e63a",
+      "transliteration": "puru\ufffd\ufffd\ufffd\u1e63a",
+      "type": "noun",
+      "definition": "the Supreme Person; the conscious witness that runs the simulation",
+      "roots": "",
+      "references": [
+        "BG 11.18"
+      ],
+      "themes": [
+        "supreme-person",
+        "conscious-witness",
+        "simulation"
+      ]
+    },
+    {
+      "term": "ananta",
+      "transliteration": "ananta",
+      "type": "adjective",
+      "definition": "without beginning or end; infinite in all directions, like an unbounded memory address space",
+      "roots": "",
+      "references": [
+        "BG 11.19"
+      ],
+      "themes": [
+        "infinity",
+        "beginningless",
+        "endless",
+        "unbounded"
+      ]
+    },
+    {
+      "term": "teja\ufffd\ufffd",
+      "transliteration": "teja\ufffd\ufffd",
+      "type": "noun",
+      "definition": "radiance, luminosity; the API key that illuminates all systems",
+      "roots": "",
+      "references": [
+        "BG 11.19"
+      ],
+      "themes": [
+        "radiance",
+        "luminosity",
+        "illumination",
+        "api-key"
+      ]
+    },
+    {
+      "term": "d\ufffd\ufffdpta-hut\ufffd\ufffd-\ufffd\ufffd\ufffd\ufffda",
+      "transliteration": "d\ufffd\ufffdpta-hut\ufffd\ufffd-\ufffd\ufffd\ufffd\ufffda",
+      "type": "compound",
+      "definition": "blazing with fires of knowledge; the process that burns away karma through transcendental understanding",
+      "roots": "",
+      "references": [
+        "BG 11.19"
+      ],
+      "themes": [
+        "blazing-fire",
+        "knowledge-fire",
+        "karma-burning",
+        "transcendental-understanding"
+      ]
+    },
+    {
+      "term": "ananta-r\u016bpa",
+      "transliteration": "ananta-r\u016bpa",
+      "type": "compound",
+      "definition": "unlimited form, infinite manifestation",
+      "references": [
+        "BG 11.38"
+      ],
+      "themes": [
+        "unlimited-form",
+        "divine-manifestation"
+      ]
+    },
+    {
+      "term": "\u0101di-deva\u1e25",
+      "transliteration": "\u0101di-deva\u1e25",
+      "type": "compound",
+      "definition": "the original Supreme God",
+      "references": [
+        "BG 11.38"
+      ],
+      "themes": [
+        "original-source",
+        "primeval-consciousness"
+      ]
+    },
+    {
+      "term": "para\u1e41 nidh\u0101nam",
+      "transliteration": "para\u1e41 nidh\u0101nam",
+      "type": "compound",
+      "definition": "the ultimate refuge or sanctuary",
+      "references": [
+        "BG 11.38"
+      ],
+      "themes": [
+        "ultimate-refuge",
+        "divine-sanctuary"
+      ]
+    },
+    {
+      "term": "pur\u0101\u1e47as",
+      "transliteration": "pur\u0101\u1e47as",
+      "type": "adjective",
+      "definition": "old, ancient",
+      "references": [
+        "BG 11.38"
+      ],
+      "themes": [
+        "eternal",
+        "timeless"
+      ]
+    },
+    {
+      "term": "vedya\u1e41",
+      "transliteration": "vedya\u1e41",
+      "type": "adjective",
+      "definition": "the knowable, that which can be known",
+      "references": [
+        "BG 11.38"
+      ],
+      "themes": [
+        "knowable",
+        "object-of-knowledge"
+      ]
+    },
+    {
+      "term": "vett\u0101si",
+      "transliteration": "vett\u0101si",
+      "type": "verb",
+      "definition": "You are the knower",
+      "references": [
+        "BG 11.38"
+      ],
+      "themes": [
+        "knower",
+        "divine-intelligence"
+      ]
+    }
+  ]
+}
