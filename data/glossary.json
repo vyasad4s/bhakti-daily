@@ -1,6 +1,81 @@
 {
-  "lastUpdated": "2026-08-26",
+  "lastUpdated": "2026-08-30",
   "terms": [
+    {
+      "term": "Adveṣṭā",
+      "transliteration": "adveṣṭā",
+      "type": "adjective",
+      "definition": "Non-envious, free from malice; Like a rootkit that operates without triggering security alerts – pure devotion runs stealthily in the background of consciousness, elevating all processes without raising the \"envy\" process flag in the mind's task manager.",
+      "roots": "",
+      "references": [
+        "BG 12.13"
+      ],
+      "themes": [
+        "nonenvious",
+        "maitra",
+        "freedomfrommalice"
+      ]
+    },
+    {
+      "term": "Karunā",
+      "transliteration": "karunā",
+      "type": "noun",
+      "definition": "Compassion, mercy; The ultimate packet sniffer with zero-latency response – it detects suffering in the data stream of existence and immediately responds with healing packets of kindness, operating at kernel level of compassion.",
+      "roots": "",
+      "references": [
+        "BG 12.13"
+      ],
+      "themes": [
+        "compassion",
+        "mercy",
+        "lovingkindness"
+      ]
+    },
+    {
+      "term": "Samaduḥkhasukha",
+      "transliteration": "samaduḥkhasukha",
+      "type": "noun",
+      "definition": "Equal in happiness and distress; A load balancer that distributes both pleasure and pain evenly across all servers of experience – no single node gets overloaded with either extreme, maintaining optimal system performance regardless of incoming traffic patterns.",
+      "roots": "",
+      "references": [
+        "BG 12.13"
+      ],
+      "themes": [
+        "equanimity",
+        "balance",
+        "samata"
+      ]
+    },
+    {
+      "term": "Yatātmā",
+      "transliteration": "yatātmā",
+      "type": "noun",
+      "definition": "Self-controlled, self-mastered; The BIOS/firmware level of consciousness – before any OS (ego) or applications (desires) load, the self-mastered one operates at the foundational level where only essential processes run, immune to user-level crashes or malware.",
+      "roots": "",
+      "references": [
+        "BG 12.14"
+      ],
+      "themes": [
+        "selfcontrol",
+        "selfmastery",
+        "discipline"
+      ]
+    },
+    {
+      "term": "Mayy arpita-mano-buddhir",
+      "transliteration": "mayy arpita-mano-buddhir",
+      "type": "phrase",
+      "definition": "Mind and intelligence fixed on Me; Setting the CPU affinity mask to exclusively run on Krishna-core – all computational threads (thoughts, decisions, actions) are bound to process on the Divine core, preventing context-switching to materialistic processes that would cause system instability.",
+      "roots": "",
+      "references": [
+        "BG 12.14"
+      ],
+      "themes": [
+        "mindfixedonkrishna",
+        "divineconsciousness",
+        "krishnaconnection"
+      ]
+    },
     {
       "term": "Abhyāsa",
       "transliteration": "abhyāsa",

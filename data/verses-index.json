@@ -1,6 +1,45 @@
 {
   "verses": [
     {
+      "date": "2026-08-30",
+      "source": "BG 12.13-14",
+      "chapter": 12,
+      "verse": "13-14",
+      "text": "Bhagavad Gita",
+      "tithi": "Krishna Paksha Tritiya (until 11:21 PM) → Chaturthi",
+      "nakshatra": "Uttara Bhadrapada (until 6:14 PM) → Revati",
+      "yoga": "Soola (until 6:15 PM) → Ganda",
+      "themes": [
+        "BhaktiYoga",
+        "PureDevotee",
+        "KajariTeej",
+        "MoonInPisces",
+        "SunInLeo",
+        "YogaSutra1.33"
+      ],
+      "tags": [
+        "#BhaktiYoga",
+        "#PureDevotee",
+        "#KajariTeej",
+        "#MoonInPisces",
+        "#SunInLeo",
+        "#YogaSutra1.33"
+      ],
+      "yogaSutraConnection": "YS 1.33",
+      "sankhyaConcepts": [
+        "Puruṣa-Prakṛti Integration",
+        "Guna Transcendence",
+        "Buddhi Yoga"
+      ],
+      "keyTerms": [
+        "Adveṣṭā",
+        "Karunā",
+        "Samaduḥkhasukha",
+        "Yatātmā",
+        "Mayy arpita-mano-buddhir"
+      ]
+    },
+    {
       "date": "2026-08-26",
       "source": "BG 12.18-19",
       "chapter": 12,
@@ -4352,5 +4391,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-08-26"
+  "lastUpdated": "2026-08-30"
 }
