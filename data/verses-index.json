@@ -1,6 +1,43 @@
 {
   "verses": [
     {
+      "date": "2026-08-28",
+      "source": "BG 12.2",
+      "chapter": 12,
+      "verse": 2,
+      "text": "Bhagavad Gita",
+      "tithi": "Krishna Paksha Pratipada",
+      "nakshatra": "Ashwini (until 5:12 PM) \u2192 Bharani",
+      "yoga": "Sukarman (until 11:20 AM) \u2192 Dhruva",
+      "themes": [
+        "BhaktiYoga",
+        "Ashwini",
+        "Bharani",
+        "Shukravar",
+        "BG12.2",
+        "Yogasutra1.1"
+      ],
+      "tags": [
+        "#BhaktiYoga",
+        "#Ashwini",
+        "#Bharani",
+        "#Shukravar",
+        "#BG12.2",
+        "#Yogasutra1.1"
+      ],
+      "yogaSutraConnection": "YS I.1",
+      "sankhyaConcepts": [
+        "Buddhi as discriminative faculty",
+        "Fixing mind on puru\u1e63a turns judgment toward its source",
+        "Sam\u0101dhi as citta-v\u1e5btti-nirodha in object of devotion"
+      ],
+      "keyTerms": [
+        "mayy \u0101ve\u015bya",
+        "\u015braddhay\u0101 paray\u0101",
+        "yukta-tam\u0101\u1e25"
+      ]
+    },
+    {
       "date": "2026-09-02",
       "source": "BG 13.30",
       "chapter": 13,
@@ -4428,5 +4465,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-09-02"
+  "lastUpdated": "2026-08-28"
 }

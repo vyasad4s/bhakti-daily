@@ -1,11 +1,56 @@
 {
-  "lastUpdated": "2026-09-02",
+  "lastUpdated": "2026-08-28",
   "terms": [
     {
-      "term": "Adveṣṭā",
-      "transliteration": "adveṣṭā",
+      "term": "mayy \u0101ve\u015bya",
+      "transliteration": "mayy \u0101ve\u015bya",
+      "type": "phrase",
+      "definition": "fixing within Me; The mind's intentional relocation from the world of objects to the form of the Lord. \u0100-ve\u015ba is not possession; it is attention raised to the level of absorption.",
+      "roots": "",
+      "references": [
+        "BG 12.2"
+      ],
+      "themes": [
+        "fixing-mind",
+        "devotion",
+        "personal-form"
+      ]
+    },
+    {
+      "term": "\u015braddhay\u0101 paray\u0101",
+      "transliteration": "\u015braddhay\u0101 paray\u0101",
+      "type": "phrase",
+      "definition": "with supreme faith; Not blind belief but a quality of certainty that arises from direct experience of the sacred. Para means beyond \u2014 this faith points toward the transcendent.",
+      "roots": "",
+      "references": [
+        "BG 12.2"
+      ],
+      "themes": [
+        "supreme-faith",
+        "devotion",
+        "transcendent"
+      ]
+    },
+    {
+      "term": "yukta-tam\u0101\u1e25",
+      "transliteration": "yukta-tam\u0101\u1e25",
       "type": "adjective",
-      "definition": "Non-envious, free from malice; Like a rootkit that operates without triggering security alerts – pure devotion runs stealthily in the background of consciousness, elevating all processes without raising the \"envy\" process flag in the mind's task manager.",
+      "definition": "most perfect in yoga; The superlative of yukta, meaning \"united\" or \"engaged.\" These practitioners are not partially united \u2014 they are most perfectly so.",
+      "roots": "",
+      "references": [
+        "BG 12.2"
+      ],
+      "themes": [
+        "most-perfect",
+        "yoga",
+        "engaged"
+      ]
+    },
+    {
+      "term": "Adve\u1e63\u1e6d\u0101",
+      "transliteration": "adve\u1e63\u1e6d\u0101",
+      "type": "adjective",
+      "definition": "Non-envious, free from malice; Like a rootkit that operates without triggering security alerts \u2013 pure devotion runs stealthily in the background of consciousness, elevating all processes without raising the \"envy\" process flag in the mind's task manager.",
       "roots": "",
       "references": [
         "BG 12.13"
@@ -17,10 +62,10 @@
       ]
     },
     {
-      "term": "Karunā",
-      "transliteration": "karunā",
+      "term": "Karun\u0101",
+      "transliteration": "karun\u0101",
       "type": "noun",
-      "definition": "Compassion, mercy; The ultimate packet sniffer with zero-latency response – it detects suffering in the data stream of existence and immediately responds with healing packets of kindness, operating at kernel level of compassion.",
+      "definition": "Compassion, mercy; The ultimate packet sniffer with zero-latency response \u2013 it detects suffering in the data stream of existence and immediately responds with healing packets of kindness, operating at kernel level of compassion.",
       "roots": "",
       "references": [
         "BG 12.13"
@@ -32,10 +77,10 @@
       ]
     },
     {
-      "term": "Samaduḥkhasukha",
-      "transliteration": "samaduḥkhasukha",
+      "term": "Samadu\u1e25khasukha",
+      "transliteration": "samadu\u1e25khasukha",
       "type": "noun",
-      "definition": "Equal in happiness and distress; A load balancer that distributes both pleasure and pain evenly across all servers of experience – no single node gets overloaded with either extreme, maintaining optimal system performance regardless of incoming traffic patterns.",
+      "definition": "Equal in happiness and distress; A load balancer that distributes both pleasure and pain evenly across all servers of experience \u2013 no single node gets overloaded with either extreme, maintaining optimal system performance regardless of incoming traffic patterns.",
       "roots": "",
       "references": [
         "BG 12.13"
@@ -47,10 +92,10 @@
       ]
     },
     {
-      "term": "Yatātmā",
-      "transliteration": "yatātmā",
+      "term": "Yat\u0101tm\u0101",
+      "transliteration": "yat\u0101tm\u0101",
       "type": "noun",
-      "definition": "Self-controlled, self-mastered; The BIOS/firmware level of consciousness – before any OS (ego) or applications (desires) load, the self-mastered one operates at the foundational level where only essential processes run, immune to user-level crashes or malware.",
+      "definition": "Self-controlled, self-mastered; The BIOS/firmware level of consciousness \u2013 before any OS (ego) or applications (desires) load, the self-mastered one operates at the foundational level where only essential processes run, immune to user-level crashes or malware.",
       "roots": "",
       "references": [
         "BG 12.14"
@@ -65,7 +110,7 @@
       "term": "Mayy arpita-mano-buddhir",
       "transliteration": "mayy arpita-mano-buddhir",
       "type": "phrase",
-      "definition": "Mind and intelligence fixed on Me; Setting the CPU affinity mask to exclusively run on Krishna-core – all computational threads (thoughts, decisions, actions) are bound to process on the Divine core, preventing context-switching to materialistic processes that would cause system instability.",
+      "definition": "Mind and intelligence fixed on Me; Setting the CPU affinity mask to exclusively run on Krishna-core \u2013 all computational threads (thoughts, decisions, actions) are bound to process on the Divine core, preventing context-switching to materialistic processes that would cause system instability.",
       "roots": "",
       "references": [
         "BG 12.14"
@@ -77,10 +122,10 @@
       ]
     },
     {
-      "term": "Abhyāsa",
-      "transliteration": "abhyāsa",
+      "term": "Abhy\u0101sa",
+      "transliteration": "abhy\u0101sa",
       "type": "neuter noun",
-      "definition": "Consistent, repeated practice. In BG 12.9, Arjuna is advised to follow the regulative principles of bhakti‑yoga (abhyāsa‑yoga) when direct fixation of the mind fails. Hacker metaphor: Like setting a cron job to run a system health check every hour—automated, persistent effort that gradually corrects drift and maintains stability.",
+      "definition": "Consistent, repeated practice. In BG 12.9, Arjuna is advised to follow the regulative principles of bhakti\u2011yoga (abhy\u0101sa\u2011yoga) when direct fixation of the mind fails. Hacker metaphor: Like setting a cron job to run a system health check every hour\u2014automated, persistent effort that gradually corrects drift and maintains stability.",
       "roots": "",
       "references": [
         "BG 12.9"
@@ -92,7 +137,7 @@
       ]
     },
     {
-      "term": "abhyāsa",
+      "term": "abhy\u0101sa",
       "transliteration": "",
       "type": "",
       "definition": "Consistent spiritual practice. The verse places this as the first step in the graduated approach to spiritual realization.",
@@ -103,7 +148,7 @@
       "themes": []
     },
     {
-      "term": "abhyāsa (अभ्यास)",
+      "term": "abhy\u0101sa (\u0905\u092d\u094d\u092f\u093e\u0938)",
       "transliteration": "",
       "type": "",
       "definition": "Consistent spiritual practice. The verse places this as the first step in the graduated approach to spiritual realization.",
@@ -114,9 +159,9 @@
       "themes": []
     },
     {
-      "term": "aiśvaram",
+      "term": "ai\u015bvaram",
       "transliteration": "aishvaram",
-      "type": "accusative sing. of 'aiśvara'",
+      "type": "accusative sing. of 'ai\u015bvara'",
       "definition": "lordship, divine power.",
       "roots": "",
       "references": [
@@ -125,16 +170,16 @@
       "themes": []
     },
     {
-      "term": "amāvasyā",
-      "transliteration": "amāvasyā",
+      "term": "am\u0101vasy\u0101",
+      "transliteration": "am\u0101vasy\u0101",
       "type": "noun",
-      "definition": "The new moon; the day when the moon is not visible, the complete waning. From ama (together) + vāsya (dwelling) — the day when sun and moon dwell together in the same lunar mansion. The void is not empty — it is a convergence.",
-      "roots": "from ama (together) + vāsya (dwelling)",
+      "definition": "The new moon; the day when the moon is not visible, the complete waning. From ama (together) + v\u0101sya (dwelling) \u2014 the day when sun and moon dwell together in the same lunar mansion. The void is not empty \u2014 it is a convergence.",
+      "roots": "from ama (together) + v\u0101sya (dwelling)",
       "references": [
         "BG 11.50"
       ],
       "themes": [
-        "amāvasyā",
+        "am\u0101vasy\u0101",
         "new-moon",
         "dissolution-renewal"
       ]
@@ -159,7 +204,7 @@
       "term": "ananyena",
       "transliteration": "ananyena",
       "type": "indeclinable adverb",
-      "definition": "Without division or deviation. The state of single-pointed devotion where the mind admits no rival object. This is not partial commitment — it is the full signal, zero noise.",
+      "definition": "Without division or deviation. The state of single-pointed devotion where the mind admits no rival object. This is not partial commitment \u2014 it is the full signal, zero noise.",
       "roots": "",
       "references": [
         "BG 12.6-7"
@@ -182,18 +227,18 @@
       "themes": []
     },
     {
-      "term": "Anurādhā (अनुराधा)",
-      "definition": "Today's nakṣatra (until 02:22 AM), ruled by Mitra (god of friendship and alliance). Symbolizes devotion through harmonious connection and balanced relationships. Hacker metaphor: Like a stable, peer-to-peer network node that maintains reliable connection to the Divine server through mutual trust and protocol."
+      "term": "Anur\u0101dh\u0101 (\u0905\u0928\u0941\u0930\u093e\u0927\u093e)",
+      "definition": "Today's nak\u1e63atra (until 02:22 AM), ruled by Mitra (god of friendship and alliance). Symbolizes devotion through harmonious connection and balanced relationships. Hacker metaphor: Like a stable, peer-to-peer network node that maintains reliable connection to the Divine server through mutual trust and protocol."
     },
     {
-      "term": "bhakti-mān",
+      "term": "bhakti-m\u0101n",
       "definition": "Possessed of devotion, engaged in devotional service. The devotee is actively engaged in loving service to the Supreme Lord. <em>Hacker metaphor:</em> Like a dedicated background process that continuously performs essential maintenance tasks (garbage collection, updates, monitoring) to keep the system running smoothly and securely."
     },
     {
-      "term": "bhāsaḥ mahātmanaḥ",
-      "transliteration": "bhāsaḥ mahātmanaḥ",
+      "term": "bh\u0101sa\u1e25 mah\u0101tmana\u1e25",
+      "transliteration": "bh\u0101sa\u1e25 mah\u0101tmana\u1e25",
       "type": "phrase",
-      "definition": "\"the effulgence of the great soul\"; bhāsaḥ denotes active, self-luminous radiance intrinsic to the Lord's being, not external light.",
+      "definition": "\"the effulgence of the great soul\"; bh\u0101sa\u1e25 denotes active, self-luminous radiance intrinsic to the Lord's being, not external light.",
       "roots": "",
       "references": [
         "BG 11.12"
@@ -205,13 +250,13 @@
       ]
     },
     {
-      "term": "Buddhi (बुद्धि)",
-      "definition": "Intelligence, discrimination, judgment. The verse asks us to invest this buddhi in Me — not just to think about God, but to employ our discriminative faculty in His service. Hacker metaphor: Like allocating your best debugging skills to trace the source code of reality back to the Divine programmer."
+      "term": "Buddhi (\u092c\u0941\u0926\u094d\u0927\u093f)",
+      "definition": "Intelligence, discrimination, judgment. The verse asks us to invest this buddhi in Me \u2014 not just to think about God, but to employ our discriminative faculty in His service. Hacker metaphor: Like allocating your best debugging skills to trace the source code of reality back to the Divine programmer."
     },
     {
-      "term": "cakṣuḥ",
+      "term": "cak\u1e63u\u1e25",
       "transliteration": "chakshuh",
-      "type": "accusative sing. of 'cakṣus'",
+      "type": "accusative sing. of 'cak\u1e63us'",
       "definition": "eyes.",
       "roots": "",
       "references": [
@@ -220,7 +265,7 @@
       "themes": []
     },
     {
-      "term": "dadāmi",
+      "term": "dad\u0101mi",
       "transliteration": "dadami",
       "type": "1st person sing. verb",
       "definition": "I give.",
@@ -231,10 +276,10 @@
       "themes": []
     },
     {
-      "term": "daṁṣṭrā-karālāni",
-      "transliteration": "daṁṣṭrā-karālāni",
+      "term": "da\u1e41\u1e63\u1e6dr\u0101-kar\u0101l\u0101ni",
+      "transliteration": "da\u1e41\u1e63\u1e6dr\u0101-kar\u0101l\u0101ni",
       "type": "adjective",
-      "definition": "\"terrible teeth\"; the gaping, dreadful teeth of the universal form. Time devours all forms — like a debug trace exposing every hidden dependency, the cosmic form reveals what is truly permanent and what is only structural overlay.",
+      "definition": "\"terrible teeth\"; the gaping, dreadful teeth of the universal form. Time devours all forms \u2014 like a debug trace exposing every hidden dependency, the cosmic form reveals what is truly permanent and what is only structural overlay.",
       "roots": "",
       "references": [
         "BG 11.25"
@@ -258,8 +303,8 @@
       "themes": []
     },
     {
-      "term": "deveśa",
-      "transliteration": "deveśa",
+      "term": "deve\u015ba",
+      "transliteration": "deve\u015ba",
       "type": "masculine noun",
       "definition": "\"Lord of lords\"; the title asserting Krishna's supremacy over every other being. All demigods tremble before this form; Arjuna bypasses them and goes directly to the source.",
       "roots": "",
@@ -274,10 +319,10 @@
       ]
     },
     {
-      "term": "Dhanañjaya",
-      "transliteration": "dhanañjaya",
+      "term": "Dhana\u00f1jaya",
+      "transliteration": "dhana\u00f1jaya",
       "type": "masculine noun",
-      "definition": "Epithet of Arjuna meaning “winner of wealth.” Here it reminds us that the true wealth to be won is not material prosperity but the riches of devotion—Kṛṣṇa Himself. Hacker metaphor: Like achieving root access not to a material server but to the supreme repository of spiritual knowledge, where the real assets are grace and love.",
+      "definition": "Epithet of Arjuna meaning \u201cwinner of wealth.\u201d Here it reminds us that the true wealth to be won is not material prosperity but the riches of devotion\u2014K\u1e5b\u1e63\u1e47a Himself. Hacker metaphor: Like achieving root access not to a material server but to the supreme repository of spiritual knowledge, where the real assets are grace and love.",
       "roots": "",
       "references": [
         "BG 12.9"
@@ -292,7 +337,7 @@
       "term": "dhruva",
       "transliteration": "dhruva",
       "type": "noun/adjective",
-      "definition": "\"fixed, immovable\"; the pole star yoga. Maps onto puruṣa in Sāṅkhya: never moves, never changes, the fixed reference for all movement.",
+      "definition": "\"fixed, immovable\"; the pole star yoga. Maps onto puru\u1e63a in S\u0101\u1e45khya: never moves, never changes, the fixed reference for all movement.",
       "roots": "",
       "references": [
         "BG 11.12"
@@ -304,8 +349,8 @@
       ]
     },
     {
-      "term": "divi sūrya-sahasrasya bhavet",
-      "transliteration": "divi sūrya-sahasrasya bhavet",
+      "term": "divi s\u016brya-sahasrasya bhavet",
+      "transliteration": "divi s\u016brya-sahasrasya bhavet",
       "type": "phrase",
       "definition": "the hypothetical magnitude that would still fall short of the universal form's effulgence. Sanskrit uses the conditional mood deliberately: the comparison is an approximation offered by language's limitations.",
       "roots": "",
@@ -330,10 +375,10 @@
       "themes": []
     },
     {
-      "term": "divyaṁ dadāmi te cakṣuḥ",
-      "transliteration": "divyaṁ dadāmi te cakṣuḥ",
+      "term": "divya\u1e41 dad\u0101mi te cak\u1e63u\u1e25",
+      "transliteration": "divya\u1e41 dad\u0101mi te cak\u1e63u\u1e25",
       "type": "phrase",
-      "definition": "“I give you divine eyes”; the granting of higher perception by grace; not earned by effort alone but given to the qualified devotee.",
+      "definition": "\u201cI give you divine eyes\u201d; the granting of higher perception by grace; not earned by effort alone but given to the qualified devotee.",
       "roots": "",
       "references": [
         "BG 11.8"
@@ -345,7 +390,7 @@
       ]
     },
     {
-      "term": "draṣṭum",
+      "term": "dra\u1e63\u1e6dum",
       "transliteration": "drashtum",
       "type": "infinitive verb",
       "definition": "to see, to behold.",
@@ -356,7 +401,7 @@
       "themes": []
     },
     {
-      "term": "draṣṭum",
+      "term": "dra\u1e63\u1e6dum",
       "transliteration": "drashtum",
       "type": "infinitive verb",
       "definition": "to see, to behold.",
@@ -367,8 +412,8 @@
       "themes": []
     },
     {
-      "term": "dīpta-hutāśa",
-      "transliteration": "dīpta-hutāśa",
+      "term": "d\u012bpta-hut\u0101\u015ba",
+      "transliteration": "d\u012bpta-hut\u0101\u015ba",
       "type": "compound",
       "definition": "blazing with fires of knowledge; the process that burns away karma through transcendental understanding",
       "roots": "",
@@ -383,7 +428,7 @@
       ]
     },
     {
-      "term": "guḍākeśa",
+      "term": "gu\u1e0d\u0101ke\u015ba",
       "transliteration": "gudakesha",
       "type": "masc. noun",
       "definition": "O Arjuna (epithet meaning \"lord of sleep\" or \"one with thick hair\").",
@@ -394,11 +439,11 @@
       "themes": []
     },
     {
-      "term": "hṛṣīkeśa",
-      "transliteration": "hṛṣīkeśa",
+      "term": "h\u1e5b\u1e63\u012bke\u015ba",
+      "transliteration": "h\u1e5b\u1e63\u012bke\u015ba",
       "type": "masculine noun",
-      "definition": "\"master of all senses\"; acknowledges that the hṛṣīka — senses and mind — belong to Īśvara. When recognized, the senses stop running wild and become instruments of bhakti. Equivalent to reclaiming root access from a compromised process.",
-      "roots": "from hṛṣīka (senses) + īśa (master, lord)",
+      "definition": "\"master of all senses\"; acknowledges that the h\u1e5b\u1e63\u012bka \u2014 senses and mind \u2014 belong to \u012a\u015bvara. When recognized, the senses stop running wild and become instruments of bhakti. Equivalent to reclaiming root access from a compromised process.",
+      "roots": "from h\u1e5b\u1e63\u012bka (senses) + \u012b\u015ba (master, lord)",
       "references": [
         "BG 11.36"
       ],
@@ -421,10 +466,10 @@
       "themes": []
     },
     {
-      "term": "Icchā",
-      "transliteration": "icchā",
+      "term": "Icch\u0101",
+      "transliteration": "icch\u0101",
       "type": "feminine noun",
-      "definition": "Desire, aspiration, longing. The verse promises that through practice, one develops icchā to attain Me. Hacker metaphor: Like a background service that, once initialized, continuously polls for the Divine signal and triggers the devotional process when the connection is strong enough.",
+      "definition": "Desire, aspiration, longing. The verse promises that through practice, one develops icch\u0101 to attain Me. Hacker metaphor: Like a background service that, once initialized, continuously polls for the Divine signal and triggers the devotional process when the connection is strong enough.",
       "roots": "",
       "references": [
         "BG 12.9"
@@ -436,7 +481,7 @@
       ]
     },
     {
-      "term": "ihaika-sthaṁ",
+      "term": "ihaika-stha\u1e41",
       "transliteration": "ihaika-sthan",
       "type": "adverb",
       "definition": "in one place.",
@@ -447,10 +492,10 @@
       "themes": []
     },
     {
-      "term": "jagan-nivāsa",
-      "transliteration": "jagan-nivāsa",
+      "term": "jagan-niv\u0101sa",
+      "transliteration": "jagan-niv\u0101sa",
       "type": "masculine compound noun",
-      "definition": "\"refuge of the worlds\"; the abiding home of all existence. Every temporary refuge — army, skill, status, relationship — belongs to the jagat, the moving world that passes. Krishna alone is its nivāsa.",
+      "definition": "\"refuge of the worlds\"; the abiding home of all existence. Every temporary refuge \u2014 army, skill, status, relationship \u2014 belongs to the jagat, the moving world that passes. Krishna alone is its niv\u0101sa.",
       "roots": "",
       "references": [
         "BG 11.25"
@@ -474,7 +519,7 @@
       "themes": []
     },
     {
-      "term": "karma-phala-tyāga",
+      "term": "karma-phala-ty\u0101ga",
       "transliteration": "",
       "type": "",
       "definition": "Renunciation of the fruits of action. In BG 12.12, this is presented as superior to knowledge and meditation for attaining peace of mind.",
@@ -485,7 +530,7 @@
       "themes": []
     },
     {
-      "term": "karma-phala-tyāga (कर्मफलत्याग)",
+      "term": "karma-phala-ty\u0101ga (\u0915\u0930\u094d\u092e\u092b\u0932\u0924\u094d\u092f\u093e\u0917)",
       "transliteration": "",
       "type": "",
       "definition": "Renunciation of the fruits of action. In BG 12.12, this is presented as superior to knowledge and meditation for attaining peace of mind.",
@@ -496,8 +541,8 @@
       "themes": []
     },
     {
-      "term": "kālānala",
-      "transliteration": "kālānala",
+      "term": "k\u0101l\u0101nala",
+      "transliteration": "k\u0101l\u0101nala",
       "type": "masculine noun",
       "definition": "\"the fire of time / death\"; the impartial, automatic dissolution of all constructed forms. Not random destruction but the operating system of the material world. Recognising this is realism, not morbidity.",
       "roots": "",
@@ -512,7 +557,7 @@
       ]
     },
     {
-      "term": "kṛtsnaṁ",
+      "term": "k\u1e5btsna\u1e41",
       "transliteration": "kritsnan",
       "type": "adjective",
       "definition": "complete, whole, entire.",
@@ -523,11 +568,11 @@
       "themes": []
     },
     {
-      "term": "mahā-ātmā",
-      "transliteration": "mahā-ātmā",
+      "term": "mah\u0101-\u0101tm\u0101",
+      "transliteration": "mah\u0101-\u0101tm\u0101",
       "type": "compound noun",
       "definition": "The great-souled one; He whose self encompasses all selves. Not just \"great\" but the very definition of greatness as a quality of spirit.",
-      "roots": "from mahā (great) + ātmā (self)",
+      "roots": "from mah\u0101 (great) + \u0101tm\u0101 (self)",
       "references": [
         "BG 11.50"
       ],
@@ -538,15 +583,15 @@
       ]
     },
     {
-      "term": "Manas (मनस्)",
-      "definition": "The mind — the faculty that thinks, feels, and wills. In BG 12.8, Arjuna is told to fix this very mind on Kṛṣṇa. Hacker metaphor: Like setting the CPU's instruction pointer to a sacred address — all processing cycles then serve the Divine process."
+      "term": "Manas (\u092e\u0928\u0938\u094d)",
+      "definition": "The mind \u2014 the faculty that thinks, feels, and wills. In BG 12.8, Arjuna is told to fix this very mind on K\u1e5b\u1e63\u1e47a. Hacker metaphor: Like setting the CPU's instruction pointer to a sacred address \u2014 all processing cycles then serve the Divine process."
     },
     {
-      "term": "mat-parāḥ",
-      "transliteration": "mat-parāḥ",
+      "term": "mat-par\u0101\u1e25",
+      "transliteration": "mat-par\u0101\u1e25",
       "type": "masculine noun compound",
-      "definition": "Attached to Me, devoted to Me. Mat = to Me; parāḥ = attached/having gone to. The devotee whose entire orientation has shifted toward Kṛṣṇa — not as a hobby, not as a practice, but as identity.",
-      "roots": "mat + parāḥ",
+      "definition": "Attached to Me, devoted to Me. Mat = to Me; par\u0101\u1e25 = attached/having gone to. The devotee whose entire orientation has shifted toward K\u1e5b\u1e63\u1e47a \u2014 not as a hobby, not as a practice, but as identity.",
+      "roots": "mat + par\u0101\u1e25",
       "references": [
         "BG 12.6-7"
       ],
@@ -557,12 +602,12 @@
       ]
     },
     {
-      "term": "maunī",
-      "definition": "Silent, one who observes silence. The devotee is described as maunī—speaking only of essentials, not engaging in nonsense. <em>Hacker metaphor:</em> Like a spam filter that blocks unwanted and harmful messages, allowing only legitimate, essential communication to pass through, thereby increasing the signal-to-noise ratio of consciousness."
+      "term": "maun\u012b",
+      "definition": "Silent, one who observes silence. The devotee is described as maun\u012b\u2014speaking only of essentials, not engaging in nonsense. <em>Hacker metaphor:</em> Like a spam filter that blocks unwanted and harmful messages, allowing only legitimate, essential communication to pass through, thereby increasing the signal-to-noise ratio of consciousness."
     },
     {
-      "term": "maṇi",
-      "transliteration": "maṇi",
+      "term": "ma\u1e47i",
+      "transliteration": "ma\u1e47i",
       "type": "noun",
       "definition": "Jewel, crystal, gem; that which reflects without altering.",
       "roots": "",
@@ -590,7 +635,7 @@
       "themes": []
     },
     {
-      "term": "māṁ",
+      "term": "m\u0101\u1e41",
       "transliteration": "mam",
       "type": "accusative sing. of 'mad'",
       "definition": "Me.",
@@ -601,10 +646,10 @@
       "themes": []
     },
     {
-      "term": "Mūla",
-      "transliteration": "mūla",
+      "term": "M\u016bla",
+      "transliteration": "m\u016bla",
       "type": "neuter noun",
-      "definition": "Tomorrow’s nakṣatra, meaning “root.” Symbolizes the foundation, the source, and the transformative power that dissolves the superficial to reveal the essential. Hacker metaphor: Like performing a filesystem check (fsck) that identifies and repairs corrupted inodes, allowing the system to mount securely on its true foundation.",
+      "definition": "Tomorrow\u2019s nak\u1e63atra, meaning \u201croot.\u201d Symbolizes the foundation, the source, and the transformative power that dissolves the superficial to reveal the essential. Hacker metaphor: Like performing a filesystem check (fsck) that identifies and repairs corrupted inodes, allowing the system to mount securely on its true foundation.",
       "roots": "",
       "references": [
         "BG 12.9"
@@ -616,10 +661,10 @@
       ]
     },
     {
-      "term": "mūla",
+      "term": "m\u016bla",
       "transliteration": "",
       "type": "",
-      "definition": "Today's nakṣatra (until 08:14 AM), meaning 'root.' Symbolizes foundation, origin, and the transformative power that addresses bondage at its source.",
+      "definition": "Today's nak\u1e63atra (until 08:14 AM), meaning 'root.' Symbolizes foundation, origin, and the transformative power that addresses bondage at its source.",
       "roots": "",
       "references": [
         "BG 12.12"
@@ -627,10 +672,10 @@
       "themes": []
     },
     {
-      "term": "mūla (मूल)",
+      "term": "m\u016bla (\u092e\u0942\u0932)",
       "transliteration": "",
       "type": "",
-      "definition": "Today’s nakṣatra (until 08:14 AM), meaning “root.” Symbolizes foundation, origin, and the transformative power that addresses bondage at its source.",
+      "definition": "Today\u2019s nak\u1e63atra (until 08:14 AM), meaning \u201croot.\u201d Symbolizes foundation, origin, and the transformative power that addresses bondage at its source.",
       "roots": "",
       "references": [
         "BG 12.12"
@@ -649,11 +694,11 @@
       "themes": []
     },
     {
-      "term": "na cirāt",
-      "transliteration": "na cirāt",
+      "term": "na cir\u0101t",
+      "transliteration": "na cir\u0101t",
       "type": "indeclinable adverb phrase",
-      "definition": "Without delay, very soon. The Lord's promise of swift deliverance. Not 'eventually' — 'quickly'. When surrender is complete, the response is immediate.",
-      "roots": "na + cirāt",
+      "definition": "Without delay, very soon. The Lord's promise of swift deliverance. Not 'eventually' \u2014 'quickly'. When surrender is complete, the response is immediate.",
+      "roots": "na + cir\u0101t",
       "references": [
         "BG 12.6-7"
       ],
@@ -664,10 +709,10 @@
       ]
     },
     {
-      "term": "na tu māṁ śakyase draṣṭum",
-      "transliteration": "na tu māṁ śakyase draṣṭum",
+      "term": "na tu m\u0101\u1e41 \u015bakyase dra\u1e63\u1e6dum",
+      "transliteration": "na tu m\u0101\u1e41 \u015bakyase dra\u1e63\u1e6dum",
       "type": "phrase",
-      "definition": "“You cannot see Me with your present eyes”; the acknowledgment of the limitation of ordinary vision; spiritual equivalent of a hardware upgrade requirement.",
+      "definition": "\u201cYou cannot see Me with your present eyes\u201d; the acknowledgment of the limitation of ordinary vision; spiritual equivalent of a hardware upgrade requirement.",
       "roots": "",
       "references": [
         "BG 11.8"
@@ -679,10 +724,10 @@
       ]
     },
     {
-      "term": "navamī",
-      "transliteration": "navamī",
+      "term": "navam\u012b",
+      "transliteration": "navam\u012b",
       "type": "noun",
-      "definition": "\"the ninth\"; Kṛṣṇa Pakṣa Navamī marks the final threshold before Amāvāsyā. Completion energy: finish what needs finishing.",
+      "definition": "\"the ninth\"; K\u1e5b\u1e63\u1e47a Pak\u1e63a Navam\u012b marks the final threshold before Am\u0101v\u0101sy\u0101. Completion energy: finish what needs finishing.",
       "roots": "",
       "references": [
         "BG 11.12"
@@ -694,8 +739,8 @@
       ]
     },
     {
-      "term": "paraṁ nidhānam",
-      "transliteration": "paraṁ nidhānam",
+      "term": "para\u1e41 nidh\u0101nam",
+      "transliteration": "para\u1e41 nidh\u0101nam",
       "type": "noun",
       "definition": "supreme resting place, ultimate refuge; the divine base that supports all existence, like the foundation of a terminal server cluster",
       "roots": "",
@@ -709,7 +754,7 @@
       ]
     },
     {
-      "term": "paśya",
+      "term": "pa\u015bya",
       "transliteration": "pashya",
       "type": "imperative verb",
       "definition": "see, behold.",
@@ -720,10 +765,10 @@
       "themes": []
     },
     {
-      "term": "paśya me yogam aiśvaram",
-      "transliteration": "paśya me yogam aiśvaram",
+      "term": "pa\u015bya me yogam ai\u015bvaram",
+      "transliteration": "pa\u015bya me yogam ai\u015bvaram",
       "type": "phrase",
-      "definition": "“Behold My mystic opulence!”; the invitation to see the Lord’s divine powers and manifestations; the opulence (aiśvarya) is the inconceivable powers of the Supreme.",
+      "definition": "\u201cBehold My mystic opulence!\u201d; the invitation to see the Lord\u2019s divine powers and manifestations; the opulence (ai\u015bvarya) is the inconceivable powers of the Supreme.",
       "roots": "",
       "references": [
         "BG 11.8"
@@ -735,11 +780,11 @@
       ]
     },
     {
-      "term": "prakīrtyā",
-      "transliteration": "prakīrtyā",
+      "term": "prak\u012brty\u0101",
+      "transliteration": "prak\u012brty\u0101",
       "type": "feminine noun, instrumental case",
-      "definition": "\"by the glories, by recounting\"; the mechanism of transformation. The Lord's glories are active — they reorganize reality around themselves. Demons recoil; perfected beings advance. The glories do not convert; they reveal.",
-      "roots": "from pra + √kṛ, \"to do thoroughly, to accomplish\" — the thorough act of revealing",
+      "definition": "\"by the glories, by recounting\"; the mechanism of transformation. The Lord's glories are active \u2014 they reorganize reality around themselves. Demons recoil; perfected beings advance. The glories do not convert; they reveal.",
+      "roots": "from pra + \u221ak\u1e5b, \"to do thoroughly, to accomplish\" \u2014 the thorough act of revealing",
       "references": [
         "BG 11.36"
       ],
@@ -751,8 +796,8 @@
       ]
     },
     {
-      "term": "prasīda",
-      "transliteration": "prasīda",
+      "term": "pras\u012bda",
+      "transliteration": "pras\u012bda",
       "type": "verb, imperative",
       "definition": "\"be gracious, show favor\"; the central devotional cry of the verse. Not a demand for outcomes, but a request for restoration after confusion. Recognised helplessness is the precondition for every genuine spiritual breakthrough.",
       "roots": "",
@@ -768,8 +813,8 @@
       ]
     },
     {
-      "term": "puruṣa",
-      "transliteration": "puruṣa",
+      "term": "puru\u1e63a",
+      "transliteration": "puru\u1e63a",
       "type": "noun",
       "definition": "the Supreme Person; the conscious witness that runs the simulation",
       "roots": "",
@@ -783,11 +828,11 @@
       ]
     },
     {
-      "term": "rakṣāṁsi",
-      "transliteration": "rakṣāṁsi",
+      "term": "rak\u1e63\u0101\u1e41si",
+      "transliteration": "rak\u1e63\u0101\u1e41si",
       "type": "neuter noun plural",
-      "definition": "\"demons, rākṣasas\"; inner patterns of defending a false identity. When truth is spoken, they flee. Not external beings to be destroyed but the structural overlay of ego that cannot tolerate reality.",
-      "roots": "from rakṣas, \"to protect, to guard\" — the demons are those who guard the false self",
+      "definition": "\"demons, r\u0101k\u1e63asas\"; inner patterns of defending a false identity. When truth is spoken, they flee. Not external beings to be destroyed but the structural overlay of ego that cannot tolerate reality.",
+      "roots": "from rak\u1e63as, \"to protect, to guard\" \u2014 the demons are those who guard the false self",
       "references": [
         "BG 11.36"
       ],
@@ -802,7 +847,7 @@
       "term": "rohini",
       "transliteration": "rohini",
       "type": "proper noun",
-      "definition": "Aldebaran, α Tauri, the red giant 44× the Sun's diameter. Prajāpati's creative, generative nakṣatra; the fixed brilliant star of manifestation.",
+      "definition": "Aldebaran, \u03b1 Tauri, the red giant 44\u00d7 the Sun's diameter. Praj\u0101pati's creative, generative nak\u1e63atra; the fixed brilliant star of manifestation.",
       "roots": "",
       "references": [
         "BG 11.12"
@@ -814,7 +859,7 @@
       ]
     },
     {
-      "term": "sa-carācaram",
+      "term": "sa-car\u0101caram",
       "transliteration": "sa-caracaram",
       "type": "compound",
       "definition": "moving and non-moving.",
@@ -826,11 +871,11 @@
     },
     {
       "term": "sama",
-      "definition": "Equal, equipoise, balanced. The verse repeats samaḥ to describe the devotee’s equal vision toward friends and enemies, and equipoise in honor/dishonor, heat/cold, happiness/distress, fame/infamy. <em>Hacker metaphor:</em> Like a load balancer that distributes incoming traffic evenly across servers, ensuring no single node is overwhelmed or underutilized, maintaining system stability."
+      "definition": "Equal, equipoise, balanced. The verse repeats sama\u1e25 to describe the devotee\u2019s equal vision toward friends and enemies, and equipoise in honor/dishonor, heat/cold, happiness/distress, fame/infamy. <em>Hacker metaphor:</em> Like a load balancer that distributes incoming traffic evenly across servers, ensuring no single node is overwhelmed or underutilized, maintaining system stability."
     },
     {
-      "term": "samāpatti",
-      "transliteration": "samāpatti",
+      "term": "sam\u0101patti",
+      "transliteration": "sam\u0101patti",
       "type": "noun",
       "definition": "\"absorption, coalescence.\" The mind becomes transparent and takes on the color of its object. Direct perceptual transformation, not fantasy-visualization.",
       "roots": "",
@@ -848,8 +893,8 @@
       "term": "sannyasya",
       "transliteration": "sannyasya",
       "type": "neuter noun (gerund)",
-      "definition": "Surrendering, giving up, relinquishing. Not passive renunciation but active offering — placing everything at the Lord's feet as an act of service. Like deploying code with zero local backups — total trust.",
-      "roots": "sam- + ni- + √as",
+      "definition": "Surrendering, giving up, relinquishing. Not passive renunciation but active offering \u2014 placing everything at the Lord's feet as an act of service. Like deploying code with zero local backups \u2014 total trust.",
+      "roots": "sam- + ni- + \u221aas",
       "references": [
         "BG 12.6-7"
       ],
@@ -860,8 +905,8 @@
       ]
     },
     {
-      "term": "Sarva-karma-phala-tyāga",
-      "transliteration": "sarva-karma-phala-tyāga",
+      "term": "Sarva-karma-phala-ty\u0101ga",
+      "transliteration": "sarva-karma-phala-ty\u0101ga",
       "type": "neuter noun compound",
       "definition": "Renunciation of the results of all actions. In BG 12.11, this is the prescription for those impeded from direct devotional service. Hacker metaphor: Like setting up a firewall that blocks outgoing packets of desire for results, redirecting energy toward neutral or noble causes.",
       "roots": "",
@@ -875,10 +920,10 @@
       ]
     },
     {
-      "term": "saumya-vapuḥ",
-      "transliteration": "saumya-vapuḥ",
+      "term": "saumya-vapu\u1e25",
+      "transliteration": "saumya-vapu\u1e25",
       "type": "compound adjective",
-      "definition": "Beautiful, gentle form; the most beautiful form. Saumya derives from soma (the lunar essence, the nectar of tranquility). This is not just \"pretty\" — it is the form that calms the mind and restores the heart.",
+      "definition": "Beautiful, gentle form; the most beautiful form. Saumya derives from soma (the lunar essence, the nectar of tranquility). This is not just \"pretty\" \u2014 it is the form that calms the mind and restores the heart.",
       "roots": "from soma (the lunar essence, the nectar of tranquility)",
       "references": [
         "BG 11.50"
@@ -890,11 +935,11 @@
       ]
     },
     {
-      "term": "saṁsāra-sāgara",
-      "transliteration": "saṁsāra-sāgara",
+      "term": "sa\u1e41s\u0101ra-s\u0101gara",
+      "transliteration": "sa\u1e41s\u0101ra-s\u0101gara",
       "type": "masculine noun compound",
-      "definition": "The ocean of material existence (saṁsāra). Called an ocean because it is vast, deep, and terrifyingly easy to drown in. The Lord does not teach you to swim better — He pulls you out.",
-      "roots": "saṁsāra + sāgara",
+      "definition": "The ocean of material existence (sa\u1e41s\u0101ra). Called an ocean because it is vast, deep, and terrifyingly easy to drown in. The Lord does not teach you to swim better \u2014 He pulls you out.",
+      "roots": "sa\u1e41s\u0101ra + s\u0101gara",
       "references": [
         "BG 12.6-7"
       ],
@@ -905,15 +950,15 @@
       ]
     },
     {
-      "term": "saṅga-vivarjitaḥ",
+      "term": "sa\u1e45ga-vivarjita\u1e25",
       "definition": "Free from all association, unattached to contaminated company. The devotee avoids association that disturbs the mind. <em>Hacker metaphor:</em> Like a firewall that prevents malicious intrusions and unauthorized access, protecting the system from corrupting influences that could destabilize its operation."
     },
     {
-      "term": "siddha-saṅghāḥ",
-      "transliteration": "siddha-saṅghāḥ",
+      "term": "siddha-sa\u1e45gh\u0101\u1e25",
+      "transliteration": "siddha-sa\u1e45gh\u0101\u1e25",
       "type": "masculine compound noun",
-      "definition": "\"the assembled perfected beings\"; those whose citta is purified and who immediately recognize the Lord. Their bowing is not new devotion — it is the consummation of lifelong orientation. Like code that finally compiles after years of debugging.",
-      "roots": "siddha (perfected) + saṅghāḥ (gathered assembly)",
+      "definition": "\"the assembled perfected beings\"; those whose citta is purified and who immediately recognize the Lord. Their bowing is not new devotion \u2014 it is the consummation of lifelong orientation. Like code that finally compiles after years of debugging.",
+      "roots": "siddha (perfected) + sa\u1e45gh\u0101\u1e25 (gathered assembly)",
       "references": [
         "BG 11.36"
       ],
@@ -937,20 +982,20 @@
         "lion",
         "royalty",
         "sovereignty",
-        "Simha Saṁkrānti",
+        "Simha Sa\u1e41kr\u0101nti",
         "solar"
       ]
     },
     {
       "term": "sthira-mati",
-      "definition": "Fixed in knowledge, steady-minded. The devotee’s intelligence is unwavering and firm in spiritual understanding. <em>Hacker metaphor:</em> Like a system with a consistent, uncorrupted state vector that resists bit flips and maintains integrity under varying conditions, ensuring reliable operation."
+      "definition": "Fixed in knowledge, steady-minded. The devotee\u2019s intelligence is unwavering and firm in spiritual understanding. <em>Hacker metaphor:</em> Like a system with a consistent, uncorrupted state vector that resists bit flips and maintains integrity under varying conditions, ensuring reliable operation."
     },
     {
-      "term": "sthāne",
-      "transliteration": "sthāne",
+      "term": "sth\u0101ne",
+      "transliteration": "sth\u0101ne",
       "type": "adverb",
-      "definition": "\"rightly, fitly, appropriately\"; Arjuna's assessment that the Lord's actions are correct in every instance. The culmination of discriminative knowledge — not passive acceptance but recognition that the Lord's justice is always precisely calibrated.",
-      "roots": "from sāthā, \"properly, fittingly\"",
+      "definition": "\"rightly, fitly, appropriately\"; Arjuna's assessment that the Lord's actions are correct in every instance. The culmination of discriminative knowledge \u2014 not passive acceptance but recognition that the Lord's justice is always precisely calibrated.",
+      "roots": "from s\u0101th\u0101, \"properly, fittingly\"",
       "references": [
         "BG 11.36"
       ],
@@ -961,9 +1006,9 @@
       ]
     },
     {
-      "term": "sva-cakṣuṣā",
+      "term": "sva-cak\u1e63u\u1e63\u0101",
       "transliteration": "svacakshusha",
-      "type": "instrumental sing. of 'sva-cakṣus'",
+      "type": "instrumental sing. of 'sva-cak\u1e63us'",
       "definition": "with your own eyes.",
       "roots": "",
       "references": [
@@ -972,8 +1017,8 @@
       "themes": []
     },
     {
-      "term": "svakaṁ rūpam",
-      "transliteration": "svakaṁ rūpam",
+      "term": "svaka\u1e41 r\u016bpam",
+      "transliteration": "svaka\u1e41 r\u016bpam",
       "type": "noun phrase",
       "definition": "His own form; the essential, original form of the Supreme, distinct from any manifested cosmic display.",
       "roots": "",
@@ -983,24 +1028,24 @@
       "themes": [
         "cosmic-form",
         "return-to-form",
-        "amāvasyā"
+        "am\u0101vasy\u0101"
       ]
     },
     {
-      "term": "tada draṣṭuḥ svarūpe 'vasthānam",
-      "transliteration": "tada draṣṭuḥ svarūpe 'vasthānam",
-      "type": "yoga sūtra",
-      "definition": "\"Then the seer abides in its own form\"; the foundational statement of yoga's goal. Svarūpe (in its own form) and avasthānam (abiding) together describe the settled state — not striving, not becoming, simply being what one truly is.",
-      "roots": "from svarūpa (own form) + avasthānam (abiding)",
+      "term": "tada dra\u1e63\u1e6du\u1e25 svar\u016bpe 'vasth\u0101nam",
+      "transliteration": "tada dra\u1e63\u1e6du\u1e25 svar\u016bpe 'vasth\u0101nam",
+      "type": "yoga s\u016btra",
+      "definition": "\"Then the seer abides in its own form\"; the foundational statement of yoga's goal. Svar\u016bpe (in its own form) and avasth\u0101nam (abiding) together describe the settled state \u2014 not striving, not becoming, simply being what one truly is.",
+      "roots": "from svar\u016bpa (own form) + avasth\u0101nam (abiding)",
       "references": [
         "YS 1.3",
         "BG 11.50"
       ],
       "themes": [
         "ys-1.3",
-        "svarūpe",
-        "avasthānam",
-        "puruṣa"
+        "svar\u016bpe",
+        "avasth\u0101nam",
+        "puru\u1e63a"
       ]
     },
     {
@@ -1042,8 +1087,8 @@
       "themes": []
     },
     {
-      "term": "uragāṁś ca divyān",
-      "transliteration": "uragāṁś ca divyān",
+      "term": "urag\u0101\u1e41\u015b ca divy\u0101n",
+      "transliteration": "urag\u0101\u1e41\u015b ca divy\u0101n",
       "type": "noun",
       "definition": "And divine serpents; uraga = serpent, divya = divine, luminous, shining with inner light.",
       "roots": "uraga = serpent, divya = divine",
@@ -1057,10 +1102,10 @@
       ]
     },
     {
-      "term": "Vaidhṛti",
-      "transliteration": "vaidhṛti",
+      "term": "Vaidh\u1e5bti",
+      "transliteration": "vaidh\u1e5bti",
       "type": "feminine noun",
-      "definition": "Today’s yoga (until evening), often considered inauspicious, associated with obstacles and delays. Hacker metaphor: Like encountering a intermittent network packet loss that requires retry mechanisms and error‑correcting codes to maintain a reliable connection to the Divine.",
+      "definition": "Today\u2019s yoga (until evening), often considered inauspicious, associated with obstacles and delays. Hacker metaphor: Like encountering a intermittent network packet loss that requires retry mechanisms and error\u2011correcting codes to maintain a reliable connection to the Divine.",
       "roots": "",
       "references": [
         "BG 12.9"
@@ -1072,11 +1117,11 @@
       ]
     },
     {
-      "term": "vyāghāta",
-      "transliteration": "vyāghāta",
+      "term": "vy\u0101gh\u0101ta",
+      "transliteration": "vy\u0101gh\u0101ta",
       "type": "masculine noun",
-      "definition": "\"the attacker, the obstacle-smasher\"; the yoga active today. Vyāghāta smashes everything — valuable and worthless alike. It is not selective. This is why Ekādaśī paired with Vyāghāta is intense: dissolution is non-negotiable.",
-      "roots": "from √han, \"to strike, to smash\"; prefix vi- intensifies — thorough, complete striking",
+      "definition": "\"the attacker, the obstacle-smasher\"; the yoga active today. Vy\u0101gh\u0101ta smashes everything \u2014 valuable and worthless alike. It is not selective. This is why Ek\u0101da\u015b\u012b paired with Vy\u0101gh\u0101ta is intense: dissolution is non-negotiable.",
+      "roots": "from \u221ahan, \"to strike, to smash\"; prefix vi- intensifies \u2014 thorough, complete striking",
       "references": [
         "BG 11.36",
         "YS 2.47"
@@ -1089,11 +1134,11 @@
       ]
     },
     {
-      "term": "Vṛścika (वृश्चिक)",
-      "definition": "The Moon's sign today — Scorpio. Represents transformation, depth, and the courage to face hidden truths. Hacker metaphor: Like a rootkit scan that reveals and removes hidden processes (karmic imprints) that interfere with divine operation."
+      "term": "V\u1e5b\u015bcika (\u0935\u0943\u0936\u094d\u091a\u093f\u0915)",
+      "definition": "The Moon's sign today \u2014 Scorpio. Represents transformation, depth, and the courage to face hidden truths. Hacker metaphor: Like a rootkit scan that reveals and removes hidden processes (karmic imprints) that interfere with divine operation."
     },
     {
-      "term": "yac cānyad",
+      "term": "yac c\u0101nyad",
       "transliteration": "yac canyad",
       "type": "pronoun + adjective",
       "definition": "whatever else.",
@@ -1104,10 +1149,10 @@
       "themes": []
     },
     {
-      "term": "Yatātmavān",
-      "transliteration": "yatātmavān",
+      "term": "Yat\u0101tmav\u0101n",
+      "transliteration": "yat\u0101tmav\u0101n",
       "type": "masculine noun",
-      "definition": "Situated in the self; one who has attained inner stability and self-mastery. The verse promises that through renunciation of results, one becomes yatātmavān. Hacker metaphor: Like achieving a stable root filesystem where the kernel operates securely without constant crashes or interrupts.",
+      "definition": "Situated in the self; one who has attained inner stability and self-mastery. The verse promises that through renunciation of results, one becomes yat\u0101tmav\u0101n. Hacker metaphor: Like achieving a stable root filesystem where the kernel operates securely without constant crashes or interrupts.",
       "roots": "",
       "references": [
         "BG 12.11"
@@ -1130,8 +1175,8 @@
       "themes": []
     },
     {
-      "term": "Āśritaḥ",
-      "transliteration": "āśritaḥ",
+      "term": "\u0100\u015brita\u1e25",
+      "transliteration": "\u0101\u015brita\u1e25",
       "type": "masculine noun",
       "definition": "Taking refuge, seeking shelter. In the verse, it refers to taking refuge in devotional service (mad-yogam). Hacker metaphor: Like a process that, when unable to run its primary service, switches to a safe fallback mode that maintains core functionality.",
       "roots": "",
@@ -1145,8 +1190,8 @@
       ]
     },
     {
-      "term": "āśvata-dharma-goṭhā",
-      "transliteration": "āśvata-dharma-goṭhā",
+      "term": "\u0101\u015bvata-dharma-go\u1e6dh\u0101",
+      "transliteration": "\u0101\u015bvata-dharma-go\u1e6dh\u0101",
       "type": "noun",
       "definition": "maintainer of the eternal religion; preserves spiritual infrastructure like a version-controlled dharma repository",
       "roots": "",
@@ -1160,10 +1205,10 @@
       ]
     },
     {
-      "term": "āśvāsayām āsa",
-      "transliteration": "āśvāsayām āsa",
+      "term": "\u0101\u015bv\u0101say\u0101m \u0101sa",
+      "transliteration": "\u0101\u015bv\u0101say\u0101m \u0101sa",
       "type": "verb",
-      "definition": "Encouraged, reassured, restored to calm; the act of dispelling fear. Kṛṣṇa does not just change form — He actively reassures.",
+      "definition": "Encouraged, reassured, restored to calm; the act of dispelling fear. K\u1e5b\u1e63\u1e47a does not just change form \u2014 He actively reassures.",
       "roots": "",
       "references": [
         "BG 11.50"
@@ -1175,8 +1220,8 @@
       ]
     },
     {
-      "term": "īśvara-praṇidhāna",
-      "transliteration": "īśvara-praṇidhāna",
+      "term": "\u012b\u015bvara-pra\u1e47idh\u0101na",
+      "transliteration": "\u012b\u015bvara-pra\u1e47idh\u0101na",
       "type": "neuter compound noun",
       "definition": "\"devotion to the Lord\"; complete surrender of will and effort to Ishvara. From YS 1.23. Not passive resignation but active dedication, cultivated when the mind is steady so it remains available when the mind is not.",
       "roots": "",
@@ -1192,11 +1237,11 @@
       ]
     },
     {
-      "term": "Īśvara-praṇidhāna (ईश्वरप्रणिधान)",
-      "definition": "Devotion to the Lord; surrender of the fruits of action to the Divine. This is the practice BG 12.8 enjoins and YS 1.23 highlights as a direct path to samādhi. Hacker metaphor: Like setting up a continuous integration pipeline where every action is automatically tested, built, and deployed in service to the Divine repository."
+      "term": "\u012a\u015bvara-pra\u1e47idh\u0101na (\u0908\u0936\u094d\u0935\u0930\u092a\u094d\u0930\u0923\u093f\u0927\u093e\u0928)",
+      "definition": "Devotion to the Lord; surrender of the fruits of action to the Divine. This is the practice BG 12.8 enjoins and YS 1.23 highlights as a direct path to sam\u0101dhi. Hacker metaphor: Like setting up a continuous integration pipeline where every action is automatically tested, built, and deployed in service to the Divine repository."
     },
     {
-      "term": "śakyase",
+      "term": "\u015bakyase",
       "transliteration": "shakyase",
       "type": "2nd person sing. verb",
       "definition": "are able.",
@@ -1207,8 +1252,8 @@
       "themes": []
     },
     {
-      "term": "śarma",
-      "transliteration": "śarma",
+      "term": "\u015barma",
+      "transliteration": "\u015barma",
       "type": "neuter noun",
       "definition": "\"grace, divine shelter\"; the specific refuge that only surrender to the Lord provides. Arjuna cannot obtain it while citta is scattered, but the recognition of its absence is precisely the opening for its return.",
       "roots": "",
@@ -1223,10 +1268,10 @@
       ]
     },
     {
-      "term": "śānti",
+      "term": "\u015b\u0101nti",
       "transliteration": "",
       "type": "",
-      "definition": "Peace, tranquility, freedom from disturbance. The verse promises that karma-phala-tyāga leads to śānti.",
+      "definition": "Peace, tranquility, freedom from disturbance. The verse promises that karma-phala-ty\u0101ga leads to \u015b\u0101nti.",
       "roots": "",
       "references": [
         "BG 12.12"
@@ -1234,10 +1279,10 @@
       "themes": []
     },
     {
-      "term": "śānti (शान्ति)",
+      "term": "\u015b\u0101nti (\u0936\u093e\u0928\u094d\u0924\u093f)",
       "transliteration": "",
       "type": "",
-      "definition": "Peace, tranquility, freedom from disturbance. The verse promises that karma-phala-tyāga leads to śānti.",
+      "definition": "Peace, tranquility, freedom from disturbance. The verse promises that karma-phala-ty\u0101ga leads to \u015b\u0101nti.",
       "roots": "",
       "references": [
         "BG 12.12"
@@ -1245,8 +1290,8 @@
       "themes": []
     },
     {
-      "term": "akartāram",
-      "transliteration": "akartāram",
+      "term": "akart\u0101ram",
+      "transliteration": "akart\u0101ram",
       "type": "noun",
       "definition": "Non-doer; one who does not act; hacker metaphor: passive observer process with no write permissions",
       "roots": "",
@@ -1260,8 +1305,8 @@
       ]
     },
     {
-      "term": "ātmānam",
-      "transliteration": "ātmānam",
+      "term": "\u0101tm\u0101nam",
+      "transliteration": "\u0101tm\u0101nam",
       "type": "noun",
       "definition": "The self; the true self; pure consciousness; hacker metaphor: firmware layer or ring -1 privilege level",
       "roots": "",
@@ -1276,8 +1321,8 @@
       ]
     },
     {
-      "term": "kriyamāṇāni",
-      "transliteration": "kriyamāṇāni",
+      "term": "kriyam\u0101\u1e47\u0101ni",
+      "transliteration": "kriyam\u0101\u1e47\u0101ni",
       "type": "noun",
       "definition": "Ongoing actions; actions in progress; hacker metaphor: user-space processes executing system calls",
       "roots": "",
@@ -1291,8 +1336,8 @@
       ]
     },
     {
-      "term": "prakṛti",
-      "transliteration": "prakṛti",
+      "term": "prak\u1e5bti",
+      "transliteration": "prak\u1e5bti",
       "type": "noun",
       "definition": "Material nature; the primordial substance that evolves into the universe; hacker metaphor: the hardware substrate or base system",
       "roots": "",
