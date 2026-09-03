@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-30",
+  "lastUpdated": "2026-09-02",
   "terms": [
     {
       "term": "Adveṣṭā",
@@ -1243,6 +1243,67 @@
         "BG 12.12"
       ],
       "themes": []
+    },
+    {
+      "term": "akartāram",
+      "transliteration": "akartāram",
+      "type": "noun",
+      "definition": "Non-doer; one who does not act; hacker metaphor: passive observer process with no write permissions",
+      "roots": "",
+      "references": [
+        "BG 13.30"
+      ],
+      "themes": [
+        "non-doer",
+        "akartaram",
+        "sankhya"
+      ]
+    },
+    {
+      "term": "ātmānam",
+      "transliteration": "ātmānam",
+      "type": "noun",
+      "definition": "The self; the true self; pure consciousness; hacker metaphor: firmware layer or ring -1 privilege level",
+      "roots": "",
+      "references": [
+        "BG 13.30"
+      ],
+      "themes": [
+        "atman",
+        "self",
+        "consciousness",
+        "sankhya"
+      ]
+    },
+    {
+      "term": "kriyamāṇāni",
+      "transliteration": "kriyamāṇāni",
+      "type": "noun",
+      "definition": "Ongoing actions; actions in progress; hacker metaphor: user-space processes executing system calls",
+      "roots": "",
+      "references": [
+        "BG 13.30"
+      ],
+      "themes": [
+        "actions",
+        "kriyamanani",
+        "prakriti"
+      ]
+    },
+    {
+      "term": "prakṛti",
+      "transliteration": "prakṛti",
+      "type": "noun",
+      "definition": "Material nature; the primordial substance that evolves into the universe; hacker metaphor: the hardware substrate or base system",
+      "roots": "",
+      "references": [
+        "BG 13.30"
+      ],
+      "themes": [
+        "prakriti",
+        "material-nature",
+        "sankhya"
+      ]
     }
   ]
 }
