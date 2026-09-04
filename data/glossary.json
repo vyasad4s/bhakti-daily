@@ -1,6 +1,96 @@
 {
-  "lastUpdated": "2026-09-03",
+  "lastUpdated": "2026-09-04",
   "terms": [
+    {
+      "term": "sarvendriya-guṇābhāsaṁ",
+      "transliteration": "sarvendriya-guṇābhāsaṁ",
+      "type": "compound noun",
+      "definition": "the original source of all senses and qualities; hacker metaphor: the root process that spawns all I/O devices yet remains uncontaminated by their operations.",
+      "roots": "",
+      "references": [
+        "BG 13.15"
+      ],
+      "themes": [
+        "transcendental",
+        "senses",
+        "janmashtami"
+      ]
+    },
+    {
+      "term": "sarvendriya-vivarjitam",
+      "transliteration": "sarvendriya-vivarjitam",
+      "type": "compound noun",
+      "definition": "without all senses; free from material sense organs; hacker metaphor: a system that generates input signals without possessing physical input hardware.",
+      "roots": "",
+      "references": [
+        "BG 13.15"
+      ],
+      "themes": [
+        "transcendental",
+        "senses",
+        "janmashtami"
+      ]
+    },
+    {
+      "term": "asaktaṁ",
+      "transliteration": "asaktaṁ",
+      "type": "adjective",
+      "definition": "unattached, unconnected; hacker metaphor: a daemon process that runs independently without spawning child processes or creating dependencies.",
+      "roots": "",
+      "references": [
+        "BG 13.15"
+      ],
+      "themes": [
+        "transcendental",
+        "senses",
+        "janmashtami"
+      ]
+    },
+    {
+      "term": "sarva-bhṛt",
+      "transliteration": "sarva-bhṛt",
+      "type": "noun",
+      "definition": "the maintainer, nourisher of all; hacker metaphor: a kernel-level process that allocates resources to all user-space applications without being affected by their demands.",
+      "roots": "",
+      "references": [
+        "BG 13.15"
+      ],
+      "themes": [
+        "transcendental",
+        "senses",
+        "janmashtami"
+      ]
+    },
+    {
+      "term": "nirguṇaṁ",
+      "transliteration": "nirguṇaṁ",
+      "type": "adjective",
+      "definition": "without material qualities; transcending the three modes of nature; hacker metaphor: a process that runs in kernel space, unaffected by user-space gunas (sattva/rajas/tamas).",
+      "roots": "",
+      "references": [
+        "BG 13.15"
+      ],
+      "themes": [
+        "transcendental",
+        "senses",
+        "janmashtami"
+      ]
+    },
+    {
+      "term": "guṇa-bhoktṛ",
+      "transliteration": "guṇa-bhoktṛ",
+      "type": "noun",
+      "definition": "enjoyer, master of the qualities; hacker metaphor: a hypervisor that oversees and allocates the three gunas (sattva/rajas/tamas) to virtual machines while remaining transcendental.",
+      "roots": "",
+      "references": [
+        "BG 13.15"
+      ],
+      "themes": [
+        "transcendental",
+        "senses",
+        "janmashtami"
+      ]
+    },
     {
       "term": "Abhyāsa",
       "transliteration": "abhyāsa",

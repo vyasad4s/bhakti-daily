@@ -1,6 +1,44 @@
 {
   "verses": [
     {
+      "date": "2026-09-04",
+      "source": "BG 13.15",
+      "chapter": 13,
+      "verse": 15,
+      "text": "Bhagavad Gita",
+      "tithi": "Krishna Paksha Ashtami (until 14:43) → Navami",
+      "nakshatra": "Rohini (until 13:34) → Mrigashirsha",
+      "yoga": "Vajra (until 06:13 AM) → Siddhi",
+      "themes": [
+        "Transcendental Senses",
+        "Janmashtami Navami",
+        "Rohini Nakshatra",
+        "Sankhya Purusa",
+        "Isvara Pranidhana"
+      ],
+      "tags": [
+        "#TranscendentalSenses",
+        "#JanmashtamiNavami",
+        "#RohiniNakshatra",
+        "#SankhyaPurusa",
+        "#IsvaraPranidhana"
+      ],
+      "yogaSutraConnection": "YS I.20",
+      "sankhyaConcepts": [
+        "Transcendental Puruṣa permeating prakṛti",
+        "The Lord's senses are transcendental yet source of all sensory activities",
+        "Buddhi aligned with puruṣa through īśvara-praṇidhāna discriminates between prakṛti and puruṣa"
+      ],
+      "keyTerms": [
+        "sarvendriya-guṇābhāsaṁ",
+        "sarvendriya-vivarjitam",
+        "asaktaṁ",
+        "sarva-bhṛt",
+        "nirguṇaṁ",
+        "guṇa-bhoktṛ"
+      ]
+    },
+    {
       "date": "2026-09-03",
       "source": "BG 13.14",
       "chapter": 13,
@@ -4503,5 +4541,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-09-03"
+  "lastUpdated": "2026-09-04"
 }
