@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-08",
+  "lastUpdated": "2026-09-07",
   "terms": [
     {
       "term": "Abhy\u0101sa",
@@ -268,6 +268,10 @@
       ]
     },
     {
+      "term": "anaha\u1e45k\u0101ra",
+      "definition": "absence of false ego, egolessness"
+    },
+    {
       "term": "ananta",
       "transliteration": "ananta",
       "type": "adjective",
@@ -308,6 +312,10 @@
         "BG 11.8"
       ],
       "themes": []
+    },
+    {
+      "term": "anudar\u015banam",
+      "definition": "perception, realization, observation"
     },
     {
       "term": "asakta\u1e41",
@@ -479,6 +487,10 @@
       ]
     },
     {
+      "term": "do\u1e63a",
+      "definition": "fault, defect, imperfection"
+    },
+    {
       "term": "dra\u1e63\u1e6dum",
       "transliteration": "drashtum",
       "type": "infinitive verb",
@@ -499,6 +511,10 @@
         "BG 11.7"
       ],
       "themes": []
+    },
+    {
+      "term": "du\u1e25kha",
+      "definition": "suffering, pain, distress"
     },
     {
       "term": "d\u012bpta-hut\u0101\u015ba",
@@ -595,6 +611,10 @@
       "themes": []
     },
     {
+      "term": "indriy\u0101rthe\u1e63u",
+      "definition": "relating to sense objects; sensual objects"
+    },
+    {
       "term": "jagan-niv\u0101sa",
       "transliteration": "jagan-niv\u0101sa",
       "type": "masculine compound noun",
@@ -620,6 +640,14 @@
         "BG 11.7"
       ],
       "themes": []
+    },
+    {
+      "term": "janma",
+      "definition": "birth"
+    },
+    {
+      "term": "jar\u0101",
+      "definition": "old age"
     },
     {
       "term": "karma-phala-ty\u0101ga",
@@ -851,6 +879,10 @@
         "BG 12.12"
       ],
       "themes": []
+    },
+    {
+      "term": "m\u1e5btyu",
+      "definition": "death"
     },
     {
       "term": "na",
@@ -1386,6 +1418,14 @@
         "divine",
         "ornament"
       ]
+    },
+    {
+      "term": "vair\u0101gyam",
+      "definition": "renunciation, dispassion, detachment from sense gratification"
+    },
+    {
+      "term": "vy\u0101dhi",
+      "definition": "disease, illness"
     },
     {
       "term": "vy\u0101gh\u0101ta",

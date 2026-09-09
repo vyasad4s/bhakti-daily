@@ -1,6 +1,49 @@
 {
   "verses": [
     {
+      "date": "2026-09-07",
+      "source": "BG 13.9",
+      "chapter": 13,
+      "verse": 9,
+      "text": "Bhagavad Gita",
+      "tithi": "Ekadashi (Bhadrapada Krishna Paksha)",
+      "nakshatra": "Punarvasu (until 08:44 AM) \u2192 Pushya (from 08:44 AM)",
+      "yoga": "Variyan (until 06:07 PM) \u2192 Parigha (from 06:07 PM)",
+      "themes": [
+        "Sense Control Realization",
+        "Pushya Nourishment",
+        "Parigha Obstacle-Smashing",
+        "Ekadashi Tithi",
+        "Somvara Influence"
+      ],
+      "tags": [
+        "#SenseControl",
+        "#Vairagya",
+        "#Ekadashi",
+        "#Pushya",
+        "#Parigha",
+        "#Somvara"
+      ],
+      "yogaSutraConnection": "YS II.54",
+      "sankhyaConcepts": [
+        "Sense renunciation (vair\u0101gyam) as sensory firewall rules",
+        "Absence of false ego (anaha\u1e45k\u0101ra) as egoless processing",
+        "Vision of sufferings limitations (du\u1e25kha-d\u1e5b\u1e63\u1e6di) as motivational force for liberation"
+      ],
+      "keyTerms": [
+        "indriy\u0101rthe\u1e63u",
+        "vair\u0101gyam",
+        "anaha\u1e45k\u0101ra",
+        "janma",
+        "m\u1e5btyu",
+        "jar\u0101",
+        "vy\u0101dhi",
+        "du\u1e25kha",
+        "do\u1e63a",
+        "anudar\u015banam"
+      ]
+    },
+    {
       "date": "2026-09-08",
       "source": "BG 13.34",
       "chapter": 13,
@@ -4581,5 +4624,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-09-08"
+  "lastUpdated": "2026-09-07"
 }
