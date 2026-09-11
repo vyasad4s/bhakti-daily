@@ -1,6 +1,48 @@
 {
   "verses": [
     {
+      "date": "2026-09-11",
+      "source": "BG 13.29",
+      "chapter": 13,
+      "verse": 29,
+      "text": "Bhagavad Gita",
+      "tithi": "Sukla Paksha Pratipada (until 10:16 PM) → Dwitiya",
+      "nakshatra": "Uttara Phalguni (until 03:25 AM, Sep 12) → Hasta",
+      "yoga": "Subha (until 05:38 AM, Sep 12) → Sukla",
+      "themes": [
+        "DivineEquality",
+        "ChandraDarshan",
+        "EqualVision",
+        "YogaSutra",
+        "Sankhya"
+      ],
+      "tags": [
+        "#DivineEquality",
+        "#ChandraDarshan",
+        "#EqualVision",
+        "#YogaSutra",
+        "#Sankhya"
+      ],
+      "yogaSutraConnection": "YS 1.36",
+      "sankhyaConcepts": [
+        "Purusha-Prakriti Equality",
+        "Universal Consciousness"
+      ],
+      "keyTerms": [
+        "Samam",
+        "Paśyan",
+        "Sarvatra",
+        "Samavasthitam",
+        "Īśvaram",
+        "Ātmanā",
+        "Ātmānam",
+        "Hinasti",
+        "Parām",
+        "Gatim",
+        "Chandra Darshan"
+      ]
+    },
+    {
       "date": "2026-09-10",
       "source": "BG 13.18",
       "chapter": 13,
@@ -4701,5 +4743,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-09-10"
+  "lastUpdated": "2026-09-11"
 }
