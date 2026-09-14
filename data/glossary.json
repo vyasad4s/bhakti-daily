@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-11",
+  "lastUpdated": "2026-09-14",
   "terms": [
     {
       "term": "Samam",
@@ -1828,6 +1828,115 @@
         "BG 12.12"
       ],
       "themes": []
+    },
+    {
+      "term": "Anādī",
+      "transliteration": "Anādī",
+      "type": "adjective",
+      "definition": "Beginningless, without origin",
+      "roots": [
+        "a- (not)",
+        "ādī (beginning)"
+      ],
+      "references": [
+        "BG 13.20"
+      ],
+      "themes": [
+        "Eternal",
+        "Timeless",
+        "Sankhya"
+      ]
+    },
+    {
+      "term": "Prakṛti",
+      "transliteration": "Prakṛti",
+      "type": "noun",
+      "definition": "Material nature, the material matrix",
+      "roots": [
+        "pra- (forward)",
+        "kṛti (to make)"
+      ],
+      "references": [
+        "BG 13.20"
+      ],
+      "themes": [
+        "MaterialNature",
+        "Sankhya",
+        "Prakriti"
+      ]
+    },
+    {
+      "term": "Puruṣa",
+      "transliteration": "Puruṣa",
+      "type": "noun",
+      "definition": "Living entity, conscious spirit",
+      "roots": [
+        "pur- (to fill)",
+        "uṣa (to burn)"
+      ],
+      "references": [
+        "BG 13.20"
+      ],
+      "themes": [
+        "Consciousness",
+        "Spirit",
+        "Purusha"
+      ]
+    },
+    {
+      "term": "Vikārāḥ",
+      "transliteration": "Vikārāḥ",
+      "type": "noun (plural)",
+      "definition": "Transformations, modifications",
+      "roots": [
+        "vi- (apart)",
+        "kṛ (to make)"
+      ],
+      "references": [
+        "BG 13.20"
+      ],
+      "themes": [
+        "Transformation",
+        "Change",
+        "MaterialNature"
+      ]
+    },
+    {
+      "term": "Guṇāḥ",
+      "transliteration": "Guṇāḥ",
+      "type": "noun (plural)",
+      "definition": "The three modes (sattva, rajas, tamas)",
+      "roots": [
+        "guṇa (quality, attribute)"
+      ],
+      "references": [
+        "BG 13.20"
+      ],
+      "themes": [
+        "ThreeModes",
+        "Sattva",
+        "Rajas",
+        "Tamas",
+        "Sankhya"
+      ]
+    },
+    {
+      "term": "Prakṛti-sambhavān",
+      "transliteration": "Prakṛti-sambhavān",
+      "type": "adjective",
+      "definition": "Produced of material nature",
+      "roots": [
+        "prakṛti (material nature)",
+        "sambhavān (produced of)"
+      ],
+      "references": [
+        "BG 13.20"
+      ],
+      "themes": [
+        "MaterialOrigin",
+        "Creation",
+        "Sankhya"
+      ]
     }
   ]
 }
