@@ -1,6 +1,24 @@
 {
   "verses": [
     {
+      "date": "2026-09-15",
+      "source": "BG 13.25",
+      "chapter": 13,
+      "verse": 25,
+      "text": "Bhagavad Gita",
+      "tithi": "Sukla Paksha Panchami (until 11:29 PM) \u2192 Shashthi",
+      "nakshatra": "Vishaka (until 07:52 AM, Sep 16)",
+      "yoga": "Vaidhruthi (until 02:52 AM, Sep 16) \u2192 Vishkambha",
+      "themes": [
+        "meditation",
+        "knowledge",
+        "devotion",
+        "yoga",
+        "sankhya",
+        "self-realization"
+      ]
+    },
+    {
       "date": "2026-09-14",
       "source": "BG 13.20",
       "chapter": 13,
