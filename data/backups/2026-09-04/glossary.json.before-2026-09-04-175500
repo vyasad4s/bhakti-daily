@@ -1,171 +1,6 @@
 {
-  "lastUpdated": "2026-09-11",
+  "lastUpdated": "2026-09-03",
   "terms": [
-    {
-      "term": "Samam",
-      "transliteration": "samam",
-      "type": "indeclinable",
-      "definition": "Equal, same, even; like a universal hash function – produces the same output format regardless of input, ensuring fairness and consistency across all data types.",
-      "roots": "",
-      "references": [
-        "BG 13.29"
-      ],
-      "themes": [
-        "equality",
-        "universal",
-        "sameness"
-      ]
-    },
-    {
-      "term": "Paśyan",
-      "transliteration": "paśyan",
-      "type": "present participle",
-      "definition": "Seeing, observing, perceiving; like a kernel-level system monitor – observes all processes with equal access and privilege, providing comprehensive visibility without bias.",
-      "roots": "",
-      "references": [
-        "BG 13.29"
-      ],
-      "themes": [
-        "perception",
-        "observation",
-        "vision"
-      ]
-    },
-    {
-      "term": "Sarvatra",
-      "transliteration": "sarvatra",
-      "type": "indeclinable",
-      "definition": "Everywhere, in all places; like a global CDN (Content Delivery Network) – delivers content with uniform performance and availability regardless of geographic location.",
-      "roots": "",
-      "references": [
-        "BG 13.29"
-      ],
-      "themes": [
-        "ubiquity",
-        "omnipresence",
-        "everywhere"
-      ]
-    },
-    {
-      "term": "Samavasthitam",
-      "transliteration": "samavasthitam",
-      "type": "indeclinable",
-      "definition": "Equally situated, similarly positioned; like a load balancer – distributes requests evenly across all servers, ensuring no single unit is overwhelmed or neglected.",
-      "roots": "",
-      "references": [
-        "BG 13.29"
-      ],
-      "themes": [
-        "equality",
-        "balance",
-        "equilibrium"
-      ]
-    },
-    {
-      "term": "Īśvaram",
-      "transliteration": "īśvaram",
-      "type": "masculine noun",
-      "definition": "The Supreme Lord, the divine ruler; like the root DNS server – the ultimate authority that resolves all queries fairly and consistently, regardless of the domain’s popularity or size.",
-      "roots": "",
-      "references": [
-        "BG 13.29"
-      ],
-      "themes": [
-        "divinity",
-        "lordship",
-        "supreme"
-      ]
-    },
-    {
-      "term": "Ātmanā",
-      "transliteration": "ātmanā",
-      "type": "instrumental singular",
-      "definition": "By the mind, through mental processes; like speculative execution – mental processes that can either enhance performance or create vulnerabilities depending on their nature and control.",
-      "roots": "",
-      "references": [
-        "BG 13.29"
-      ],
-      "themes": [
-        "mind",
-        "mental",
-        "processes"
-      ]
-    },
-    {
-      "term": "Ātmānam",
-      "transliteration": "ātmānam",
-      "type": "accusative singular",
-      "definition": "The self, the individual soul; like a sandboxed process – operates with defined permissions and resources, isolated yet part of the larger system.",
-      "roots": "",
-      "references": [
-        "BG 13.29"
-      ],
-      "themes": [
-        "self",
-        "soul",
-        "individual"
-      ]
-    },
-    {
-      "term": "Hinasti",
-      "transliteration": "hinasti",
-      "type": "3rd person singular present",
-      "definition": "Degrades, harms, diminishes; like a memory leak – gradually degrades system performance over time, often unnoticed until significant damage accumulates.",
-      "roots": "",
-      "references": [
-        "BG 13.29"
-      ],
-      "themes": [
-        "degradation",
-        "harm",
-        "diminishment"
-      ]
-    },
-    {
-      "term": "Parām",
-      "transliteration": "parām",
-      "type": "indeclinable",
-      "definition": "Supreme, transcendental, highest; like the hardware abstraction layer – operates at the most fundamental level, enabling all higher-level functions without being visible in day-to-day operations.",
-      "roots": "",
-      "references": [
-        "BG 13.29"
-      ],
-      "themes": [
-        "supreme",
-        "transcendental",
-        "highest"
-      ]
-    },
-    {
-      "term": "Gatim",
-      "transliteration": "gatim",
-      "type": "feminine noun",
-      "definition": "Destination, goal, end point; like the system’s bootloader – the initial code that determines the ultimate operating state and enables all subsequent operations.",
-      "roots": "",
-      "references": [
-        "BG 13.29"
-      ],
-      "themes": [
-        "destination",
-        "goal",
-        "endpoint"
-      ]
-    },
-    {
-      "term": "Chandra Darshan",
-      "transliteration": "candra darśana",
-      "type": "compound noun",
-      "definition": "Moon sighting, first glimpse of the waxing moon; like the power-on self-test (POST) – the initial diagnostic that confirms basic functionality before full system boot.",
-      "roots": "",
-      "references": [
-        "BG 13.29"
-      ],
-      "themes": [
-        "moon",
-        "sighting",
-        "darshan"
-      ]
-    },
     {
       "term": "Abhyāsa",
       "transliteration": "abhyāsa",
@@ -267,10 +102,6 @@
       ]
     },
     {
-      "term": "anahaṅkāra",
-      "definition": "absence of false ego, egolessness"
-    },
-    {
       "term": "ananta",
       "transliteration": "ananta",
       "type": "adjective",
@@ -313,55 +144,12 @@
       "themes": []
     },
     {
-      "term": "antīka",
-      "definition": "Near, close at hand",
-      "lastUpdated": "2026-09-09"
-    },
-    {
-      "term": "anudarśanam",
-      "definition": "perception, realization, observation"
-    },
-    {
       "term": "Anurādhā (अनुराधा)",
       "definition": "Today's nakṣatra (until 02:22 AM), ruled by Mitra (god of friendship and alliance). Symbolizes devotion through harmonious connection and balanced relationships. Hacker metaphor: Like a stable, peer-to-peer network node that maintains reliable connection to the Divine server through mutual trust and protocol."
     },
     {
-      "term": "asaktaṁ",
-      "transliteration": "asaktaṁ",
-      "type": "adjective",
-      "definition": "unattached, unconnected; hacker metaphor: a daemon process that runs independently without spawning child processes or creating dependencies.",
-      "roots": "",
-      "references": [
-        "BG 13.15"
-      ],
-      "themes": [
-        "transcendental",
-        "senses",
-        "janmashtami"
-      ]
-    },
-    {
-      "term": "avijñeya",
-      "definition": "Unknowable, incomprehensible",
-      "lastUpdated": "2026-09-09"
-    },
-    {
       "term": "bhakti-mān",
       "definition": "Possessed of devotion, engaged in devotional service. The devotee is actively engaged in loving service to the Supreme Lord. <em>Hacker metaphor:</em> Like a dedicated background process that continuously performs essential maintenance tasks (garbage collection, updates, monitoring) to keep the system running smoothly and securely."
-    },
-    {
-      "term": "bhārata",
-      "definition": "descendant of Bharata; Arjuna, the student receiving this timeless teaching",
-      "transliteration": "bhārata",
-      "type": "noun",
-      "references": [
-        "BG 13.34"
-      ],
-      "themes": [
-        "arjuna",
-        "student",
-        "teaching"
-      ]
     },
     {
       "term": "bhāsaḥ mahātmanaḥ",
@@ -519,10 +307,6 @@
       ]
     },
     {
-      "term": "doṣa",
-      "definition": "fault, defect, imperfection"
-    },
-    {
       "term": "draṣṭum",
       "transliteration": "drashtum",
       "type": "infinitive verb",
@@ -545,10 +329,6 @@
       "themes": []
     },
     {
-      "term": "duḥkha",
-      "definition": "suffering, pain, distress"
-    },
-    {
       "term": "dīpta-hutāśa",
       "transliteration": "dīpta-hutāśa",
       "type": "compound",
@@ -565,25 +345,6 @@
       ]
     },
     {
-      "term": "dūra-stham",
-      "definition": "Far away, distant",
-      "lastUpdated": "2026-09-09"
-    },
-    {
-      "term": "ekaḥ",
-      "definition": "one, singular; the singular consciousness pervading the body-field",
-      "transliteration": "ekaḥ",
-      "type": "adjective",
-      "references": [
-        "BG 13.34"
-      ],
-      "themes": [
-        "consciousness",
-        "sankhya",
-        "unity"
-      ]
-    },
-    {
       "term": "guḍākeśa",
       "transliteration": "gudakesha",
       "type": "masc. noun",
@@ -593,21 +354,6 @@
         "BG 11.7"
       ],
       "themes": []
-    },
-    {
-      "term": "guṇa-bhoktṛ",
-      "transliteration": "guṇa-bhoktṛ",
-      "type": "noun",
-      "definition": "enjoyer, master of the qualities; hacker metaphor: a hypervisor that oversees and allocates the three gunas (sattva/rajas/tamas) to virtual machines while remaining transcendental.",
-      "roots": "",
-      "references": [
-        "BG 13.15"
-      ],
-      "themes": [
-        "transcendental",
-        "senses",
-        "janmashtami"
-      ]
     },
     {
       "term": "hṛṣīkeśa",
@@ -663,10 +409,6 @@
       "themes": []
     },
     {
-      "term": "indriyārtheṣu",
-      "definition": "relating to sense objects; sensual objects"
-    },
-    {
       "term": "jagan-nivāsa",
       "transliteration": "jagan-nivāsa",
       "type": "masculine compound noun",
@@ -692,14 +434,6 @@
         "BG 11.7"
       ],
       "themes": []
-    },
-    {
-      "term": "janma",
-      "definition": "birth"
-    },
-    {
-      "term": "jarā",
-      "definition": "old age"
     },
     {
       "term": "karma-phala-tyāga",
@@ -770,20 +504,6 @@
       ]
     },
     {
-      "term": "kṛtsnam",
-      "definition": "all, entire, complete; the complete field of body-mind-senses illuminated by consciousness",
-      "transliteration": "kṛtsnam",
-      "type": "adjective",
-      "references": [
-        "BG 13.34"
-      ],
-      "themes": [
-        "completeness",
-        "totality",
-        "sankhya"
-      ]
-    },
-    {
       "term": "kṛtsnaṁ",
       "transliteration": "kritsnan",
       "type": "adjective",
@@ -793,53 +513,6 @@
         "BG 11.7"
       ],
       "themes": []
-    },
-    {
-      "term": "kṣetraṁ",
-      "definition": "field, domain; the body-mind complex as the field of activity",
-      "transliteration": "kṣetraṁ",
-      "type": "noun",
-      "references": [
-        "BG 13.34"
-      ],
-      "themes": [
-        "field",
-        "body-mind",
-        "activity"
-      ]
-    },
-    {
-      "term": "kṣetrī",
-      "definition": "the knower of the field; the conscious entity residing in the body",
-      "transliteration": "kṣetrī",
-      "type": "noun",
-      "references": [
-        "BG 13.34"
-      ],
-      "themes": [
-        "knower",
-        "consciousness",
-        "self"
-      ]
-    },
-    {
-      "term": "lokam",
-      "definition": "world, universe; the cosmic universe illuminated by the singular sun",
-      "transliteration": "lokam",
-      "type": "noun",
-      "references": [
-        "BG 13.34"
-      ],
-      "themes": [
-        "universe",
-        "cosmos",
-        "illumination"
-      ]
-    },
-    {
-      "term": "magha",
-      "definition": "The bountiful, magnificent",
-      "lastUpdated": "2026-09-09"
     },
     {
       "term": "mahā-ātmā",
@@ -987,10 +660,6 @@
       "themes": []
     },
     {
-      "term": "mṛtyu",
-      "definition": "death"
-    },
-    {
       "term": "na",
       "transliteration": "na",
       "type": "adverb",
@@ -1047,21 +716,6 @@
       ]
     },
     {
-      "term": "nirguṇaṁ",
-      "transliteration": "nirguṇaṁ",
-      "type": "adjective",
-      "definition": "without material qualities; transcending the three modes of nature; hacker metaphor: a process that runs in kernel space, unaffected by user-space gunas (sattva/rajas/tamas).",
-      "roots": "",
-      "references": [
-        "BG 13.15"
-      ],
-      "themes": [
-        "transcendental",
-        "senses",
-        "janmashtami"
-      ]
-    },
-    {
       "term": "paraṁ nidhānam",
       "transliteration": "paraṁ nidhānam",
       "type": "noun",
@@ -1100,20 +754,6 @@
         "opulence",
         "divine-powers",
         "vision"
-      ]
-    },
-    {
-      "term": "prakāśayati",
-      "definition": "illuminates, shines forth; like BIOS firmware enabling system functionality",
-      "transliteration": "prakāśayati",
-      "type": "verb",
-      "references": [
-        "BG 13.34"
-      ],
-      "themes": [
-        "illumination",
-        "consciousness",
-        "sankhya"
       ]
     },
     {
@@ -1203,20 +843,6 @@
       ]
     },
     {
-      "term": "raviḥ",
-      "definition": "sun; the singular illuminating principle in the cosmos",
-      "transliteration": "raviḥ",
-      "type": "noun",
-      "references": [
-        "BG 13.34"
-      ],
-      "themes": [
-        "sun",
-        "illumination",
-        "light"
-      ]
-    },
-    {
       "term": "rohini",
       "transliteration": "rohini",
       "type": "proper noun",
@@ -1293,21 +919,6 @@
       ]
     },
     {
-      "term": "sarva-bhṛt",
-      "transliteration": "sarva-bhṛt",
-      "type": "noun",
-      "definition": "the maintainer, nourisher of all; hacker metaphor: a kernel-level process that allocates resources to all user-space applications without being affected by their demands.",
-      "roots": "",
-      "references": [
-        "BG 13.15"
-      ],
-      "themes": [
-        "transcendental",
-        "senses",
-        "janmashtami"
-      ]
-    },
-    {
       "term": "Sarva-karma-phala-tyāga",
       "transliteration": "sarva-karma-phala-tyāga",
       "type": "neuter noun compound",
@@ -1335,36 +946,6 @@
       "type": "adverb",
       "references": [],
       "themes": []
-    },
-    {
-      "term": "sarvendriya-guṇābhāsaṁ",
-      "transliteration": "sarvendriya-guṇābhāsaṁ",
-      "type": "compound noun",
-      "definition": "the original source of all senses and qualities; hacker metaphor: the root process that spawns all I/O devices yet remains uncontaminated by their operations.",
-      "roots": "",
-      "references": [
-        "BG 13.15"
-      ],
-      "themes": [
-        "transcendental",
-        "senses",
-        "janmashtami"
-      ]
-    },
-    {
-      "term": "sarvendriya-vivarjitam",
-      "transliteration": "sarvendriya-vivarjitam",
-      "type": "compound noun",
-      "definition": "without all senses; free from material sense organs; hacker metaphor: a system that generates input signals without possessing physical input hardware.",
-      "roots": "",
-      "references": [
-        "BG 13.15"
-      ],
-      "themes": [
-        "transcendental",
-        "senses",
-        "janmashtami"
-      ]
     },
     {
       "term": "saumya-vapuḥ",
@@ -1434,11 +1015,6 @@
       ]
     },
     {
-      "term": "siva",
-      "definition": "Auspicious, benevolent",
-      "lastUpdated": "2026-09-09"
-    },
-    {
       "term": "sthira-mati",
       "definition": "Fixed in knowledge, steady-minded. The devotee’s intelligence is unwavering and firm in spiritual understanding. <em>Hacker metaphor:</em> Like a system with a consistent, uncorrupted state vector that resists bit flips and maintains integrity under varying conditions, ensuring reliable operation."
     },
@@ -1482,11 +1058,6 @@
         "return-to-form",
         "amāvasyā"
       ]
-    },
-    {
-      "term": "sūkṣma",
-      "definition": "Subtle, fine, delicate",
-      "lastUpdated": "2026-09-09"
     },
     {
       "term": "tada draṣṭuḥ svarūpe 'vasthānam",
@@ -1579,14 +1150,6 @@
         "obstacles",
         "delays"
       ]
-    },
-    {
-      "term": "vairāgyam",
-      "definition": "renunciation, dispassion, detachment from sense gratification"
-    },
-    {
-      "term": "vyādhi",
-      "definition": "disease, illness"
     },
     {
       "term": "vyāghāta",

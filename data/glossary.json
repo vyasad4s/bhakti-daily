@@ -1,263 +1,6 @@
 {
-  "lastUpdated": "2026-09-20",
+  "lastUpdated": "2026-09-28",
   "terms": [
-    {
-      "term": "sattva-guṇa",
-      "transliteration": "sattva-guṇa",
-      "type": "masculine noun",
-      "definition": "The mode of goodness; one of the three fundamental qualities of material nature, characterized by purity, illumination, harmony, wisdom, detachment, happiness, and peace. In today’s context of Navami tithi’s victorious energy, Purva Ashadha’s invincible Nakṣatra, Sobhana yoga’s auspicious purity, and Ravivarā’s solar illumination, sattva-guṇa represents the victorious path where the aspirant uses purity and light to transcend material limitation—like a master alchemist who transforms base metal into gold through the fire of knowledge and the water of devotion.",
-      "roots": "from sat (to be)",
-      "references": [
-        "BG 14.6"
-      ],
-      "themes": [
-        "sattva-guna",
-        "purity",
-        "illumination",
-        "harmony",
-        "wisdom"
-      ]
-    },
-    {
-      "term": "nirmalatvāt",
-      "transliteration": "nirmalatvāt",
-      "type": "adverb",
-      "definition": "Being purest in the material world; free from contamination by rajas and tamas. Aligned with Sobhana yoga’s auspicious purity and Navami tithi’s victorious energy, nirmalatvāt represents the quality of spotless purity where the aspirant’s consciousness is unblemished by the haze of passion and ignorance—like a cleanroom environment where even a single particle of contamination would ruin the product.",
-      "roots": "from nirmala (pure)",
-      "references": [
-        "BG 14.6"
-      ],
-      "themes": [
-        "purity",
-        "goodness",
-        "sattva"
-      ]
-    },
-    {
-      "term": "prakāśakam",
-      "transliteration": "prakāśakam",
-      "type": "neuter noun",
-      "definition": "Illuminating; endowed with the quality of light that dispels darkness. Supported by Ravivarā’s solar radiance and the Sun’s placement in Kanyā (Virgo), prakāśakam represents the illuminative power where the aspirant’s consciousness shines like a beacon, dispelling the gloom of material duality and revealing the true nature of reality—like a lighthouse that guides ships safely to shore through the darkest night.",
-      "roots": "from prakāś (to shine)",
-      "references": [
-        "BG 14.6"
-      ],
-      "themes": [
-        "illumination",
-        "light",
-        "clarity"
-      ]
-    },
-    {
-      "term": "anāmayam",
-      "transliteration": "anāmayam",
-      "type": "neuter noun",
-      "definition": "Without any sinful reaction; free from the negative consequences of past actions. Anchored in today’s Navami tithi (associated with the destruction of obstacles) and Sobhana yoga’s auspicious nature, anāmayam represents the state of karmic freedom where the aspirant’s actions do not produce sinful reactions—like a firewall that blocks all malicious traffic, allowing only pure, beneficial data to pass through.",
-      "roots": "from anāmaya (free from disease)",
-      "references": [
-        "BG 14.6"
-      ],
-      "themes": [
-        "purity",
-        "freedom-from-sin",
-        "karma"
-      ]
-    },
-    {
-      "term": "sukha-saṅgena",
-      "transliteration": "sukha-saṅgena",
-      "type": "prepositional phrase",
-      "definition": "By association with happiness; conditioned by a sense of joy and contentment. Aligned with Abhijit Muhūrta’s victorious energy and Amrit Kaal’s nectar-like quality, sukha-saṅgena represents the happiness-binding where the aspirant’s consciousness becomes conditioned to experience steady, enduring joy—not fleeting pleasure but deep-rooted contentment—like a thermodynamic system that reaches equilibrium and maintains it effortlessly.",
-      "roots": "from sukha (happiness)",
-      "references": [
-        "BG 14.6"
-      ],
-      "themes": [
-        "happiness",
-        "joy",
-        "contentment"
-      ]
-    },
-    {
-      "term": "jñāna-saṅgena",
-      "transliteration": "jñāna-saṅgena",
-      "type": "prepositional phrase",
-      "definition": "By association with knowledge; conditioned by a sense of understanding and wisdom. Supported by the Sun’s placement in Kanyā (Virgo) and Budhwarā’s Mercurial influence (though today is Ravivarā, the solar energy still sharpens intellect), jñāna-saṅgena represents the knowledge-binding where the aspirant’s consciousness becomes conditioned to experience clear, discerning wisdom—not mere information but profound understanding—like a supercomputer that processes data with perfect accuracy and insight.",
-      "roots": "from jñāna (knowledge)",
-      "references": [
-        "BG 14.6"
-      ],
-      "themes": [
-        "knowledge",
-        "wisdom",
-        "understanding"
-      ]
-    },
-    {
-      "term": "Samam",
-      "transliteration": "samam",
-      "type": "indeclinable",
-      "definition": "Equal, same, even; like a universal hash function – produces the same output format regardless of input, ensuring fairness and consistency across all data types.",
-      "roots": "",
-      "references": [
-        "BG 13.29"
-      ],
-      "themes": [
-        "equality",
-        "universal",
-        "sameness"
-      ]
-    },
-    {
-      "term": "Paśyan",
-      "transliteration": "paśyan",
-      "type": "present participle",
-      "definition": "Seeing, observing, perceiving; like a kernel-level system monitor – observes all processes with equal access and privilege, providing comprehensive visibility without bias.",
-      "roots": "",
-      "references": [
-        "BG 13.29"
-      ],
-      "themes": [
-        "perception",
-        "observation",
-        "vision"
-      ]
-    },
-    {
-      "term": "Sarvatra",
-      "transliteration": "sarvatra",
-      "type": "indeclinable",
-      "definition": "Everywhere, in all places; like a global CDN (Content Delivery Network) – delivers content with uniform performance and availability regardless of geographic location.",
-      "roots": "",
-      "references": [
-        "BG 13.29"
-      ],
-      "themes": [
-        "ubiquity",
-        "omnipresence",
-        "everywhere"
-      ]
-    },
-    {
-      "term": "Samavasthitam",
-      "transliteration": "samavasthitam",
-      "type": "indeclinable",
-      "definition": "Equally situated, similarly positioned; like a load balancer – distributes requests evenly across all servers, ensuring no single unit is overwhelmed or neglected.",
-      "roots": "",
-      "references": [
-        "BG 13.29"
-      ],
-      "themes": [
-        "equality",
-        "balance",
-        "equilibrium"
-      ]
-    },
-    {
-      "term": "Īśvaram",
-      "transliteration": "īśvaram",
-      "type": "masculine noun",
-      "definition": "The Supreme Lord, the divine ruler; like the root DNS server – the ultimate authority that resolves all queries fairly and consistently, regardless of the domain’s popularity or size.",
-      "roots": "",
-      "references": [
-        "BG 13.29"
-      ],
-      "themes": [
-        "divinity",
-        "lordship",
-        "supreme"
-      ]
-    },
-    {
-      "term": "Ātmanā",
-      "transliteration": "ātmanā",
-      "type": "instrumental singular",
-      "definition": "By the mind, through mental processes; like speculative execution – mental processes that can either enhance performance or create vulnerabilities depending on their nature and control.",
-      "roots": "",
-      "references": [
-        "BG 13.29"
-      ],
-      "themes": [
-        "mind",
-        "mental",
-        "processes"
-      ]
-    },
-    {
-      "term": "Ātmānam",
-      "transliteration": "ātmānam",
-      "type": "accusative singular",
-      "definition": "The self, the individual soul; like a sandboxed process – operates with defined permissions and resources, isolated yet part of the larger system.",
-      "roots": "",
-      "references": [
-        "BG 13.29"
-      ],
-      "themes": [
-        "self",
-        "soul",
-        "individual"
-      ]
-    },
-    {
-      "term": "Hinasti",
-      "transliteration": "hinasti",
-      "type": "3rd person singular present",
-      "definition": "Degrades, harms, diminishes; like a memory leak – gradually degrades system performance over time, often unnoticed until significant damage accumulates.",
-      "roots": "",
-      "references": [
-        "BG 13.29"
-      ],
-      "themes": [
-        "degradation",
-        "harm",
-        "diminishment"
-      ]
-    },
-    {
-      "term": "Parām",
-      "transliteration": "parām",
-      "type": "indeclinable",
-      "definition": "Supreme, transcendental, highest; like the hardware abstraction layer – operates at the most fundamental level, enabling all higher-level functions without being visible in day-to-day operations.",
-      "roots": "",
-      "references": [
-        "BG 13.29"
-      ],
-      "themes": [
-        "supreme",
-        "transcendental",
-        "highest"
-      ]
-    },
-    {
-      "term": "Gatim",
-      "transliteration": "gatim",
-      "type": "feminine noun",
-      "definition": "Destination, goal, end point; like the system’s bootloader – the initial code that determines the ultimate operating state and enables all subsequent operations.",
-      "roots": "",
-      "references": [
-        "BG 13.29"
-      ],
-      "themes": [
-        "destination",
-        "goal",
-        "endpoint"
-      ]
-    },
-    {
-      "term": "Chandra Darshan",
-      "transliteration": "candra darśana",
-      "type": "compound noun",
-      "definition": "Moon sighting, first glimpse of the waxing moon; like the power-on self-test (POST) – the initial diagnostic that confirms basic functionality before full system boot.",
-      "roots": "",
-      "references": [
-        "BG 13.29"
-      ],
-      "themes": [
-        "moon",
-        "sighting",
-        "darshan"
-      ]
-    },
     {
       "term": "Abhyāsa",
       "transliteration": "abhyāsa",
@@ -418,6 +161,39 @@
       "definition": "Today's nakṣatra (until 02:22 AM), ruled by Mitra (god of friendship and alliance). Symbolizes devotion through harmonious connection and balanced relationships. Hacker metaphor: Like a stable, peer-to-peer network node that maintains reliable connection to the Divine server through mutual trust and protocol."
     },
     {
+      "term": "Anādī",
+      "transliteration": "Anādī",
+      "type": "adjective",
+      "definition": "Beginningless, without origin",
+      "roots": [
+        "a- (not)",
+        "ādī (beginning)"
+      ],
+      "references": [
+        "BG 13.20"
+      ],
+      "themes": [
+        "Eternal",
+        "Timeless",
+        "Sankhya"
+      ]
+    },
+    {
+      "term": "anāmayam",
+      "transliteration": "anāmayam",
+      "type": "neuter noun",
+      "definition": "Without any sinful reaction; free from the negative consequences of past actions. Anchored in today’s Navami tithi (associated with the destruction of obstacles) and Sobhana yoga’s auspicious nature, anāmayam represents the state of karmic freedom where the aspirant’s actions do not produce sinful reactions—like a firewall that blocks all malicious traffic, allowing only pure, beneficial data to pass through.",
+      "roots": "from anāmaya (free from disease)",
+      "references": [
+        "BG 14.6"
+      ],
+      "themes": [
+        "purity",
+        "freedom-from-sin",
+        "karma"
+      ]
+    },
+    {
       "term": "asaktaṁ",
       "transliteration": "asaktaṁ",
       "type": "adjective",
@@ -438,8 +214,40 @@
       "lastUpdated": "2026-09-09"
     },
     {
+      "term": "avyabhicāreṇa",
+      "transliteration": "avyabhicāreṇa",
+      "type": "instrumental singular",
+      "definition": "Without deviation, unwavering; akin to root-level access that cannot be revoked.",
+      "roots": "from avyabhicāra (unwavering, undeviating)",
+      "references": [
+        "BG 14.26"
+      ],
+      "themes": [
+        "steadfastness",
+        "unwavering devotion",
+        "root access"
+      ],
+      "date": "2026-09-28"
+    },
+    {
       "term": "bhakti-mān",
       "definition": "Possessed of devotion, engaged in devotional service. The devotee is actively engaged in loving service to the Supreme Lord. <em>Hacker metaphor:</em> Like a dedicated background process that continuously performs essential maintenance tasks (garbage collection, updates, monitoring) to keep the system running smoothly and securely."
+    },
+    {
+      "term": "bhakti-yogena",
+      "transliteration": "bhakti-yogena",
+      "type": "instrumental singular",
+      "definition": "By the path of devotional service; like running a privileged process that bypasses material restrictions.",
+      "roots": "from bhakti (devotion) + yoga (union)",
+      "references": [
+        "BG 14.26"
+      ],
+      "themes": [
+        "bhakti-yoga",
+        "devotional service",
+        "transcendence"
+      ],
+      "date": "2026-09-28"
     },
     {
       "term": "bhārata",
@@ -471,6 +279,23 @@
       ]
     },
     {
+      "term": "brahma-bhūyāya",
+      "transliteration": "brahma-bhūyāya",
+      "type": "dative singular",
+      "definition": "To the level of Brahman; akin to reaching kernel space from user mode.",
+      "roots": "from brahman (the Absolute) + bhū (to become)",
+      "references": [
+        "BG 14.26"
+      ],
+      "themes": [
+        "Brahman",
+        "absolute",
+        "transcendence",
+        "kernel space"
+      ],
+      "date": "2026-09-28"
+    },
+    {
       "term": "Buddhi (बुद्धि)",
       "definition": "Intelligence, discrimination, judgment. The verse asks us to invest this buddhi in Me — not just to think about God, but to employ our discriminative faculty in His service. Hacker metaphor: Like allocating your best debugging skills to trace the source code of reality back to the Divine programmer."
     },
@@ -484,6 +309,21 @@
         "BG 11.8"
       ],
       "themes": []
+    },
+    {
+      "term": "Chandra Darshan",
+      "transliteration": "candra darśana",
+      "type": "compound noun",
+      "definition": "Moon sighting, first glimpse of the waxing moon; like the power-on self-test (POST) – the initial diagnostic that confirms basic functionality before full system boot.",
+      "roots": "",
+      "references": [
+        "BG 13.29"
+      ],
+      "themes": [
+        "moon",
+        "sighting",
+        "darshan"
+      ]
     },
     {
       "term": "dadāmi",
@@ -676,6 +516,21 @@
       ]
     },
     {
+      "term": "Gatim",
+      "transliteration": "gatim",
+      "type": "feminine noun",
+      "definition": "Destination, goal, end point; like the system’s bootloader – the initial code that determines the ultimate operating state and enables all subsequent operations.",
+      "roots": "",
+      "references": [
+        "BG 13.29"
+      ],
+      "themes": [
+        "destination",
+        "goal",
+        "endpoint"
+      ]
+    },
+    {
       "term": "guḍākeśa",
       "transliteration": "gudakesha",
       "type": "masc. noun",
@@ -699,6 +554,58 @@
         "transcendental",
         "senses",
         "janmashtami"
+      ]
+    },
+    {
+      "term": "guṇān",
+      "transliteration": "guṇān",
+      "type": "accusative plural",
+      "definition": "The modes of material nature; comparable to system processes bound by conditional logic.",
+      "roots": "from guṇa (mode, quality)",
+      "references": [
+        "BG 14.26"
+      ],
+      "themes": [
+        "guṇa",
+        "modes of nature",
+        "sattva",
+        "rajas",
+        "tamas"
+      ],
+      "date": "2026-09-28"
+    },
+    {
+      "term": "Guṇāḥ",
+      "transliteration": "Guṇāḥ",
+      "type": "noun (plural)",
+      "definition": "The three modes (sattva, rajas, tamas)",
+      "roots": [
+        "guṇa (quality, attribute)"
+      ],
+      "references": [
+        "BG 13.20"
+      ],
+      "themes": [
+        "ThreeModes",
+        "Sattva",
+        "Rajas",
+        "Tamas",
+        "Sankhya"
+      ]
+    },
+    {
+      "term": "Hinasti",
+      "transliteration": "hinasti",
+      "type": "3rd person singular present",
+      "definition": "Degrades, harms, diminishes; like a memory leak – gradually degrades system performance over time, often unnoticed until significant damage accumulates.",
+      "roots": "",
+      "references": [
+        "BG 13.29"
+      ],
+      "themes": [
+        "degradation",
+        "harm",
+        "diminishment"
       ]
     },
     {
@@ -792,6 +699,37 @@
     {
       "term": "jarā",
       "definition": "old age"
+    },
+    {
+      "term": "jñāna-saṅgena",
+      "transliteration": "jñāna-saṅgena",
+      "type": "prepositional phrase",
+      "definition": "By association with knowledge; conditioned by a sense of understanding and wisdom. Supported by the Sun’s placement in Kanyā (Virgo) and Budhwarā’s Mercurial influence (though today is Ravivarā, the solar energy still sharpens intellect), jñāna-saṅgena represents the knowledge-binding where the aspirant’s consciousness becomes conditioned to experience clear, discerning wisdom—not mere information but profound understanding—like a supercomputer that processes data with perfect accuracy and insight.",
+      "roots": "from jñāna (knowledge)",
+      "references": [
+        "BG 14.6"
+      ],
+      "themes": [
+        "knowledge",
+        "wisdom",
+        "understanding"
+      ]
+    },
+    {
+      "term": "kalpate",
+      "transliteration": "kalpate",
+      "type": "verb, present, 3rd person singular",
+      "definition": "Becomes, is transformed; like executing a setuid root binary to assume elevated privileges.",
+      "roots": "from kalp (to become, to transform)",
+      "references": [
+        "BG 14.26"
+      ],
+      "themes": [
+        "transformation",
+        "becoming",
+        "elevation"
+      ],
+      "date": "2026-09-28"
     },
     {
       "term": "karma-phala-tyāga",
@@ -1154,6 +1092,21 @@
       ]
     },
     {
+      "term": "nirmalatvāt",
+      "transliteration": "nirmalatvāt",
+      "type": "adverb",
+      "definition": "Being purest in the material world; free from contamination by rajas and tamas. Aligned with Sobhana yoga’s auspicious purity and Navami tithi’s victorious energy, nirmalatvāt represents the quality of spotless purity where the aspirant’s consciousness is unblemished by the haze of passion and ignorance—like a cleanroom environment where even a single particle of contamination would ruin the product.",
+      "roots": "from nirmala (pure)",
+      "references": [
+        "BG 14.6"
+      ],
+      "themes": [
+        "purity",
+        "goodness",
+        "sattva"
+      ]
+    },
+    {
       "term": "paraṁ nidhānam",
       "transliteration": "paraṁ nidhānam",
       "type": "noun",
@@ -1166,6 +1119,21 @@
         "ultimate-refuge",
         "divine-base",
         "eternal-support"
+      ]
+    },
+    {
+      "term": "Parām",
+      "transliteration": "parām",
+      "type": "indeclinable",
+      "definition": "Supreme, transcendental, highest; like the hardware abstraction layer – operates at the most fundamental level, enabling all higher-level functions without being visible in day-to-day operations.",
+      "roots": "",
+      "references": [
+        "BG 13.29"
+      ],
+      "themes": [
+        "supreme",
+        "transcendental",
+        "highest"
       ]
     },
     {
@@ -1192,6 +1160,36 @@
         "opulence",
         "divine-powers",
         "vision"
+      ]
+    },
+    {
+      "term": "Paśyan",
+      "transliteration": "paśyan",
+      "type": "present participle",
+      "definition": "Seeing, observing, perceiving; like a kernel-level system monitor – observes all processes with equal access and privilege, providing comprehensive visibility without bias.",
+      "roots": "",
+      "references": [
+        "BG 13.29"
+      ],
+      "themes": [
+        "perception",
+        "observation",
+        "vision"
+      ]
+    },
+    {
+      "term": "prakāśakam",
+      "transliteration": "prakāśakam",
+      "type": "neuter noun",
+      "definition": "Illuminating; endowed with the quality of light that dispels darkness. Supported by Ravivarā’s solar radiance and the Sun’s placement in Kanyā (Virgo), prakāśakam represents the illuminative power where the aspirant’s consciousness shines like a beacon, dispelling the gloom of material duality and revealing the true nature of reality—like a lighthouse that guides ships safely to shore through the darkest night.",
+      "roots": "from prakāś (to shine)",
+      "references": [
+        "BG 14.6"
+      ],
+      "themes": [
+        "illumination",
+        "light",
+        "clarity"
       ]
     },
     {
@@ -1240,6 +1238,42 @@
       ]
     },
     {
+      "term": "Prakṛti",
+      "transliteration": "Prakṛti",
+      "type": "noun",
+      "definition": "Material nature, the material matrix",
+      "roots": [
+        "pra- (forward)",
+        "kṛti (to make)"
+      ],
+      "references": [
+        "BG 13.20"
+      ],
+      "themes": [
+        "MaterialNature",
+        "Sankhya",
+        "Prakriti"
+      ]
+    },
+    {
+      "term": "Prakṛti-sambhavān",
+      "transliteration": "Prakṛti-sambhavān",
+      "type": "adjective",
+      "definition": "Produced of material nature",
+      "roots": [
+        "prakṛti (material nature)",
+        "sambhavān (produced of)"
+      ],
+      "references": [
+        "BG 13.20"
+      ],
+      "themes": [
+        "MaterialOrigin",
+        "Creation",
+        "Sankhya"
+      ]
+    },
+    {
       "term": "prasīda",
       "transliteration": "prasīda",
       "type": "verb, imperative",
@@ -1269,6 +1303,24 @@
         "supreme-person",
         "conscious-witness",
         "simulation"
+      ]
+    },
+    {
+      "term": "Puruṣa",
+      "transliteration": "Puruṣa",
+      "type": "noun",
+      "definition": "Living entity, conscious spirit",
+      "roots": [
+        "pur- (to fill)",
+        "uṣa (to burn)"
+      ],
+      "references": [
+        "BG 13.20"
+      ],
+      "themes": [
+        "Consciousness",
+        "Spirit",
+        "Purusha"
       ]
     },
     {
@@ -1354,6 +1406,52 @@
       ]
     },
     {
+      "term": "Samam",
+      "transliteration": "samam",
+      "type": "indeclinable",
+      "definition": "Equal, same, even; like a universal hash function – produces the same output format regardless of input, ensuring fairness and consistency across all data types.",
+      "roots": "",
+      "references": [
+        "BG 13.29"
+      ],
+      "themes": [
+        "equality",
+        "universal",
+        "sameness"
+      ]
+    },
+    {
+      "term": "samatītya",
+      "transliteration": "samatītya",
+      "type": "gerund",
+      "definition": "Transcending, going beyond; similar to escaping a chroot jail to reach the true root directory.",
+      "roots": "from sam-√tī (to cross over, surpass)",
+      "references": [
+        "BG 14.26"
+      ],
+      "themes": [
+        "transcendence",
+        "surpassing",
+        "liberation"
+      ],
+      "date": "2026-09-28"
+    },
+    {
+      "term": "Samavasthitam",
+      "transliteration": "samavasthitam",
+      "type": "indeclinable",
+      "definition": "Equally situated, similarly positioned; like a load balancer – distributes requests evenly across all servers, ensuring no single unit is overwhelmed or neglected.",
+      "roots": "",
+      "references": [
+        "BG 13.29"
+      ],
+      "themes": [
+        "equality",
+        "balance",
+        "equilibrium"
+      ]
+    },
+    {
       "term": "samāpatti",
       "transliteration": "samāpatti",
       "type": "noun",
@@ -1429,6 +1527,21 @@
       "themes": []
     },
     {
+      "term": "Sarvatra",
+      "transliteration": "sarvatra",
+      "type": "indeclinable",
+      "definition": "Everywhere, in all places; like a global CDN (Content Delivery Network) – delivers content with uniform performance and availability regardless of geographic location.",
+      "roots": "",
+      "references": [
+        "BG 13.29"
+      ],
+      "themes": [
+        "ubiquity",
+        "omnipresence",
+        "everywhere"
+      ]
+    },
+    {
       "term": "sarvendriya-guṇābhāsaṁ",
       "transliteration": "sarvendriya-guṇābhāsaṁ",
       "type": "compound noun",
@@ -1456,6 +1569,23 @@
         "transcendental",
         "senses",
         "janmashtami"
+      ]
+    },
+    {
+      "term": "sattva-guṇa",
+      "transliteration": "sattva-guṇa",
+      "type": "masculine noun",
+      "definition": "The mode of goodness; one of the three fundamental qualities of material nature, characterized by purity, illumination, harmony, wisdom, detachment, happiness, and peace. In today’s context of Navami tithi’s victorious energy, Purva Ashadha’s invincible Nakṣatra, Sobhana yoga’s auspicious purity, and Ravivarā’s solar illumination, sattva-guṇa represents the victorious path where the aspirant uses purity and light to transcend material limitation—like a master alchemist who transforms base metal into gold through the fire of knowledge and the water of devotion.",
+      "roots": "from sat (to be)",
+      "references": [
+        "BG 14.6"
+      ],
+      "themes": [
+        "sattva-guna",
+        "purity",
+        "illumination",
+        "harmony",
+        "wisdom"
       ]
     },
     {
@@ -1547,6 +1677,21 @@
         "discrimination",
         "divine-justice",
         "appropriateness"
+      ]
+    },
+    {
+      "term": "sukha-saṅgena",
+      "transliteration": "sukha-saṅgena",
+      "type": "prepositional phrase",
+      "definition": "By association with happiness; conditioned by a sense of joy and contentment. Aligned with Abhijit Muhūrta’s victorious energy and Amrit Kaal’s nectar-like quality, sukha-saṅgena represents the happiness-binding where the aspirant’s consciousness becomes conditioned to experience steady, enduring joy—not fleeting pleasure but deep-rooted contentment—like a thermodynamic system that reaches equilibrium and maintains it effortlessly.",
+      "roots": "from sukha (happiness)",
+      "references": [
+        "BG 14.6"
+      ],
+      "themes": [
+        "happiness",
+        "joy",
+        "contentment"
       ]
     },
     {
@@ -1677,6 +1822,24 @@
       "definition": "renunciation, dispassion, detachment from sense gratification"
     },
     {
+      "term": "Vikārāḥ",
+      "transliteration": "Vikārāḥ",
+      "type": "noun (plural)",
+      "definition": "Transformations, modifications",
+      "roots": [
+        "vi- (apart)",
+        "kṛ (to make)"
+      ],
+      "references": [
+        "BG 13.20"
+      ],
+      "themes": [
+        "Transformation",
+        "Change",
+        "MaterialNature"
+      ]
+    },
+    {
       "term": "vyādhi",
       "definition": "disease, illness"
     },
@@ -1769,6 +1932,36 @@
       ]
     },
     {
+      "term": "Ātmanā",
+      "transliteration": "ātmanā",
+      "type": "instrumental singular",
+      "definition": "By the mind, through mental processes; like speculative execution – mental processes that can either enhance performance or create vulnerabilities depending on their nature and control.",
+      "roots": "",
+      "references": [
+        "BG 13.29"
+      ],
+      "themes": [
+        "mind",
+        "mental",
+        "processes"
+      ]
+    },
+    {
+      "term": "Ātmānam",
+      "transliteration": "ātmānam",
+      "type": "accusative singular",
+      "definition": "The self, the individual soul; like a sandboxed process – operates with defined permissions and resources, isolated yet part of the larger system.",
+      "roots": "",
+      "references": [
+        "BG 13.29"
+      ],
+      "themes": [
+        "self",
+        "soul",
+        "individual"
+      ]
+    },
+    {
       "term": "ātmānam",
       "transliteration": "ātmānam",
       "type": "noun",
@@ -1851,6 +2044,21 @@
       "definition": "Devotion to the Lord; surrender of the fruits of action to the Divine. This is the practice BG 12.8 enjoins and YS 1.23 highlights as a direct path to samādhi. Hacker metaphor: Like setting up a continuous integration pipeline where every action is automatically tested, built, and deployed in service to the Divine repository."
     },
     {
+      "term": "Īśvaram",
+      "transliteration": "īśvaram",
+      "type": "masculine noun",
+      "definition": "The Supreme Lord, the divine ruler; like the root DNS server – the ultimate authority that resolves all queries fairly and consistently, regardless of the domain’s popularity or size.",
+      "roots": "",
+      "references": [
+        "BG 13.29"
+      ],
+      "themes": [
+        "divinity",
+        "lordship",
+        "supreme"
+      ]
+    },
+    {
       "term": "śakyase",
       "transliteration": "shakyase",
       "type": "2nd person sing. verb",
@@ -1920,115 +2128,6 @@
         "BG 12.12"
       ],
       "themes": []
-    },
-    {
-      "term": "Anādī",
-      "transliteration": "Anādī",
-      "type": "adjective",
-      "definition": "Beginningless, without origin",
-      "roots": [
-        "a- (not)",
-        "ādī (beginning)"
-      ],
-      "references": [
-        "BG 13.20"
-      ],
-      "themes": [
-        "Eternal",
-        "Timeless",
-        "Sankhya"
-      ]
-    },
-    {
-      "term": "Prakṛti",
-      "transliteration": "Prakṛti",
-      "type": "noun",
-      "definition": "Material nature, the material matrix",
-      "roots": [
-        "pra- (forward)",
-        "kṛti (to make)"
-      ],
-      "references": [
-        "BG 13.20"
-      ],
-      "themes": [
-        "MaterialNature",
-        "Sankhya",
-        "Prakriti"
-      ]
-    },
-    {
-      "term": "Puruṣa",
-      "transliteration": "Puruṣa",
-      "type": "noun",
-      "definition": "Living entity, conscious spirit",
-      "roots": [
-        "pur- (to fill)",
-        "uṣa (to burn)"
-      ],
-      "references": [
-        "BG 13.20"
-      ],
-      "themes": [
-        "Consciousness",
-        "Spirit",
-        "Purusha"
-      ]
-    },
-    {
-      "term": "Vikārāḥ",
-      "transliteration": "Vikārāḥ",
-      "type": "noun (plural)",
-      "definition": "Transformations, modifications",
-      "roots": [
-        "vi- (apart)",
-        "kṛ (to make)"
-      ],
-      "references": [
-        "BG 13.20"
-      ],
-      "themes": [
-        "Transformation",
-        "Change",
-        "MaterialNature"
-      ]
-    },
-    {
-      "term": "Guṇāḥ",
-      "transliteration": "Guṇāḥ",
-      "type": "noun (plural)",
-      "definition": "The three modes (sattva, rajas, tamas)",
-      "roots": [
-        "guṇa (quality, attribute)"
-      ],
-      "references": [
-        "BG 13.20"
-      ],
-      "themes": [
-        "ThreeModes",
-        "Sattva",
-        "Rajas",
-        "Tamas",
-        "Sankhya"
-      ]
-    },
-    {
-      "term": "Prakṛti-sambhavān",
-      "transliteration": "Prakṛti-sambhavān",
-      "type": "adjective",
-      "definition": "Produced of material nature",
-      "roots": [
-        "prakṛti (material nature)",
-        "sambhavān (produced of)"
-      ],
-      "references": [
-        "BG 13.20"
-      ],
-      "themes": [
-        "MaterialOrigin",
-        "Creation",
-        "Sankhya"
-      ]
     }
   ]
 }

@@ -1,6 +1,397 @@
 {
   "verses": [
     {
+      "date": "2026-09-11",
+      "source": "BG 13.29",
+      "chapter": 13,
+      "verse": 29,
+      "text": "Bhagavad Gita",
+      "tithi": "Sukla Paksha Pratipada (until 10:16 PM) → Dwitiya",
+      "nakshatra": "Uttara Phalguni (until 03:25 AM, Sep 12) → Hasta",
+      "yoga": "Subha (until 05:38 AM, Sep 12) → Sukla",
+      "themes": [
+        "DivineEquality",
+        "ChandraDarshan",
+        "EqualVision",
+        "YogaSutra",
+        "Sankhya"
+      ],
+      "tags": [
+        "#DivineEquality",
+        "#ChandraDarshan",
+        "#EqualVision",
+        "#YogaSutra",
+        "#Sankhya"
+      ],
+      "yogaSutraConnection": "YS 1.36",
+      "sankhyaConcepts": [
+        "Purusha-Prakriti Equality",
+        "Universal Consciousness"
+      ],
+      "keyTerms": [
+        "Samam",
+        "Paśyan",
+        "Sarvatra",
+        "Samavasthitam",
+        "Īśvaram",
+        "Ātmanā",
+        "Ātmānam",
+        "Hinasti",
+        "Parām",
+        "Gatim",
+        "Chandra Darshan"
+      ]
+    },
+    {
+      "date": "2026-09-10",
+      "source": "BG 13.18",
+      "chapter": 13,
+      "verse": 18,
+      "text": "Bhagavad Gita",
+      "tithi": "Krishna Paksha Amavasya (until 11:26 PM) → Pratipada",
+      "nakshatra": "Purva Phalguni (until 03:46 AM, Sep 11) → Uttara Phalguni",
+      "yoga": "Siddha (until 09:47 AM) → Sadhya",
+      "themes": [
+        "Inner Light",
+        "Amavasya",
+        "Consciousness",
+        "Yoga Sutra",
+        "Sankhya"
+      ],
+      "tags": [
+        "#InnerLight",
+        "#Amavasya",
+        "#Consciousness",
+        "#YogaSutra",
+        "#Sankhya"
+      ],
+      "yogaSutraConnection": "YS 1.36",
+      "sankhyaConcepts": [
+        "Absolute Truth as inner light beyond darkness",
+        "Consciousness as self-luminous reality",
+        "Inner light situated in everyone's heart"
+      ],
+      "keyTerms": [
+        "jyotiṣīm",
+        "taj jyotis",
+        "tamasaḥ",
+        "param",
+        "jṇāna-gamyam",
+        "viṛṣṢitam",
+        "pithori"
+      ]
+    },
+    {
+      "date": "2026-09-09",
+      "source": "BG 13.16",
+      "chapter": 13,
+      "verse": 16,
+      "text": "Bhagavad Gita",
+      "tithi": "Krishna Paksha Chaturdashi (until 01:03 AM, Sep 10) → Amavasya",
+      "nakshatra": "Magha (until 04:34 AM, Sep 10) → Purva Phalguni",
+      "yoga": "Siva (until 12:21 PM) → Siddha",
+      "themes": [
+        "Masik Shivaratri",
+        "Magha Nakshatra",
+        "Siva Yoga",
+        "Budhwara",
+        "Simha Rashi"
+      ],
+      "tags": [
+        "#MasikShivaratri",
+        "#MaghaNakshatra",
+        "#SivaYoga",
+        "#Budhwara",
+        "#SimhaRashi"
+      ],
+      "yogaSutraConnection": "YS I.3",
+      "sankhyaConcepts": [
+        "Absolute Truth as immanent and transcendent",
+        "Supersoul as both outer and inner reality",
+        "Subtle nature of Divine beyond ordinary perception"
+      ],
+      "keyTerms": [
+        "sūkṣma",
+        "avijñeya",
+        "dūra-stham",
+        "antīka",
+        "magha",
+        "siva"
+      ]
+    },
+    {
+      "date": "2026-09-07",
+      "source": "BG 13.9",
+      "chapter": 13,
+      "verse": 9,
+      "text": "Bhagavad Gita",
+      "tithi": "Ekadashi (Bhadrapada Krishna Paksha)",
+      "nakshatra": "Punarvasu (until 08:44 AM) → Pushya (from 08:44 AM)",
+      "yoga": "Variyan (until 06:07 PM) → Parigha (from 06:07 PM)",
+      "themes": [
+        "Sense Control Realization",
+        "Pushya Nourishment",
+        "Parigha Obstacle-Smashing",
+        "Ekadashi Tithi",
+        "Somvara Influence"
+      ],
+      "tags": [
+        "#SenseControl",
+        "#Vairagya",
+        "#Ekadashi",
+        "#Pushya",
+        "#Parigha",
+        "#Somvara"
+      ],
+      "yogaSutraConnection": "YS II.54",
+      "sankhyaConcepts": [
+        "Sense renunciation (vairāgyam) as sensory firewall rules",
+        "Absence of false ego (anahaṅkāra) as egoless processing",
+        "Vision of sufferings limitations (duḥkha-dṛṣṭi) as motivational force for liberation"
+      ],
+      "keyTerms": [
+        "indriyārtheṣu",
+        "vairāgyam",
+        "anahaṅkāra",
+        "janma",
+        "mṛtyu",
+        "jarā",
+        "vyādhi",
+        "duḥkha",
+        "doṣa",
+        "anudarśanam"
+      ]
+    },
+    {
+      "date": "2026-09-08",
+      "source": "BG 13.34",
+      "chapter": 13,
+      "verse": 34,
+      "text": "Bhagavad Gita",
+      "tithi": "Krishna Pakṣa Trayodashi (Pradosh Vrat)",
+      "nakshatra": "Puṣya (until 07:09 AM) → Āśleṣā (from 07:09 AM)",
+      "yoga": "Parigha",
+      "themes": [
+        "Illumination Consciousness",
+        "Pushya→Ashlesha Nakshatra",
+        "Parigha Yoga",
+        "Pradosh Vrat"
+      ],
+      "tags": [
+        "#Consciousness",
+        "#Illumination",
+        "#Sankhya",
+        "#YogaSutra",
+        "#PradoshVrat",
+        "#PushyaAshlesha"
+      ],
+      "yogaSutraConnection": "YS III.36",
+      "sankhyaConcepts": [
+        "Consciousness as illuminative principle (cit)",
+        "Puruṣa-prakṛti dualism",
+        "Consciousness illuminating the body-field"
+      ],
+      "keyTerms": [
+        "prakāśayati",
+        "ekaḥ",
+        "kṛtsnam",
+        "lokam",
+        "raviḥ",
+        "kṣetraṁ",
+        "kṣetrī",
+        "bhārata"
+      ]
+    },
+    {
+      "date": "2026-09-04",
+      "source": "BG 13.15",
+      "chapter": 13,
+      "verse": 15,
+      "text": "Bhagavad Gita",
+      "tithi": "Krishna Paksha Ashtami (until 14:43) → Navami",
+      "nakshatra": "Rohini (until 13:34) → Mrigashirsha",
+      "yoga": "Vajra (until 06:13 AM) → Siddhi",
+      "themes": [
+        "Transcendental Senses",
+        "Janmashtami Navami",
+        "Rohini Nakshatra",
+        "Sankhya Purusa",
+        "Isvara Pranidhana"
+      ],
+      "tags": [
+        "#TranscendentalSenses",
+        "#JanmashtamiNavami",
+        "#RohiniNakshatra",
+        "#SankhyaPurusa",
+        "#IsvaraPranidhana"
+      ],
+      "yogaSutraConnection": "YS I.20",
+      "sankhyaConcepts": [
+        "Transcendental Puruṣa permeating prakṛti",
+        "The Lord's senses are transcendental yet source of all sensory activities",
+        "Buddhi aligned with puruṣa through īśvara-praṇidhāna discriminates between prakṛti and puruṣa"
+      ],
+      "keyTerms": [
+        "sarvendriya-guṇābhāsaṁ",
+        "sarvendriya-vivarjitam",
+        "asaktaṁ",
+        "sarva-bhṛt",
+        "nirguṇaṁ",
+        "guṇa-bhoktṛ"
+      ]
+    },
+    {
+      "date": "2026-09-03",
+      "source": "BG 13.14",
+      "chapter": 13,
+      "verse": 14,
+      "text": "Bhagavad Gita",
+      "tithi": "Krishna Paksha Saptami (until 16:55) → Ashtami",
+      "nakshatra": "Krithika (until 14:59) → Rohini",
+      "yoga": "Vyaghata (until 09:02 AM) → Harshana",
+      "themes": [
+        "Omnipresence",
+        "Kalashtami",
+        "KrishnaJanmashtami",
+        "SankhyaPurusa",
+        "IsvaraPranidhana"
+      ],
+      "tags": [
+        "#Omnipresence",
+        "#Kalashtami",
+        "#KrishnaJanmashtami",
+        "#SankhyaPurusa",
+        "#IsvaraPranidhana"
+      ],
+      "yogaSutraConnection": "YS I.23",
+      "sankhyaConcepts": [
+        "Transcendental Puruṣa permeating prakṛti",
+        "The Lord's senses are transcendental yet source of all sensory activities",
+        "Buddhi aligned with puruṣa through īśvara-praṇidhāna discriminates between prakṛti and puruṣa"
+      ],
+      "keyTerms": [
+        "sarvataḥ",
+        "pāṇi-pādaṁ",
+        "akṣi-śiro-mukham",
+        "śrutim",
+        "sarvam",
+        "tiṣṭhati"
+      ]
+    },
+    {
+      "date": "2026-08-28",
+      "source": "BG 12.2",
+      "chapter": 12,
+      "verse": 2,
+      "text": "Bhagavad Gita",
+      "tithi": "Krishna Paksha Pratipada",
+      "nakshatra": "Ashwini (until 5:12 PM) → Bharani",
+      "yoga": "Sukarman (until 11:20 AM) → Dhruva",
+      "themes": [
+        "BhaktiYoga",
+        "Ashwini",
+        "Bharani",
+        "Shukravar",
+        "BG12.2",
+        "Yogasutra1.1"
+      ],
+      "tags": [
+        "#BhaktiYoga",
+        "#Ashwini",
+        "#Bharani",
+        "#Shukravar",
+        "#BG12.2",
+        "#Yogasutra1.1"
+      ],
+      "yogaSutraConnection": "YS I.1",
+      "sankhyaConcepts": [
+        "Buddhi as discriminative faculty",
+        "Fixing mind on puruṣa turns judgment toward its source",
+        "Samādhi as citta-vṛtti-nirodha in object of devotion"
+      ],
+      "keyTerms": [
+        "mayy āveśya",
+        "śraddhayā parayā",
+        "yukta-tamāḥ"
+      ]
+    },
+    {
+      "date": "2026-09-02",
+      "source": "BG 13.30",
+      "chapter": 13,
+      "verse": 30,
+      "text": "Bhagavad Gita",
+      "tithi": "Krishna Paksha Ṣaṣṭhī (until 18:56) → Saptamī",
+      "nakshatra": "Bharaṇī (until 16:13) → Kṛttikā",
+      "yoga": "Dhruva (until 11:41 AM) → Vyaghāta",
+      "themes": [
+        "NonDoerRealization",
+        "MercuryWisdom",
+        "VyaghataYoga",
+        "SankhyaDiscrimination",
+        "BuddhiPurification"
+      ],
+      "tags": [
+        "#NonDoerRealization",
+        "#MercuryWisdom",
+        "#VyaghataYoga",
+        "#SankhyaDiscrimination",
+        "#BuddhiPurification"
+      ],
+      "yogaSutraConnection": "YS I.3",
+      "sankhyaConcepts": [
+        "Puruṣa-Prakṛti Discrimination",
+        "Non-doer realization (akartāram)",
+        "Buddhi as discriminative faculty"
+      ],
+      "keyTerms": [
+        "prakṛti",
+        "kriyamāṇāni",
+        "ātmānam",
+        "akartāram",
+        "buddhi"
+      ]
+    },
+    {
+      "date": "2026-08-30",
+      "source": "BG 12.13-14",
+      "chapter": 12,
+      "verse": "13-14",
+      "text": "Bhagavad Gita",
+      "tithi": "Krishna Paksha Tritiya (until 11:21 PM) → Chaturthi",
+      "nakshatra": "Uttara Bhadrapada (until 6:14 PM) → Revati",
+      "yoga": "Soola (until 6:15 PM) → Ganda",
+      "themes": [
+        "BhaktiYoga",
+        "PureDevotee",
+        "KajariTeej",
+        "MoonInPisces",
+        "SunInLeo",
+        "YogaSutra1.33"
+      ],
+      "tags": [
+        "#BhaktiYoga",
+        "#PureDevotee",
+        "#KajariTeej",
+        "#MoonInPisces",
+        "#SunInLeo",
+        "#YogaSutra1.33"
+      ],
+      "yogaSutraConnection": "YS 1.33",
+      "sankhyaConcepts": [
+        "Puruṣa-Prakṛti Integration",
+        "Guna Transcendence",
+        "Buddhi Yoga"
+      ],
+      "keyTerms": [
+        "Adveṣṭā",
+        "Karunā",
+        "Samaduḥkhasukha",
+        "Yatātmā",
+        "Mayy arpita-mano-buddhir"
+      ]
+    },
+    {
       "date": "2026-08-26",
       "source": "BG 12.18-19",
       "chapter": 12,
@@ -4352,5 +4743,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-08-26"
+  "lastUpdated": "2026-09-11"
 }

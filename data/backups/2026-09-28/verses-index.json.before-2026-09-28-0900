@@ -1,45 +1,6 @@
 {
   "verses": [
     {
-      "date": "2026-09-28",
-      "source": "BG 14.26",
-      "chapter": 14,
-      "verse": 26,
-      "text": "Bhagavad Gita",
-      "tithi": "Krishna Paksha Dwitiya (until 9:43 AM EDT) → Tritiya",
-      "nakshatra": "Ashwini (deity: Ashwini Kumaras)",
-      "yoga": "Vyaghata – obstruction, challenges requiring perseverance",
-      "themes": [
-        "bhakti-yoga",
-        "guna-transcendence",
-        "brahman-realization",
-        "steadfastness",
-        "devotional-service"
-      ],
-      "tags": [
-        "#bhakti-yoga",
-        "#avyabhicarena",
-        "#guna-transcendence",
-        "#brahman-realization",
-        "#ashwini-nakshatra",
-        "#vyaghata-yoga"
-      ],
-      "yogaSutraConnection": "YS 1.23",
-      "sankhyaConcepts": [
-        "avyabhicāreṇa bhakti as root-level exploit",
-        "puruṣa-prakṛti dualism",
-        "guṇa transcendence"
-      ],
-      "keyTerms": [
-        "bhakti-yogena",
-        "avyabhicāreṇa",
-        "guṇān",
-        "samatītya",
-        "brahma-bhūyāya",
-        "kalpate"
-      ]
-    },
-    {
       "date": "2026-09-20",
       "source": "BG 14.6",
       "chapter": 14,
@@ -4899,5 +4860,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-09-28"
+  "lastUpdated": "2026-09-20"
 }
