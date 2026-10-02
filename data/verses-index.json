@@ -1,6 +1,84 @@
 {
   "verses": [
     {
+      "date": "2026-10-02",
+      "source": "BG 15.9",
+      "chapter": 15,
+      "verse": 9,
+      "text": "Bhagavad Gita",
+      "tithi": "Krishna Paksha Saptami (until 10:29 PM EDT), then Krishna Paksha Ashtami",
+      "nakshatra": "Mrigashirsha (until 5:24 PM EDT), then Ardra",
+      "yoga": "Vyatipata (obstacle, calamity) until 8:47 AM EDT, then Variyan (auspicious, good)",
+      "themes": [
+        "sense-mind-integration",
+        "ardra-nakshatra-renewal",
+        "friday-venus",
+        "virgo-sun"
+      ],
+      "tags": [
+        "#sense-mind-integration",
+        "#ardra-nakshatra",
+        "#friday-venus",
+        "#virgo-sun"
+      ],
+      "yogaSutraConnection": "YS 2.54, YS 2.55",
+      "sankhyaConcepts": [
+        "Sense organs as evolutes of prakṛti",
+        "Mind as central processor",
+        "Puruṣa-prakṛti dualism"
+      ],
+      "keyTerms": [
+        "upasevate",
+        "adhiṣṭhāya",
+        "manaḥ",
+        "viṣayān",
+        "śrotraṁ",
+        "cakṣuḥ",
+        "sparśanaṁ",
+        "rasanaṁ",
+        "ghrāṇam"
+      ]
+    },
+    {
+      "date": "2026-10-01",
+      "source": "BG 15.15",
+      "chapter": 15,
+      "verse": 15,
+      "text": "Bhagavad Gita",
+      "tithi": "Krishna Paksha Shashthi (until 12:45 AM EDT, Oct 2), then Krishna Paksha Saptami",
+      "nakshatra": "Rohini (until 6:57 PM EDT), then Mrigashirsha",
+      "yoga": "Siddhi (until 11:47 AM EDT) – perfection, accomplishment; then Vyatipata – calamitous yoga indicating obstacles needing remedial measures",
+      "themes": [
+        "bhakti-yoga",
+        "divine-heart",
+        "rohini-vrat",
+        "siddhi-yoga",
+        "thursday-guru",
+        "virgo-sun"
+      ],
+      "tags": [
+        "#bhakti-yoga",
+        "#divine-heart",
+        "#rohini-vrat",
+        "#siddhi-yoga",
+        "#thursday-guru",
+        "#virgo-sun"
+      ],
+      "yogaSutraConnection": "YS I.23",
+      "sankhyaConcepts": [
+        "Inner Controller as Paramātmā",
+        "puruṣa-prakṛti dualism"
+      ],
+      "keyTerms": [
+        "hṛdi",
+        "smṛtiḥ",
+        "jñānam",
+        "apohanam",
+        "vedānta-kṛt",
+        "veda-vit"
+      ]
+    },
+    {
       "date": "2026-09-28",
       "source": "BG 14.26",
       "chapter": 14,
@@ -4899,5 +4977,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-09-28"
+  "lastUpdated": "2026-10-02"
 }
