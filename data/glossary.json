@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-02",
+  "lastUpdated": "2026-10-04",
   "terms": [
     {
       "term": "Abhyāsa",
@@ -13,416 +13,6 @@
       "themes": [
         "regulativeprinciples",
         "practice",
-        "discipline"
-      ]
-    },
-    {
-      "term": "Adveṣṭā",
-      "transliteration": "adveṣṭā",
-      "type": "adjective",
-      "definition": "Non-envious, free from malice; Like a rootkit that operates without triggering security alerts – pure devotion runs stealthily in the background of consciousness, elevating all processes without raising the \"envy\" process flag in the mind's task manager.",
-      "roots": "",
-      "references": [
-        "BG 12.13"
-      ],
-      "themes": [
-        "nonenvious",
-        "maitra",
-        "freedomfrommalice"
-      ]
-    },
-    {
-      "term": "Anurādhā (अनुराधा)",
-      "definition": "Today's nakṣatra (until 02:22 AM), ruled by Mitra (god of friendship and alliance). Symbolizes devotion through harmonious connection and balanced relationships. Hacker metaphor: Like a stable, peer-to-peer network node that maintains reliable connection to the Divine server through mutual trust and protocol."
-    },
-    {
-      "term": "Anādī",
-      "transliteration": "Anādī",
-      "type": "adjective",
-      "definition": "Beginningless, without origin",
-      "roots": [
-        "a- (not)",
-        "ādī (beginning)"
-      ],
-      "references": [
-        "BG 13.20"
-      ],
-      "themes": [
-        "Eternal",
-        "Timeless",
-        "Sankhya"
-      ]
-    },
-    {
-      "term": "Buddhi (बुद्धि)",
-      "definition": "Intelligence, discrimination, judgment. The verse asks us to invest this buddhi in Me — not just to think about God, but to employ our discriminative faculty in His service. Hacker metaphor: Like allocating your best debugging skills to trace the source code of reality back to the Divine programmer."
-    },
-    {
-      "term": "Chandra Darshan",
-      "transliteration": "candra darśana",
-      "type": "compound noun",
-      "definition": "Moon sighting, first glimpse of the waxing moon; like the power-on self-test (POST) – the initial diagnostic that confirms basic functionality before full system boot.",
-      "roots": "",
-      "references": [
-        "BG 13.29"
-      ],
-      "themes": [
-        "moon",
-        "sighting",
-        "darshan"
-      ]
-    },
-    {
-      "term": "Dhanañjaya",
-      "transliteration": "dhanañjaya",
-      "type": "masculine noun",
-      "definition": "Epithet of Arjuna meaning “winner of wealth.” Here it reminds us that the true wealth to be won is not material prosperity but the riches of devotion—Kṛṣṇa Himself. Hacker metaphor: Like achieving root access not to a material server but to the supreme repository of spiritual knowledge, where the real assets are grace and love.",
-      "roots": "",
-      "references": [
-        "BG 12.9"
-      ],
-      "themes": [
-        "winnerofwealth",
-        "devotion",
-        "wealth"
-      ]
-    },
-    {
-      "term": "Gatim",
-      "transliteration": "gatim",
-      "type": "feminine noun",
-      "definition": "Destination, goal, end point; like the system’s bootloader – the initial code that determines the ultimate operating state and enables all subsequent operations.",
-      "roots": "",
-      "references": [
-        "BG 13.29"
-      ],
-      "themes": [
-        "destination",
-        "goal",
-        "endpoint"
-      ]
-    },
-    {
-      "term": "Guṇāḥ",
-      "transliteration": "Guṇāḥ",
-      "type": "noun (plural)",
-      "definition": "The three modes (sattva, rajas, tamas)",
-      "roots": [
-        "guṇa (quality, attribute)"
-      ],
-      "references": [
-        "BG 13.20"
-      ],
-      "themes": [
-        "ThreeModes",
-        "Sattva",
-        "Rajas",
-        "Tamas",
-        "Sankhya"
-      ]
-    },
-    {
-      "term": "Hinasti",
-      "transliteration": "hinasti",
-      "type": "3rd person singular present",
-      "definition": "Degrades, harms, diminishes; like a memory leak – gradually degrades system performance over time, often unnoticed until significant damage accumulates.",
-      "roots": "",
-      "references": [
-        "BG 13.29"
-      ],
-      "themes": [
-        "degradation",
-        "harm",
-        "diminishment"
-      ]
-    },
-    {
-      "term": "Icchā",
-      "transliteration": "icchā",
-      "type": "feminine noun",
-      "definition": "Desire, aspiration, longing. The verse promises that through practice, one develops icchā to attain Me. Hacker metaphor: Like a background service that, once initialized, continuously polls for the Divine signal and triggers the devotional process when the connection is strong enough.",
-      "roots": "",
-      "references": [
-        "BG 12.9"
-      ],
-      "themes": [
-        "desire",
-        "iccha",
-        "aspiration"
-      ]
-    },
-    {
-      "term": "Karunā",
-      "transliteration": "karunā",
-      "type": "noun",
-      "definition": "Compassion, mercy; The ultimate packet sniffer with zero-latency response – it detects suffering in the data stream of existence and immediately responds with healing packets of kindness, operating at kernel level of compassion.",
-      "roots": "",
-      "references": [
-        "BG 12.13"
-      ],
-      "themes": [
-        "compassion",
-        "mercy",
-        "lovingkindness"
-      ]
-    },
-    {
-      "term": "Manas (मनस्)",
-      "definition": "The mind — the faculty that thinks, feels, and wills. In BG 12.8, Arjuna is told to fix this very mind on Kṛṣṇa. Hacker metaphor: Like setting the CPU's instruction pointer to a sacred address — all processing cycles then serve the Divine process."
-    },
-    {
-      "term": "Mayy arpita-mano-buddhir",
-      "transliteration": "mayy arpita-mano-buddhir",
-      "type": "phrase",
-      "definition": "Mind and intelligence fixed on Me; Setting the CPU affinity mask to exclusively run on Krishna-core – all computational threads (thoughts, decisions, actions) are bound to process on the Divine core, preventing context-switching to materialistic processes that would cause system instability.",
-      "roots": "",
-      "references": [
-        "BG 12.14"
-      ],
-      "themes": [
-        "mindfixedonkrishna",
-        "divineconsciousness",
-        "krishnaconnection"
-      ]
-    },
-    {
-      "term": "Mūla",
-      "transliteration": "mūla",
-      "type": "neuter noun",
-      "definition": "Tomorrow’s nakṣatra, meaning “root.” Symbolizes the foundation, the source, and the transformative power that dissolves the superficial to reveal the essential. Hacker metaphor: Like performing a filesystem check (fsck) that identifies and repairs corrupted inodes, allowing the system to mount securely on its true foundation.",
-      "roots": "",
-      "references": [
-        "BG 12.9"
-      ],
-      "themes": [
-        "mula",
-        "root",
-        "foundation"
-      ]
-    },
-    {
-      "term": "Parām",
-      "transliteration": "parām",
-      "type": "indeclinable",
-      "definition": "Supreme, transcendental, highest; like the hardware abstraction layer – operates at the most fundamental level, enabling all higher-level functions without being visible in day-to-day operations.",
-      "roots": "",
-      "references": [
-        "BG 13.29"
-      ],
-      "themes": [
-        "supreme",
-        "transcendental",
-        "highest"
-      ]
-    },
-    {
-      "term": "Paśyan",
-      "transliteration": "paśyan",
-      "type": "present participle",
-      "definition": "Seeing, observing, perceiving; like a kernel-level system monitor – observes all processes with equal access and privilege, providing comprehensive visibility without bias.",
-      "roots": "",
-      "references": [
-        "BG 13.29"
-      ],
-      "themes": [
-        "perception",
-        "observation",
-        "vision"
-      ]
-    },
-    {
-      "term": "Prakṛti",
-      "transliteration": "Prakṛti",
-      "type": "noun",
-      "definition": "Material nature, the material matrix",
-      "roots": [
-        "pra- (forward)",
-        "kṛti (to make)"
-      ],
-      "references": [
-        "BG 13.20"
-      ],
-      "themes": [
-        "MaterialNature",
-        "Sankhya",
-        "Prakriti"
-      ]
-    },
-    {
-      "term": "Prakṛti-sambhavān",
-      "transliteration": "Prakṛti-sambhavān",
-      "type": "adjective",
-      "definition": "Produced of material nature",
-      "roots": [
-        "prakṛti (material nature)",
-        "sambhavān (produced of)"
-      ],
-      "references": [
-        "BG 13.20"
-      ],
-      "themes": [
-        "MaterialOrigin",
-        "Creation",
-        "Sankhya"
-      ]
-    },
-    {
-      "term": "Puruṣa",
-      "transliteration": "Puruṣa",
-      "type": "noun",
-      "definition": "Living entity, conscious spirit",
-      "roots": [
-        "pur- (to fill)",
-        "uṣa (to burn)"
-      ],
-      "references": [
-        "BG 13.20"
-      ],
-      "themes": [
-        "Consciousness",
-        "Spirit",
-        "Purusha"
-      ]
-    },
-    {
-      "term": "Samaduḥkhasukha",
-      "transliteration": "samaduḥkhasukha",
-      "type": "noun",
-      "definition": "Equal in happiness and distress; A load balancer that distributes both pleasure and pain evenly across all servers of experience – no single node gets overloaded with either extreme, maintaining optimal system performance regardless of incoming traffic patterns.",
-      "roots": "",
-      "references": [
-        "BG 12.13"
-      ],
-      "themes": [
-        "equanimity",
-        "balance",
-        "samata"
-      ]
-    },
-    {
-      "term": "Samam",
-      "transliteration": "samam",
-      "type": "indeclinable",
-      "definition": "Equal, same, even; like a universal hash function – produces the same output format regardless of input, ensuring fairness and consistency across all data types.",
-      "roots": "",
-      "references": [
-        "BG 13.29"
-      ],
-      "themes": [
-        "equality",
-        "universal",
-        "sameness"
-      ]
-    },
-    {
-      "term": "Samavasthitam",
-      "transliteration": "samavasthitam",
-      "type": "indeclinable",
-      "definition": "Equally situated, similarly positioned; like a load balancer – distributes requests evenly across all servers, ensuring no single unit is overwhelmed or neglected.",
-      "roots": "",
-      "references": [
-        "BG 13.29"
-      ],
-      "themes": [
-        "equality",
-        "balance",
-        "equilibrium"
-      ]
-    },
-    {
-      "term": "Sarva-karma-phala-tyāga",
-      "transliteration": "sarva-karma-phala-tyāga",
-      "type": "neuter noun compound",
-      "definition": "Renunciation of the results of all actions. In BG 12.11, this is the prescription for those impeded from direct devotional service. Hacker metaphor: Like setting up a firewall that blocks outgoing packets of desire for results, redirecting energy toward neutral or noble causes.",
-      "roots": "",
-      "references": [
-        "BG 12.11"
-      ],
-      "themes": [
-        "renunciation-of-results",
-        "detachment",
-        "tyaga"
-      ]
-    },
-    {
-      "term": "Sarvatra",
-      "transliteration": "sarvatra",
-      "type": "indeclinable",
-      "definition": "Everywhere, in all places; like a global CDN (Content Delivery Network) – delivers content with uniform performance and availability regardless of geographic location.",
-      "roots": "",
-      "references": [
-        "BG 13.29"
-      ],
-      "themes": [
-        "ubiquity",
-        "omnipresence",
-        "everywhere"
-      ]
-    },
-    {
-      "term": "Vaidhṛti",
-      "transliteration": "vaidhṛti",
-      "type": "feminine noun",
-      "definition": "Today’s yoga (until evening), often considered inauspicious, associated with obstacles and delays. Hacker metaphor: Like encountering a intermittent network packet loss that requires retry mechanisms and error‑correcting codes to maintain a reliable connection to the Divine.",
-      "roots": "",
-      "references": [
-        "BG 12.9"
-      ],
-      "themes": [
-        "vaidhruthi",
-        "obstacles",
-        "delays"
-      ]
-    },
-    {
-      "term": "Vikārāḥ",
-      "transliteration": "Vikārāḥ",
-      "type": "noun (plural)",
-      "definition": "Transformations, modifications",
-      "roots": [
-        "vi- (apart)",
-        "kṛ (to make)"
-      ],
-      "references": [
-        "BG 13.20"
-      ],
-      "themes": [
-        "Transformation",
-        "Change",
-        "MaterialNature"
-      ]
-    },
-    {
-      "term": "Vṛścika (वृश्चिक)",
-      "definition": "The Moon's sign today — Scorpio. Represents transformation, depth, and the courage to face hidden truths. Hacker metaphor: Like a rootkit scan that reveals and removes hidden processes (karmic imprints) that interfere with divine operation."
-    },
-    {
-      "term": "Yatātmavān",
-      "transliteration": "yatātmavān",
-      "type": "masculine noun",
-      "definition": "Situated in the self; one who has attained inner stability and self-mastery. The verse promises that through renunciation of results, one becomes yatātmavān. Hacker metaphor: Like achieving a stable root filesystem where the kernel operates securely without constant crashes or interrupts.",
-      "roots": "",
-      "references": [
-        "BG 12.11"
-      ],
-      "themes": [
-        "self-mastery",
-        "inner-stability",
-        "yogatma"
-      ]
-    },
-    {
-      "term": "Yatātmā",
-      "transliteration": "yatātmā",
-      "type": "noun",
-      "definition": "Self-controlled, self-mastered; The BIOS/firmware level of consciousness – before any OS (ego) or applications (desires) load, the self-mastered one operates at the foundational level where only essential processes run, immune to user-level crashes or malware.",
-      "roots": "",
-      "references": [
-        "BG 12.14"
-      ],
-      "themes": [
-        "selfcontrol",
-        "selfmastery",
         "discipline"
       ]
     },
@@ -457,6 +47,21 @@
         "BG 15.9"
       ],
       "themes": []
+    },
+    {
+      "term": "Adveṣṭā",
+      "transliteration": "adveṣṭā",
+      "type": "adjective",
+      "definition": "Non-envious, free from malice; Like a rootkit that operates without triggering security alerts – pure devotion runs stealthily in the background of consciousness, elevating all processes without raising the \"envy\" process flag in the mind's task manager.",
+      "roots": "",
+      "references": [
+        "BG 12.13"
+      ],
+      "themes": [
+        "nonenvious",
+        "maitra",
+        "freedomfrommalice"
+      ]
     },
     {
       "term": "aiśvaram",
@@ -562,6 +167,28 @@
       "definition": "perception, realization, observation"
     },
     {
+      "term": "Anurādhā (अनुराधा)",
+      "definition": "Today's nakṣatra (until 02:22 AM), ruled by Mitra (god of friendship and alliance). Symbolizes devotion through harmonious connection and balanced relationships. Hacker metaphor: Like a stable, peer-to-peer network node that maintains reliable connection to the Divine server through mutual trust and protocol."
+    },
+    {
+      "term": "Anādī",
+      "transliteration": "Anādī",
+      "type": "adjective",
+      "definition": "Beginningless, without origin",
+      "roots": [
+        "a- (not)",
+        "ādī (beginning)"
+      ],
+      "references": [
+        "BG 13.20"
+      ],
+      "themes": [
+        "Eternal",
+        "Timeless",
+        "Sankhya"
+      ]
+    },
+    {
       "term": "anāmayam",
       "transliteration": "anāmayam",
       "type": "neuter noun",
@@ -651,6 +278,14 @@
       ]
     },
     {
+      "term": "bhāsayate",
+      "transliteration": "bhāsayate",
+      "definition": "illumines, causes to shine; like rendering an object onto the display",
+      "roots": "",
+      "references": [],
+      "themes": []
+    },
+    {
       "term": "bhāsaḥ mahātmanaḥ",
       "transliteration": "bhāsaḥ mahātmanaḥ",
       "type": "phrase",
@@ -683,6 +318,10 @@
       "date": "2026-09-28"
     },
     {
+      "term": "Buddhi (बुद्धि)",
+      "definition": "Intelligence, discrimination, judgment. The verse asks us to invest this buddhi in Me — not just to think about God, but to employ our discriminative faculty in His service. Hacker metaphor: Like allocating your best debugging skills to trace the source code of reality back to the Divine programmer."
+    },
+    {
       "term": "cakṣuḥ",
       "transliteration": "chakshuh",
       "type": "accusative sing. of 'cakṣus'",
@@ -692,6 +331,21 @@
         "BG 11.8"
       ],
       "themes": []
+    },
+    {
+      "term": "Chandra Darshan",
+      "transliteration": "candra darśana",
+      "type": "compound noun",
+      "definition": "Moon sighting, first glimpse of the waxing moon; like the power-on self-test (POST) – the initial diagnostic that confirms basic functionality before full system boot.",
+      "roots": "",
+      "references": [
+        "BG 13.29"
+      ],
+      "themes": [
+        "moon",
+        "sighting",
+        "darshan"
+      ]
     },
     {
       "term": "ckṣuḥ",
@@ -758,6 +412,21 @@
       ]
     },
     {
+      "term": "Dhanañjaya",
+      "transliteration": "dhanañjaya",
+      "type": "masculine noun",
+      "definition": "Epithet of Arjuna meaning “winner of wealth.” Here it reminds us that the true wealth to be won is not material prosperity but the riches of devotion—Kṛṣṇa Himself. Hacker metaphor: Like achieving root access not to a material server but to the supreme repository of spiritual knowledge, where the real assets are grace and love.",
+      "roots": "",
+      "references": [
+        "BG 12.9"
+      ],
+      "themes": [
+        "winnerofwealth",
+        "devotion",
+        "wealth"
+      ]
+    },
+    {
       "term": "dhruva",
       "transliteration": "dhruva",
       "type": "noun/adjective",
@@ -771,6 +440,14 @@
         "fixedness",
         "pole-star"
       ]
+    },
+    {
+      "term": "dhāma",
+      "transliteration": "dhāma",
+      "definition": "abode, domain, seat; the root directory of reality",
+      "roots": "",
+      "references": [],
+      "themes": []
     },
     {
       "term": "dhīraḥ",
@@ -883,6 +560,29 @@
       ]
     },
     {
+      "term": "Gatim",
+      "transliteration": "gatim",
+      "type": "feminine noun",
+      "definition": "Destination, goal, end point; like the system’s bootloader – the initial code that determines the ultimate operating state and enables all subsequent operations.",
+      "roots": "",
+      "references": [
+        "BG 13.29"
+      ],
+      "themes": [
+        "destination",
+        "goal",
+        "endpoint"
+      ]
+    },
+    {
+      "term": "gatvā",
+      "transliteration": "gatvā",
+      "definition": "having gone; the paradox of arriving at your own nature",
+      "roots": "",
+      "references": [],
+      "themes": []
+    },
+    {
       "term": "ghrāṇam",
       "transliteration": "ghrāṇam",
       "type": "noun",
@@ -937,6 +637,40 @@
       "date": "2026-09-28"
     },
     {
+      "term": "Guṇāḥ",
+      "transliteration": "Guṇāḥ",
+      "type": "noun (plural)",
+      "definition": "The three modes (sattva, rajas, tamas)",
+      "roots": [
+        "guṇa (quality, attribute)"
+      ],
+      "references": [
+        "BG 13.20"
+      ],
+      "themes": [
+        "ThreeModes",
+        "Sattva",
+        "Rajas",
+        "Tamas",
+        "Sankhya"
+      ]
+    },
+    {
+      "term": "Hinasti",
+      "transliteration": "hinasti",
+      "type": "3rd person singular present",
+      "definition": "Degrades, harms, diminishes; like a memory leak – gradually degrades system performance over time, often unnoticed until significant damage accumulates.",
+      "roots": "",
+      "references": [
+        "BG 13.29"
+      ],
+      "themes": [
+        "degradation",
+        "harm",
+        "diminishment"
+      ]
+    },
+    {
       "term": "hṛdi",
       "definition": "in the heart; like <code>the root directory (/) of a system</code> where all processes originate and are governed."
     },
@@ -966,6 +700,21 @@
         "BG 11.7"
       ],
       "themes": []
+    },
+    {
+      "term": "Icchā",
+      "transliteration": "icchā",
+      "type": "feminine noun",
+      "definition": "Desire, aspiration, longing. The verse promises that through practice, one develops icchā to attain Me. Hacker metaphor: Like a background service that, once initialized, continuously polls for the Divine signal and triggers the devotional process when the connection is strong enough.",
+      "roots": "",
+      "references": [
+        "BG 12.9"
+      ],
+      "themes": [
+        "desire",
+        "iccha",
+        "aspiration"
+      ]
     },
     {
       "term": "ihaika-sthaṁ",
@@ -1073,6 +822,21 @@
         "BG 12.12"
       ],
       "themes": []
+    },
+    {
+      "term": "Karunā",
+      "transliteration": "karunā",
+      "type": "noun",
+      "definition": "Compassion, mercy; The ultimate packet sniffer with zero-latency response – it detects suffering in the data stream of existence and immediately responds with healing packets of kindness, operating at kernel level of compassion.",
+      "roots": "",
+      "references": [
+        "BG 12.13"
+      ],
+      "themes": [
+        "compassion",
+        "mercy",
+        "lovingkindness"
+      ]
     },
     {
       "term": "kriyamāṇāni",
@@ -1193,6 +957,10 @@
       ]
     },
     {
+      "term": "Manas (मनस्)",
+      "definition": "The mind — the faculty that thinks, feels, and wills. In BG 12.8, Arjuna is told to fix this very mind on Kṛṣṇa. Hacker metaphor: Like setting the CPU's instruction pointer to a sacred address — all processing cycles then serve the Divine process."
+    },
+    {
       "term": "manaḥ",
       "transliteration": "manaḥ",
       "type": "noun",
@@ -1220,6 +988,21 @@
     {
       "term": "maunī",
       "definition": "Silent, one who observes silence. The devotee is described as maunī—speaking only of essentials, not engaging in nonsense. <em>Hacker metaphor:</em> Like a spam filter that blocks unwanted and harmful messages, allowing only legitimate, essential communication to pass through, thereby increasing the signal-to-noise ratio of consciousness."
+    },
+    {
+      "term": "Mayy arpita-mano-buddhir",
+      "transliteration": "mayy arpita-mano-buddhir",
+      "type": "phrase",
+      "definition": "Mind and intelligence fixed on Me; Setting the CPU affinity mask to exclusively run on Krishna-core – all computational threads (thoughts, decisions, actions) are bound to process on the Divine core, preventing context-switching to materialistic processes that would cause system instability.",
+      "roots": "",
+      "references": [
+        "BG 12.14"
+      ],
+      "themes": [
+        "mindfixedonkrishna",
+        "divineconsciousness",
+        "krishnaconnection"
+      ]
     },
     {
       "term": "mayy āveśya",
@@ -1275,6 +1058,21 @@
         "BG 11.8"
       ],
       "themes": []
+    },
+    {
+      "term": "Mūla",
+      "transliteration": "mūla",
+      "type": "neuter noun",
+      "definition": "Tomorrow’s nakṣatra, meaning “root.” Symbolizes the foundation, the source, and the transformative power that dissolves the superficial to reveal the essential. Hacker metaphor: Like performing a filesystem check (fsck) that identifies and repairs corrupted inodes, allowing the system to mount securely on its true foundation.",
+      "roots": "",
+      "references": [
+        "BG 12.9"
+      ],
+      "themes": [
+        "mula",
+        "root",
+        "foundation"
+      ]
     },
     {
       "term": "mūla",
@@ -1389,6 +1187,22 @@
       ]
     },
     {
+      "term": "nivartante",
+      "transliteration": "nivartante",
+      "definition": "they return, come back; a function with no return path",
+      "roots": "",
+      "references": [],
+      "themes": []
+    },
+    {
+      "term": "paramam",
+      "transliteration": "paramam",
+      "definition": "supreme, beyond which nothing exists; the top of the stack",
+      "roots": "",
+      "references": [],
+      "themes": []
+    },
+    {
       "term": "paraṁ nidhānam",
       "transliteration": "paraṁ nidhānam",
       "type": "noun",
@@ -1401,6 +1215,21 @@
         "ultimate-refuge",
         "divine-base",
         "eternal-support"
+      ]
+    },
+    {
+      "term": "Parām",
+      "transliteration": "parām",
+      "type": "indeclinable",
+      "definition": "Supreme, transcendental, highest; like the hardware abstraction layer – operates at the most fundamental level, enabling all higher-level functions without being visible in day-to-day operations.",
+      "roots": "",
+      "references": [
+        "BG 13.29"
+      ],
+      "themes": [
+        "supreme",
+        "transcendental",
+        "highest"
       ]
     },
     {
@@ -1426,6 +1255,21 @@
       "themes": [
         "opulence",
         "divine-powers",
+        "vision"
+      ]
+    },
+    {
+      "term": "Paśyan",
+      "transliteration": "paśyan",
+      "type": "present participle",
+      "definition": "Seeing, observing, perceiving; like a kernel-level system monitor – observes all processes with equal access and privilege, providing comprehensive visibility without bias.",
+      "roots": "",
+      "references": [
+        "BG 13.29"
+      ],
+      "themes": [
+        "perception",
+        "observation",
         "vision"
       ]
     },
@@ -1475,6 +1319,24 @@
       ]
     },
     {
+      "term": "Prakṛti",
+      "transliteration": "Prakṛti",
+      "type": "noun",
+      "definition": "Material nature, the material matrix",
+      "roots": [
+        "pra- (forward)",
+        "kṛti (to make)"
+      ],
+      "references": [
+        "BG 13.20"
+      ],
+      "themes": [
+        "MaterialNature",
+        "Sankhya",
+        "Prakriti"
+      ]
+    },
+    {
       "term": "prakṛti",
       "transliteration": "prakṛti",
       "type": "noun",
@@ -1487,6 +1349,24 @@
         "prakriti",
         "material-nature",
         "sankhya"
+      ]
+    },
+    {
+      "term": "Prakṛti-sambhavān",
+      "transliteration": "Prakṛti-sambhavān",
+      "type": "adjective",
+      "definition": "Produced of material nature",
+      "roots": [
+        "prakṛti (material nature)",
+        "sambhavān (produced of)"
+      ],
+      "references": [
+        "BG 13.20"
+      ],
+      "themes": [
+        "MaterialOrigin",
+        "Creation",
+        "Sankhya"
       ]
     },
     {
@@ -1504,6 +1384,24 @@
         "prayer",
         "surrender",
         "devotion"
+      ]
+    },
+    {
+      "term": "Puruṣa",
+      "transliteration": "Puruṣa",
+      "type": "noun",
+      "definition": "Living entity, conscious spirit",
+      "roots": [
+        "pur- (to fill)",
+        "uṣa (to burn)"
+      ],
+      "references": [
+        "BG 13.20"
+      ],
+      "themes": [
+        "Consciousness",
+        "Spirit",
+        "Purusha"
       ]
     },
     {
@@ -1599,12 +1497,42 @@
       "definition": "Equal, equipoise, balanced. The verse repeats samaḥ to describe the devotee’s equal vision toward friends and enemies, and equipoise in honor/dishonor, heat/cold, happiness/distress, fame/infamy. <em>Hacker metaphor:</em> Like a load balancer that distributes incoming traffic evenly across servers, ensuring no single node is overwhelmed or underutilized, maintaining system stability."
     },
     {
+      "term": "Samaduḥkhasukha",
+      "transliteration": "samaduḥkhasukha",
+      "type": "noun",
+      "definition": "Equal in happiness and distress; A load balancer that distributes both pleasure and pain evenly across all servers of experience – no single node gets overloaded with either extreme, maintaining optimal system performance regardless of incoming traffic patterns.",
+      "roots": "",
+      "references": [
+        "BG 12.13"
+      ],
+      "themes": [
+        "equanimity",
+        "balance",
+        "samata"
+      ]
+    },
+    {
       "term": "samaduḥkhasukhaḥ",
       "definition": "equal in happiness and distress; akin to a load-balanced server that handles both traffic spikes and lulls with equal stability."
     },
     {
       "term": "samaloṣṭāśmakāñcanaḥ",
       "definition": "equal to a lump of earth, a stone and gold; comparable to treating /dev/zero, /dev/random, and /dev/sda as equivalent sources since all are temporary manifestations of the same underlying reality."
+    },
+    {
+      "term": "Samam",
+      "transliteration": "samam",
+      "type": "indeclinable",
+      "definition": "Equal, same, even; like a universal hash function – produces the same output format regardless of input, ensuring fairness and consistency across all data types.",
+      "roots": "",
+      "references": [
+        "BG 13.29"
+      ],
+      "themes": [
+        "equality",
+        "universal",
+        "sameness"
+      ]
     },
     {
       "term": "samatītya",
@@ -1621,6 +1549,21 @@
         "liberation"
       ],
       "date": "2026-09-28"
+    },
+    {
+      "term": "Samavasthitam",
+      "transliteration": "samavasthitam",
+      "type": "indeclinable",
+      "definition": "Equally situated, similarly positioned; like a load balancer – distributes requests evenly across all servers, ensuring no single unit is overwhelmed or neglected.",
+      "roots": "",
+      "references": [
+        "BG 13.29"
+      ],
+      "themes": [
+        "equality",
+        "balance",
+        "equilibrium"
+      ]
     },
     {
       "term": "samāpatti",
@@ -1669,6 +1612,21 @@
       ]
     },
     {
+      "term": "Sarva-karma-phala-tyāga",
+      "transliteration": "sarva-karma-phala-tyāga",
+      "type": "neuter noun compound",
+      "definition": "Renunciation of the results of all actions. In BG 12.11, this is the prescription for those impeded from direct devotional service. Hacker metaphor: Like setting up a firewall that blocks outgoing packets of desire for results, redirecting energy toward neutral or noble causes.",
+      "roots": "",
+      "references": [
+        "BG 12.11"
+      ],
+      "themes": [
+        "renunciation-of-results",
+        "detachment",
+        "tyaga"
+      ]
+    },
+    {
       "term": "sarvam",
       "definition": "all, everything; the totality of existence; hacker metaphor: the entire memory address space or network topology.",
       "type": "adjective",
@@ -1681,6 +1639,21 @@
       "type": "adverb",
       "references": [],
       "themes": []
+    },
+    {
+      "term": "Sarvatra",
+      "transliteration": "sarvatra",
+      "type": "indeclinable",
+      "definition": "Everywhere, in all places; like a global CDN (Content Delivery Network) – delivers content with uniform performance and availability regardless of geographic location.",
+      "roots": "",
+      "references": [
+        "BG 13.29"
+      ],
+      "themes": [
+        "ubiquity",
+        "omnipresence",
+        "everywhere"
+      ]
     },
     {
       "term": "sarvendriya-guṇābhāsaṁ",
@@ -1885,6 +1858,14 @@
       "lastUpdated": "2026-09-09"
     },
     {
+      "term": "sūryaḥ",
+      "transliteration": "sūryaḥ",
+      "definition": "the sun; the system's primary external light source",
+      "roots": "",
+      "references": [],
+      "themes": []
+    },
+    {
       "term": "tada draṣṭuḥ svarūpe 'vasthānam",
       "transliteration": "tada draṣṭuḥ svarūpe 'vasthānam",
       "type": "yoga sūtra",
@@ -1984,6 +1965,21 @@
       ]
     },
     {
+      "term": "Vaidhṛti",
+      "transliteration": "vaidhṛti",
+      "type": "feminine noun",
+      "definition": "Today’s yoga (until evening), often considered inauspicious, associated with obstacles and delays. Hacker metaphor: Like encountering a intermittent network packet loss that requires retry mechanisms and error‑correcting codes to maintain a reliable connection to the Divine.",
+      "roots": "",
+      "references": [
+        "BG 12.9"
+      ],
+      "themes": [
+        "vaidhruthi",
+        "obstacles",
+        "delays"
+      ]
+    },
+    {
       "term": "vairāgyam",
       "definition": "renunciation, dispassion, detachment from sense gratification"
     },
@@ -1994,6 +1990,24 @@
     {
       "term": "vedānta-kṛt",
       "definition": "the compiler of Vedānta; similar to <code>the maintainer of a core specification</code> who defines the foundational standards."
+    },
+    {
+      "term": "Vikārāḥ",
+      "transliteration": "Vikārāḥ",
+      "type": "noun (plural)",
+      "definition": "Transformations, modifications",
+      "roots": [
+        "vi- (apart)",
+        "kṛ (to make)"
+      ],
+      "references": [
+        "BG 13.20"
+      ],
+      "themes": [
+        "Transformation",
+        "Change",
+        "MaterialNature"
+      ]
     },
     {
       "term": "viṣayān",
@@ -2027,6 +2041,10 @@
       ]
     },
     {
+      "term": "Vṛścika (वृश्चिक)",
+      "definition": "The Moon's sign today — Scorpio. Represents transformation, depth, and the courage to face hidden truths. Hacker metaphor: Like a rootkit scan that reveals and removes hidden processes (karmic imprints) that interfere with divine operation."
+    },
+    {
       "term": "yac cānyad",
       "transliteration": "yac canyad",
       "type": "pronoun + adjective",
@@ -2036,6 +2054,36 @@
         "BG 11.7"
       ],
       "themes": []
+    },
+    {
+      "term": "Yatātmavān",
+      "transliteration": "yatātmavān",
+      "type": "masculine noun",
+      "definition": "Situated in the self; one who has attained inner stability and self-mastery. The verse promises that through renunciation of results, one becomes yatātmavān. Hacker metaphor: Like achieving a stable root filesystem where the kernel operates securely without constant crashes or interrupts.",
+      "roots": "",
+      "references": [
+        "BG 12.11"
+      ],
+      "themes": [
+        "self-mastery",
+        "inner-stability",
+        "yogatma"
+      ]
+    },
+    {
+      "term": "Yatātmā",
+      "transliteration": "yatātmā",
+      "type": "noun",
+      "definition": "Self-controlled, self-mastered; The BIOS/firmware level of consciousness – before any OS (ego) or applications (desires) load, the self-mastered one operates at the foundational level where only essential processes run, immune to user-level crashes or malware.",
+      "roots": "",
+      "references": [
+        "BG 12.14"
+      ],
+      "themes": [
+        "selfcontrol",
+        "selfmastery",
+        "discipline"
+      ]
     },
     {
       "term": "yogam",
@@ -2094,21 +2142,6 @@
       ]
     },
     {
-      "term": "Āśritaḥ",
-      "transliteration": "āśritaḥ",
-      "type": "masculine noun",
-      "definition": "Taking refuge, seeking shelter. In the verse, it refers to taking refuge in devotional service (mad-yogam). Hacker metaphor: Like a process that, when unable to run its primary service, switches to a safe fallback mode that maintains core functionality.",
-      "roots": "",
-      "references": [
-        "BG 12.11"
-      ],
-      "themes": [
-        "refuge",
-        "shelter",
-        "asrita"
-      ]
-    },
-    {
       "term": "ātmānam",
       "transliteration": "ātmānam",
       "type": "noun",
@@ -2122,6 +2155,21 @@
         "self",
         "consciousness",
         "sankhya"
+      ]
+    },
+    {
+      "term": "Āśritaḥ",
+      "transliteration": "āśritaḥ",
+      "type": "masculine noun",
+      "definition": "Taking refuge, seeking shelter. In the verse, it refers to taking refuge in devotional service (mad-yogam). Hacker metaphor: Like a process that, when unable to run its primary service, switches to a safe fallback mode that maintains core functionality.",
+      "roots": "",
+      "references": [
+        "BG 12.11"
+      ],
+      "themes": [
+        "refuge",
+        "shelter",
+        "asrita"
       ]
     },
     {
@@ -2155,6 +2203,23 @@
       ]
     },
     {
+      "term": "īśvara-praṇidhāna",
+      "transliteration": "īśvara-praṇidhāna",
+      "type": "neuter compound noun",
+      "definition": "\"devotion to the Lord\"; complete surrender of will and effort to Ishvara. From YS 1.23. Not passive resignation but active dedication, cultivated when the mind is steady so it remains available when the mind is not.",
+      "roots": "",
+      "references": [
+        "YS 1.23",
+        "BG 11.25"
+      ],
+      "themes": [
+        "surrender",
+        "devotion",
+        "ishvara",
+        "yoga"
+      ]
+    },
+    {
       "term": "Īśvara-praṇidhāna (ईश्वरप्रणिधान)",
       "definition": "Devotion to the Lord; surrender of the fruits of action to the Divine. This is the practice BG 12.8 enjoins and YS 1.23 highlights as a direct path to samādhi. Hacker metaphor: Like setting up a continuous integration pipeline where every action is automatically tested, built, and deployed in service to the Divine repository."
     },
@@ -2171,23 +2236,6 @@
         "divinity",
         "lordship",
         "supreme"
-      ]
-    },
-    {
-      "term": "īśvara-praṇidhāna",
-      "transliteration": "īśvara-praṇidhāna",
-      "type": "neuter compound noun",
-      "definition": "\"devotion to the Lord\"; complete surrender of will and effort to Ishvara. From YS 1.23. Not passive resignation but active dedication, cultivated when the mind is steady so it remains available when the mind is not.",
-      "roots": "",
-      "references": [
-        "YS 1.23",
-        "BG 11.25"
-      ],
-      "themes": [
-        "surrender",
-        "devotion",
-        "ishvara",
-        "yoga"
       ]
     },
     {
