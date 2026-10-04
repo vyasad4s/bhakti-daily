@@ -1,6 +1,50 @@
 {
   "verses": [
     {
+      "date": "2026-10-03",
+      "source": "BG 15.3-4",
+      "chapter": 15,
+      "verse": "3-4",
+      "text": "Bhagavad Gita",
+      "tithi": "Kṛṣṇa Pakṣa Aṣṭamī (Kalashtami, Madhya Ashtami) → Navami",
+      "nakshatra": "Ardra (until 3:59 PM EDT) → Punarvasu",
+      "yoga": "Parigha → Śiva",
+      "themes": [
+        "detachment",
+        "vairāgya",
+        "severance",
+        "kalashtami",
+        "asvattha-tree",
+        "surrender"
+      ],
+      "tags": [
+        "#detachment",
+        "#vairagya",
+        "#kalashtami",
+        "#asvattha-tree",
+        "#surrender",
+        "#sankhya",
+        "#purushottama-yoga"
+      ],
+      "yogaSutraConnection": "YS I.15, YS I.12",
+      "sankhyaConcepts": [
+        "asaṅga as structural intervention",
+        "puruṣa not-a-node",
+        "saṅga→kāma→krodha sequence",
+        "prakṛti as closed unobservable system"
+      ],
+      "keyTerms": [
+        "asaṅga",
+        "śastra",
+        "dṛḍhena",
+        "chittvā",
+        "parimārgitavyam",
+        "padaṁ",
+        "pravṛttiḥ",
+        "purāṇī"
+      ]
+    },
+    {
       "date": "2026-10-02",
       "source": "BG 15.9",
       "chapter": 15,
@@ -4977,5 +5021,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-10-02"
+  "lastUpdated": "2026-10-03"
 }
