@@ -1,6 +1,93 @@
 {
   "verses": [
     {
+      "date": "2026-10-05",
+      "source": "BG 15.7",
+      "chapter": 15,
+      "verse": "7",
+      "text": "Bhagavad Gita",
+      "tithi": "Kṛṣṇa Pakṣa Dashami (until 4:37 PM EDT), then Ekadashi",
+      "nakshatra": "Pushya (until 1:39 PM EDT), then Ashlesha",
+      "yoga": "Siddha (until 9:50 PM EDT), then Sadhya",
+      "themes": [
+        "eternal-fragment",
+        "sense-struggle",
+        "somvara",
+        "pushya",
+        "ashlesha",
+        "siddha-yoga"
+      ],
+      "tags": [
+        "#somvara",
+        "#pushya",
+        "#ashlesha",
+        "#siddha-yoga",
+        "#eternal-fragment",
+        "#sense-struggle"
+      ],
+      "yogaSutraConnection": "YS II.17, YS II.18",
+      "sankhyaConcepts": [
+        "puruṣa as eternal fragmental consciousness",
+        "prakṛti as evolute providing bodies and senses",
+        "sanātanaḥ as unchanging essential nature",
+        "karṣati as struggle arising from misidentification",
+        "senses as neutral instruments depending on consciousness"
+      ],
+      "keyTerms": [
+        "mamaivāṁśaḥ",
+        "jīva-loke",
+        "jīva-bhūtaḥ",
+        "sanātanaḥ",
+        "manaḥ",
+        "ṣaṣṭhāni",
+        "indriyāṇi",
+        "prakṛti-sthāni",
+        "karṣati"
+      ]
+    },
+    {
+      "date": "2026-10-04",
+      "source": "BG 15.6",
+      "chapter": 15,
+      "verse": "6",
+      "text": "Bhagavad Gita",
+      "tithi": "Kṛṣṇa Pakṣa Navamī (until 6:24 PM EDT), then Daśamī — Avidhava Navami observed",
+      "nakshatra": "Punarvasu (until 2:43 PM EDT), then Puṣya",
+      "yoga": "Śiva (until 12:21 AM EDT Oct 5), then Siddha",
+      "themes": [
+        "self-luminous",
+        "borrowed-light",
+        "ravivara",
+        "apunarvasu",
+        "ravipushya",
+        "sarvarthasiddhi"
+      ],
+      "tags": [
+        "#ravivāra",
+        "#punarvasu",
+        "#ravipushya",
+        "#sarvarthasiddhi",
+        "#śivayoga",
+        "#avidhavanavami"
+      ],
+      "yogaSutraConnection": "YS I.3, YS IV.34",
+      "sankhyaConcepts": [
+        "prakṛti as jaḍa (insentient)",
+        "puruṣa as cit (witnessing light)",
+        "sun as evolute with fuel gauge",
+        "dhāma as self-luminous source",
+        "no return due to non-duality of seer and abode"
+      ],
+      "keyTerms": [
+        "bhāsayate",
+        "sūryaḥ",
+        "dhāma",
+        "paramam",
+        "nivartante",
+        "gatvā"
+      ]
+    },
+    {
       "date": "2026-10-03",
       "source": "BG 15.3-4",
       "chapter": 15,
@@ -5021,5 +5108,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-10-03"
+  "lastUpdated": "2026-10-05"
 }
