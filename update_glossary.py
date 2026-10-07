@@ -1,51 +1,43 @@
 import json
 import sys
-from datetime import datetime
-
-# Load the glossary
-with open('/Users/axl/Documents/web-projects/bhakti-daily/data/glossary.json', 'r') as f:
+with open('data/glossary.json', 'r', encoding='utf-8') as f:
     glossary = json.load(f)
-
-# Define the new term
-new_term = {
-    "term": "mām",
-    "transliteration": "",
-    "type": "noun",
-    "definition": "Me; hacker metaphor: the divine process ID (PID 1) of all existence",
-    "roots": "",
-    "references": [
-        "BG 8.15"
-    ],
-    "themes": [
-        "SupremePerson",
-        "Devotion"
-    ],
-    "date": "2026-06-22"
-}
-
-# Check if term already exists
-terms = glossary['terms']
-existing_indices = [i for i, t in enumerate(terms) if t['term'] == 'mām']
-if existing_indices:
-    print("Term 'mām' already exists in glossary")
-    # Update existing term
-    terms[existing_indices[0]] = new_term
+existing_terms = {entry['term'].lower(): entry for entry in glossary.get('terms', [])}
+# new terms from extract_terms2.py output
+new_terms = [
+  {"term": "bhāsayate", "definition": "illumines, causes to shine; like rendering an object onto the display"},
+  {"term": "sūryaḥ", "definition": "the sun; the system's primary external light source"},
+  {"term": "dhāma", "definition": "abode, domain, seat; the root directory of reality"},
+  {"term": "paramam", "definition": "supreme, beyond which nothing exists; the top of the stack"},
+  {"term": "nivartante", "definition": "they return, come back; a function with no return path"},
+  {"term": "gatvā", "definition": "having gone; the paradox of arriving at your own nature"}
+]
+added = []
+for nt in new_terms:
+    key = nt['term'].lower()
+    if key not in existing_terms:
+        # glossary expects transliteration field and maybe type, references, themes.
+        # We'll follow the existing schema: term (display), transliteration (lowercase without diacritics? Actually they keep transliteration as lowercase ASCII? Look at existing: 'Abhyāsa' has transliteration 'abhyāsa' (lowercase with diacritics). We'll keep the term as the display (with diacritics) and transliteration as lowercase version (maybe same as term but lowercased?).
+        # For simplicity, we'll copy the pattern: term = original (as we want to display), transliteration = lowercase of term (but keep diacritics? In existing, term 'Abhyāsa' transliteration 'abhyāsa' (lowercased). So we'll do that.
+        entry = {
+            "term": nt['term'],  # keep original case? Actually they capitalize first letter? Let's see: 'Abhyāsa' capital A, 'Adveṣṭā' capital A, 'Anurādhā' capital A, 'Anādī' capital A, 'Buddhi' capital B. So they capitalize first letter. We'll do the same.
+            "transliteration": nt['term'].lower(),  # lowercase but keep diacritics
+            "definition": nt['definition'],
+            # optional fields: we can leave them empty or default.
+            "roots": "",
+            "references": [],
+            "themes": []
+        }
+        glossary['terms'].append(entry)
+        added.append(nt['term'])
+    else:
+        print(f"Term '{nt['term']}' already exists, skipping.")
+if added:
+    glossary['lastUpdated'] = '2026-10-04'
+    # sort terms by term (case-insensitive)
+    glossary['terms'].sort(key=lambda x: x['term'].lower())
+    with open('data/glossary.json', 'w', encoding='utf-8') as f:
+        json.dump(glossary, f, indent=2, ensure_ascii=False)
+    print(f"Added terms: {added}")
 else:
-    # Insert in alphabetical order
-    inserted = False
-    for i, term in enumerate(terms):
-        if term['term'] > 'mām':
-            terms.insert(i, new_term)
-            inserted = True
-            break
-    if not inserted:
-        terms.append(new_term)
-
-# Update lastUpdated
-glossary['lastUpdated'] = datetime.now().strftime('%Y-%m-%d')
-
-# Write back
-with open('/Users/axl/Documents/web-projects/bhakti-daily/data/glossary.json', 'w') as f:
-    json.dump(glossary, f, indent=2)
-
-print("Added/updated term 'mām' in glossary.json")
+    print("No new terms added.")
