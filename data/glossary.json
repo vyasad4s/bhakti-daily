@@ -1,6 +1,156 @@
 {
-  "lastUpdated": "2026-10-07",
+  "lastUpdated": "2026-10-08",
   "terms": [
+    {
+      "term": "उत्तम",
+      "transliteration": "uttamaḥ",
+      "type": "unknown",
+      "definition": "the highest level of access and authority that underlies all operations.",
+      "roots": "from uttamaḥ",
+      "references": [
+        "BG 15.17"
+      ],
+      "themes": [
+        "supreme-person",
+        "masik-shivaratri",
+        "guruwar"
+      ]
+    },
+    {
+      "term": "पुरुष",
+      "transliteration": "puruṣaḥ",
+      "type": "unknown",
+      "definition": "the fundamental conscious entity that gives identity and purpose to a system.",
+      "roots": "from puruṣaḥ",
+      "references": [
+        "BG 15.17"
+      ],
+      "themes": [
+        "supreme-person",
+        "masik-shivaratri",
+        "guruwar"
+      ]
+    },
+    {
+      "term": "त्व anyaḥ (त्वन्य:)",
+      "transliteration": "tv anyaḥ (त्वन्य:)",
+      "type": "unknown",
+      "definition": "emphasizing that this puruṣa is categorically different from ordinary conscious beings.",
+      "roots": "ordinary conscious beings.",
+      "references": [
+        "BG 15.17"
+      ],
+      "themes": [
+        "supreme-person",
+        "masik-shivaratri",
+        "guruwar"
+      ]
+    },
+    {
+      "term": "paramātmā (परमात्मा)",
+      "transliteration": "paramātmā (परमात्मा)",
+      "type": "unknown",
+      "definition": "the essential, all-pervading conscious principle that underlies and sustains all other processes.",
+      "roots": "from paramātmā परमतम",
+      "references": [
+        "BG 15.17"
+      ],
+      "themes": [
+        "supreme-person",
+        "masik-shivaratri",
+        "guruwar"
+      ]
+    },
+    {
+      "term": "उदाहृत",
+      "transliteration": "udāhṛtaḥ",
+      "type": "unknown",
+      "definition": "an authoritative declaration that defines reality.",
+      "roots": "from udāhṛtaḥ",
+      "references": [
+        "BG 15.17"
+      ],
+      "themes": [
+        "supreme-person",
+        "masik-shivaratri",
+        "guruwar"
+      ]
+    },
+    {
+      "term": "loka-trayam (लोकत्रयम्)",
+      "transliteration": "loka-trayam (लोकत्रयम्)",
+      "type": "unknown",
+      "definition": "encompassing all levels of manifestation from material to celestial to spiritual realms.",
+      "roots": "material to celestial to spiritual realms.",
+      "references": [
+        "BG 15.17"
+      ],
+      "themes": [
+        "supreme-person",
+        "masik-shivaratri",
+        "guruwar"
+      ]
+    },
+    {
+      "term": "āviśya (आवीश्य)",
+      "transliteration": "āviśya (आवीश्य)",
+      "type": "unknown",
+      "definition": "the act of making oneself present and active in a domain while maintaining one’s identity.",
+      "roots": "from āviśya आवशय",
+      "references": [
+        "BG 15.17"
+      ],
+      "themes": [
+        "supreme-person",
+        "masik-shivaratri",
+        "guruwar"
+      ]
+    },
+    {
+      "term": "bibharti (बिभर्ति)",
+      "transliteration": "bibharti (बिभर्ति)",
+      "type": "unknown",
+      "definition": "the process that sustains and coordinates all other functions to keep the system running.",
+      "roots": "from bibharti बभरत",
+      "references": [
+        "BG 15.17"
+      ],
+      "themes": [
+        "supreme-person",
+        "masik-shivaratri",
+        "guruwar"
+      ]
+    },
+    {
+      "term": "अव्यय",
+      "transliteration": "avyayaḥ",
+      "type": "unknown",
+      "definition": "a source of energy that never diminishes regardless of how much is used.",
+      "roots": "from avyayaḥ",
+      "references": [
+        "BG 15.17"
+      ],
+      "themes": [
+        "supreme-person",
+        "masik-shivaratri",
+        "guruwar"
+      ]
+    },
+    {
+      "term": "ईश्वर",
+      "transliteration": "īśvaraḥ",
+      "type": "unknown",
+      "definition": "the conscious being with supreme authority and responsibility for the entire system’s functioning.",
+      "roots": "from īśvaraḥ",
+      "references": [
+        "BG 15.17"
+      ],
+      "themes": [
+        "supreme-person",
+        "masik-shivaratri",
+        "guruwar"
+      ]
+    },
     {
       "term": "āditya-gataṁ",
       "transliteration": "āditya-gataṁ",
