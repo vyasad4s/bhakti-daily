@@ -1,6 +1,28 @@
 {
   "verses": [
     {
+      "date": "2026-10-09",
+      "source": "BG 15.18",
+      "chapter": 15,
+      "verse": "18",
+      "text": "Bhagavad Gita",
+      "tithi": "Krishna Paksha Chaturdashi (until 12:06 PM EDT), then Krishna Paksha Amavasya",
+      "nakshatra": "Uttara Phalguni (until 11:49 AM EDT), then Hasta",
+      "yoga": "Brahma (until 1:50 PM EDT), then Indra",
+      "themes": [
+        "transcendence"
+      ],
+      "tags": [
+        "#transcendence"
+      ],
+      "yogaSutraConnection": "YS I.24",
+      "sankhyaConcepts": [
+        "Consciousness beyond duality: Supreme Person transcendental beyond fallible and infallible",
+        "Inner mechanism: eternal distinction between puruṣa and prakṛti; Lord sustains creation while remaining aloof"
+      ],
+      "keyTerms": []
+    },
+    {
       "date": "2026-10-07",
       "source": "BG 15.12",
       "chapter": 15,
@@ -87,5 +109,6 @@
         "rasātmakaḥ"
       ]
     }
-  ]
+  ],
+  "lastUpdated": "2026-10-09"
 }

@@ -1,12 +1,18 @@
 {
-  "lastUpdated": "2026-10-08",
+  "lastUpdated": "2026-10-09",
   "terms": [
     {
-      "term": "उत्तम",
-      "transliteration": "uttamaḥ",
+      "term": "agnau",
+      "transliteration": "agnau",
+      "type": "locative masculine",
+      "definition": "in fire; like the CPU's heat output — a sign of activity and transformation that originates from the Divine."
+    },
+    {
+      "term": "bibharti (बिभर्ति)",
+      "transliteration": "bibharti (बिभर्ति)",
       "type": "unknown",
-      "definition": "the highest level of access and authority that underlies all operations.",
-      "roots": "from uttamaḥ",
+      "definition": "the process that sustains and coordinates all other functions to keep the system running.",
+      "roots": "from bibharti बभरत",
       "references": [
         "BG 15.17"
       ],
@@ -17,64 +23,10 @@
       ]
     },
     {
-      "term": "पुरुष",
-      "transliteration": "puruṣaḥ",
-      "type": "unknown",
-      "definition": "the fundamental conscious entity that gives identity and purpose to a system.",
-      "roots": "from puruṣaḥ",
-      "references": [
-        "BG 15.17"
-      ],
-      "themes": [
-        "supreme-person",
-        "masik-shivaratri",
-        "guruwar"
-      ]
-    },
-    {
-      "term": "त्व anyaḥ (त्वन्य:)",
-      "transliteration": "tv anyaḥ (त्वन्य:)",
-      "type": "unknown",
-      "definition": "emphasizing that this puruṣa is categorically different from ordinary conscious beings.",
-      "roots": "ordinary conscious beings.",
-      "references": [
-        "BG 15.17"
-      ],
-      "themes": [
-        "supreme-person",
-        "masik-shivaratri",
-        "guruwar"
-      ]
-    },
-    {
-      "term": "paramātmā (परमात्मा)",
-      "transliteration": "paramātmā (परमात्मा)",
-      "type": "unknown",
-      "definition": "the essential, all-pervading conscious principle that underlies and sustains all other processes.",
-      "roots": "from paramātmā परमतम",
-      "references": [
-        "BG 15.17"
-      ],
-      "themes": [
-        "supreme-person",
-        "masik-shivaratri",
-        "guruwar"
-      ]
-    },
-    {
-      "term": "उदाहृत",
-      "transliteration": "udāhṛtaḥ",
-      "type": "unknown",
-      "definition": "an authoritative declaration that defines reality.",
-      "roots": "from udāhṛtaḥ",
-      "references": [
-        "BG 15.17"
-      ],
-      "themes": [
-        "supreme-person",
-        "masik-shivaratri",
-        "guruwar"
-      ]
+      "term": "candramasi",
+      "transliteration": "candramasi",
+      "type": "locative feminine",
+      "definition": "in the moon; like a subsystem reflecting core light — a vital interface that translates divine consciousness into gentle illumination."
     },
     {
       "term": "loka-trayam (लोकत्रयम्)",
@@ -92,11 +44,17 @@
       ]
     },
     {
-      "term": "āviśya (आवीश्य)",
-      "transliteration": "āviśya (आवीश्य)",
+      "term": "māmakam",
+      "transliteration": "māmakam",
+      "type": "neuter noun",
+      "definition": "from Me; like the origin point of a process — the fundamental source that gives meaning and energy to all operations."
+    },
+    {
+      "term": "paramātmā (परमात्मा)",
+      "transliteration": "paramātmā (परमात्मा)",
       "type": "unknown",
-      "definition": "the act of making oneself present and active in a domain while maintaining one’s identity.",
-      "roots": "from āviśya आवशय",
+      "definition": "the essential, all-pervading conscious principle that underlies and sustains all other processes.",
+      "roots": "from paramātmā परमतम",
       "references": [
         "BG 15.17"
       ],
@@ -107,11 +65,29 @@
       ]
     },
     {
-      "term": "bibharti (बिभर्ति)",
-      "transliteration": "bibharti (बिभर्ति)",
+      "term": "tejo",
+      "transliteration": "tejo",
+      "type": "masculine noun",
+      "definition": "splendor; like the brightness of a well-tuned system — a sign of optimal operation and divine radiance."
+    },
+    {
+      "term": "viddhi",
+      "transliteration": "viddhi",
+      "type": "imperative verb",
+      "definition": "understand; like a debugger's insight into the code — recognizing the divine origin in all phenomena."
+    },
+    {
+      "term": "āditya-gataṁ",
+      "transliteration": "āditya-gataṁ",
+      "type": "indeclinable",
+      "definition": "in the sunshine; like solar-powered code — drawing energy directly from the divine source."
+    },
+    {
+      "term": "āviśya (आवीश्य)",
+      "transliteration": "āviśya (आवीश्य)",
       "type": "unknown",
-      "definition": "the process that sustains and coordinates all other functions to keep the system running.",
-      "roots": "from bibharti बभरत",
+      "definition": "the act of making oneself present and active in a domain while maintaining one’s identity.",
+      "roots": "from āviśya आवशय",
       "references": [
         "BG 15.17"
       ],
@@ -152,40 +128,64 @@
       ]
     },
     {
-      "term": "āditya-gataṁ",
-      "transliteration": "āditya-gataṁ",
-      "type": "indeclinable",
-      "definition": "in the sunshine; like solar-powered code — drawing energy directly from the divine source."
+      "term": "उत्तम",
+      "transliteration": "uttamaḥ",
+      "type": "unknown",
+      "definition": "the highest level of access and authority that underlies all operations.",
+      "roots": "from uttamaḥ",
+      "references": [
+        "BG 15.17"
+      ],
+      "themes": [
+        "supreme-person",
+        "masik-shivaratri",
+        "guruwar"
+      ]
     },
     {
-      "term": "tejo",
-      "transliteration": "tejo",
-      "type": "masculine noun",
-      "definition": "splendor; like the brightness of a well-tuned system — a sign of optimal operation and divine radiance."
+      "term": "उदाहृत",
+      "transliteration": "udāhṛtaḥ",
+      "type": "unknown",
+      "definition": "an authoritative declaration that defines reality.",
+      "roots": "from udāhṛtaḥ",
+      "references": [
+        "BG 15.17"
+      ],
+      "themes": [
+        "supreme-person",
+        "masik-shivaratri",
+        "guruwar"
+      ]
     },
     {
-      "term": "candramasi",
-      "transliteration": "candramasi",
-      "type": "locative feminine",
-      "definition": "in the moon; like a subsystem reflecting core light — a vital interface that translates divine consciousness into gentle illumination."
+      "term": "त्व anyaḥ (त्वन्य:)",
+      "transliteration": "tv anyaḥ (त्वन्य:)",
+      "type": "unknown",
+      "definition": "emphasizing that this puruṣa is categorically different from ordinary conscious beings.",
+      "roots": "ordinary conscious beings.",
+      "references": [
+        "BG 15.17"
+      ],
+      "themes": [
+        "supreme-person",
+        "masik-shivaratri",
+        "guruwar"
+      ]
     },
     {
-      "term": "agnau",
-      "transliteration": "agnau",
-      "type": "locative masculine",
-      "definition": "in fire; like the CPU's heat output — a sign of activity and transformation that originates from the Divine."
-    },
-    {
-      "term": "viddhi",
-      "transliteration": "viddhi",
-      "type": "imperative verb",
-      "definition": "understand; like a debugger's insight into the code — recognizing the divine origin in all phenomena."
-    },
-    {
-      "term": "māmakam",
-      "transliteration": "māmakam",
-      "type": "neuter noun",
-      "definition": "from Me; like the origin point of a process — the fundamental source that gives meaning and energy to all operations."
+      "term": "पुरुष",
+      "transliteration": "puruṣaḥ",
+      "type": "unknown",
+      "definition": "the fundamental conscious entity that gives identity and purpose to a system.",
+      "roots": "from puruṣaḥ",
+      "references": [
+        "BG 15.17"
+      ],
+      "themes": [
+        "supreme-person",
+        "masik-shivaratri",
+        "guruwar"
+      ]
     }
   ]
 }
