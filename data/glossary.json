@@ -1,6 +1,156 @@
 {
-  "lastUpdated": "2026-10-09",
+  "lastUpdated": "2026-10-20",
   "terms": [
+    {
+      "term": "daivī (दैवी)",
+      "transliteration": "daivī",
+      "type": "adjective",
+      "definition": "divine, godly; like root-level access — the privileged mode that operates with full system authority and alignment with the source",
+      "roots": "from divine, godly",
+      "references": [
+        "BG 16.5"
+      ],
+      "themes": [
+        "daivi-sampat",
+        "victory",
+        "vijayadashami"
+      ]
+    },
+    {
+      "term": "sampat (सम्पत्)",
+      "transliteration": "sampat",
+      "type": "noun",
+      "definition": "wealth, qualities, assets; like the capability set — the accumulated permissions and functions that define what a process can do",
+      "roots": "from wealth, assets, properties",
+      "references": [
+        "BG 16.5"
+      ],
+      "themes": [
+        "daivi-sampat",
+        "liberation",
+        "capability"
+      ]
+    },
+    {
+      "term": "vimokṣāya (विमोक्षाय)",
+      "transliteration": "vimokṣāya",
+      "type": "dat sg",
+      "definition": "for liberation, for release; like the exit syscall — the clean termination that frees all resources and returns to source",
+      "roots": "from vimokṣa",
+      "references": [
+        "BG 16.5"
+      ],
+      "themes": [
+        "liberation",
+        "release",
+        "exit"
+      ]
+    },
+    {
+      "term": "nibandhāya (निबन्धाय)",
+      "transliteration": "nibandhāya",
+      "type": "dat sg",
+      "definition": "for bondage, for binding; like the infinite loop — code that traps execution in recursive cycles with no exit condition",
+      "roots": "from bandha",
+      "references": [
+        "BG 16.5"
+      ],
+      "themes": [
+        "bondage",
+        "entanglement",
+        "loop"
+      ]
+    },
+    {
+      "term": "āsurī (आसुरी)",
+      "transliteration": "āsurī",
+      "type": "adjective",
+      "definition": "demonic, ungodly; like malware behavior — processes that consume resources, ignore protocols, and replicate destructively",
+      "roots": "from asura",
+      "references": [
+        "BG 16.5"
+      ],
+      "themes": [
+        "demoniac",
+        "malware",
+        "unhealthy-process"
+      ]
+    },
+    {
+      "term": "matā (मता)",
+      "transliteration": "matā",
+      "type": "pp",
+      "definition": "considered, deemed; like the classification logic — the decision tree that sorts processes into allowed or quarantined",
+      "roots": "from mana",
+      "references": [
+        "BG 16.5"
+      ],
+      "themes": [
+        "classification",
+        "logic",
+        "deeming"
+      ]
+    },
+    {
+      "term": "mā (मा)",
+      "transliteration": "mā",
+      "type": "particle",
+      "definition": "do not (prohibitive); like the kernel panic guard — the hard stop that prevents the system from executing a fatal instruction",
+      "roots": "from prohibition",
+      "references": [
+        "BG 16.5"
+      ],
+      "themes": [
+        "prohibition",
+        "guard",
+        "hard-stop"
+      ]
+    },
+    {
+      "term": "śucaḥ (शुच:)",
+      "transliteration": "śucaḥ",
+      "type": "n",
+      "definition": "worry, grief, anxiety; like race condition noise — mental interrupts that destabilize the main thread and waste cycles",
+      "roots": "from śuca",
+      "references": [
+        "BG 16.5"
+      ],
+      "themes": [
+        "worry",
+        "anxiety",
+        "interrupt"
+      ]
+    },
+    {
+      "term": "abhijātaḥ (अभिजात:)",
+      "transliteration": "abhijātaḥ",
+      "type": "pp",
+      "definition": "born of, well-born, high-born; like the verified binary — code that carries the cryptographic signature of its authentic origin",
+      "roots": "from abhi and jan",
+      "references": [
+        "BG 16.5"
+      ],
+      "themes": [
+        "birth",
+        "verified",
+        "authentic"
+      ]
+    },
+    {
+      "term": "pāṇḍava (पाण्डव)",
+      "transliteration": "pāṇḍava",
+      "type": "n",
+      "definition": "son of Pāṇḍu, Arjuna; like the warrior process — the thread tasked with executing the dharmic algorithm under fire",
+      "roots": "from Pāṇḍu",
+      "references": [
+        "BG 16.5"
+      ],
+      "themes": [
+        "warrior",
+        "process",
+        "algorithm"
+      ]
+    },
     {
       "term": "agnau",
       "transliteration": "agnau",
