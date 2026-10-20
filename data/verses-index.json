@@ -1,6 +1,51 @@
 {
   "verses": [
     {
+      "date": "2026-10-20",
+      "source": "BG 16.5",
+      "chapter": 16,
+      "verse": 5,
+      "text": "Bhagavad Gita",
+      "tithi": "Śukla Pakṣa Daśamī (until 4:42 AM EDT Oct 21) — Vijayadaśamī / Dussehra",
+      "nakshatra": "Śravaṇa (until 8:32 AM EDT), then Dhaniṣṭhā",
+      "yoga": "Sūla (until 3:19 PM EDT), then Ganda",
+      "themes": [
+        "victory",
+        "daivi-sampat",
+        "liberation",
+        "warrior-path",
+        "discrimination",
+        "vijayadashami"
+      ],
+      "tags": [
+        "#vijayadashami",
+        "#daivi-sampat",
+        "#liberation",
+        "#kriya-yoga",
+        "#warrior-path",
+        "#viveka"
+      ],
+      "yogaSutraConnection": "YS II.1",
+      "sankhyaConcepts": [
+        "Twofold creation: daivī (sattvic buddhi) vs āsurī (tamasic/rajasic distortion)",
+        "Liberation (vimokṣa) through discriminative discernment (viveka-khyāti)",
+        "Kriyā-yoga (tapas-svādhyāya-īśvara-praṇidhāna) as operational daivī sampad",
+        "Abhijātaḥ — birth-verified divine nature; puruṣa's cryptographic signature"
+      ],
+      "keyTerms": [
+        "daivī",
+        "sampat",
+        "vimokṣāya",
+        "nibandhāya",
+        "āsurī",
+        "matā",
+        "mā",
+        "śucaḥ",
+        "abhijātaḥ",
+        "pāṇḍava"
+      ]
+    },
+    {
       "date": "2026-10-09",
       "source": "BG 15.18",
       "chapter": 15,
@@ -110,5 +155,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-10-09"
+  "lastUpdated": "2026-10-20"
 }
