@@ -46,6 +46,45 @@
       ]
     },
     {
+      "date": "2026-10-19",
+      "source": "BG 16.7",
+      "chapter": 16,
+      "verse": 7,
+      "text": "Bhagavad Gita",
+      "tithi": "Ashvina Śukla Pakṣa Navami (until 3:20 AM EDT Oct 20) — Saraswati Visarjan / Maha Navami",
+      "nakshatra": "Śravaṇa (until 8:32 AM EDT), then Dhaniṣṭhā",
+      "yoga": "Dhrithi (until 3:04 PM EDT), then Ganda",
+      "themes": [
+        "ignorance",
+        "discrimination",
+        "navami",
+        "pravrtti",
+        "nivrtti",
+        "maha-navami"
+      ],
+      "tags": [
+        "#mahanavami",
+        "#ajna",
+        "#viveka",
+        "#navratri",
+        "#liberation"
+      ],
+      "yogaSutraConnection": "YS II.33",
+      "sankhyaConcepts": [
+        "Āsurī nature as ajñāna — inability to distinguish pravṛtti from nivṛtti",
+        "Kleśa-āvaraṇa: obstacles remaining (saṅkleśa) obscure discriminative intellect (buddhi)",
+        "Ganda yoga as the knot of kleshas binding the sādhaka",
+        "Vairāgya (detachment) as the removal of obstacles per YS II.33"
+      ],
+      "keyTerms": [
+        "pravṛtti",
+        "nivṛtti",
+        "āsurāḥ",
+        "janāḥ",
+        "viduḥ"
+      ]
+    },
+    {
       "date": "2026-10-09",
       "source": "BG 15.18",
       "chapter": 15,
@@ -155,5 +194,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-10-20"
+  "lastUpdated": "2026-10-19"
 }

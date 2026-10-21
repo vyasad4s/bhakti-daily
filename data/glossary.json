@@ -1,6 +1,81 @@
 {
-  "lastUpdated": "2026-10-20",
+  "lastUpdated": "2026-10-19",
   "terms": [
+    {
+      "term": "pravṛtti (प्रवृत्ति)",
+      "transliteration": "pravṛtti",
+      "type": "noun",
+      "definition": "what should be done; like the go-signal — the system instruction that tells the process which direction to move",
+      "roots": "from pra-+vṛ",
+      "references": [
+        "BG 16.7"
+      ],
+      "themes": [
+        "discrimination",
+        "viveka",
+        "action"
+      ]
+    },
+    {
+      "term": "nivṛtti (निवृत्ति)",
+      "transliteration": "nivṛtti",
+      "type": "noun",
+      "definition": "what should not be done; like the stop signal — the system guard that prevents the process from moving into forbidden territory",
+      "roots": "from nis-+vṛtti",
+      "references": [
+        "BG 16.7"
+      ],
+      "themes": [
+        "discrimination",
+        "viveka",
+        "renunciation"
+      ]
+    },
+    {
+      "term": "āsurāḥ (आसुराḥ)",
+      "transliteration": "āsurāḥ",
+      "type": "plural noun",
+      "definition": "demons; like the quarantined process — the entity isolated from the main branch due to malfunctioning code",
+      "roots": "from asura",
+      "references": [
+        "BG 16.7"
+      ],
+      "themes": [
+        "demoniac",
+        "ignorance",
+        "ajña"
+      ]
+    },
+    {
+      "term": "janāḥ (जन:)",
+      "transliteration": "janāḥ",
+      "type": "plural noun",
+      "definition": "people, masses; like the user base — the collective body of entities running the system",
+      "roots": "from jan",
+      "references": [
+        "BG 16.7"
+      ],
+      "themes": [
+        "people",
+        "ignorance",
+        "collective"
+      ]
+    },
+    {
+      "term": "viduḥ (विदुः)",
+      "transliteration": "viduḥ",
+      "type": "plural verb",
+      "definition": "know, understand; like the debugger — the tool that reveals the hidden state of the system",
+      "roots": "from vid",
+      "references": [
+        "BG 16.7"
+      ],
+      "themes": [
+        "knowledge",
+        "discrimination",
+        "debugging"
+      ]
+    },
     {
       "term": "daivī (दैवी)",
       "transliteration": "daivī",
