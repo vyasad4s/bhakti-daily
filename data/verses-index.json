@@ -1,6 +1,47 @@
 {
   "verses": [
     {
+      "date": "2026-10-24",
+      "source": "BG 16.1",
+      "chapter": 16,
+      "verse": 1,
+      "text": "Bhagavad Gita",
+      "tithi": "Śukla Pakṣa Chaturdaśī (4:07 AM EDT – 2:26 AM EDT Oct 25) — Eve of Śarad Pūrṇimā, moon at 15/16 kalās",
+      "nakshatra": "Uttara Bhādrapada (until 11:02 AM EDT), then Revatī (gandamool)",
+      "yoga": "Vyaghāta (until 10:30 AM EDT), then Harṣaṇa",
+      "themes": [
+        "fearlessness",
+        "daivi-sampad",
+        "austerity",
+        "self-control",
+        "sanivara",
+        "sharad-purnima-eve"
+      ],
+      "tags": [
+        "#sanivara",
+        "#daivi-sampad",
+        "#abhayam",
+        "#tapas",
+        "#sharad-purnima",
+        "#saturn"
+      ],
+      "yogaSutraConnection": "YS II.43",
+      "sankhyaConcepts": [
+        "Tapas as prakṛti's own purification process — the guṇas settling toward sattva",
+        "Purity not added but revealed: what remains when the dross burns (aśuddhi-kṣayāt tapasaḥ)",
+        "Daivī sampad as the soul's pūrṇatā — fullness; the moon's sixteen kalās as diagram",
+        "Abhayaṁ as the first divine wealth — the counter to Śani's manufactured fear"
+      ],
+      "keyTerms": [
+        "abhayam",
+        "sattva-saṁśuddhiḥ",
+        "damaḥ",
+        "tapaḥ",
+        "svādhyāyaḥ",
+        "ārjavam"
+      ]
+    },
+    {
       "date": "2026-10-20",
       "source": "BG 16.5",
       "chapter": 16,
@@ -194,5 +235,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-10-19"
+  "lastUpdated": "2026-10-24"
 }
