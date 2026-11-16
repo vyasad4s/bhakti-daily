@@ -1,6 +1,46 @@
 {
   "verses": [
     {
+      "date": "2026-11-15",
+      "source": "BG 18.2",
+      "chapter": 18,
+      "verse": 2,
+      "text": "Bhagavad Gita",
+      "tithi": "Śukla Pakṣa Ṣaṣṭhī (until 3:31 PM EDT) → Saptamī — Skanda Ṣaṣṭhī (Lord Kārtikeya's day, commander of the divine host)",
+      "nakshatra": "Uttarāṣāḍhā (until 12:58 PM EDT) — the latter invincible one, Viśvedevas; then Śravaṇa — hearing, the ear of the Veda",
+      "yoga": "Gāṇḍa (until 8:45 PM EDT) — the knot, the obstruction; then Vṛddhi — growth, expansion",
+      "themes": [
+        "sannyasa",
+        "tyaga",
+        "kama",
+        "karma",
+        "ravivar",
+        "skanda-shashthi"
+      ],
+      "tags": [
+        "#ravivar",
+        "#shasthi",
+        "#skanda",
+        "#sannyasa",
+        "#tyaga"
+      ],
+      "yogaSutraConnection": "YS II.3",
+      "sankhyaConcepts": [
+        "Sunday as Sūrya-day — revelation of the distinction between sannyāsa and tyāga",
+        "Kāma as rāga in fruitive mode — attachment to fruit",
+        "Sannyāsa as surgical removal of rāga; tyāga as dissolution of dveṣa",
+        "Gāṇḍa→Vṛddhi: the knot untying into expansion (tamas→rajas→sattva)"
+      ],
+      "keyTerms": [
+        "kāmya",
+        "karma",
+        "nyāsa",
+        "sannyāsa",
+        "tyāga",
+        "vicakṣaṇa"
+      ]
+    },
+    {
       "date": "2026-11-16",
       "source": "BG 18.1",
       "chapter": 18,
@@ -276,5 +316,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-11-16"
+  "lastUpdated": "2026-11-15"
 }
