@@ -1,6 +1,47 @@
 {
   "verses": [
     {
+      "date": "2026-11-16",
+      "source": "BG 18.1",
+      "chapter": 18,
+      "verse": 1,
+      "text": "Bhagavad Gita",
+      "tithi": "Śukla Pakṣa Saptamī (until 5:49 PM EDT) → Aṣṭamī — the 7th→8th waxing phase, the mind approaching half-full",
+      "nakshatra": "Śravaṇa (until 3:46 PM EDT) — hearing, the ear of the Veda; then Dhaniṣṭhā — the drum, the rhythm of wealth",
+      "yoga": "Vṛddhi (until 9:23 PM EDT) — growth, expansion; then Dhruva — the fixed point, the pole star",
+      "themes": [
+        "moksha",
+        "sannyasa",
+        "tyaga",
+        "vrischika-sankranti",
+        "shravana",
+        "dhruva"
+      ],
+      "tags": [
+        "#somavar",
+        "#vrischika-sankranti",
+        "#moksha",
+        "#sannyasa",
+        "#tyaga"
+      ],
+      "yogaSutraConnection": "YS I.2",
+      "sankhyaConcepts": [
+        "Monday as manas-day — mind-stuff oscillating, receiving, reflecting",
+        "Arjuna's question as citta-vṛtti (doubt) seeking tattva (principle)",
+        "Vṛścika Saṅkrānti as alchemical fire transforming false identity",
+        "Śravaṇa→Dhaniṣṭhā: hearing becomes the beat that acts",
+        "Vṛddhi→Dhruva: expansion settles into the immovable point (pole star)"
+      ],
+      "keyTerms": [
+        "sannyāsa",
+        "tyāga",
+        "tattva",
+        "hṛṣīkeśa",
+        "keśi-niṣūdana",
+        "mahā-bāho"
+      ]
+    },
+    {
       "date": "2026-10-24",
       "source": "BG 16.1",
       "chapter": 16,
@@ -235,5 +276,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-10-24"
+  "lastUpdated": "2026-11-16"
 }
