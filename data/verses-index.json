@@ -1,6 +1,45 @@
 {
   "verses": [
     {
+      "date": "2026-11-17",
+      "source": "BG 18.3",
+      "chapter": 18,
+      "verse": 3,
+      "text": "Bhagavad Gita",
+      "tithi": "Śukla Pakṣa Aṣṭamī (until 7:35 PM EDT) → Navamī — Gopāṣṭamī (cow worship, sustainers of yajña)",
+      "nakshatra": "Dhaniṣṭhā (until 6:04 PM EDT) — the wealthiest, Vasus; then Śatabhiṣā — the hundred physicians, healing",
+      "yoga": "Dhruva (until 9:35 PM EDT) — the fixed point, pole star; then Vyāghāta — the tiger's strike",
+      "themes": [
+        "action vs renunciation",
+        "gopashtami",
+        "mangalvar",
+        "dhaniṣṭhā",
+        "śatabhiṣā"
+      ],
+      "tags": [
+        "#mangalvar",
+        "#gopashtami",
+        "#triviguna",
+        "#vyaghata",
+        "#dhruva"
+      ],
+      "yogaSutraConnection": "YS II.4",
+      "sankhyaConcepts": [
+        "Tuesday as Maṅgala-day — action cuts the false binary",
+        "Kāma as rājasic fruitive mode vs yajña as sāttvic action",
+        "Dhruva→Vyāghāta: fixed puruṣa watches prakṛti strike",
+        "Gopāṣṭamī — cows as sustainers of yajña, not objects"
+      ],
+      "keyTerms": [
+        "tyājya",
+        "doṣavat",
+        "manīṣiṇaḥ",
+        "yajña-dāna-tapaḥ-karma",
+        "vicakṣaṇa",
+        "apare"
+      ]
+    },
+    {
       "date": "2026-11-15",
       "source": "BG 18.2",
       "chapter": 18,
@@ -316,5 +355,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-11-15"
+  "lastUpdated": "2026-11-17"
 }
