@@ -1,6 +1,45 @@
 {
   "verses": [
     {
+      "date": "2026-11-18",
+      "source": "BG 18.5",
+      "chapter": 18,
+      "verse": 5,
+      "text": "Bhagavad Gita",
+      "tithi": "Śukla Pakṣa Navamī (until 8:36 PM EDT) → Daśamī — Akṣaya Navamī (the inexhaustible ninth)",
+      "nakshatra": "Śatabhiṣā (until 7:40 PM EDT) — the hundred physicians; then Pūrva Bhādrapadā — the fire that burns impurity",
+      "yoga": "Vyāghāta (until 9:12 PM EDT) — the tiger's strike; then Harṣaṇa — joy",
+      "themes": [
+        "akshaya-navami",
+        "yajna-dana-tapas",
+        "akshaya",
+        "budhavar",
+        "akshaya-navami"
+      ],
+      "tags": [
+        "#budhavar",
+        "#akshaya-navami",
+        "#triviguna",
+        "#vyaghata",
+        "#harshana"
+      ],
+      "yogaSutraConnection": "YS II.1",
+      "sankhyaConcepts": [
+        "Wednesday as Budha-day — discrimination (buddhi) discerns the three purifiers",
+        "Yajña, dāna, tapaḥ as the threefold kriyā-yoga (tapas, svādhyāya, īśvara-praṇidhāna)",
+        "Manīṣiṇām (the wise) are not exempt from purification",
+        "Akṣaya Navamī: the three purifiers are akṣaya (inexhaustible, self-renewing)"
+      ],
+      "keyTerms": [
+        "yajña",
+        "dāna",
+        "tapaḥ",
+        "kāryam",
+        "pāvanāni",
+        "manīṣiṇām"
+      ]
+    },
+    {
       "date": "2026-11-17",
       "source": "BG 18.3",
       "chapter": 18,
@@ -355,5 +394,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-11-17"
+  "lastUpdated": "2026-11-18"
 }
