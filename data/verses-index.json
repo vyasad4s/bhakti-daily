@@ -1,6 +1,44 @@
 {
   "verses": [
     {
+      "date": "2026-11-14",
+      "source": "BG 18.4",
+      "chapter": 18,
+      "verse": 4,
+      "text": "Bhagavad Gita",
+      "tithi": "Śukla Pakṣa Pañcamī (until 12:54 PM EDT) → Ṣaṣṭhī — Labh Pañcamī (the merchant's new ledger day)",
+      "nakshatra": "Pūrvāṣāḍhā (until 9:54 AM EDT) — the former invincible; then Uttarāṣāḍhā — the latter invincible",
+      "yoga": "Śūla (until 7:52 PM EDT) — the spear; then Gāṇḍa — the knot",
+      "themes": [
+        "niścaya",
+        "tyaga",
+        "threefold",
+        "shanivar",
+        "labh-panchami"
+      ],
+      "tags": [
+        "#shanivar",
+        "#labh-panchami",
+        "#trividha-tyaga",
+        "#niscaya",
+        "#shani"
+      ],
+      "yogaSutraConnection": "YS II.5",
+      "sankhyaConcepts": [
+        "Saturday as Śani-day — the planet that enforces the boundary between puruṣa and prakṛti",
+        "Threefold tyāga matching three guṇas: sāttvika, rājasika, tāmasika",
+        "Niścaya as viveka-khyāti (discriminative discernment) enforced by Saturn",
+        "Pūrvāṣāḍhā→Uttarāṣāḍhā: first victory yields to final victory"
+      ],
+      "keyTerms": [
+        "niścaya",
+        "tyāga",
+        "puruṣa-vyāghra",
+        "tri-vidha",
+        "samprakīrtita"
+      ]
+    },
+    {
       "date": "2026-11-18",
       "source": "BG 18.5",
       "chapter": 18,
@@ -394,5 +432,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-11-18"
+  "lastUpdated": "2026-11-14"
 }
