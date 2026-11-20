@@ -1,6 +1,45 @@
 {
   "verses": [
     {
+      "date": "2026-11-19",
+      "source": "BG 18.6",
+      "chapter": 18,
+      "verse": 6,
+      "text": "Bhagavad Gita",
+      "tithi": "Śukla Pakṣa Daśamī (until 8:45 PM EDT) → Ekādaśī — Kansa Vadh (the day Kṛṣṇa killed Kaṁsa, the tyrant's fall)",
+      "nakshatra": "Pūrva Bhādrapadā (until 8:26 PM EDT) — the former auspicious feet, the fire that burns; then Uttara Bhādrapadā — the latter auspicious feet, the water that cools",
+      "yoga": "Harṣaṇa (until 8:09 PM EDT) — joy, delight; then Vajra — the thunderbolt, the diamond, the indestructible",
+      "themes": [
+        "guru",
+        "kansa-vadh",
+        "nishkama-karma",
+        "ishvara-pranidhana"
+      ],
+      "tags": [
+        "#guruvār",
+        "#kansa-vadh",
+        "#triviguna",
+        "#vyaghata",
+        "#diamond"
+      ],
+      "yogaSutraConnection": "YS I.23",
+      "sankhyaConcepts": [
+        "Thursday as Guru-day — the Guru removes the false ruler (Kaṁsa) from the heart",
+        "Saṅga (attachment) as rāga binding puruṣa to prakṛti; phala as karma-phala binding to rebirth",
+        "Saṅgaṁ tyaktvā is surgical removal of rāga; phalāni ca tyaktvā removes dveṣa",
+        "Guru (Jupiter) is the heavy one who weighs and removes; Kansa Vadh is the false ruler's fall",
+        "Verse is Guru's final instruction: saṅgaṁ tyaktvā phalāni ca kartavyānīti"
+      ],
+      "keyTerms": [
+        "saṅga",
+        "phala",
+        "tyaktvā",
+        "kartavyam",
+        "niścitam",
+        "uttamam"
+      ]
+    },
+    {
       "date": "2026-11-14",
       "source": "BG 18.4",
       "chapter": 18,
@@ -432,5 +471,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-11-14"
+  "lastUpdated": "2026-11-19"
 }
