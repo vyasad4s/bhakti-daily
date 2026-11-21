@@ -1,6 +1,45 @@
 {
   "verses": [
     {
+      "date": "2026-11-20",
+      "source": "BG 18.7",
+      "chapter": 18,
+      "verse": 7,
+      "text": "Bhagavad Gita",
+      "tithi": "Śukla Pakṣa Ekādaśī (until 8:01 PM EDT) → Dvādaśī — Prabodhinī Ekādaśī (the awakening Ekādaśī, the Lord awakens from Cāturmāsya sleep)",
+      "nakshatra": "Uttara Bhādrapadā (until 8:20 PM EDT) — the latter auspicious feet, the water that heals; then Revatī — the final nakṣatra, the journey's end, the safe harbor",
+      "yoga": "Vajra (until 6:25 PM EDT) — the thunderbolt, the diamond, the indestructible; then Siddhi — accomplishment, perfection",
+      "themes": [
+        "prabodhini-ekadashi",
+        "moha",
+        "tyaga",
+        "tamasa",
+        "shukravara"
+      ],
+      "tags": [
+        "#shukravār",
+        "#prabodhini-ekadashi",
+        "#triviguna",
+        "#moha",
+        "#tamas"
+      ],
+      "yogaSutraConnection": "YS II.5",
+      "sankhyaConcepts": [
+        "Friday as Śukra-day — the planet of kāma (desire), the test of desire",
+        "Mohāt (from illusion) = avidyā; renouncing duty from illusion is avidyā in action",
+        "Tāmasika-tyāga: renunciation born of moha (illusion) is avidyā in action",
+        "Prabodhinī Ekādaśī: the awakening — the alarm that wakes from the dream of false renunciation"
+      ],
+      "keyTerms": [
+        "niyata",
+        "sannyāsa",
+        "nopapadyate",
+        "moha",
+        "tāmasa",
+        "prabodhinī"
+      ]
+    },
+    {
       "date": "2026-11-19",
       "source": "BG 18.6",
       "chapter": 18,
@@ -471,5 +510,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-11-19"
+  "lastUpdated": "2026-11-20"
 }
